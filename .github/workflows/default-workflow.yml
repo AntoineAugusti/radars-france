@@ -28,7 +28,7 @@ jobs:
       - name: Fetch data
         uses: nick-fields/retry@v2
         with:
-          timeout_seconds: 120
+          timeout_seconds: 600
           max_attempts: 5
           retry_on: error
           command: python main.py
