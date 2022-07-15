@@ -30,6 +30,9 @@ def do_request(url):
 radars = do_request(endpoint('all'))
 radars.raise_for_status()
 
+with open('data/___all___.json', 'w') as f:
+    f.write(json.dumps(radars.json()))
+
 for radar in radars.json():
     id = radar['id']
 

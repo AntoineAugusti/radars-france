@@ -1,0 +1,57 @@
+name: Python CI
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '0 23 * * 0'
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+            python-version: '3.10.4'
+            architecture: 'x64'
+      - name: Display Python version
+        run: python --version
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Cleanup data
+        shell: bash
+        run: |
+          CI_WORK_DIR=`pwd`
+          rm -rf "${CI_WORK_DIR}"/data/*
+      - name: Fetch data
+        uses: nick-fields/retry@v2
+        with:
+          timeout_seconds: 120
+          max_attempts: 5
+          retry_on: error
+          command: python main.py
+      - name: Clean data
+        shell: bash
+        run: python clean.py
+      - name: Set up the SSH key and the known_hosts file
+        uses: shimataro/ssh-key-action@v2.3.1
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          name: id_rsa
+          known_hosts: unnecessary
+          if_key_exists: fail
+      - name: Configure git
+        shell: bash
+        run: |
+          CI_WORK_DIR=`pwd`
+          TODAY=$(date "+%Y-%m-%d")
+          git config --global user.email "6849390+TheSnoozer@users.noreply.github.com"
+          git config --global user.name "GithubActions CI (via TheSnoozer)"
+
+          # Add files and commit
+          [[ -n $(git status --porcelain) ]] || (echo "Nothing to commit!" && exit 0)
+          git add data
+          git commit -m "Add data for ${TODAY}"
+          git push origin -o ci.skip -q
