@@ -31,7 +31,7 @@ radars = do_request(endpoint('all'))
 radars.raise_for_status()
 
 with open('data/___all___.json', 'w') as f:
-    f.write(json.dumps(radars.json()))
+    f.write(json.dumps(radars.json(), indent=4))
 
 for radar in radars.json():
     id = radar['id']
@@ -41,4 +41,4 @@ for radar in radars.json():
 
     path = 'data/{id}.json'.format(id=id)
     with open(path, 'w') as f:
-        f.write(json.dumps(r.json()))
+        f.write(json.dumps(r.json(), indent=4))
