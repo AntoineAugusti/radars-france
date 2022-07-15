@@ -3,6 +3,7 @@ import json
 import requests
 import urllib3
 
+from tqdm import tqdm
 from requests.adapters import HTTPAdapter
 
 # Disable InsecureRequestWarning: Unverified HTTPS request is being made to host
@@ -38,7 +39,7 @@ radars.raise_for_status()
 with open('data/___all___.json', 'w') as f:
     f.write(json.dumps(radars.json(), indent=4))
 
-for radar in radars.json():
+for radar in tqdm(radars.json()):
     id = radar['id']
 
     r = do_request(endpoint(id))
