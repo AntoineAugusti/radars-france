@@ -1,1 +1,111 @@
-{"radarDirection": [], "uid": [{"target_id": "1"}], "vid": "16886", "radarRoad": "RD137", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": {"lat": 45.75765, "lon": -0.661724}, "uuid": "6cb08b06-2dc7-4f13-99f2-2ac9b0d3aabb", "title": "I_17_001", "itineraireEntree": [], "revisionTimestamp": "1536150454", "department": "17 - Charente-Maritime", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "21.10.2016", "revisionUid": [{"target_id": "1"}], "radarTronconKm": "30,7", "radarEquipment": "-", "revisionTranslationAffected": "1", "nid": "16886", "radarPlace": [], "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": [], "rulesMesured": [], "created": "1536150454", "changed": "1536150526", "radarType": [{"parent": [], "csvValue": "Itin\u00e9raire", "changed": "1529311873", "description": "Sur toute la longueur de cet itin\u00e9raire, il peut y avoir de un \u00e0 plusieurs radars, de plusieurs types.\r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "itineraire", "weight": "0", "name": "Itin\u00e9raires", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/itineraire.png?itok=q35vSWWb", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/itineraire.png?itok=fbqDdyDI", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/itineraire.png?itok=FmHMtQc1", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "2173", "fileCreated": "1519114067", "fileName": "itineraire.png"}}], "tid": "19", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Itin\u00e9raire", "uuid": "6b6992f4-89c5-48e7-a623-8d9a0ce18836"}], "itineraireSortie": []}
+{
+    "nid": "22723",
+    "uuid": "6f18c418-e417-42e2-a393-a4d17bb8090b",
+    "vid": "22723",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229218",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "I_17_001",
+    "created": "1637229218",
+    "changed": "1637229218",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "17 - Charente-Maritime",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "-",
+    "radarEquipment": "-",
+    "radarGeolocalisation": "POINT (45.75791 -0.662241)",
+    "radarInstallDate": "2017-10-05T10:53:39",
+    "radarPlace": "-",
+    "radarRoad": "D215, D238, D127, D18, D137B4, D237, D119E3, A10, D122, D137B5, D124, D123E3, D118, D117, D237E3, , D128, D119, D137",
+    "radarTronconKm": "30.68",
+    "radarType": [
+        {
+            "tid": "19",
+            "uuid": "6b6992f4-89c5-48e7-a623-8d9a0ce18836",
+            "revisionId": "19",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Itin\u00e9raires",
+            "description": "Sur toute la longueur de cet itin\u00e9raire, il peut y avoir de un \u00e0 plusieurs radars, de plusieurs types.\r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1529311873",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": "Itin\u00e9raire",
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/itineraire.png?itok=woYb4FC_",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/itineraire.png?itok=s-IjhxwS",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/itineraire.png?itok=becOCQye",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "itineraire.png",
+                        "fileCreated": "1519114067",
+                        "fileSize": "2173",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "itineraire",
+            "radarNameDetails": "Itin\u00e9raire"
+        }
+    ],
+    "rulesMesured": [],
+    "traceItineraire": []
+}

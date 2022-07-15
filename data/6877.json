@@ -1,1 +1,184 @@
-{"radarDirection": "Dreux vers Creteil", "uid": [{"target_id": "1"}], "vid": "18592", "radarRoad": "A86", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": [], "uuid": "11f046fa-caeb-4e92-befb-93aa281bfcc9", "title": "6877", "itineraireEntree": [], "revisionTimestamp": "1541510749", "department": "78 - Yvelines", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "03.12.2007", "revisionUid": [{"target_id": "1"}], "radarTronconKm": [], "radarEquipment": "MORPHO", "revisionTranslationAffected": "1", "nid": "18592", "radarPlace": "VELIZY VILLACOUBLAY", "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": {"lat": 48.77981, "lon": 2.18948}, "rulesMesured": [{"parent": [], "changed": "1515154505", "ruleLabel": "Vitesse", "description": [{"value": null, "format": null}], "vid": [{"target_id": "rules"}], "langcode": "fr", "macineName": "vitesse_vl_110", "weight": "0", "name": "Vitesse VL 110", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/regles/vitesse-110.png?itok=qOpNaXy_", "width": "70", "height": "70"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/regles/vitesse-110.png?itok=5skROOlE", "width": "70", "height": "70"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-110.png?itok=RcuH7Xp3", "width": "70", "height": "70"}}, "infos": {"fileExtension": "png", "fileSize": "3254", "fileCreated": "1515154498", "fileName": "vitesse-110.png"}}], "tid": "9", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "uuid": "c673e4ce-5711-4539-8bcc-d32a1d6856fd"}], "created": "1541510749", "changed": "1541510749", "radarType": [{"parent": [], "csvValue": "Equipement Terrain Fixe", "changed": "1516024551", "description": "C'est le premier type de radar \u00e0 avoir \u00e9t\u00e9 install\u00e9. Il calcule la vitesse du v\u00e9hicule \u00e0 son passage instantan\u00e9ment. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>\r\n\r\n", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "fixes", "weight": "0", "name": "Fixes", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/fixe-v2.png?itok=Uu3Ld1Dr", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/fixe-v2.png?itok=HBotXgH_", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/fixe-v2.png?itok=gcomvbRo", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "11450", "fileCreated": "1516024549", "fileName": "fixe-v2.png"}}], "tid": "2", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Radar fixe", "uuid": "edeb3129-7171-4f20-9fdc-1a19e24d1726"}], "itineraireSortie": []}
+{
+    "nid": "20210",
+    "uuid": "89093e74-5e46-418c-99c1-ae890ad9b81d",
+    "vid": "20210",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229122",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "6877",
+    "created": "1637229122",
+    "changed": "1643183374",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "78-YVELINES",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "Dreux vers Creteil",
+    "radarEquipment": "MORPHO",
+    "radarGeolocalisation": "POINT (2.18948 48.77981)",
+    "radarInstallDate": "2007-12-03T08:49:36",
+    "radarPlace": "VELIZY VILLACOUBLAY",
+    "radarRoad": "A86",
+    "radarTronconKm": [],
+    "radarType": [
+        {
+            "tid": "2",
+            "uuid": "edeb3129-7171-4f20-9fdc-1a19e24d1726",
+            "revisionId": "2",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Fixes",
+            "description": "C'est le premier type de radar \u00e0 avoir \u00e9t\u00e9 install\u00e9. Il calcule la vitesse du v\u00e9hicule \u00e0 son passage instantan\u00e9ment. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>\r\n\r\n",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1642158442",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": [
+                {
+                    "value": "Equipement Terrain Fixe"
+                },
+                {
+                    "value": "Equipement Terrain Tourelle "
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/fixe-v2.png?itok=DHZKcwlK",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/fixe-v2.png?itok=SBZGx6GL",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/fixe-v2.png?itok=QWWSxxr6",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "fixe-v2.png",
+                        "fileCreated": "1516024549",
+                        "fileSize": "11450",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "fixes",
+            "radarNameDetails": "Radar fixe"
+        }
+    ],
+    "rulesMesured": [
+        {
+            "tid": "9",
+            "uuid": "c673e4ce-5711-4539-8bcc-d32a1d6856fd",
+            "revisionId": "9",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "rules"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse VL 110",
+            "description": [
+                {
+                    "value": null,
+                    "format": null
+                }
+            ],
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1515154505",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-110.png?itok=iZj59iDL",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-110.png?itok=Qk7wtqdk",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-110.png?itok=YBXoSYOr",
+                            "height": "70",
+                            "width": "70"
+                        }
+                    },
+                    "infos": {
+                        "fileName": "vitesse-110.png",
+                        "fileCreated": "1515154498",
+                        "fileSize": "3254",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "vitesse_vl_110",
+            "ruleLabel": "Vitesse"
+        }
+    ],
+    "traceItineraire": []
+}

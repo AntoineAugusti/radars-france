@@ -1,1 +1,184 @@
-{"radarDirection": "NANTERRE vers CRETEIL", "uid": [{"target_id": "1"}], "vid": "18216", "radarRoad": "A86", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": [], "uuid": "b27c8a21-0b47-4341-a679-55896addf467", "title": "5124", "itineraireEntree": [], "revisionTimestamp": "1541510708", "department": "78 - Yvelines", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "09.01.2011", "revisionUid": [{"target_id": "1"}], "radarTronconKm": [], "radarEquipment": "PARIFEX", "revisionTranslationAffected": "1", "nid": "18216", "radarPlace": "VERSAILLES", "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": {"lat": 48.81291, "lon": 2.15924}, "rulesMesured": [{"parent": [], "changed": "1515154422", "ruleLabel": "Vitesse", "description": [{"value": null, "format": null}], "vid": [{"target_id": "rules"}], "langcode": "fr", "macineName": "vitesse_vl_70", "weight": "0", "name": "Vitesse VL 70", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=K6KA8dmz", "width": "70", "height": "70"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=RZzVtIVn", "width": "70", "height": "70"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=dUKG8NT9", "width": "70", "height": "70"}}, "infos": {"fileExtension": "png", "fileSize": "3375", "fileCreated": "1515154374", "fileName": "vitesse-70.png"}}], "tid": "6", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab"}], "created": "1541510708", "changed": "1541510708", "radarType": [{"parent": [], "csvValue": "Equipement Terrain Fixe", "changed": "1516024551", "description": "C'est le premier type de radar \u00e0 avoir \u00e9t\u00e9 install\u00e9. Il calcule la vitesse du v\u00e9hicule \u00e0 son passage instantan\u00e9ment. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>\r\n\r\n", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "fixes", "weight": "0", "name": "Fixes", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/fixe-v2.png?itok=Uu3Ld1Dr", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/fixe-v2.png?itok=HBotXgH_", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/fixe-v2.png?itok=gcomvbRo", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "11450", "fileCreated": "1516024549", "fileName": "fixe-v2.png"}}], "tid": "2", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Radar fixe", "uuid": "edeb3129-7171-4f20-9fdc-1a19e24d1726"}], "itineraireSortie": []}
+{
+    "nid": "20099",
+    "uuid": "92880fce-9f62-4789-8b65-2d46276d99b8",
+    "vid": "20099",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229118",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "5124",
+    "created": "1637229118",
+    "changed": "1643183363",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "78-YVELINES",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "NANTERRE vers CRETEIL",
+    "radarEquipment": "PARIFEX",
+    "radarGeolocalisation": "POINT (2.15924 48.81291)",
+    "radarInstallDate": "2011-01-09T08:49:24",
+    "radarPlace": "VERSAILLES",
+    "radarRoad": "A86",
+    "radarTronconKm": [],
+    "radarType": [
+        {
+            "tid": "2",
+            "uuid": "edeb3129-7171-4f20-9fdc-1a19e24d1726",
+            "revisionId": "2",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Fixes",
+            "description": "C'est le premier type de radar \u00e0 avoir \u00e9t\u00e9 install\u00e9. Il calcule la vitesse du v\u00e9hicule \u00e0 son passage instantan\u00e9ment. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>\r\n\r\n",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1642158442",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": [
+                {
+                    "value": "Equipement Terrain Fixe"
+                },
+                {
+                    "value": "Equipement Terrain Tourelle "
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/fixe-v2.png?itok=DHZKcwlK",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/fixe-v2.png?itok=SBZGx6GL",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/fixe-v2.png?itok=QWWSxxr6",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "fixe-v2.png",
+                        "fileCreated": "1516024549",
+                        "fileSize": "11450",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "fixes",
+            "radarNameDetails": "Radar fixe"
+        }
+    ],
+    "rulesMesured": [
+        {
+            "tid": "6",
+            "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab",
+            "revisionId": "6",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "rules"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse VL 70",
+            "description": [
+                {
+                    "value": null,
+                    "format": null
+                }
+            ],
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1515154422",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=MwLJaTo3",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=Ysf5V2xf",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=g4VQHCOS",
+                            "height": "70",
+                            "width": "70"
+                        }
+                    },
+                    "infos": {
+                        "fileName": "vitesse-70.png",
+                        "fileCreated": "1515154374",
+                        "fileSize": "3375",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "vitesse_vl_70",
+            "ruleLabel": "Vitesse"
+        }
+    ],
+    "traceItineraire": []
+}

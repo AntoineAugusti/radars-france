@@ -1,1 +1,177 @@
-{"radarDirection": "BEDARIEUX vers BEZIERS", "uid": [{"target_id": "1"}], "vid": "16849", "radarRoad": "RD909", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": [], "uuid": "519bb9df-2101-45e5-a946-1984975a4f21", "title": "20162", "itineraireEntree": [], "revisionTimestamp": "1536150408", "department": "34 - H\u00e9rault", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "15.07.2014", "revisionUid": [{"target_id": "1"}], "radarTronconKm": "14,8", "radarEquipment": "MORPHO", "revisionTranslationAffected": "1", "nid": "16849", "radarPlace": "LIEURAN LES BEZIERS", "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": {"lat": 43.39902, "lon": 3.22885}, "rulesMesured": [{"parent": [], "changed": "1515154470", "ruleLabel": "Vitesse", "description": [{"value": null, "format": null}], "vid": [{"target_id": "rules"}], "langcode": "fr", "macineName": "vitesse_vl_80", "weight": "0", "name": "Vitesse VL 80", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/regles/vitesse-80.png?itok=bJ_0JhzZ", "width": "70", "height": "70"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/regles/vitesse-80.png?itok=8uYpKtYo", "width": "70", "height": "70"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-80.png?itok=UtdfHfgD", "width": "70", "height": "70"}}, "infos": {"fileExtension": "png", "fileSize": "4045", "fileCreated": "1515154465", "fileName": "vitesse-80.png"}}], "tid": "7", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "uuid": "c447707a-c428-4166-ac14-c667a8cdcb41"}], "created": "1536150408", "changed": "1536150408", "radarType": [{"parent": [], "csvValue": "Equipement Terrain Vitesse Moyenne", "changed": "1516021917", "description": "Contr\u00f4le la vitesse moyenne pratiqu\u00e9e par les usagers sur une portion de route de plusieurs kilom\u00e8tres entre deux points. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "troncons", "weight": "0", "name": "Vitesse Moyenne", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/troncons-details.png?itok=iLSrWHUl", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/troncons-details.png?itok=H_f97k6d", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/troncons-details.png?itok=--cbaIJm", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "3473", "fileCreated": "1516009500", "fileName": "troncons-details.png"}}], "tid": "18", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Radar Vitesse Moyenne", "uuid": "498b4953-97e0-49db-a7f9-83b0a9f9a219"}], "itineraireSortie": []}
+{
+    "nid": "22668",
+    "uuid": "16c0692e-3639-4193-95bf-cbe0fdf23994",
+    "vid": "22668",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229216",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "20162",
+    "created": "1637229216",
+    "changed": "1637229216",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "34-HERAULT",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "BEDARIEUX vers BEZIERS",
+    "radarEquipment": "MORPHO",
+    "radarGeolocalisation": "POINT (3.22885 43.39902)",
+    "radarInstallDate": "2014-07-15T10:53:37",
+    "radarPlace": "LIEURAN LES BEZIERS",
+    "radarRoad": "RD909",
+    "radarTronconKm": "14,8",
+    "radarType": [
+        {
+            "tid": "18",
+            "uuid": "498b4953-97e0-49db-a7f9-83b0a9f9a219",
+            "revisionId": "18",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse Moyenne",
+            "description": "Contr\u00f4le la vitesse moyenne pratiqu\u00e9e par les usagers sur une portion de route de plusieurs kilom\u00e8tres entre deux points. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1516021917",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": "Equipement Terrain Vitesse Moyenne",
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/troncons-details.png?itok=DN3zSYIU",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/troncons-details.png?itok=nMCPDTDd",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/troncons-details.png?itok=EdCZayd4",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "troncons-details.png",
+                        "fileCreated": "1516009500",
+                        "fileSize": "3473",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "troncons",
+            "radarNameDetails": "Radar Vitesse Moyenne"
+        }
+    ],
+    "rulesMesured": [
+        {
+            "tid": "8",
+            "uuid": "9202ddc3-ba6a-450b-bdbf-86b3582f0107",
+            "revisionId": "8",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "rules"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse VL 90",
+            "description": [
+                {
+                    "value": null,
+                    "format": null
+                }
+            ],
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1515154485",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-90.png?itok=W0JW7Fma",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-90.png?itok=NvEa8V-1",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-90.png?itok=b9OnBVQV",
+                            "height": "70",
+                            "width": "70"
+                        }
+                    },
+                    "infos": {
+                        "fileName": "vitesse-90.png",
+                        "fileCreated": "1515154481",
+                        "fileSize": "3523",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "vitesse_vl_90",
+            "ruleLabel": "Vitesse"
+        }
+    ],
+    "traceItineraire": []
+}

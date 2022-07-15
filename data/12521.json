@@ -1,1 +1,242 @@
-{"radarDirection": "MAULEON vers PARTHENAY", "uid": [{"target_id": "1"}], "vid": "17561", "radarRoad": "RN149", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": [], "uuid": "bef7896a-7b12-4796-b1bc-8484e645a541", "title": "12521", "itineraireEntree": [], "revisionTimestamp": "1541510647", "department": "79 - Deux-S\u00e8vres", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "21.08.2017", "revisionUid": [{"target_id": "1"}], "radarTronconKm": [], "radarEquipment": "PARIFEX", "revisionTranslationAffected": "1", "nid": "17561", "radarPlace": "BRESSUIRE", "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": {"lat": 46.827144, "lon": -0.423377}, "rulesMesured": [{"parent": [], "changed": "1515154422", "ruleLabel": "Vitesse", "description": [{"value": null, "format": null}], "vid": [{"target_id": "rules"}], "langcode": "fr", "macineName": "vitesse_vl_70", "weight": "0", "name": "Vitesse VL 70", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=K6KA8dmz", "width": "70", "height": "70"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=RZzVtIVn", "width": "70", "height": "70"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=dUKG8NT9", "width": "70", "height": "70"}}, "infos": {"fileExtension": "png", "fileSize": "3375", "fileCreated": "1515154374", "fileName": "vitesse-70.png"}}], "tid": "6", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab"}, {"parent": [], "changed": "1515154684", "ruleLabel": "Vitesse", "description": [{"value": null, "format": null}], "vid": [{"target_id": "rules"}], "langcode": "fr", "macineName": "vitesse_pl_70", "weight": "0", "name": "Vitesse PL 70", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/regles/vitesse-70_0.png?itok=0UQlet5J", "width": "70", "height": "70"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70_0.png?itok=7s7L1IwW", "width": "70", "height": "70"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70_0.png?itok=LZaZrheE", "width": "70", "height": "70"}}, "infos": {"fileExtension": "png", "fileSize": "3375", "fileCreated": "1515154671", "fileName": "vitesse-70.png"}}], "tid": "12", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "uuid": "e455f557-10f0-4062-a587-54b63db60d33"}], "created": "1541510647", "changed": "1541510647", "radarType": [{"parent": [], "csvValue": "Equipement Terrain Discriminant PL/VL", "changed": "1516021819", "description": "Cet \u00e9quipement est \u00e9quip\u00e9 de 3 modules permettant respectivement la mesure de la vitesse, la distinction V\u00e9hicule L\u00e9ger/Poids lourds et l'identification de la voie.\r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "discriminants", "weight": "0", "name": "Discriminants", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/discriminant.png?itok=nycNCDwS", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/discriminant.png?itok=sqxHz3p5", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/discriminant.png?itok=J4ug3tc7", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "8674", "fileCreated": "1515594993", "fileName": "discriminant.png"}}], "tid": "3", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Radar discriminant", "uuid": "2ef67b0f-5d48-4e2f-bdc2-e77b8ad3ccb9"}], "itineraireSortie": []}
+{
+    "nid": "21782",
+    "uuid": "b4ca31a0-76ce-4dcc-b97c-116d368964db",
+    "vid": "21782",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229171",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "12521",
+    "created": "1637229171",
+    "changed": "1643183654",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "79-DEUX-SEVRES",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "MAULEON vers PARTHENAY",
+    "radarEquipment": "PARIFEX",
+    "radarGeolocalisation": "POINT (-0.423377 46.827144)",
+    "radarInstallDate": "2017-08-21T08:54:19",
+    "radarPlace": "BRESSUIRE",
+    "radarRoad": "RN149",
+    "radarTronconKm": [],
+    "radarType": [
+        {
+            "tid": "3",
+            "uuid": "2ef67b0f-5d48-4e2f-bdc2-e77b8ad3ccb9",
+            "revisionId": "3",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Discriminants",
+            "description": "Cet \u00e9quipement est \u00e9quip\u00e9 de 3 modules permettant respectivement la mesure de la vitesse, la distinction V\u00e9hicule L\u00e9ger/Poids lourds et l'identification de la voie.\r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1516021819",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": "Equipement Terrain Discriminant PL/VL",
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/discriminant.png?itok=WA-3ZRZD",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/discriminant.png?itok=ZZgPrtsy",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/discriminant.png?itok=wxaCkiqd",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "discriminant.png",
+                        "fileCreated": "1515594993",
+                        "fileSize": "8674",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "discriminants",
+            "radarNameDetails": "Radar discriminant"
+        }
+    ],
+    "rulesMesured": [
+        {
+            "tid": "6",
+            "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab",
+            "revisionId": "6",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "rules"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse VL 70",
+            "description": [
+                {
+                    "value": null,
+                    "format": null
+                }
+            ],
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1515154422",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=MwLJaTo3",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=Ysf5V2xf",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=g4VQHCOS",
+                            "height": "70",
+                            "width": "70"
+                        }
+                    },
+                    "infos": {
+                        "fileName": "vitesse-70.png",
+                        "fileCreated": "1515154374",
+                        "fileSize": "3375",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "vitesse_vl_70",
+            "ruleLabel": "Vitesse"
+        },
+        {
+            "tid": "12",
+            "uuid": "e455f557-10f0-4062-a587-54b63db60d33",
+            "revisionId": "12",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "rules"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse PL 70",
+            "description": [
+                {
+                    "value": null,
+                    "format": null
+                }
+            ],
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1515154684",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-70_0.png?itok=aZgDxnSp",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70_0.png?itok=5XFl5VX3",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70_0.png?itok=39yGSn9o",
+                            "height": "70",
+                            "width": "70"
+                        }
+                    },
+                    "infos": {
+                        "fileName": "vitesse-70.png",
+                        "fileCreated": "1515154671",
+                        "fileSize": "3375",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "vitesse_pl_70",
+            "ruleLabel": "Vitesse"
+        }
+    ],
+    "traceItineraire": []
+}

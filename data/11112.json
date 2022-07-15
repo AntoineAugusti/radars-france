@@ -1,1 +1,184 @@
-{"radarDirection": "EVIAN LES BAINS vers GENEVE", "uid": [{"target_id": "1"}], "vid": "17022", "radarRoad": "RD1005", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": [], "uuid": "c6c75330-4b84-4afa-a494-3bd8ec447904", "title": "11112", "itineraireEntree": [], "revisionTimestamp": "1541510607", "department": "74 - Haute-Savoie", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "31.05.2012", "revisionUid": [{"target_id": "1"}], "radarTronconKm": [], "radarEquipment": "MORPHO", "revisionTranslationAffected": "1", "nid": "17022", "radarPlace": "ANTHY SUR LEMAN", "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": {"lat": 46.347, "lon": 6.4332}, "rulesMesured": [{"parent": [], "changed": "1515154485", "ruleLabel": "Vitesse", "description": [{"value": null, "format": null}], "vid": [{"target_id": "rules"}], "langcode": "fr", "macineName": "vitesse_vl_90", "weight": "0", "name": "Vitesse VL 90", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/regles/vitesse-90.png?itok=9ncHYPxj", "width": "70", "height": "70"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/regles/vitesse-90.png?itok=uov8nzZt", "width": "70", "height": "70"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-90.png?itok=bX4hYyvJ", "width": "70", "height": "70"}}, "infos": {"fileExtension": "png", "fileSize": "3523", "fileCreated": "1515154481", "fileName": "vitesse-90.png"}}], "tid": "8", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "uuid": "9202ddc3-ba6a-450b-bdbf-86b3582f0107"}], "created": "1541510607", "changed": "1541510607", "radarType": [{"parent": [], "csvValue": "Equipement Terrain Fixe", "changed": "1516024551", "description": "C'est le premier type de radar \u00e0 avoir \u00e9t\u00e9 install\u00e9. Il calcule la vitesse du v\u00e9hicule \u00e0 son passage instantan\u00e9ment. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>\r\n\r\n", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "fixes", "weight": "0", "name": "Fixes", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/fixe-v2.png?itok=Uu3Ld1Dr", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/fixe-v2.png?itok=HBotXgH_", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/fixe-v2.png?itok=gcomvbRo", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "11450", "fileCreated": "1516024549", "fileName": "fixe-v2.png"}}], "tid": "2", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Radar fixe", "uuid": "edeb3129-7171-4f20-9fdc-1a19e24d1726"}], "itineraireSortie": []}
+{
+    "nid": "20528",
+    "uuid": "26eb87e1-9a74-483f-a83c-c1c23c13801c",
+    "vid": "20528",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229132",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "11112",
+    "created": "1637229132",
+    "changed": "1643183413",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "74-HAUTE-SAVOIE",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "EVIAN LES BAINS vers GENEVE",
+    "radarEquipment": "MORPHO",
+    "radarGeolocalisation": "POINT (6.4332 46.347)",
+    "radarInstallDate": "2012-05-31T08:50:16",
+    "radarPlace": "ANTHY SUR LEMAN",
+    "radarRoad": "RD1005",
+    "radarTronconKm": [],
+    "radarType": [
+        {
+            "tid": "2",
+            "uuid": "edeb3129-7171-4f20-9fdc-1a19e24d1726",
+            "revisionId": "2",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Fixes",
+            "description": "C'est le premier type de radar \u00e0 avoir \u00e9t\u00e9 install\u00e9. Il calcule la vitesse du v\u00e9hicule \u00e0 son passage instantan\u00e9ment. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>\r\n\r\n",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1642158442",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": [
+                {
+                    "value": "Equipement Terrain Fixe"
+                },
+                {
+                    "value": "Equipement Terrain Tourelle "
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/fixe-v2.png?itok=DHZKcwlK",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/fixe-v2.png?itok=SBZGx6GL",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/fixe-v2.png?itok=QWWSxxr6",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "fixe-v2.png",
+                        "fileCreated": "1516024549",
+                        "fileSize": "11450",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "fixes",
+            "radarNameDetails": "Radar fixe"
+        }
+    ],
+    "rulesMesured": [
+        {
+            "tid": "8",
+            "uuid": "9202ddc3-ba6a-450b-bdbf-86b3582f0107",
+            "revisionId": "8",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "rules"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse VL 90",
+            "description": [
+                {
+                    "value": null,
+                    "format": null
+                }
+            ],
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1515154485",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-90.png?itok=W0JW7Fma",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-90.png?itok=NvEa8V-1",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-90.png?itok=b9OnBVQV",
+                            "height": "70",
+                            "width": "70"
+                        }
+                    },
+                    "infos": {
+                        "fileName": "vitesse-90.png",
+                        "fileCreated": "1515154481",
+                        "fileSize": "3523",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "vitesse_vl_90",
+            "ruleLabel": "Vitesse"
+        }
+    ],
+    "traceItineraire": []
+}

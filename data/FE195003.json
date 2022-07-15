@@ -1,1 +1,184 @@
-{"radarDirection": "Villiers-le-Bel vers Le Mesnil-Aubry", "uid": [{"target_id": "1"}], "vid": "16315", "radarRoad": "-", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": [], "uuid": "43b745df-4116-4c62-8ebc-e8a430baa491", "title": "FE195003", "itineraireEntree": [], "revisionTimestamp": "1536150291", "department": "95 - Val-d'Oise", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "05.02.2010", "revisionUid": [{"target_id": "1"}], "radarTronconKm": [], "radarEquipment": "FARECO", "revisionTranslationAffected": "1", "nid": "16315", "radarPlace": "ECOUEN", "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": {"lat": 49.02258, "lon": 2.3866}, "rulesMesured": [{"parent": [], "changed": "1515595989", "ruleLabel": "Franchissement", "description": [{"value": null, "format": null}], "vid": [{"target_id": "rules"}], "langcode": "fr", "macineName": "feux_infraction", "weight": "0", "name": "Franchissement de feux", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/regles/fran_feu.png?itok=v-M4Opj8", "width": "131", "height": "101"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/regles/fran_feu.png?itok=zX9fcL0p", "width": "131", "height": "101"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/regles/fran_feu.png?itok=lvT5EKD-", "width": 100, "height": 77}}, "infos": {"fileExtension": "png", "fileSize": "6531", "fileCreated": "1515595734", "fileName": "fran_feu.png"}}], "tid": "15", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "uuid": "fb6f2a2c-8283-4ca3-b549-2356bed09ad7"}], "created": "1536150291", "changed": "1541510897", "radarType": [{"parent": [], "csvValue": "ETFR", "changed": "1516021865", "description": "Ils sont install\u00e9s en milieux urbains denses afin d'assurer la protection des usagers les plus vuln\u00e9rables \u00e0 proximit\u00e9. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "feux", "weight": "0", "name": "Feux rouges", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/feu.png?itok=cDdkjtGL", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/feu.png?itok=soGXf0-1", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/feu.png?itok=9e-cqJXS", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "7226", "fileCreated": "1515594981", "fileName": "feu.png"}}], "tid": "1", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Radar feu rouge", "uuid": "2e8c9b81-b498-4fe9-99b2-24831fc63e0f"}], "itineraireSortie": []}
+{
+    "nid": "22177",
+    "uuid": "2976159a-070a-402c-902f-af36c6f825c1",
+    "vid": "22177",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229185",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "FE195003",
+    "created": "1637229185",
+    "changed": "1643183751",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "95-VAL-D'OISE",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "Villiers-le-Bel vers Le Mesnil-Aubry",
+    "radarEquipment": "FARECO",
+    "radarGeolocalisation": "POINT (2.3866 49.02258)",
+    "radarInstallDate": "2010-02-05T08:55:57",
+    "radarPlace": "ECOUEN",
+    "radarRoad": "-",
+    "radarTronconKm": [],
+    "radarType": [
+        {
+            "tid": "1",
+            "uuid": "2e8c9b81-b498-4fe9-99b2-24831fc63e0f",
+            "revisionId": "1",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Feux rouges",
+            "description": "Ils sont install\u00e9s en milieux urbains denses afin d'assurer la protection des usagers les plus vuln\u00e9rables \u00e0 proximit\u00e9. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1642158159",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": [
+                {
+                    "value": "ETFR"
+                },
+                {
+                    "value": "ETFR-Tourelle "
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/feu.png?itok=098NrQ2y",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/feu.png?itok=u1-obU0M",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/feu.png?itok=8k_8maYh",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "feu.png",
+                        "fileCreated": "1515594981",
+                        "fileSize": "7226",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "feux",
+            "radarNameDetails": "Radar feu rouge"
+        }
+    ],
+    "rulesMesured": [
+        {
+            "tid": "15",
+            "uuid": "fb6f2a2c-8283-4ca3-b549-2356bed09ad7",
+            "revisionId": "15",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "rules"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Franchissement de feux",
+            "description": [
+                {
+                    "value": null,
+                    "format": null
+                }
+            ],
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1515595989",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/regles/fran_feu.png?itok=WPFaiQgr",
+                            "height": "101",
+                            "width": "131"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/regles/fran_feu.png?itok=7JGe4QLB",
+                            "height": "101",
+                            "width": "131"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/fran_feu.png?itok=PWQwM61X",
+                            "height": 77,
+                            "width": 100
+                        }
+                    },
+                    "infos": {
+                        "fileName": "fran_feu.png",
+                        "fileCreated": "1515595734",
+                        "fileSize": "6531",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "feux_infraction",
+            "ruleLabel": "Franchissement"
+        }
+    ],
+    "traceItineraire": []
+}

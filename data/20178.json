@@ -1,1 +1,177 @@
-{"radarDirection": "La seyne sur Mer vers La valette du var", "uid": [{"target_id": "1"}], "vid": "16857", "radarRoad": "A50", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": [], "uuid": "f6dfd4c1-ad4d-4049-a293-296614ca3dcc", "title": "20178", "itineraireEntree": [], "revisionTimestamp": "1536150409", "department": "83 - Var", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "29.12.2014", "revisionUid": [{"target_id": "1"}], "radarTronconKm": "3,3", "radarEquipment": "MORPHO", "revisionTranslationAffected": "1", "nid": "16857", "radarPlace": "TOULON", "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": {"lat": 43.12053, "lon": 5.9509}, "rulesMesured": [{"parent": [], "changed": "1515154422", "ruleLabel": "Vitesse", "description": [{"value": null, "format": null}], "vid": [{"target_id": "rules"}], "langcode": "fr", "macineName": "vitesse_vl_70", "weight": "0", "name": "Vitesse VL 70", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=K6KA8dmz", "width": "70", "height": "70"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=RZzVtIVn", "width": "70", "height": "70"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=dUKG8NT9", "width": "70", "height": "70"}}, "infos": {"fileExtension": "png", "fileSize": "3375", "fileCreated": "1515154374", "fileName": "vitesse-70.png"}}], "tid": "6", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab"}], "created": "1536150409", "changed": "1536150409", "radarType": [{"parent": [], "csvValue": "Equipement Terrain Vitesse Moyenne", "changed": "1516021917", "description": "Contr\u00f4le la vitesse moyenne pratiqu\u00e9e par les usagers sur une portion de route de plusieurs kilom\u00e8tres entre deux points. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "troncons", "weight": "0", "name": "Vitesse Moyenne", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/troncons-details.png?itok=iLSrWHUl", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/troncons-details.png?itok=H_f97k6d", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/troncons-details.png?itok=--cbaIJm", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "3473", "fileCreated": "1516009500", "fileName": "troncons-details.png"}}], "tid": "18", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Radar Vitesse Moyenne", "uuid": "498b4953-97e0-49db-a7f9-83b0a9f9a219"}], "itineraireSortie": []}
+{
+    "nid": "22676",
+    "uuid": "1957edc4-ecb0-42f2-84b0-e23240545349",
+    "vid": "22676",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229217",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "20178",
+    "created": "1637229217",
+    "changed": "1637229217",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "83-VAR",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "La seyne sur Mer vers La valette du var",
+    "radarEquipment": "MORPHO",
+    "radarGeolocalisation": "POINT (5.9509 43.12053)",
+    "radarInstallDate": "2014-12-29T10:53:37",
+    "radarPlace": "TOULON",
+    "radarRoad": "A50",
+    "radarTronconKm": "3,3",
+    "radarType": [
+        {
+            "tid": "18",
+            "uuid": "498b4953-97e0-49db-a7f9-83b0a9f9a219",
+            "revisionId": "18",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse Moyenne",
+            "description": "Contr\u00f4le la vitesse moyenne pratiqu\u00e9e par les usagers sur une portion de route de plusieurs kilom\u00e8tres entre deux points. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1516021917",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": "Equipement Terrain Vitesse Moyenne",
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/troncons-details.png?itok=DN3zSYIU",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/troncons-details.png?itok=nMCPDTDd",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/troncons-details.png?itok=EdCZayd4",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "troncons-details.png",
+                        "fileCreated": "1516009500",
+                        "fileSize": "3473",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "troncons",
+            "radarNameDetails": "Radar Vitesse Moyenne"
+        }
+    ],
+    "rulesMesured": [
+        {
+            "tid": "5",
+            "uuid": "45e527ec-7c1f-4fd3-ad4e-fdf43bd3c688",
+            "revisionId": "5",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "rules"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse VL 50",
+            "description": [
+                {
+                    "value": null,
+                    "format": null
+                }
+            ],
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1515154429",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-50.png?itok=Tq7k-JhP",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-50.png?itok=WnbSkqJL",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-50.png?itok=E16zFtv9",
+                            "height": "70",
+                            "width": "70"
+                        }
+                    },
+                    "infos": {
+                        "fileName": "vitesse-50.png",
+                        "fileCreated": "1515154342",
+                        "fileSize": "3506",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "vitesse_vl_50",
+            "ruleLabel": "Vitesse"
+        }
+    ],
+    "traceItineraire": []
+}

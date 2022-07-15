@@ -1,1 +1,177 @@
-{"radarDirection": "Place de la patte d'oie vers le Bd Gabriel KOENIGS", "uid": [{"target_id": "1"}], "vid": "16607", "radarRoad": "-", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": [], "uuid": "e134a030-c056-45ff-9316-7d77073123d8", "title": "FE331501", "itineraireEntree": [], "revisionTimestamp": "1536150349", "department": "31 - Haute-Garonne", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "20.10.2015", "revisionUid": [{"target_id": "1"}], "radarTronconKm": [], "radarEquipment": "AXIMUM", "revisionTranslationAffected": "1", "nid": "16607", "radarPlace": "TOULOUSE", "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": {"lat": 43.59405, "lon": 1.42124}, "rulesMesured": [{"parent": [], "changed": "1515596055", "ruleLabel": "Franchissement", "description": [{"value": null, "format": null}], "vid": [{"target_id": "rules"}], "langcode": "fr", "macineName": "pn_infraction", "weight": "0", "name": "Franchissement de voie ferr\u00e9e", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/regles/rule_fran_pn.png?itok=9sC7OCYV", "width": "124", "height": "101"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/regles/rule_fran_pn.png?itok=yvMxLWCN", "width": "124", "height": "101"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/regles/rule_fran_pn.png?itok=O_O0wcdV", "width": 100, "height": 81}}, "infos": {"fileExtension": "png", "fileSize": "6022", "fileCreated": "1515596039", "fileName": "rule_fran_pn.png"}}], "tid": "17", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "uuid": "e0811242-e9f7-49ab-bd68-fe411652c943"}], "created": "1536150349", "changed": "1541510952", "radarType": [{"parent": [], "csvValue": "ETPN", "changed": "1516021881", "description": "Les radars passage \u00e0 niveau sont install\u00e9s sur les passages \u00e0 niveau prioritaires dont les crit\u00e8res sont d\u00e9finis en lien avec R\u00e9seau Ferr\u00e9 de France et la SNCF.\r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>\r\n", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "niveaux", "weight": "0", "name": "Passages \u00e0 niveau", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/passage-a-niveaux.png?itok=kSFhkX26", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/passage-a-niveaux.png?itok=-UFiTUYk", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/passage-a-niveaux.png?itok=yWf7OxB_", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "12620", "fileCreated": "1515594920", "fileName": "passage-a-niveaux.png"}}], "tid": "16", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Radar Passage \u00e0 Niveau", "uuid": "5a3ca3a9-2321-4c9c-8c91-b33178a050c4"}], "itineraireSortie": []}
+{
+    "nid": "22442",
+    "uuid": "6d903711-f164-4fbd-9f61-23815beea533",
+    "vid": "22442",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229197",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "FE331501",
+    "created": "1637229197",
+    "changed": "1643183822",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "31-HAUTE-GARONNE",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "Place de la patte d'oie vers le Bd Gabriel KOENIGS",
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (1.42124 43.59405)",
+    "radarInstallDate": "2015-10-20T08:57:09",
+    "radarPlace": "TOULOUSE",
+    "radarRoad": "-",
+    "radarTronconKm": [],
+    "radarType": [
+        {
+            "tid": "16",
+            "uuid": "5a3ca3a9-2321-4c9c-8c91-b33178a050c4",
+            "revisionId": "16",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Passages \u00e0 niveau",
+            "description": "Les radars passage \u00e0 niveau sont install\u00e9s sur les passages \u00e0 niveau prioritaires dont les crit\u00e8res sont d\u00e9finis en lien avec R\u00e9seau Ferr\u00e9 de France et la SNCF.\r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>\r\n",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1516021881",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": "ETPN",
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/passage-a-niveaux.png?itok=CeLHpf_5",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/passage-a-niveaux.png?itok=5FCy2VtF",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/passage-a-niveaux.png?itok=2rdleQAW",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "passage-a-niveaux.png",
+                        "fileCreated": "1515594920",
+                        "fileSize": "12620",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "niveaux",
+            "radarNameDetails": "Radar Passage \u00e0 Niveau"
+        }
+    ],
+    "rulesMesured": [
+        {
+            "tid": "17",
+            "uuid": "e0811242-e9f7-49ab-bd68-fe411652c943",
+            "revisionId": "17",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "rules"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Franchissement de voie ferr\u00e9e",
+            "description": [
+                {
+                    "value": null,
+                    "format": null
+                }
+            ],
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1515596055",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/regles/rule_fran_pn.png?itok=8B58l7Jn",
+                            "height": "101",
+                            "width": "124"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/regles/rule_fran_pn.png?itok=VJPYGXoz",
+                            "height": "101",
+                            "width": "124"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/rule_fran_pn.png?itok=g3eXpoOW",
+                            "height": 81,
+                            "width": 100
+                        }
+                    },
+                    "infos": {
+                        "fileName": "rule_fran_pn.png",
+                        "fileCreated": "1515596039",
+                        "fileSize": "6022",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "pn_infraction",
+            "ruleLabel": "Franchissement"
+        }
+    ],
+    "traceItineraire": []
+}

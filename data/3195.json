@@ -1,1 +1,118 @@
-{"radarDirection": "LAMENTIN VERS SCHOELCHER", "uid": [{"target_id": "1"}], "vid": "17750", "radarRoad": "RD41", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": [], "uuid": "7562097e-be06-476d-8183-d5ebf3303ff0", "title": "3195", "itineraireEntree": [], "revisionTimestamp": "1541510665", "department": "972 - Martinique", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "15.11.2005", "revisionUid": [{"target_id": "1"}], "radarTronconKm": [], "radarEquipment": "MORPHO", "revisionTranslationAffected": "1", "nid": "17750", "radarPlace": "FORT DE FRANCE", "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": {"lat": 14.61142, "lon": -61.06535}, "rulesMesured": [], "created": "1541510665", "changed": "1541510665", "radarType": [{"parent": [], "csvValue": "Equipement Terrain Fixe", "changed": "1516024551", "description": "C'est le premier type de radar \u00e0 avoir \u00e9t\u00e9 install\u00e9. Il calcule la vitesse du v\u00e9hicule \u00e0 son passage instantan\u00e9ment. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>\r\n\r\n", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "fixes", "weight": "0", "name": "Fixes", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/fixe-v2.png?itok=Uu3Ld1Dr", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/fixe-v2.png?itok=HBotXgH_", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/fixe-v2.png?itok=gcomvbRo", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "11450", "fileCreated": "1516024549", "fileName": "fixe-v2.png"}}], "tid": "2", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Radar fixe", "uuid": "edeb3129-7171-4f20-9fdc-1a19e24d1726"}], "itineraireSortie": []}
+{
+    "nid": "19911",
+    "uuid": "08303465-5913-4819-902f-3220d41dfe6a",
+    "vid": "19911",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229112",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "3195",
+    "created": "1637229112",
+    "changed": "1643183345",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "972-MARTINIQUE",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "LAMENTIN VERS SCHOELCHER",
+    "radarEquipment": "MORPHO",
+    "radarGeolocalisation": "POINT (-61.06535 14.61142)",
+    "radarInstallDate": "2005-11-15T08:49:05",
+    "radarPlace": "FORT DE FRANCE",
+    "radarRoad": "RD41",
+    "radarTronconKm": [],
+    "radarType": [
+        {
+            "tid": "2",
+            "uuid": "edeb3129-7171-4f20-9fdc-1a19e24d1726",
+            "revisionId": "2",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Fixes",
+            "description": "C'est le premier type de radar \u00e0 avoir \u00e9t\u00e9 install\u00e9. Il calcule la vitesse du v\u00e9hicule \u00e0 son passage instantan\u00e9ment. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>\r\n\r\n",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1642158442",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": [
+                {
+                    "value": "Equipement Terrain Fixe"
+                },
+                {
+                    "value": "Equipement Terrain Tourelle "
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/fixe-v2.png?itok=DHZKcwlK",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/fixe-v2.png?itok=SBZGx6GL",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/fixe-v2.png?itok=QWWSxxr6",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "fixe-v2.png",
+                        "fileCreated": "1516024549",
+                        "fileSize": "11450",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "fixes",
+            "radarNameDetails": "Radar fixe"
+        }
+    ],
+    "rulesMesured": [],
+    "traceItineraire": []
+}

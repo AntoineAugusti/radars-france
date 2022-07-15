@@ -1,1 +1,177 @@
-{"radarDirection": "NOAILLES vers BRIVE LA GAILLARDE", "uid": [{"target_id": "1"}], "vid": "16861", "radarRoad": "A20", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": [], "uuid": "010399bc-0754-4f22-813f-d83c99ca4c49", "title": "20185", "itineraireEntree": [], "revisionTimestamp": "1536150411", "department": "19 - Corr\u00e8ze", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "16.02.2015", "revisionUid": [{"target_id": "1"}], "radarTronconKm": "5", "radarEquipment": "MORPHO", "revisionTranslationAffected": "1", "nid": "16861", "radarPlace": "BRIVE LA GAILLARDE", "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": {"lat": 45.13998, "lon": 1.48905}, "rulesMesured": [{"parent": [], "changed": "1515154485", "ruleLabel": "Vitesse", "description": [{"value": null, "format": null}], "vid": [{"target_id": "rules"}], "langcode": "fr", "macineName": "vitesse_vl_90", "weight": "0", "name": "Vitesse VL 90", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/regles/vitesse-90.png?itok=9ncHYPxj", "width": "70", "height": "70"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/regles/vitesse-90.png?itok=uov8nzZt", "width": "70", "height": "70"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-90.png?itok=bX4hYyvJ", "width": "70", "height": "70"}}, "infos": {"fileExtension": "png", "fileSize": "3523", "fileCreated": "1515154481", "fileName": "vitesse-90.png"}}], "tid": "8", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "uuid": "9202ddc3-ba6a-450b-bdbf-86b3582f0107"}], "created": "1536150411", "changed": "1536150411", "radarType": [{"parent": [], "csvValue": "Equipement Terrain Vitesse Moyenne", "changed": "1516021917", "description": "Contr\u00f4le la vitesse moyenne pratiqu\u00e9e par les usagers sur une portion de route de plusieurs kilom\u00e8tres entre deux points. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "troncons", "weight": "0", "name": "Vitesse Moyenne", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/troncons-details.png?itok=iLSrWHUl", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/troncons-details.png?itok=H_f97k6d", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/troncons-details.png?itok=--cbaIJm", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "3473", "fileCreated": "1516009500", "fileName": "troncons-details.png"}}], "tid": "18", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Radar Vitesse Moyenne", "uuid": "498b4953-97e0-49db-a7f9-83b0a9f9a219"}], "itineraireSortie": []}
+{
+    "nid": "22680",
+    "uuid": "353953a3-9fbc-4792-892a-42f7c72a2d4e",
+    "vid": "22680",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229217",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "20185",
+    "created": "1637229217",
+    "changed": "1637229217",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "19-CORREZE",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "NOAILLES vers BRIVE LA GAILLARDE",
+    "radarEquipment": "MORPHO",
+    "radarGeolocalisation": "POINT (1.48905 45.13998)",
+    "radarInstallDate": "2015-02-16T10:53:38",
+    "radarPlace": "BRIVE LA GAILLARDE",
+    "radarRoad": "A20",
+    "radarTronconKm": "5",
+    "radarType": [
+        {
+            "tid": "18",
+            "uuid": "498b4953-97e0-49db-a7f9-83b0a9f9a219",
+            "revisionId": "18",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse Moyenne",
+            "description": "Contr\u00f4le la vitesse moyenne pratiqu\u00e9e par les usagers sur une portion de route de plusieurs kilom\u00e8tres entre deux points. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1516021917",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": "Equipement Terrain Vitesse Moyenne",
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/troncons-details.png?itok=DN3zSYIU",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/troncons-details.png?itok=nMCPDTDd",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/troncons-details.png?itok=EdCZayd4",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "troncons-details.png",
+                        "fileCreated": "1516009500",
+                        "fileSize": "3473",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "troncons",
+            "radarNameDetails": "Radar Vitesse Moyenne"
+        }
+    ],
+    "rulesMesured": [
+        {
+            "tid": "9",
+            "uuid": "c673e4ce-5711-4539-8bcc-d32a1d6856fd",
+            "revisionId": "9",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "rules"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse VL 110",
+            "description": [
+                {
+                    "value": null,
+                    "format": null
+                }
+            ],
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1515154505",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-110.png?itok=iZj59iDL",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-110.png?itok=Qk7wtqdk",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-110.png?itok=YBXoSYOr",
+                            "height": "70",
+                            "width": "70"
+                        }
+                    },
+                    "infos": {
+                        "fileName": "vitesse-110.png",
+                        "fileCreated": "1515154498",
+                        "fileSize": "3254",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "vitesse_vl_110",
+            "ruleLabel": "Vitesse"
+        }
+    ],
+    "traceItineraire": []
+}
