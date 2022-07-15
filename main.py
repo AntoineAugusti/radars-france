@@ -1,8 +1,13 @@
 # -*- coding: utf-8 -*-
 import json
 import requests
+import urllib3
 
 from requests.adapters import HTTPAdapter
+
+# Disable InsecureRequestWarning: Unverified HTTPS request is being made to host
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
 
 s = requests.Session()
 s.mount('http://stackoverflow.com', HTTPAdapter(max_retries=5))
