@@ -10,7 +10,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 s = requests.Session()
-s.mount('http://stackoverflow.com', HTTPAdapter(max_retries=5))
+s.mount('https://', HTTPAdapter(max_retries=5))
 
 
 def endpoint(part):
@@ -21,7 +21,7 @@ def endpoint(part):
 
 
 def do_request(url):
-    r = requests.get(
+    r = s.get(
         url,
         verify=False,
         headers={
