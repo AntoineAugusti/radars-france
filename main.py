@@ -33,6 +33,7 @@ def do_request(url):
 
     return r
 
+
 radars = do_request(endpoint('all'))
 radars.raise_for_status()
 

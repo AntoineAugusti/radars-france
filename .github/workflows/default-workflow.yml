@@ -49,9 +49,8 @@ jobs:
           TODAY=$(date "+%Y-%m-%d")
           git config --global user.email "6849390+TheSnoozer@users.noreply.github.com"
           git config --global user.name "GithubActions CI (via TheSnoozer)"
-
+          echo $TODAY > data/last_update
           # Add files and commit
-          [[ -n $(git status --porcelain) ]] || (echo "Nothing to commit!" && exit 0)
           git add data
           git commit -m "Add data for ${TODAY}"
           git push origin -o ci.skip -q
