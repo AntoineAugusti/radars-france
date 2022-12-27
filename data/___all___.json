@@ -6678,6 +6678,5886 @@
         "lng": 2.359291
     },
     {
+        "id": "50005",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.24172,
+        "lng": -61.48463
+    },
+    {
+        "id": "50007",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.25361,
+        "lng": -61.535
+    },
+    {
+        "id": "50008",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.01857,
+        "lng": -61.74695
+    },
+    {
+        "id": "50009",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 15.98802,
+        "lng": -61.72533
+    },
+    {
+        "id": "50010",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.2616,
+        "lng": -61.50051
+    },
+    {
+        "id": "50011",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.34226,
+        "lng": -61.45525
+    },
+    {
+        "id": "50015",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.24913,
+        "lng": -61.5397
+    },
+    {
+        "id": "50018",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.08011,
+        "lng": -61.76329
+    },
+    {
+        "id": "50020",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.28609,
+        "lng": -61.28784
+    },
+    {
+        "id": "50022",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.260363,
+        "lng": -61.627314
+    },
+    {
+        "id": "50023",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.31154,
+        "lng": -61.48647
+    },
+    {
+        "id": "50026",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.130857,
+        "lng": -61.579819
+    },
+    {
+        "id": "50028",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.208144,
+        "lng": -61.629509
+    },
+    {
+        "id": "50029",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.21689,
+        "lng": -61.48288
+    },
+    {
+        "id": "50030",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.2194,
+        "lng": -61.516
+    },
+    {
+        "id": "50031",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 15.98781,
+        "lng": -61.63508
+    },
+    {
+        "id": "50032",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.25552,
+        "lng": -61.27959
+    },
+    {
+        "id": "50033",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.25516,
+        "lng": -61.31477
+    },
+    {
+        "id": "50037",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 15.99034,
+        "lng": -61.68565
+    },
+    {
+        "id": "50051",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.096314,
+        "lng": -61.563125
+    },
+    {
+        "id": "50052",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.23313,
+        "lng": -61.5238
+    },
+    {
+        "id": "50054",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.210323,
+        "lng": -61.601964
+    },
+    {
+        "id": "50055",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.234572,
+        "lng": -61.589829
+    },
+    {
+        "id": "50060",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.24448,
+        "lng": -61.52398
+    },
+    {
+        "id": "50092",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 16.20756,
+        "lng": -61.4455
+    },
+    {
+        "id": "50235",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.496824,
+        "lng": -60.976771
+    },
+    {
+        "id": "50238",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.58724,
+        "lng": -60.981538
+    },
+    {
+        "id": "50239",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.59521,
+        "lng": -60.872771
+    },
+    {
+        "id": "50242",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.65762,
+        "lng": -61.1503
+    },
+    {
+        "id": "50243",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.664147,
+        "lng": -60.968178
+    },
+    {
+        "id": "50245",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.715262,
+        "lng": -60.948545
+    },
+    {
+        "id": "50246",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.74541,
+        "lng": -60.975426
+    },
+    {
+        "id": "50247",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.809403,
+        "lng": -61.020923
+    },
+    {
+        "id": "50258",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.527844,
+        "lng": -60.995136
+    },
+    {
+        "id": "50259",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.605264,
+        "lng": -61.002938
+    },
+    {
+        "id": "50260",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.604801,
+        "lng": -61.002991
+    },
+    {
+        "id": "50261",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.60869,
+        "lng": -61.04251
+    },
+    {
+        "id": "50280",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.656741,
+        "lng": -60.935182
+    },
+    {
+        "id": "50281",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.6958,
+        "lng": -60.9415
+    },
+    {
+        "id": "50284",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.76661,
+        "lng": -61.12295
+    },
+    {
+        "id": "50307",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.59663,
+        "lng": -60.99623
+    },
+    {
+        "id": "50308",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.633145,
+        "lng": -60.977647
+    },
+    {
+        "id": "50309",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.59217,
+        "lng": -60.98353
+    },
+    {
+        "id": "50310",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.608,
+        "lng": -61.04221
+    },
+    {
+        "id": "50311",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 14.63629,
+        "lng": -60.97747
+    },
+    {
+        "id": "50401",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -20.886717,
+        "lng": 55.488914
+    },
+    {
+        "id": "50403",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -21.302367,
+        "lng": 55.501305
+    },
+    {
+        "id": "50404",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -20.882277,
+        "lng": 55.463564
+    },
+    {
+        "id": "50405",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -20.88635,
+        "lng": 55.48366
+    },
+    {
+        "id": "50406",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -21.03179,
+        "lng": 55.25272
+    },
+    {
+        "id": "50407",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -21.06856,
+        "lng": 55.70466
+    },
+    {
+        "id": "50408",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -21.23431,
+        "lng": 55.30029
+    },
+    {
+        "id": "50409",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -21.33213,
+        "lng": 55.46488
+    },
+    {
+        "id": "50419",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -20.9569,
+        "lng": 55.6573
+    },
+    {
+        "id": "50420",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -21.30191,
+        "lng": 55.42568
+    },
+    {
+        "id": "50421",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -21.236908,
+        "lng": 55.313936
+    },
+    {
+        "id": "50422",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -21.3148,
+        "lng": 55.4401
+    },
+    {
+        "id": "50479",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": -20.90268,
+        "lng": 55.54945
+    },
+    {
+        "id": "51001",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.363062,
+        "lng": 6.123833
+    },
+    {
+        "id": "51002",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.38231,
+        "lng": 4.57778
+    },
+    {
+        "id": "51003",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.600522,
+        "lng": 4.232138
+    },
+    {
+        "id": "51004",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.39828,
+        "lng": 4.71808
+    },
+    {
+        "id": "51005",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.89061,
+        "lng": 4.63049
+    },
+    {
+        "id": "51006",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.22405,
+        "lng": 0.9473
+    },
+    {
+        "id": "51007",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.967693,
+        "lng": 0.933579
+    },
+    {
+        "id": "51008",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.10432,
+        "lng": 0.929737
+    },
+    {
+        "id": "51009",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.825966,
+        "lng": 1.011425
+    },
+    {
+        "id": "51010",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.576805,
+        "lng": 2.012493
+    },
+    {
+        "id": "51011",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.481523,
+        "lng": 0.765248
+    },
+    {
+        "id": "51012",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.369111,
+        "lng": 0.746502
+    },
+    {
+        "id": "51013",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.282976,
+        "lng": -2.311952
+    },
+    {
+        "id": "51014",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.203363,
+        "lng": -1.622706
+    },
+    {
+        "id": "51015",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.638267,
+        "lng": -1.985132
+    },
+    {
+        "id": "51016",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.163266,
+        "lng": 2.12795
+    },
+    {
+        "id": "51017",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.897559,
+        "lng": 2.279703
+    },
+    {
+        "id": "51018",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.022269,
+        "lng": 1.96654
+    },
+    {
+        "id": "51019",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.01632,
+        "lng": 2.110277
+    },
+    {
+        "id": "51020",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.940248,
+        "lng": 2.356094
+    },
+    {
+        "id": "51021",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.084022,
+        "lng": 2.529935
+    },
+    {
+        "id": "51022",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.146022,
+        "lng": -0.293951
+    },
+    {
+        "id": "51023",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.721241,
+        "lng": 6.305224
+    },
+    {
+        "id": "51024",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.795687,
+        "lng": 6.402158
+    },
+    {
+        "id": "51025",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.62455,
+        "lng": 6.205723
+    },
+    {
+        "id": "51026",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.316491,
+        "lng": 5.741033
+    },
+    {
+        "id": "51027",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.722639,
+        "lng": 2.698663
+    },
+    {
+        "id": "51028",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.456025,
+        "lng": 2.604879
+    },
+    {
+        "id": "51029",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.692508,
+        "lng": 3.187243
+    },
+    {
+        "id": "51030",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.770279,
+        "lng": 1.985089
+    },
+    {
+        "id": "51032",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.945376,
+        "lng": 2.061219
+    },
+    {
+        "id": "51033",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.970045,
+        "lng": 2.405889
+    },
+    {
+        "id": "51034",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.9715,
+        "lng": 2.544932
+    },
+    {
+        "id": "51035",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.754039,
+        "lng": -1.097273
+    },
+    {
+        "id": "51036",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.670675,
+        "lng": -1.45903
+    },
+    {
+        "id": "51037",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.799091,
+        "lng": -1.44719
+    },
+    {
+        "id": "51039",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.981945,
+        "lng": 2.752887
+    },
+    {
+        "id": "51040",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.561972,
+        "lng": 1.305444
+    },
+    {
+        "id": "51041",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.549722,
+        "lng": 3.620533
+    },
+    {
+        "id": "51042",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.085543,
+        "lng": 0.574047
+    },
+    {
+        "id": "51043",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.01144,
+        "lng": 1.328722
+    },
+    {
+        "id": "51044",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.996099,
+        "lng": 2.508743
+    },
+    {
+        "id": "51045",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.736161,
+        "lng": 2.362512
+    },
+    {
+        "id": "51046",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.963419,
+        "lng": 5.642628
+    },
+    {
+        "id": "51047",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.03731,
+        "lng": 5.402872
+    },
+    {
+        "id": "51048",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.857508,
+        "lng": 5.36933
+    },
+    {
+        "id": "51049",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.646529,
+        "lng": 4.871766
+    },
+    {
+        "id": "51050",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.036297,
+        "lng": 3.252408
+    },
+    {
+        "id": "51051",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.987196,
+        "lng": 3.917941
+    },
+    {
+        "id": "51052",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.837727,
+        "lng": -3.340261
+    },
+    {
+        "id": "51053",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.616234,
+        "lng": -2.015265
+    },
+    {
+        "id": "51054",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.170004,
+        "lng": -2.619712
+    },
+    {
+        "id": "51055",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.281269,
+        "lng": 1.850355
+    },
+    {
+        "id": "51056",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.360707,
+        "lng": 1.768839
+    },
+    {
+        "id": "51057",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.87138,
+        "lng": 2.737628
+    },
+    {
+        "id": "51058",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.641195,
+        "lng": 2.580796
+    },
+    {
+        "id": "51059",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.794923,
+        "lng": 2.437363
+    },
+    {
+        "id": "51060",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.540291,
+        "lng": 1.281467
+    },
+    {
+        "id": "51061",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.649487,
+        "lng": 1.444083
+    },
+    {
+        "id": "51062",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.885761,
+        "lng": 0.930593
+    },
+    {
+        "id": "51063",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.294033,
+        "lng": 2.212425
+    },
+    {
+        "id": "51064",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.079121,
+        "lng": 2.298532
+    },
+    {
+        "id": "51065",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 50.06921,
+        "lng": 2.323364
+    },
+    {
+        "id": "51066",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.987071,
+        "lng": 2.113931
+    },
+    {
+        "id": "51067",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.599559,
+        "lng": 2.970228
+    },
+    {
+        "id": "51068",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.141868,
+        "lng": 2.539706
+    },
+    {
+        "id": "51069",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.107847,
+        "lng": 5.077994
+    },
+    {
+        "id": "51070",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.762665,
+        "lng": -2.736907
+    },
+    {
+        "id": "51071",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.839249,
+        "lng": 3.474709
+    },
+    {
+        "id": "51072",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.556177,
+        "lng": -2.395726
+    },
+    {
+        "id": "51073",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.603306,
+        "lng": 2.32083
+    },
+    {
+        "id": "51074",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.020599,
+        "lng": -1.814665
+    },
+    {
+        "id": "51075",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.674316,
+        "lng": 1.328694
+    },
+    {
+        "id": "51076",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.045818,
+        "lng": -1.630363
+    },
+    {
+        "id": "51077",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.059021,
+        "lng": -1.791385
+    },
+    {
+        "id": "51078",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.689106,
+        "lng": 0.669449
+    },
+    {
+        "id": "51079",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.471857,
+        "lng": 4.669973
+    },
+    {
+        "id": "51080",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.170001,
+        "lng": 0.578827
+    },
+    {
+        "id": "51081",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.114322,
+        "lng": 0.345687
+    },
+    {
+        "id": "51082",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.671984,
+        "lng": 6.923822
+    },
+    {
+        "id": "51083",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.587108,
+        "lng": -0.291599
+    },
+    {
+        "id": "51084",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.785428,
+        "lng": 0.664265
+    },
+    {
+        "id": "51085",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.565157,
+        "lng": 6.927857
+    },
+    {
+        "id": "51086",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.37637,
+        "lng": 4.862027
+    },
+    {
+        "id": "51087",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.161935,
+        "lng": 4.199394
+    },
+    {
+        "id": "51088",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.580913,
+        "lng": -0.408428
+    },
+    {
+        "id": "51089",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.327402,
+        "lng": -1.099823
+    },
+    {
+        "id": "51090",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.022738,
+        "lng": -1.195666
+    },
+    {
+        "id": "51091",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.368179,
+        "lng": 4.557394
+    },
+    {
+        "id": "51092",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.563478,
+        "lng": -0.708854
+    },
+    {
+        "id": "51093",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.807575,
+        "lng": -0.562458
+    },
+    {
+        "id": "51094",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.340888,
+        "lng": 0.758801
+    },
+    {
+        "id": "51095",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.763807,
+        "lng": 4.5854
+    },
+    {
+        "id": "51096",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.55722,
+        "lng": 4.940732
+    },
+    {
+        "id": "51097",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.824424,
+        "lng": 4.367908
+    },
+    {
+        "id": "51098",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.82011,
+        "lng": 1.732103
+    },
+    {
+        "id": "51099",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.77983,
+        "lng": 3.052633
+    },
+    {
+        "id": "51100",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.362353,
+        "lng": 0.441016
+    },
+    {
+        "id": "51101",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.460595,
+        "lng": -2.076577
+    },
+    {
+        "id": "51102",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.716081,
+        "lng": 0.862831
+    },
+    {
+        "id": "51103",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.266024,
+        "lng": 2.456052
+    },
+    {
+        "id": "51104",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.682256,
+        "lng": 0.8037
+    },
+    {
+        "id": "51105",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.836181,
+        "lng": 7.918737
+    },
+    {
+        "id": "51106",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.964603,
+        "lng": 3.813087
+    },
+    {
+        "id": "51107",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.408353,
+        "lng": 4.368647
+    },
+    {
+        "id": "51108",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.863158,
+        "lng": 7.700858
+    },
+    {
+        "id": "51109",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.145559,
+        "lng": 2.679875
+    },
+    {
+        "id": "51110",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.232082,
+        "lng": 0.104168
+    },
+    {
+        "id": "51111",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.566734,
+        "lng": 0.956813
+    },
+    {
+        "id": "51112",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.171336,
+        "lng": 3.2612
+    },
+    {
+        "id": "51113",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.665377,
+        "lng": 2.339855
+    },
+    {
+        "id": "51114",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.9957,
+        "lng": 1.931496
+    },
+    {
+        "id": "51115",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.019351,
+        "lng": 1.610821
+    },
+    {
+        "id": "51116",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.291326,
+        "lng": 0.809702
+    },
+    {
+        "id": "51117",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.226461,
+        "lng": 0.754489
+    },
+    {
+        "id": "51118",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.908651,
+        "lng": -0.997671
+    },
+    {
+        "id": "51119",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.428209,
+        "lng": -0.835622
+    },
+    {
+        "id": "51120",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.65887,
+        "lng": -1.816938
+    },
+    {
+        "id": "51121",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.599404,
+        "lng": 7.385392
+    },
+    {
+        "id": "51122",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.401925,
+        "lng": 0.86879
+    },
+    {
+        "id": "51123",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.154674,
+        "lng": 0.722231
+    },
+    {
+        "id": "51124",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.640155,
+        "lng": 7.807838
+    },
+    {
+        "id": "51125",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.472298,
+        "lng": -0.175322
+    },
+    {
+        "id": "51126",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.452793,
+        "lng": 7.71673
+    },
+    {
+        "id": "51127",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.534874,
+        "lng": -0.077482
+    },
+    {
+        "id": "51128",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.25378,
+        "lng": -1.520972
+    },
+    {
+        "id": "51129",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.552329,
+        "lng": 6.014143
+    },
+    {
+        "id": "51130",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.335377,
+        "lng": 1.384338
+    },
+    {
+        "id": "51131",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.963108,
+        "lng": 3.728609
+    },
+    {
+        "id": "51132",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.97211,
+        "lng": 2.090438
+    },
+    {
+        "id": "51133",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.942542,
+        "lng": 2.123953
+    },
+    {
+        "id": "51134",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.989768,
+        "lng": 1.846032
+    },
+    {
+        "id": "51135",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.920362,
+        "lng": 4.018639
+    },
+    {
+        "id": "51136",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.402008,
+        "lng": 6.283412
+    },
+    {
+        "id": "51137",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.518705,
+        "lng": -1.432076
+    },
+    {
+        "id": "51138",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.256067,
+        "lng": -0.13309
+    },
+    {
+        "id": "51139",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.877848,
+        "lng": 3.593981
+    },
+    {
+        "id": "51140",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.177072,
+        "lng": 1.271833
+    },
+    {
+        "id": "51141",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.23808,
+        "lng": 4.44
+    },
+    {
+        "id": "51142",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.861017,
+        "lng": 7.462815
+    },
+    {
+        "id": "51143",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.499886,
+        "lng": -2.951411
+    },
+    {
+        "id": "51144",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.066497,
+        "lng": 3.811309
+    },
+    {
+        "id": "51145",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.068564,
+        "lng": 1.236447
+    },
+    {
+        "id": "51146",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.38175,
+        "lng": 2.619439
+    },
+    {
+        "id": "51147",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.220886,
+        "lng": 1.645147
+    },
+    {
+        "id": "51148",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.57091,
+        "lng": 3.782027
+    },
+    {
+        "id": "51149",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.51505,
+        "lng": 0.994715
+    },
+    {
+        "id": "51150",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.923149,
+        "lng": -1.886588
+    },
+    {
+        "id": "51151",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.487656,
+        "lng": -0.898579
+    },
+    {
+        "id": "51152",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.002964,
+        "lng": -1.151521
+    },
+    {
+        "id": "51153",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.336446,
+        "lng": 0.919989
+    },
+    {
+        "id": "51154",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.352998,
+        "lng": 5.862701
+    },
+    {
+        "id": "51155",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.47488,
+        "lng": -1.074161
+    },
+    {
+        "id": "51156",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.629229,
+        "lng": 7.209705
+    },
+    {
+        "id": "51157",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.644683,
+        "lng": 1.28401
+    },
+    {
+        "id": "51158",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.864399,
+        "lng": 1.935635
+    },
+    {
+        "id": "51159",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.86329,
+        "lng": 1.971511
+    },
+    {
+        "id": "51160",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.974854,
+        "lng": 2.73875
+    },
+    {
+        "id": "51161",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.239631,
+        "lng": -0.188739
+    },
+    {
+        "id": "51162",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.529774,
+        "lng": 1.317324
+    },
+    {
+        "id": "51163",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.286396,
+        "lng": 3.956241
+    },
+    {
+        "id": "51164",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.05195,
+        "lng": 1.429908
+    },
+    {
+        "id": "51165",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.494651,
+        "lng": 1.694792
+    },
+    {
+        "id": "51166",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.846425,
+        "lng": 1.534733
+    },
+    {
+        "id": "51167",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.268916,
+        "lng": 7.321013
+    },
+    {
+        "id": "51168",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.747995,
+        "lng": 7.11765
+    },
+    {
+        "id": "51169",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.802022,
+        "lng": 5.575895
+    },
+    {
+        "id": "51170",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.495203,
+        "lng": 1.684884
+    },
+    {
+        "id": "51171",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.054206,
+        "lng": 3.73144
+    },
+    {
+        "id": "51172",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.859164,
+        "lng": -1.809982
+    },
+    {
+        "id": "51173",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.329804,
+        "lng": 1.696772
+    },
+    {
+        "id": "51174",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.424428,
+        "lng": -1.450238
+    },
+    {
+        "id": "51175",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 50.418405,
+        "lng": 2.413996
+    },
+    {
+        "id": "51176",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.147187,
+        "lng": 5.383376
+    },
+    {
+        "id": "51177",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.261405,
+        "lng": 4.085178
+    },
+    {
+        "id": "51178",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.227529,
+        "lng": 6.518401
+    },
+    {
+        "id": "51179",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.840783,
+        "lng": -1.720915
+    },
+    {
+        "id": "51180",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.385356,
+        "lng": 1.259784
+    },
+    {
+        "id": "51181",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.520505,
+        "lng": 4.810169
+    },
+    {
+        "id": "51182",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.802911,
+        "lng": 0.315505
+    },
+    {
+        "id": "51183",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.050064,
+        "lng": -0.86747
+    },
+    {
+        "id": "51184",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.554309,
+        "lng": 0.435647
+    },
+    {
+        "id": "51185",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.618422,
+        "lng": 3.459102
+    },
+    {
+        "id": "51186",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.945512,
+        "lng": 3.121233
+    },
+    {
+        "id": "51187",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 50.461908,
+        "lng": 2.894868
+    },
+    {
+        "id": "51188",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.544756,
+        "lng": -1.914274
+    },
+    {
+        "id": "51189",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.60191,
+        "lng": 7.649848
+    },
+    {
+        "id": "51190",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.989348,
+        "lng": 3.258549
+    },
+    {
+        "id": "51191",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.816397,
+        "lng": 5.497677
+    },
+    {
+        "id": "51192",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.886362,
+        "lng": -0.238231
+    },
+    {
+        "id": "51194",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.893315,
+        "lng": 3.910781
+    },
+    {
+        "id": "51195",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.838324,
+        "lng": 3.284178
+    },
+    {
+        "id": "51196",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.835802,
+        "lng": 7.341602
+    },
+    {
+        "id": "51197",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.916159,
+        "lng": 0.824828
+    },
+    {
+        "id": "51198",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.397047,
+        "lng": 3.174093
+    },
+    {
+        "id": "51199",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.242516,
+        "lng": 3.699671
+    },
+    {
+        "id": "51200",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.443143,
+        "lng": 1.957466
+    },
+    {
+        "id": "51201",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.543172,
+        "lng": 6.508859
+    },
+    {
+        "id": "51202",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.152362,
+        "lng": 6.564044
+    },
+    {
+        "id": "51203",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.648851,
+        "lng": 2.752146
+    },
+    {
+        "id": "51205",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.285145,
+        "lng": 5.487235
+    },
+    {
+        "id": "51206",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.158616,
+        "lng": 0.646876
+    },
+    {
+        "id": "51207",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.607133,
+        "lng": 3.504562
+    },
+    {
+        "id": "51208",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.999464,
+        "lng": 1.538539
+    },
+    {
+        "id": "51210",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 50.253413,
+        "lng": 3.162564
+    },
+    {
+        "id": "51211",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 50.254136,
+        "lng": 1.661584
+    },
+    {
+        "id": "51212",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.1959,
+        "lng": 6.046958
+    },
+    {
+        "id": "51214",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.062079,
+        "lng": -1.302181
+    },
+    {
+        "id": "51215",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.343074,
+        "lng": -1.221384
+    },
+    {
+        "id": "51216",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.054215,
+        "lng": 1.9597
+    },
+    {
+        "id": "51217",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.703273,
+        "lng": 5.939364
+    },
+    {
+        "id": "51218",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.711803,
+        "lng": 6.522589
+    },
+    {
+        "id": "51219",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.647381,
+        "lng": -1.902344
+    },
+    {
+        "id": "51220",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.389372,
+        "lng": 2.055002
+    },
+    {
+        "id": "51221",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.662669,
+        "lng": 6.375459
+    },
+    {
+        "id": "51222",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.088679,
+        "lng": 2.415471
+    },
+    {
+        "id": "51223",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.685545,
+        "lng": 6.107895
+    },
+    {
+        "id": "51224",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.794388,
+        "lng": 2.864322
+    },
+    {
+        "id": "51225",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.020768,
+        "lng": -0.096186
+    },
+    {
+        "id": "51226",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.484515,
+        "lng": 5.113142
+    },
+    {
+        "id": "51227",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.658535,
+        "lng": 6.364061
+    },
+    {
+        "id": "51229",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.904858,
+        "lng": -3.996853
+    },
+    {
+        "id": "51231",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.969834,
+        "lng": -3.959823
+    },
+    {
+        "id": "51232",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.223201,
+        "lng": 2.611601
+    },
+    {
+        "id": "51233",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.534243,
+        "lng": 4.376005
+    },
+    {
+        "id": "51234",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.416314,
+        "lng": 2.420211
+    },
+    {
+        "id": "51235",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.162193,
+        "lng": 4.011483
+    },
+    {
+        "id": "51236",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.614278,
+        "lng": -0.766068
+    },
+    {
+        "id": "51237",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.844838,
+        "lng": 3.418052
+    },
+    {
+        "id": "51238",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.958685,
+        "lng": 2.97644
+    },
+    {
+        "id": "51239",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.656218,
+        "lng": 4.88655
+    },
+    {
+        "id": "51240",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.675369,
+        "lng": 5.092511
+    },
+    {
+        "id": "51241",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.764821,
+        "lng": -3.079707
+    },
+    {
+        "id": "51242",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.611819,
+        "lng": -1.039448
+    },
+    {
+        "id": "51243",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.070678,
+        "lng": -0.901965
+    },
+    {
+        "id": "51244",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.846424,
+        "lng": 7.207202
+    },
+    {
+        "id": "51245",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.467291,
+        "lng": 6.097632
+    },
+    {
+        "id": "51246",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.993506,
+        "lng": 2.169022
+    },
+    {
+        "id": "51248",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.204714,
+        "lng": 2.319611
+    },
+    {
+        "id": "51249",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.719194,
+        "lng": -1.673457
+    },
+    {
+        "id": "51250",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.530024,
+        "lng": -0.420395
+    },
+    {
+        "id": "51251",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.928604,
+        "lng": -1.261893
+    },
+    {
+        "id": "51252",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.78429,
+        "lng": 5.19624
+    },
+    {
+        "id": "51253",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.615584,
+        "lng": -1.355113
+    },
+    {
+        "id": "51254",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.640378,
+        "lng": 6.90494
+    },
+    {
+        "id": "51256",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.722508,
+        "lng": 6.877833
+    },
+    {
+        "id": "51257",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.748866,
+        "lng": 5.120951
+    },
+    {
+        "id": "51258",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.18153,
+        "lng": 0.227022
+    },
+    {
+        "id": "51259",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.48862,
+        "lng": -0.509512
+    },
+    {
+        "id": "51260",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.800175,
+        "lng": -1.523602
+    },
+    {
+        "id": "51261",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.012063,
+        "lng": 2.727598
+    },
+    {
+        "id": "51262",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.01314,
+        "lng": 2.722533
+    },
+    {
+        "id": "51263",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.917714,
+        "lng": 5.240145
+    },
+    {
+        "id": "51264",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.65226,
+        "lng": 0.761
+    },
+    {
+        "id": "51265",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.911861,
+        "lng": -0.489098
+    },
+    {
+        "id": "51267",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.457419,
+        "lng": 0.546958
+    },
+    {
+        "id": "51268",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.840292,
+        "lng": -0.987786
+    },
+    {
+        "id": "51269",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.922373,
+        "lng": 7.108285
+    },
+    {
+        "id": "51270",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.69803,
+        "lng": 3.270358
+    },
+    {
+        "id": "51271",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.863192,
+        "lng": 4.629589
+    },
+    {
+        "id": "51272",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.812743,
+        "lng": 6.36378
+    },
+    {
+        "id": "51273",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.812857,
+        "lng": 6.363665
+    },
+    {
+        "id": "51274",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.283775,
+        "lng": 6.821357
+    },
+    {
+        "id": "51275",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.132307,
+        "lng": 6.558547
+    },
+    {
+        "id": "51276",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.465136,
+        "lng": 6.702792
+    },
+    {
+        "id": "51277",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.978893,
+        "lng": 6.441604
+    },
+    {
+        "id": "51278",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.743056,
+        "lng": 2.014745
+    },
+    {
+        "id": "51279",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.94735,
+        "lng": 4.36043
+    },
+    {
+        "id": "51280",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.142314,
+        "lng": 6.37561
+    },
+    {
+        "id": "51281",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.483614,
+        "lng": 0.767494
+    },
+    {
+        "id": "51282",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.437343,
+        "lng": 5.110995
+    },
+    {
+        "id": "51283",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.078801,
+        "lng": 6.787159
+    },
+    {
+        "id": "51284",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.222135,
+        "lng": 5.961589
+    },
+    {
+        "id": "51285",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.743296,
+        "lng": 0.85396
+    },
+    {
+        "id": "51286",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.632641,
+        "lng": 1.256907
+    },
+    {
+        "id": "51287",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.274769,
+        "lng": -1.151327
+    },
+    {
+        "id": "51288",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.542907,
+        "lng": 1.546044
+    },
+    {
+        "id": "51289",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.44132,
+        "lng": 5.87551
+    },
+    {
+        "id": "51290",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.173073,
+        "lng": 5.495417
+    },
+    {
+        "id": "51291",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.385123,
+        "lng": 6.944089
+    },
+    {
+        "id": "51292",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.241622,
+        "lng": -3.336902
+    },
+    {
+        "id": "51293",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.560403,
+        "lng": 0.609798
+    },
+    {
+        "id": "51294",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.698486,
+        "lng": -1.350469
+    },
+    {
+        "id": "51295",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.719662,
+        "lng": 3.534204
+    },
+    {
+        "id": "51296",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.938251,
+        "lng": 3.244199
+    },
+    {
+        "id": "51297",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.645602,
+        "lng": -3.005312
+    },
+    {
+        "id": "51298",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.101444,
+        "lng": -2.262687
+    },
+    {
+        "id": "51299",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.176793,
+        "lng": -0.514998
+    },
+    {
+        "id": "51300",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.743353,
+        "lng": 2.677186
+    },
+    {
+        "id": "51301",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.331726,
+        "lng": 6.365523
+    },
+    {
+        "id": "51302",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.433976,
+        "lng": -1.827675
+    },
+    {
+        "id": "51303",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.791485,
+        "lng": 1.597762
+    },
+    {
+        "id": "51304",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.977075,
+        "lng": 2.069324
+    },
+    {
+        "id": "51305",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.295995,
+        "lng": 2.78398
+    },
+    {
+        "id": "51306",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.114258,
+        "lng": 2.611661
+    },
+    {
+        "id": "51307",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.003139,
+        "lng": -0.048771
+    },
+    {
+        "id": "51308",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.746216,
+        "lng": 0.98941
+    },
+    {
+        "id": "51309",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.194601,
+        "lng": -1.625194
+    },
+    {
+        "id": "51310",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.35365,
+        "lng": -1.254716
+    },
+    {
+        "id": "51312",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.959867,
+        "lng": 5.273529
+    },
+    {
+        "id": "51313",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.787705,
+        "lng": -3.453169
+    },
+    {
+        "id": "51314",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.97565,
+        "lng": 1.16756
+    },
+    {
+        "id": "51315",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.204557,
+        "lng": 1.864966
+    },
+    {
+        "id": "51316",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.402358,
+        "lng": 2.970817
+    },
+    {
+        "id": "51317",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.396919,
+        "lng": 3.06283
+    },
+    {
+        "id": "51319",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.592024,
+        "lng": 3.003742
+    },
+    {
+        "id": "51320",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.402859,
+        "lng": 3.011194
+    },
+    {
+        "id": "51321",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.392154,
+        "lng": 2.798191
+    },
+    {
+        "id": "51325",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.243374,
+        "lng": 2.495768
+    },
+    {
+        "id": "51326",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.204642,
+        "lng": 2.630713
+    },
+    {
+        "id": "51328",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.630205,
+        "lng": 2.359971
+    },
+    {
+        "id": "51330",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.490743,
+        "lng": 2.312582
+    },
+    {
+        "id": "51333",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.315373,
+        "lng": 2.738204
+    },
+    {
+        "id": "51334",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.122743,
+        "lng": 2.533166
+    },
+    {
+        "id": "51335",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.226934,
+        "lng": 2.348665
+    },
+    {
+        "id": "51336",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.226053,
+        "lng": 2.765501
+    },
+    {
+        "id": "51337",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.117928,
+        "lng": 3.064488
+    },
+    {
+        "id": "51338",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.198061,
+        "lng": 2.846526
+    },
+    {
+        "id": "51339",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.234973,
+        "lng": 2.856629
+    },
+    {
+        "id": "51341",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.235132,
+        "lng": 2.987522
+    },
+    {
+        "id": "51342",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.111055,
+        "lng": 2.60511
+    },
+    {
+        "id": "51343",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.242445,
+        "lng": 2.129476
+    },
+    {
+        "id": "51346",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.354681,
+        "lng": 2.17671
+    },
+    {
+        "id": "51347",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.604913,
+        "lng": 2.720967
+    },
+    {
+        "id": "51348",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.434799,
+        "lng": 2.642583
+    },
+    {
+        "id": "51350",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.565818,
+        "lng": 6.276614
+    },
+    {
+        "id": "51351",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.004992,
+        "lng": 0.370729
+    },
+    {
+        "id": "51352",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.91678,
+        "lng": 0.073195
+    },
+    {
+        "id": "51353",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.580283,
+        "lng": 0.730021
+    },
+    {
+        "id": "51354",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.305176,
+        "lng": 2.50864
+    },
+    {
+        "id": "51355",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.918051,
+        "lng": 3.713036
+    },
+    {
+        "id": "51356",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.403242,
+        "lng": 2.669548
+    },
+    {
+        "id": "51357",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.998681,
+        "lng": 4.797964
+    },
+    {
+        "id": "51358",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.935249,
+        "lng": 4.669236
+    },
+    {
+        "id": "51359",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.051931,
+        "lng": 6.648888
+    },
+    {
+        "id": "51360",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.586077,
+        "lng": -1.90817
+    },
+    {
+        "id": "51361",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.981997,
+        "lng": 1.601011
+    },
+    {
+        "id": "51365",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.214644,
+        "lng": 1.59325
+    },
+    {
+        "id": "51366",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.397167,
+        "lng": 2.124968
+    },
+    {
+        "id": "51368",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.381252,
+        "lng": 0.767416
+    },
+    {
+        "id": "51369",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.447281,
+        "lng": 0.613059
+    },
+    {
+        "id": "51370",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.454849,
+        "lng": -2.648904
+    },
+    {
+        "id": "51371",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.461039,
+        "lng": 3.896049
+    },
+    {
+        "id": "51372",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.512258,
+        "lng": 3.840141
+    },
+    {
+        "id": "51373",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.23639,
+        "lng": 3.980107
+    },
+    {
+        "id": "51374",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.719,
+        "lng": -1.40957
+    },
+    {
+        "id": "51376",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.983066,
+        "lng": 2.362558
+    },
+    {
+        "id": "51377",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.493629,
+        "lng": 3.885719
+    },
+    {
+        "id": "51378",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.966957,
+        "lng": 6.549284
+    },
+    {
+        "id": "51379",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.86836,
+        "lng": 5.716326
+    },
+    {
+        "id": "51380",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.923728,
+        "lng": 6.038174
+    },
+    {
+        "id": "51385",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.622068,
+        "lng": -2.897014
+    },
+    {
+        "id": "51386",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.16919,
+        "lng": 1.75875
+    },
+    {
+        "id": "51387",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.517695,
+        "lng": 3.753013
+    },
+    {
+        "id": "51388",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.392438,
+        "lng": 2.207859
+    },
+    {
+        "id": "51389",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.23847,
+        "lng": 6.067102
+    },
+    {
+        "id": "51391",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.254427,
+        "lng": -1.522285
+    },
+    {
+        "id": "51392",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.535375,
+        "lng": 2.947051
+    },
+    {
+        "id": "51393",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.293395,
+        "lng": 2.570495
+    },
+    {
+        "id": "51394",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.674682,
+        "lng": 1.910639
+    },
+    {
+        "id": "51395",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.086391,
+        "lng": -3.55019
+    },
+    {
+        "id": "51396",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.313731,
+        "lng": -3.148665
+    },
+    {
+        "id": "51398",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.196946,
+        "lng": 6.173395
+    },
+    {
+        "id": "51399",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.418385,
+        "lng": -0.008779
+    },
+    {
+        "id": "51400",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.421872,
+        "lng": -1.297381
+    },
+    {
+        "id": "51401",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.640497,
+        "lng": 6.253813
+    },
+    {
+        "id": "51402",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.508427,
+        "lng": 2.016528
+    },
+    {
+        "id": "51403",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.562244,
+        "lng": 1.911258
+    },
+    {
+        "id": "51404",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.432336,
+        "lng": 2.043956
+    },
+    {
+        "id": "51406",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.129494,
+        "lng": 6.569194
+    },
+    {
+        "id": "51408",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.725181,
+        "lng": 3.837921
+    },
+    {
+        "id": "51409",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.134441,
+        "lng": 1.340886
+    },
+    {
+        "id": "51410",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.140137,
+        "lng": 0.652221
+    },
+    {
+        "id": "51411",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.75802,
+        "lng": 7.35231
+    },
+    {
+        "id": "51412",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.86337,
+        "lng": -2.81939
+    },
+    {
+        "id": "51413",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.739729,
+        "lng": -2.438225
+    },
+    {
+        "id": "51415",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.380434,
+        "lng": -2.494375
+    },
+    {
+        "id": "51416",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.317395,
+        "lng": 1.774467
+    },
+    {
+        "id": "51417",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.489933,
+        "lng": -1.737007
+    },
+    {
+        "id": "51420",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.77442,
+        "lng": 2.150212
+    },
+    {
+        "id": "51421",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.53231,
+        "lng": 0.83987
+    },
+    {
+        "id": "51422",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 50.533493,
+        "lng": 2.605234
+    },
+    {
+        "id": "51424",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 48.138589,
+        "lng": 5.050104
+    },
+    {
+        "id": "51427",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.680722,
+        "lng": 3.057832
+    },
+    {
+        "id": "51428",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.469401,
+        "lng": 0.950324
+    },
+    {
+        "id": "51429",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 49.665077,
+        "lng": 1.812756
+    },
+    {
+        "id": "51431",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 50.213211,
+        "lng": 2.559376
+    },
+    {
+        "id": "55000",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.211165,
+        "lng": -1.260575
+    },
+    {
+        "id": "55001",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.28697,
+        "lng": 5.42486
+    },
+    {
+        "id": "55002",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.844571,
+        "lng": -0.50204
+    },
+    {
+        "id": "55003",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.120768,
+        "lng": -1.035872
+    },
+    {
+        "id": "55004",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.060822,
+        "lng": -0.939524
+    },
+    {
+        "id": "55005",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.775194,
+        "lng": -0.695512
+    },
+    {
+        "id": "55006",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.690327,
+        "lng": -1.024006
+    },
+    {
+        "id": "55007",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.57312,
+        "lng": -0.7602
+    },
+    {
+        "id": "55008",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.104264,
+        "lng": 0.836593
+    },
+    {
+        "id": "55010",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.172394,
+        "lng": 3.524655
+    },
+    {
+        "id": "55011",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.123921,
+        "lng": 3.707258
+    },
+    {
+        "id": "55012",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.147426,
+        "lng": 3.503579
+    },
+    {
+        "id": "55013",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.14216,
+        "lng": 3.92018
+    },
+    {
+        "id": "55014",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.209832,
+        "lng": 3.817237
+    },
+    {
+        "id": "55015",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.347279,
+        "lng": 0.107304
+    },
+    {
+        "id": "55016",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.430941,
+        "lng": 0.9781
+    },
+    {
+        "id": "55017",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.984131,
+        "lng": 3.184067
+    },
+    {
+        "id": "55018",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.937912,
+        "lng": 3.342008
+    },
+    {
+        "id": "55019",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.766571,
+        "lng": 3.14858
+    },
+    {
+        "id": "55020",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.858913,
+        "lng": 2.926745
+    },
+    {
+        "id": "55021",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.031722,
+        "lng": 3.07987
+    },
+    {
+        "id": "55022",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.762487,
+        "lng": 3.119246
+    },
+    {
+        "id": "55023",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.308444,
+        "lng": -1.357057
+    },
+    {
+        "id": "55024",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.239133,
+        "lng": -0.265683
+    },
+    {
+        "id": "55025",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.52602,
+        "lng": 6.18964
+    },
+    {
+        "id": "55026",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.533508,
+        "lng": 6.123925
+    },
+    {
+        "id": "55027",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.50463,
+        "lng": 6.306556
+    },
+    {
+        "id": "55028",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.461352,
+        "lng": 5.811667
+    },
+    {
+        "id": "55029",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.77706,
+        "lng": 5.94337
+    },
+    {
+        "id": "55030",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.703531,
+        "lng": 5.784344
+    },
+    {
+        "id": "55031",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.914775,
+        "lng": 6.082399
+    },
+    {
+        "id": "55032",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.766087,
+        "lng": 6.248274
+    },
+    {
+        "id": "55033",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.00177,
+        "lng": 6.005227
+    },
+    {
+        "id": "55034",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.782304,
+        "lng": 1.988357
+    },
+    {
+        "id": "55035",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.5664,
+        "lng": 1.896611
+    },
+    {
+        "id": "55036",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.587475,
+        "lng": 1.7993
+    },
+    {
+        "id": "55037",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.066723,
+        "lng": 1.417131
+    },
+    {
+        "id": "55038",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.169067,
+        "lng": 1.580964
+    },
+    {
+        "id": "55039",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.102876,
+        "lng": 1.463144
+    },
+    {
+        "id": "55040",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.954595,
+        "lng": 1.205954
+    },
+    {
+        "id": "55041",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.894251,
+        "lng": 1.305459
+    },
+    {
+        "id": "55042",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.164169,
+        "lng": 0.960131
+    },
+    {
+        "id": "55043",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.051692,
+        "lng": 1.118455
+    },
+    {
+        "id": "55044",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.767661,
+        "lng": 1.291192
+    },
+    {
+        "id": "55045",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.891697,
+        "lng": 1.255308
+    },
+    {
+        "id": "55046",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.171567,
+        "lng": 0.950086
+    },
+    {
+        "id": "55047",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.092215,
+        "lng": 0.838483
+    },
+    {
+        "id": "55048",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.814624,
+        "lng": 1.253863
+    },
+    {
+        "id": "55049",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.141804,
+        "lng": 2.297964
+    },
+    {
+        "id": "55050",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.127427,
+        "lng": 3.060141
+    },
+    {
+        "id": "55051",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.306661,
+        "lng": 3.442378
+    },
+    {
+        "id": "55052",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.494099,
+        "lng": 3.776113
+    },
+    {
+        "id": "55053",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.38266,
+        "lng": 3.306284
+    },
+    {
+        "id": "55054",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.322637,
+        "lng": 3.088369
+    },
+    {
+        "id": "55055",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.423819,
+        "lng": 3.55176
+    },
+    {
+        "id": "55056",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.423819,
+        "lng": 3.700058
+    },
+    {
+        "id": "55057",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.906332,
+        "lng": 3.000034
+    },
+    {
+        "id": "55058",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.083293,
+        "lng": 2.943681
+    },
+    {
+        "id": "55059",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.142412,
+        "lng": 3.051038
+    },
+    {
+        "id": "55060",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.785324,
+        "lng": 4.925768
+    },
+    {
+        "id": "55061",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.675504,
+        "lng": 5.092602
+    },
+    {
+        "id": "55062",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.846771,
+        "lng": 4.930531
+    },
+    {
+        "id": "55063",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.530969,
+        "lng": 4.959883
+    },
+    {
+        "id": "55064",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.542804,
+        "lng": 4.955922
+    },
+    {
+        "id": "55065",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.405139,
+        "lng": 5.2829
+    },
+    {
+        "id": "55066",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.195577,
+        "lng": 4.133771
+    },
+    {
+        "id": "55067",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.706106,
+        "lng": 4.560633
+    },
+    {
+        "id": "55068",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.887223,
+        "lng": 4.50051
+    },
+    {
+        "id": "55069",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.701228,
+        "lng": 4.450751
+    },
+    {
+        "id": "55070",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.775638,
+        "lng": 4.336144
+    },
+    {
+        "id": "55071",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.745847,
+        "lng": 4.300589
+    },
+    {
+        "id": "55072",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.561504,
+        "lng": 4.14378
+    },
+    {
+        "id": "55073",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.368879,
+        "lng": 4.306248
+    },
+    {
+        "id": "55074",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.29283,
+        "lng": 4.619286
+    },
+    {
+        "id": "55075",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.738268,
+        "lng": 4.094343
+    },
+    {
+        "id": "55076",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.713257,
+        "lng": 3.830981
+    },
+    {
+        "id": "55077",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.661114,
+        "lng": 3.450678
+    },
+    {
+        "id": "55078",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.89678,
+        "lng": 5.830689
+    },
+    {
+        "id": "55079",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.076341,
+        "lng": 6.019879
+    },
+    {
+        "id": "55080",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.260291,
+        "lng": 5.863888
+    },
+    {
+        "id": "55081",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.857556,
+        "lng": 5.832163
+    },
+    {
+        "id": "55082",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.488191,
+        "lng": 3.344849
+    },
+    {
+        "id": "55083",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.318184,
+        "lng": 2.622072
+    },
+    {
+        "id": "55084",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.25451,
+        "lng": 3.284604
+    },
+    {
+        "id": "55085",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.418158,
+        "lng": -0.191801
+    },
+    {
+        "id": "55086",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.873703,
+        "lng": -0.358785
+    },
+    {
+        "id": "55087",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 47.026481,
+        "lng": -0.19585
+    },
+    {
+        "id": "55088",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.663737,
+        "lng": -0.613368
+    },
+    {
+        "id": "55089",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.12084,
+        "lng": -0.2389
+    },
+    {
+        "id": "55090",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.593969,
+        "lng": -0.21562
+    },
+    {
+        "id": "55091",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.917393,
+        "lng": -0.196315
+    },
+    {
+        "id": "55092",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.624462,
+        "lng": -0.329954
+    },
+    {
+        "id": "55093",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.793916,
+        "lng": -0.866622
+    },
+    {
+        "id": "55094",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.663564,
+        "lng": -0.384264
+    },
+    {
+        "id": "55095",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.023593,
+        "lng": -0.154871
+    },
+    {
+        "id": "55096",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.983219,
+        "lng": -0.409646
+    },
+    {
+        "id": "55097",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.11609,
+        "lng": 5.99328
+    },
+    {
+        "id": "55098",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.57262,
+        "lng": 4.62361
+    },
+    {
+        "id": "55099",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.44755,
+        "lng": 4.6846
+    },
+    {
+        "id": "55100",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.941169,
+        "lng": 4.786779
+    },
+    {
+        "id": "55101",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.306,
+        "lng": 2.9186
+    },
+    {
+        "id": "55102",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.53641,
+        "lng": 5.19178
+    },
+    {
+        "id": "55103",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.42639,
+        "lng": 4.97056
+    },
+    {
+        "id": "55104",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.6549,
+        "lng": 5.49348
+    },
+    {
+        "id": "55105",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.72219,
+        "lng": 4.65024
+    },
+    {
+        "id": "55106",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.473122,
+        "lng": 2.860783
+    },
+    {
+        "id": "55107",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.42333,
+        "lng": 3.74408
+    },
+    {
+        "id": "55109",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.6804,
+        "lng": 3.8214
+    },
+    {
+        "id": "55110",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.827277,
+        "lng": 3.315718
+    },
+    {
+        "id": "55111",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.78758,
+        "lng": 3.87394
+    },
+    {
+        "id": "55112",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.20592,
+        "lng": 0.52788
+    },
+    {
+        "id": "55113",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.382215,
+        "lng": 0.829531
+    },
+    {
+        "id": "55114",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.17174,
+        "lng": 0.69377
+    },
+    {
+        "id": "55115",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.310262,
+        "lng": 0.715947
+    },
+    {
+        "id": "55116",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.621,
+        "lng": 0.3585
+    },
+    {
+        "id": "55117",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.07858,
+        "lng": 0.36688
+    },
+    {
+        "id": "55118",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.129,
+        "lng": 0.548
+    },
+    {
+        "id": "55119",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.2589,
+        "lng": 0.35346
+    },
+    {
+        "id": "55120",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.39854,
+        "lng": 0.72234
+    },
+    {
+        "id": "55121",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.434,
+        "lng": 0.262
+    },
+    {
+        "id": "55122",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.28001,
+        "lng": 3.78204
+    },
+    {
+        "id": "55123",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.49302,
+        "lng": 6.48663
+    },
+    {
+        "id": "55124",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.88561,
+        "lng": 4.94633
+    },
+    {
+        "id": "55125",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.757,
+        "lng": 5.1467
+    },
+    {
+        "id": "55126",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.86528,
+        "lng": 4.99709
+    },
+    {
+        "id": "55127",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.92197,
+        "lng": 4.80944
+    },
+    {
+        "id": "55128",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.971445,
+        "lng": 5.019848
+    },
+    {
+        "id": "55129",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.27574,
+        "lng": 6.07178
+    },
+    {
+        "id": "55130",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.16257,
+        "lng": 4.56157
+    },
+    {
+        "id": "55131",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.20905,
+        "lng": 1.68252
+    },
+    {
+        "id": "55132",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.38478,
+        "lng": 6.04887
+    },
+    {
+        "id": "55133",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.472033,
+        "lng": 5.868703
+    },
+    {
+        "id": "55134",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.125,
+        "lng": 6.17853
+    },
+    {
+        "id": "55135",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.33468,
+        "lng": 6.08662
+    },
+    {
+        "id": "55136",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.82493,
+        "lng": 0.6463
+    },
+    {
+        "id": "55137",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.1388,
+        "lng": 1.8813
+    },
+    {
+        "id": "55138",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.33669,
+        "lng": 3.02821
+    },
+    {
+        "id": "55139",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.4052,
+        "lng": 0.39163
+    },
+    {
+        "id": "55140",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.48924,
+        "lng": 5.63196
+    },
+    {
+        "id": "55141",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.47492,
+        "lng": 4.35969
+    },
+    {
+        "id": "55142",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.85732,
+        "lng": 1.92803
+    },
+    {
+        "id": "55143",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.448037,
+        "lng": 6.485267
+    },
+    {
+        "id": "55144",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.23483,
+        "lng": 6.61068
+    },
+    {
+        "id": "55145",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.99,
+        "lng": 0.63
+    },
+    {
+        "id": "55146",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.46536,
+        "lng": 1.2779
+    },
+    {
+        "id": "55147",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.88736,
+        "lng": 4.031201
+    },
+    {
+        "id": "55148",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.755606,
+        "lng": 1.362647
+    },
+    {
+        "id": "55149",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.370267,
+        "lng": 6.596293
+    },
+    {
+        "id": "55150",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.382166,
+        "lng": 6.589833
+    },
+    {
+        "id": "55151",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.928,
+        "lng": 4.8421
+    },
+    {
+        "id": "55152",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.06161,
+        "lng": 4.97622
+    },
+    {
+        "id": "55153",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.115,
+        "lng": 4.2819
+    },
+    {
+        "id": "55154",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.977492,
+        "lng": 2.087834
+    },
+    {
+        "id": "55155",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.94728,
+        "lng": 5.027858
+    },
+    {
+        "id": "55156",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.96172,
+        "lng": 2.17169
+    },
+    {
+        "id": "55157",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.462811,
+        "lng": 0.692439
+    },
+    {
+        "id": "55158",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.363839,
+        "lng": 0.454872
+    },
+    {
+        "id": "55159",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.22226,
+        "lng": 1.42767
+    },
+    {
+        "id": "55160",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.12362,
+        "lng": 1.55456
+    },
+    {
+        "id": "55161",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.68225,
+        "lng": 1.85319
+    },
+    {
+        "id": "55162",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.75564,
+        "lng": 1.83712
+    },
+    {
+        "id": "55163",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.748,
+        "lng": 1.7308
+    },
+    {
+        "id": "55164",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.856,
+        "lng": 4.2457
+    },
+    {
+        "id": "55165",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.182117,
+        "lng": 4.04765
+    },
+    {
+        "id": "55166",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.469929,
+        "lng": 2.538703
+    },
+    {
+        "id": "55167",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.631226,
+        "lng": 0.242608
+    },
+    {
+        "id": "55168",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.555377,
+        "lng": 0.335915
+    },
+    {
+        "id": "55169",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.75886,
+        "lng": 0.197327
+    },
+    {
+        "id": "55170",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.598721,
+        "lng": 4.265287
+    },
+    {
+        "id": "55171",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.556919,
+        "lng": 4.285689
+    },
+    {
+        "id": "55172",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.778521,
+        "lng": 4.289978
+    },
+    {
+        "id": "55173",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.75202,
+        "lng": 4.2716
+    },
+    {
+        "id": "55174",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.46272,
+        "lng": 6.6323
+    },
+    {
+        "id": "55175",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.87278,
+        "lng": 1.83694
+    },
+    {
+        "id": "55176",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.9196,
+        "lng": 1.60429
+    },
+    {
+        "id": "55177",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.91218,
+        "lng": 1.38433
+    },
+    {
+        "id": "55178",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.803,
+        "lng": 1.2919
+    },
+    {
+        "id": "55179",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.81315,
+        "lng": 1.1969
+    },
+    {
+        "id": "55180",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.9693,
+        "lng": 4.74375
+    },
+    {
+        "id": "55181",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.00026,
+        "lng": 4.73763
+    },
+    {
+        "id": "55182",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.68103,
+        "lng": 1.25909
+    },
+    {
+        "id": "55183",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.39407,
+        "lng": 1.42984
+    },
+    {
+        "id": "55184",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.767,
+        "lng": 1.4068
+    },
+    {
+        "id": "55185",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.43257,
+        "lng": 4.18985
+    },
+    {
+        "id": "55186",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.62108,
+        "lng": 4.39633
+    },
+    {
+        "id": "55187",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.287764,
+        "lng": 4.732898
+    },
+    {
+        "id": "55188",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.017,
+        "lng": 0.6188
+    },
+    {
+        "id": "55189",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.05884,
+        "lng": 6.2068
+    },
+    {
+        "id": "55190",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.738971,
+        "lng": 7.412457
+    },
+    {
+        "id": "55191",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.74378,
+        "lng": 7.4211
+    },
+    {
+        "id": "55192",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.74849,
+        "lng": 7.42505
+    },
+    {
+        "id": "55193",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.75454,
+        "lng": 7.44092
+    },
+    {
+        "id": "55194",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.75767,
+        "lng": 7.44895
+    },
+    {
+        "id": "55195",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.76061,
+        "lng": 7.475353
+    },
+    {
+        "id": "55196",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.13225,
+        "lng": 2.97278
+    },
+    {
+        "id": "55197",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.296654,
+        "lng": 2.39201
+    },
+    {
+        "id": "55198",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.42468,
+        "lng": 4.73459
+    },
+    {
+        "id": "55199",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.748274,
+        "lng": 5.011973
+    },
+    {
+        "id": "55200",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.2242,
+        "lng": 4.81691
+    },
+    {
+        "id": "55201",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.72395,
+        "lng": 4.95802
+    },
+    {
+        "id": "55202",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.13142,
+        "lng": 5.04594
+    },
+    {
+        "id": "55203",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.633799,
+        "lng": 4.770384
+    },
+    {
+        "id": "55204",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.832364,
+        "lng": 4.904407
+    },
+    {
+        "id": "55205",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.04868,
+        "lng": 4.99104
+    },
+    {
+        "id": "55206",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.951,
+        "lng": 3.796
+    },
+    {
+        "id": "55208",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.077,
+        "lng": 0.6372
+    },
+    {
+        "id": "55209",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.875,
+        "lng": 5.3577
+    },
+    {
+        "id": "55210",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.737521,
+        "lng": 5.232971
+    },
+    {
+        "id": "55211",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.351548,
+        "lng": 4.897465
+    },
+    {
+        "id": "55212",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.85506,
+        "lng": -0.41901
+    },
+    {
+        "id": "55213",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.54221,
+        "lng": -0.94774
+    },
+    {
+        "id": "55214",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.15049,
+        "lng": -0.28801
+    },
+    {
+        "id": "55215",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.67751,
+        "lng": -1.256907
+    },
+    {
+        "id": "55216",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.971,
+        "lng": -0.2927
+    },
+    {
+        "id": "55217",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.452,
+        "lng": -1.1068
+    },
+    {
+        "id": "55218",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.271616,
+        "lng": 3.915253
+    },
+    {
+        "id": "55219",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.25345,
+        "lng": 4.232068
+    },
+    {
+        "id": "55220",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.058022,
+        "lng": 3.833134
+    },
+    {
+        "id": "55221",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.266111,
+        "lng": 4.150569
+    },
+    {
+        "id": "55222",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.292876,
+        "lng": 4.141844
+    },
+    {
+        "id": "55223",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.16322,
+        "lng": 4.07776
+    },
+    {
+        "id": "55224",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.513,
+        "lng": 2.066
+    },
+    {
+        "id": "55225",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.89822,
+        "lng": 2.39078
+    },
+    {
+        "id": "55226",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.218558,
+        "lng": 1.51663
+    },
+    {
+        "id": "55227",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.816,
+        "lng": 1.2489
+    },
+    {
+        "id": "55228",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.99464,
+        "lng": 1.3148
+    },
+    {
+        "id": "55229",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.092,
+        "lng": 1.0115
+    },
+    {
+        "id": "55230",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.93981,
+        "lng": 1.21917
+    },
+    {
+        "id": "55231",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.807487,
+        "lng": 1.321547
+    },
+    {
+        "id": "55232",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.976563,
+        "lng": 1.467901
+    },
+    {
+        "id": "55233",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.12464,
+        "lng": 1.151055
+    },
+    {
+        "id": "55234",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.995,
+        "lng": 1.1971
+    },
+    {
+        "id": "55235",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.19666,
+        "lng": 1.60989
+    },
+    {
+        "id": "55236",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.948812,
+        "lng": 4.675428
+    },
+    {
+        "id": "55237",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.34614,
+        "lng": 5.50762
+    },
+    {
+        "id": "55238",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.359,
+        "lng": 5.438
+    },
+    {
+        "id": "55239",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.05042,
+        "lng": 5.78997
+    },
+    {
+        "id": "55240",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.41662,
+        "lng": 5.33245
+    },
+    {
+        "id": "55243",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.31475,
+        "lng": 5.51358
+    },
+    {
+        "id": "55244",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.356944,
+        "lng": -1.73538
+    },
+    {
+        "id": "55245",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.293,
+        "lng": 1.8688
+    },
+    {
+        "id": "55246",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.956499,
+        "lng": 1.440531
+    },
+    {
+        "id": "55247",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.917,
+        "lng": 1.6385
+    },
+    {
+        "id": "55248",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.02396,
+        "lng": 1.58974
+    },
+    {
+        "id": "55249",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.16689,
+        "lng": -0.44131
+    },
+    {
+        "id": "55250",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.261934,
+        "lng": 5.526534
+    },
+    {
+        "id": "55251",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.468368,
+        "lng": 5.581644
+    },
+    {
+        "id": "55252",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.508744,
+        "lng": 5.5961
+    },
+    {
+        "id": "55253",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.12879,
+        "lng": 5.77781
+    },
+    {
+        "id": "55254",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.567867,
+        "lng": 5.355874
+    },
+    {
+        "id": "55255",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.506685,
+        "lng": -0.865088
+    },
+    {
+        "id": "55256",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.160875,
+        "lng": -0.478433
+    },
+    {
+        "id": "55258",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.268588,
+        "lng": 3.489024
+    },
+    {
+        "id": "55259",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.480052,
+        "lng": 3.830786
+    },
+    {
+        "id": "55260",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.643195,
+        "lng": 0.210116
+    },
+    {
+        "id": "55261",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.630484,
+        "lng": 0.134056
+    },
+    {
+        "id": "55262",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.670441,
+        "lng": 0.03285
+    },
+    {
+        "id": "55263",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.065228,
+        "lng": 0.675529
+    },
+    {
+        "id": "55264",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.767355,
+        "lng": 2.040141
+    },
+    {
+        "id": "55265",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.65387,
+        "lng": -0.09421
+    },
+    {
+        "id": "55266",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.202664,
+        "lng": -0.26936
+    },
+    {
+        "id": "55267",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.484427,
+        "lng": 1.389889
+    },
+    {
+        "id": "55268",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.51196,
+        "lng": 1.370473
+    },
+    {
+        "id": "55269",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.122684,
+        "lng": 1.063689
+    },
+    {
+        "id": "55270",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.391676,
+        "lng": 2.383764
+    },
+    {
+        "id": "55271",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.238916,
+        "lng": 0.497317
+    },
+    {
+        "id": "55272",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.096309,
+        "lng": 1.878714
+    },
+    {
+        "id": "55273",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.427711,
+        "lng": 1.433312
+    },
+    {
+        "id": "55274",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.248606,
+        "lng": 3.696531
+    },
+    {
+        "id": "55275",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.335018,
+        "lng": 4.947196
+    },
+    {
+        "id": "55276",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.958132,
+        "lng": -0.942167
+    },
+    {
+        "id": "55277",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.58836,
+        "lng": 2.616991
+    },
+    {
+        "id": "55278",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.339936,
+        "lng": 1.875348
+    },
+    {
+        "id": "55279",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.506,
+        "lng": 6.1607
+    },
+    {
+        "id": "55280",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.867697,
+        "lng": 4.544748
+    },
+    {
+        "id": "55281",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.044218,
+        "lng": 5.884905
+    },
+    {
+        "id": "55282",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.47583,
+        "lng": 6.03457
+    },
+    {
+        "id": "55283",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.221959,
+        "lng": 1.919233
+    },
+    {
+        "id": "55284",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.26005,
+        "lng": 0.73406
+    },
+    {
+        "id": "55285",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.32208,
+        "lng": 2.86727
+    },
+    {
+        "id": "55286",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.18971,
+        "lng": 3.48825
+    },
+    {
+        "id": "55287",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.66073,
+        "lng": 6.6048
+    },
+    {
+        "id": "55288",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.645,
+        "lng": 6.5753
+    },
+    {
+        "id": "55289",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.32319,
+        "lng": 5.7988
+    },
+    {
+        "id": "55290",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.57728,
+        "lng": 6.15396
+    },
+    {
+        "id": "55291",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.52951,
+        "lng": 6.3634
+    },
+    {
+        "id": "55292",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.59269,
+        "lng": -0.31624
+    },
+    {
+        "id": "55293",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.42,
+        "lng": 4.4104
+    },
+    {
+        "id": "55294",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.13821,
+        "lng": 4.10841
+    },
+    {
+        "id": "55295",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.5574,
+        "lng": 0.61058
+    },
+    {
+        "id": "55296",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.457,
+        "lng": 0.882
+    },
+    {
+        "id": "55300",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.919944,
+        "lng": -0.525631
+    },
+    {
+        "id": "55302",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.299686,
+        "lng": -0.057254
+    },
+    {
+        "id": "55303",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.85061,
+        "lng": 5.297659
+    },
+    {
+        "id": "55304",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.007587,
+        "lng": 5.175643
+    },
+    {
+        "id": "55305",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.884252,
+        "lng": 5.168779
+    },
+    {
+        "id": "55306",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.28486,
+        "lng": 5.438574
+    },
+    {
+        "id": "55307",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.306553,
+        "lng": 6.066132
+    },
+    {
+        "id": "55308",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.780178,
+        "lng": 5.469646
+    },
+    {
+        "id": "55309",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.860749,
+        "lng": 5.215975
+    },
+    {
+        "id": "55310",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.433925,
+        "lng": 1.960969
+    },
+    {
+        "id": "55311",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.782131,
+        "lng": 2.987636
+    },
+    {
+        "id": "55312",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.954971,
+        "lng": 5.331798
+    },
+    {
+        "id": "55313",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.526389,
+        "lng": 3.061327
+    },
+    {
+        "id": "55314",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.548079,
+        "lng": 2.931065
+    },
+    {
+        "id": "55315",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.161141,
+        "lng": 5.599386
+    },
+    {
+        "id": "55316",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.851819,
+        "lng": 0.0294
+    },
+    {
+        "id": "55317",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.12523,
+        "lng": 0.897203
+    },
+    {
+        "id": "55318",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.42321,
+        "lng": 0.049532
+    },
+    {
+        "id": "55319",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.048971,
+        "lng": 4.870893
+    },
+    {
+        "id": "55320",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.312861,
+        "lng": 5.304638
+    },
+    {
+        "id": "55321",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.078022,
+        "lng": 5.427564
+    },
+    {
+        "id": "55322",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.851921,
+        "lng": 5.753084
+    },
+    {
+        "id": "55323",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.264996,
+        "lng": 6.317059
+    },
+    {
+        "id": "55324",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.567908,
+        "lng": 1.41288
+    },
+    {
+        "id": "55325",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.3188,
+        "lng": -0.99235
+    },
+    {
+        "id": "55326",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.755096,
+        "lng": 6.279981
+    },
+    {
+        "id": "55327",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.127939,
+        "lng": 1.334733
+    },
+    {
+        "id": "55329",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.526693,
+        "lng": 4.338627
+    },
+    {
+        "id": "55330",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.668451,
+        "lng": 4.579963
+    },
+    {
+        "id": "55331",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.019798,
+        "lng": 3.839824
+    },
+    {
+        "id": "55332",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.381657,
+        "lng": 1.671364
+    },
+    {
+        "id": "55333",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.959829,
+        "lng": -0.608339
+    },
+    {
+        "id": "55334",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.0321,
+        "lng": 0.31618
+    },
+    {
+        "id": "55335",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.489878,
+        "lng": -1.534239
+    },
+    {
+        "id": "55336",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.277885,
+        "lng": 3.285535
+    },
+    {
+        "id": "55337",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.801777,
+        "lng": -0.134971
+    },
+    {
+        "id": "55338",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.674293,
+        "lng": -0.093419
+    },
+    {
+        "id": "55339",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.242879,
+        "lng": -0.006538
+    },
+    {
+        "id": "55340",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.969184,
+        "lng": 1.788304
+    },
+    {
+        "id": "55341",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.53727,
+        "lng": 0.996454
+    },
+    {
+        "id": "55342",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.539815,
+        "lng": 0.297204
+    },
+    {
+        "id": "55343",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.65796,
+        "lng": 7.18506
+    },
+    {
+        "id": "55344",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.098988,
+        "lng": 5.310093
+    },
+    {
+        "id": "55345",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.737894,
+        "lng": 4.643321
+    },
+    {
+        "id": "55346",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.412154,
+        "lng": 4.926931
+    },
+    {
+        "id": "55347",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.657725,
+        "lng": 7.184124
+    },
+    {
+        "id": "55349",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.885535,
+        "lng": 4.91831
+    },
+    {
+        "id": "55350",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.264194,
+        "lng": 5.016905
+    },
+    {
+        "id": "55351",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.145499,
+        "lng": -0.718432
+    },
+    {
+        "id": "55352",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.623765,
+        "lng": 2.921275
+    },
+    {
+        "id": "55353",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.958902,
+        "lng": -0.709216
+    },
+    {
+        "id": "55354",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.72896,
+        "lng": -0.58853
+    },
+    {
+        "id": "55355",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.492683,
+        "lng": -1.367499
+    },
+    {
+        "id": "55356",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.75375,
+        "lng": 3.021237
+    },
+    {
+        "id": "55358",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.45543,
+        "lng": 1.942436
+    },
+    {
+        "id": "55359",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.659489,
+        "lng": 2.80828
+    },
+    {
+        "id": "55360",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.519337,
+        "lng": 2.79937
+    },
+    {
+        "id": "55361",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.656435,
+        "lng": 2.925448
+    },
+    {
+        "id": "55362",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.599081,
+        "lng": 2.85654
+    },
+    {
+        "id": "55363",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.786233,
+        "lng": 3.00051
+    },
+    {
+        "id": "55365",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.059685,
+        "lng": 5.080151
+    },
+    {
+        "id": "55366",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.957949,
+        "lng": 5.327278
+    },
+    {
+        "id": "55367",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.13638,
+        "lng": 4.96035
+    },
+    {
+        "id": "55368",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.927842,
+        "lng": 5.101395
+    },
+    {
+        "id": "55369",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.185325,
+        "lng": 5.10749
+    },
+    {
+        "id": "55370",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.806615,
+        "lng": 5.77399
+    },
+    {
+        "id": "55371",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.15508,
+        "lng": 3.41333
+    },
+    {
+        "id": "55372",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.960568,
+        "lng": 6.479397
+    },
+    {
+        "id": "55375",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.470038,
+        "lng": 2.366049
+    },
+    {
+        "id": "55376",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.970715,
+        "lng": 3.691066
+    },
+    {
+        "id": "55378",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.492078,
+        "lng": 1.003637
+    },
+    {
+        "id": "55379",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.577281,
+        "lng": -0.657069
+    },
+    {
+        "id": "55380",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.360388,
+        "lng": -1.581847
+    },
+    {
+        "id": "55381",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.464485,
+        "lng": -0.703772
+    },
+    {
+        "id": "55384",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.369541,
+        "lng": -1.637173
+    },
+    {
+        "id": "55385",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 42.660478,
+        "lng": 2.883063
+    },
+    {
+        "id": "55386",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.749892,
+        "lng": 5.92658
+    },
+    {
+        "id": "55387",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.717809,
+        "lng": 1.084615
+    },
+    {
+        "id": "55388",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.058587,
+        "lng": 4.742037
+    },
+    {
+        "id": "55389",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.909527,
+        "lng": 1.799222
+    },
+    {
+        "id": "55391",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.561991,
+        "lng": 5.919797
+    },
+    {
+        "id": "55394",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.827542,
+        "lng": 3.440125
+    },
+    {
+        "id": "55399",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.964537,
+        "lng": 5.005278
+    },
+    {
+        "id": "55400",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.54004,
+        "lng": 5.52878
+    },
+    {
+        "id": "55406",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.983312,
+        "lng": 4.263079
+    },
+    {
+        "id": "55409",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.215541,
+        "lng": 1.731919
+    },
+    {
+        "id": "55411",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.946264,
+        "lng": 3.158438
+    },
+    {
+        "id": "55414",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.417927,
+        "lng": 3.183285
+    },
+    {
+        "id": "55415",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.03484,
+        "lng": 1.89735
+    },
+    {
+        "id": "55416",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.50427,
+        "lng": 2.01156
+    },
+    {
+        "id": "55417",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 41.961823,
+        "lng": 8.809271
+    },
+    {
+        "id": "55420",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 41.933514,
+        "lng": 8.744156
+    },
+    {
+        "id": "55423",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.793684,
+        "lng": 3.062337
+    },
+    {
+        "id": "55425",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.81706,
+        "lng": -0.2966
+    },
+    {
+        "id": "55427",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.723667,
+        "lng": 4.891326
+    },
+    {
+        "id": "55428",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.316301,
+        "lng": 3.324925
+    },
+    {
+        "id": "55431",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.819624,
+        "lng": 1.082906
+    },
+    {
+        "id": "55432",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.500808,
+        "lng": 0.036685
+    },
+    {
+        "id": "55434",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 46.183948,
+        "lng": 6.246718
+    },
+    {
+        "id": "55436",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.968927,
+        "lng": -0.1661
+    },
+    {
+        "id": "55437",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.156399,
+        "lng": -0.818739
+    },
+    {
+        "id": "55446",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 45.98988,
+        "lng": 6.63149
+    },
+    {
+        "id": "55456",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 43.354327,
+        "lng": -0.533289
+    },
+    {
+        "id": "55460",
+        "typeLabel": "Fixes",
+        "type": "fixes",
+        "lat": 44.48154,
+        "lng": 1.40138
+    },
+    {
         "id": "12001",
         "typeLabel": "Discriminants",
         "type": "discriminants",
