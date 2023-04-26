@@ -1,14 +1,14 @@
 {
-    "nid": "20499",
-    "uuid": "084a96a3-6b07-4c5d-bf43-c567afe2ad44",
-    "vid": "20499",
+    "nid": "24341",
+    "uuid": "171b6b48-40a6-4da8-9c00-bff221b47c09",
+    "vid": "24341",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11023",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTFORT SUR MEU vers ST PERAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.9957 48.093)",
-    "radarInstallDate": "2012-02-13T16:21:14",
-    "radarPlace": "IFFENDIC",
+    "radarInstallDate": "2012-02-13T16:07:32",
+    "radarPlace": [],
     "radarRoad": "RD35",
     "radarTronconKm": [],
     "radarType": [

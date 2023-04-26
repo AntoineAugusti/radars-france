@@ -1,14 +1,14 @@
 {
-    "nid": "20141",
-    "uuid": "96295025-20e9-4661-8960-ed1d19655075",
-    "vid": "20141",
+    "nid": "24021",
+    "uuid": "38cafb58-d1e2-41eb-91c9-f18ec3110fc9",
+    "vid": "24021",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6504",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE LAUZET UBAYE vers BARCELONNETTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.47924 44.3969)",
-    "radarInstallDate": "2008-10-17T16:20:29",
-    "radarPlace": "MEOLANS REVEL",
+    "radarInstallDate": "2008-10-17T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RD900",
     "radarTronconKm": [],
     "radarType": [

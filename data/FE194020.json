@@ -1,14 +1,14 @@
 {
-    "nid": "22173",
-    "uuid": "626761db-e711-40e1-9381-2d362451dfd4",
-    "vid": "22173",
+    "nid": "25788",
+    "uuid": "f8323c65-cbce-4c2c-abf4-31ac637f4c61",
+    "vid": "25788",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE194020",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Cr\u00e9teil vers Versailles",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.44523 48.78119)",
-    "radarInstallDate": "2011-04-04T16:26:50",
-    "radarPlace": "CRETEIL",
+    "radarInstallDate": "2011-04-04T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

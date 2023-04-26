@@ -1,14 +1,14 @@
 {
-    "nid": "21059",
-    "uuid": "3601c999-f652-48ef-a146-e3659228cb04",
-    "vid": "21059",
+    "nid": "25072",
+    "uuid": "28db8048-c203-4942-ae68-f76a50fd1f9a",
+    "vid": "25072",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55022",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CLERMONT FERRAND vers PERIGNAT LES SARLIEVE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.119246 45.762487)",
-    "radarInstallDate": "2019-12-05T16:22:43",
-    "radarPlace": "AUBIERE",
+    "radarInstallDate": "2019-12-05T16:09:41",
+    "radarPlace": [],
     "radarRoad": "18 avenue de la Margeride  RD2099",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21066",
-    "uuid": "0913b4c8-76ab-4ad1-8bd1-1ed7c6a16c98",
-    "vid": "21066",
+    "nid": "25079",
+    "uuid": "7cee1001-954e-4e3d-95fa-f038019d36c0",
+    "vid": "25079",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55029",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AIX LES BAINS vers ANNECY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.94337 45.77706)",
-    "radarInstallDate": "2020-02-05T16:22:44",
-    "radarPlace": "ENTRELACS",
+    "radarInstallDate": "2020-02-05T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD1201",
     "radarTronconKm": [],
     "radarType": [

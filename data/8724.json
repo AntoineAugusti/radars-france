@@ -1,14 +1,14 @@
 {
-    "nid": "20400",
-    "uuid": "dcd54a74-c246-4d07-a925-759c4c43a06f",
-    "vid": "20400",
+    "nid": "24249",
+    "uuid": "b4567209-dd00-456d-867d-1026f2ea2c4d",
+    "vid": "24249",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8724",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PORTO VECCHIO vers BASTIA",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (9.5414 42.314)",
-    "radarInstallDate": "2011-04-07T16:21:02",
-    "radarPlace": "CERVIONE",
+    "radarInstallDate": "2011-04-07T16:07:19",
+    "radarPlace": [],
     "radarRoad": "RT10",
     "radarTronconKm": [],
     "radarType": [

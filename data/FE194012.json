@@ -1,14 +1,14 @@
 {
-    "nid": "22171",
-    "uuid": "26de9526-2feb-45e7-8b24-d096e6544e05",
-    "vid": "22171",
+    "nid": "25786",
+    "uuid": "6c739142-7290-44d1-bf97-a23c4e19e658",
+    "vid": "25786",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE194012",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PROVINCE vers PARIS",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.51127 48.8135)",
-    "radarInstallDate": "2012-05-04T16:26:50",
-    "radarPlace": "CHAMPIGNY SUR MARNE",
+    "radarInstallDate": "2012-05-04T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

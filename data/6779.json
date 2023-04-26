@@ -1,14 +1,14 @@
 {
-    "nid": "20191",
-    "uuid": "318b34e4-90f2-4919-bc4c-6b8a9dc7fa8c",
-    "vid": "20191",
+    "nid": "24067",
+    "uuid": "9bc70f80-3d37-400d-9e2a-586c581964a6",
+    "vid": "24067",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6779",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RUE DU FBG POISSONNIERE vers LA RUE DE CHATEAUDUN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.34761 48.87912)",
-    "radarInstallDate": "2007-05-11T16:20:35",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2007-05-11T16:06:55",
+    "radarPlace": [],
     "radarRoad": "FACE AU N\u00b053 DE LA RUE DE MAUBEUGE",
     "radarTronconKm": [],
     "radarType": [

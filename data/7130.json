@@ -1,14 +1,14 @@
 {
-    "nid": "20246",
-    "uuid": "6a734e2b-6d6b-4bac-b505-7fe02167013f",
-    "vid": "20246",
+    "nid": "24114",
+    "uuid": "116887bb-e016-4f02-8eb0-d225178c5db2",
+    "vid": "24114",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7130",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHARLEVILLE MEZIERES vers REIMS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.36342 49.52216)",
-    "radarInstallDate": "2008-06-20T16:20:41",
-    "radarPlace": "RETHEL",
+    "radarInstallDate": "2008-06-20T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RN51",
     "radarTronconKm": [],
     "radarType": [

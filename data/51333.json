@@ -1,14 +1,14 @@
 {
-    "nid": "20963",
-    "uuid": "03d0fde1-d249-4ce8-8525-65d19b551726",
-    "vid": "20963",
+    "nid": "24896",
+    "uuid": "8c7936d7-d562-47bc-bbc8-90cb1a070a23",
+    "vid": "24896",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51333",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SENLIS vers COMPIEGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.738204 49.315373)",
-    "radarInstallDate": "2021-06-24T16:22:28",
-    "radarPlace": "VERBERIE",
+    "radarInstallDate": "2021-06-24T16:09:05",
+    "radarPlace": [],
     "radarRoad": "RD932A",
     "radarTronconKm": [],
     "radarType": [

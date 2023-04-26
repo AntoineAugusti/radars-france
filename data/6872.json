@@ -1,14 +1,14 @@
 {
-    "nid": "20209",
-    "uuid": "86d669b2-36bb-4358-8212-66ea414bbb1b",
-    "vid": "20209",
+    "nid": "24082",
+    "uuid": "492db99e-5a9d-4848-b3fb-23f5f50b27d3",
+    "vid": "24082",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6872",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST QUENTIN vers AMIENS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.71665 49.87371)",
-    "radarInstallDate": "2007-09-28T16:20:38",
-    "radarPlace": "PROYART",
+    "radarInstallDate": "2007-09-28T16:06:58",
+    "radarPlace": [],
     "radarRoad": "RD1029",
     "radarTronconKm": [],
     "radarType": [

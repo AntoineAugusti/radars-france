@@ -1,14 +1,14 @@
 {
-    "nid": "22835",
-    "uuid": "811b99f0-53b2-4002-a3b0-e94d18ceb637",
-    "vid": "22835",
+    "nid": "26382",
+    "uuid": "a8e46cf7-aec3-45b3-bb0b-a70e8e4b6809",
+    "vid": "26382",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229224",
+    "revisionTimestamp": "1681741063",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_63_001",
-    "created": "1637229224",
-    "changed": "1637229224",
+    "created": "1681741063",
+    "changed": "1681741063",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "63 - Puy-de-D\u00f4me",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (45.763552 3.540377)",
-    "radarInstallDate": "2017-10-06T10:53:44",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.849791 45.20774)",
+    "radarInstallDate": "2018-10-02T16:17:44",
     "radarPlace": "-",
     "radarRoad": "D85, D114, D906C, D308, D906, D43, D44C, D906D, D2089, D44, A89, D343, D63, D400, D43D, D94C, D64, D59",
-    "radarTronconKm": "30.75",
+    "radarTronconKm": "30,8",
     "radarType": [
         {
             "tid": "19",

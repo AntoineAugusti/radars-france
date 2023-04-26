@@ -1,14 +1,14 @@
 {
-    "nid": "19895",
-    "uuid": "121bcc78-17f3-4eb4-8ea5-b643ba45633e",
-    "vid": "19895",
+    "nid": "23795",
+    "uuid": "a85f49b1-ccea-44ca-bf6e-d2d05b355af8",
+    "vid": "23795",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3067",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHOISY LE ROI VERS VILLENEUVE ST GEORGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.41901 48.76239)",
-    "radarInstallDate": "2005-06-25T16:20:05",
-    "radarPlace": "CHOISY LE ROI",
+    "radarInstallDate": "2005-06-25T16:06:25",
+    "radarPlace": [],
     "radarRoad": "76, AVENUE VILLENEUVE SAINT GEORGES",
     "radarTronconKm": [],
     "radarType": [

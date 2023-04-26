@@ -1,14 +1,14 @@
 {
-    "nid": "20317",
-    "uuid": "8e18f51e-e81f-47cb-8afb-011e858511b0",
-    "vid": "20317",
+    "nid": "24177",
+    "uuid": "1ec190fd-c78d-47a3-bff7-207e2a7b1a35",
+    "vid": "24177",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7398",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Lille vers Paris",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.85223 49.94314)",
-    "radarInstallDate": "2008-03-31T16:20:50",
-    "radarPlace": "FEUILLERES",
+    "radarInstallDate": "2008-03-31T16:07:10",
+    "radarPlace": [],
     "radarRoad": "A1",
     "radarTronconKm": [],
     "radarType": [

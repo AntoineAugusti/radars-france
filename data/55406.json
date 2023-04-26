@@ -1,14 +1,14 @@
 {
-    "nid": "21413",
-    "uuid": "a83b6a70-cd64-4c7a-ba5d-088b53996054",
-    "vid": "21413",
+    "nid": "25438",
+    "uuid": "18de9428-bc2d-4538-ade9-1bd41c7be654",
+    "vid": "25438",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55406",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "UZES vers MOUSSAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.263079 43.983312)",
-    "radarInstallDate": "2021-03-10T16:23:56",
-    "radarPlace": "SAINT DEZERY",
-    "radarRoad": "RD 982",
+    "radarInstallDate": "2021-03-10T16:11:03",
+    "radarPlace": [],
+    "radarRoad": "RD982",
     "radarTronconKm": [],
     "radarType": [
         {

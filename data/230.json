@@ -1,14 +1,14 @@
 {
-    "nid": "19695",
-    "uuid": "87d89a31-afc8-40e4-9d9e-ece7317022b1",
-    "vid": "19695",
+    "nid": "23626",
+    "uuid": "1afd97e9-e051-49b9-8730-2070d8e8b531",
+    "vid": "23626",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "230",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ATTAINVILLE VERS SARCELLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.33193 49.04783)",
-    "radarInstallDate": "2004-08-09T16:19:48",
-    "radarPlace": "MOISSELLES",
+    "radarInstallDate": "2004-08-09T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RD301",
     "radarTronconKm": [],
     "radarType": [

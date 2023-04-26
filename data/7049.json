@@ -1,14 +1,14 @@
 {
-    "nid": "20227",
-    "uuid": "5f17dc25-32cd-4bab-a6f5-6184e73a961d",
-    "vid": "20227",
+    "nid": "24099",
+    "uuid": "160940f5-7a4e-4905-8735-78fad0e0bae1",
+    "vid": "24099",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7049",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Tulle vers Clermont",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.04453 45.43246)",
-    "radarInstallDate": "2008-01-28T16:20:38",
-    "radarPlace": "SOUDEILLES",
+    "radarInstallDate": "2008-01-28T16:07:01",
+    "radarPlace": [],
     "radarRoad": "A89",
     "radarTronconKm": [],
     "radarType": [

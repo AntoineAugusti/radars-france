@@ -1,14 +1,14 @@
 {
-    "nid": "19823",
-    "uuid": "28759cdb-ab18-4ad1-9346-b90683562308",
-    "vid": "19823",
+    "nid": "23740",
+    "uuid": "29c272d1-a92e-40a7-b3ce-dbd3fc74971d",
+    "vid": "23740",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "660",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POITIERS VERS CHATELLERAULT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.33714 46.59743)",
-    "radarInstallDate": "2005-11-03T16:19:58",
-    "radarPlace": "POITIERS",
+    "radarInstallDate": "2005-11-03T16:06:19",
+    "radarPlace": [],
     "radarRoad": "83, AVENUE DE PARIS",
     "radarTronconKm": [],
     "radarType": [

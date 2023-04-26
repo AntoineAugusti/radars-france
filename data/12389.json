@@ -1,14 +1,14 @@
 {
-    "nid": "21668",
-    "uuid": "76ee5f14-adea-4f8a-8b9c-6e049aa0ca1d",
-    "vid": "21668",
+    "nid": "23336",
+    "uuid": "6b004c43-55e3-4cdd-9b41-dff98feb6d4d",
+    "vid": "23336",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12389",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LORIENT vers RENNES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.94317 48.043)",
-    "radarInstallDate": "2016-03-25T16:24:50",
-    "radarPlace": "ST THURIAL",
+    "radarInstallDate": "2016-03-25T16:05:42",
+    "radarPlace": [],
     "radarRoad": "RN24",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19824",
-    "uuid": "3bb34408-e36c-454b-8af4-0decb3d9230b",
-    "vid": "19824",
+    "nid": "23741",
+    "uuid": "8b579155-1e42-4de2-93e2-83cf470964fb",
+    "vid": "23741",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "662",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE BLANC VERS POITIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.46534 46.55887)",
-    "radarInstallDate": "2005-12-18T16:19:58",
-    "radarPlace": "SEVRES ANXAUMONT",
+    "radarInstallDate": "2005-12-18T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RD951",
     "radarTronconKm": [],
     "radarType": [

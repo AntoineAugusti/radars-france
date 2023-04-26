@@ -1,14 +1,14 @@
 {
-    "nid": "21250",
-    "uuid": "fee82ffd-6bee-4ea9-94c4-e82ca72f5468",
-    "vid": "21250",
+    "nid": "25261",
+    "uuid": "0d63bd75-ab0c-4b0a-9cd9-9d16b82fa0ae",
+    "vid": "25261",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55215",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST PAUL LES DAX vers ST VINCENT DE TYROSSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.256907 43.67751)",
-    "radarInstallDate": "2021-03-12T16:23:20",
-    "radarPlace": "ST GEOURS DE MAREMNE",
+    "radarInstallDate": "2021-03-12T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD810",
     "radarTronconKm": [],
     "radarType": [

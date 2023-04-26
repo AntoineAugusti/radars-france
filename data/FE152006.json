@@ -1,14 +1,14 @@
 {
-    "nid": "21951",
-    "uuid": "43384c7e-98de-4780-a7fa-ec71d017318b",
-    "vid": "21951",
+    "nid": "25589",
+    "uuid": "b0affff6-2c7d-4f24-bf0e-bee841d4e06a",
+    "vid": "25589",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE152006",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAUMONT vers ST DIZIER",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (4.9905 48.62562)",
-    "radarInstallDate": "2010-04-12T16:26:00",
-    "radarPlace": "ST DIZIER",
+    "radarInstallDate": "2010-04-12T16:11:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

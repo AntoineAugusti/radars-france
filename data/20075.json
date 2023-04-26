@@ -1,14 +1,14 @@
 {
-    "nid": "22628",
-    "uuid": "ccf8b40a-f187-4a55-b029-02d9a7171514",
-    "vid": "22628",
+    "nid": "26152",
+    "uuid": "9240aa99-ee42-4a83-b32f-c82bd908bcf0",
+    "vid": "26152",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20075",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "LOUBEJAC vers SARLAT LA CANEDA",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.20745 44.87911)",
-    "radarInstallDate": "2013-07-15T10:53:36",
+    "radarInstallDate": "2013-07-15T16:17:06",
     "radarPlace": "SARLAT LA CANEDA",
     "radarRoad": "RD704",
     "radarTronconKm": "1,9",

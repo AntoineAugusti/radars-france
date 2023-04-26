@@ -1,14 +1,14 @@
 {
-    "nid": "22519",
-    "uuid": "0205a452-c4f2-4bb6-9fc2-16a50076e103",
-    "vid": "22519",
+    "nid": "26091",
+    "uuid": "810e2f4f-f162-48d4-9b32-a1ccd7c95e12",
+    "vid": "26091",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE360501",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord Ouest vers Sud Est",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.74364 49.09549)",
-    "radarInstallDate": "2012-10-12T16:28:28",
-    "radarPlace": "LAGNY LE SEC",
+    "radarInstallDate": "2012-10-12T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

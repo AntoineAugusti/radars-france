@@ -1,14 +1,14 @@
 {
-    "nid": "22673",
-    "uuid": "61406392-2645-4c93-be05-a09d7605695a",
-    "vid": "22673",
+    "nid": "26186",
+    "uuid": "683bc5fb-0e9e-4939-8fe6-3ef770cb7f92",
+    "vid": "26186",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741029",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20172",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741029",
+    "changed": "1681741029",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "BAGNOLS SUR CEZE vers REMOULINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.61414 44.1309)",
-    "radarInstallDate": "2014-08-18T10:53:37",
+    "radarInstallDate": "2014-08-18T16:17:10",
     "radarPlace": "LAUDUN L ARDOISE",
     "radarRoad": "RD6086",
     "radarTronconKm": "2,5",

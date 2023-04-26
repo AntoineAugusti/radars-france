@@ -1,14 +1,14 @@
 {
-    "nid": "19657",
-    "uuid": "ed32e8e0-b1ab-455a-82a5-04ffc673b048",
-    "vid": "19657",
+    "nid": "23596",
+    "uuid": "12134e9a-1557-4c11-bda2-b27d17be5161",
+    "vid": "23596",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "131",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS CHERBOURG OCTEVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.31164 49.17486)",
-    "radarInstallDate": "2003-12-01T16:19:45",
-    "radarPlace": "MONDEVILLE",
+    "radarInstallDate": "2003-12-01T16:06:04",
+    "radarPlace": [],
     "radarRoad": "RN814",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21898",
-    "uuid": "21311790-9045-47ca-b08b-f7cf9d61122e",
-    "vid": "21898",
+    "nid": "25537",
+    "uuid": "9102aa36-3088-4ecf-b00e-cc8140ddee24",
+    "vid": "25537",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE121011",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue Charles Dumont vers Rue des Moulins",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (5.03785 47.30932)",
-    "radarInstallDate": "2011-09-09T16:25:46",
-    "radarPlace": "DIJON",
+    "radarInstallDate": "2011-09-09T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

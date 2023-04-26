@@ -1,14 +1,14 @@
 {
-    "nid": "21594",
-    "uuid": "5cc38320-493a-49c3-9d83-91acc9d27654",
-    "vid": "21594",
+    "nid": "23263",
+    "uuid": "55aba442-09db-464c-9663-06c63e24adf4",
+    "vid": "23263",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12288",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VIRY CHATILLON vers LE PLESSIS PATE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.35524 48.62899)",
-    "radarInstallDate": "2014-03-21T16:24:35",
-    "radarPlace": "FLEURY MEROGIS",
+    "radarInstallDate": "2014-03-21T16:05:37",
+    "radarPlace": [],
     "radarRoad": "RD445",
     "radarTronconKm": [],
     "radarType": [

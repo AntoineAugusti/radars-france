@@ -1,14 +1,14 @@
 {
-    "nid": "22703",
-    "uuid": "3e02f541-617f-46bf-84bc-633ed6167772",
-    "vid": "22703",
+    "nid": "26216",
+    "uuid": "38111f2f-c858-4f82-bd78-a670ddc3a4d3",
+    "vid": "26216",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741033",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_06_001",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741033",
+    "changed": "1681741033",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "06 - Alpes-Maritimes",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (43.732316 7.412725)",
-    "radarInstallDate": "2017-10-05T10:53:38",
-    "radarPlace": "-",
-    "radarRoad": "D49, D51, D52, D6007B2, D47, D6098, D6007, D53",
-    "radarTronconKm": "8.68",
+    "radarDirection": "49.395842, 3.096734",
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": [],
+    "radarInstallDate": "2017-10-05T16:17:14",
+    "radarPlace": "D6007\"",
+    "radarRoad": "\"300",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

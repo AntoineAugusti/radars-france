@@ -1,14 +1,14 @@
 {
-    "nid": "20529",
-    "uuid": "98ff3d1b-faa1-4044-9f43-89ec88a2da38",
-    "vid": "20529",
+    "nid": "24361",
+    "uuid": "d6f6087f-cf56-4928-a38a-9c307e0e9141",
+    "vid": "24361",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11120",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARGENTAN vers L AIGLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.0691 48.756)",
-    "radarInstallDate": "2012-06-07T16:21:18",
-    "radarPlace": "SILLY EN GOUFFERN",
+    "radarInstallDate": "2012-06-07T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD926",
     "radarTronconKm": [],
     "radarType": [

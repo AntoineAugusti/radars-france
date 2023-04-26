@@ -1,14 +1,14 @@
 {
-    "nid": "21837",
-    "uuid": "1285ea57-d753-4fc1-bd67-d8c0e9487df3",
-    "vid": "21837",
+    "nid": "23514",
+    "uuid": "7d05d06c-4cbc-400f-a333-105ca3660fb6",
+    "vid": "23514",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12604",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Brest vers Morlaix",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-3.87031 48.5582)",
-    "radarInstallDate": "2021-01-06T16:25:32",
-    "radarPlace": "STE SEVE",
+    "radarInstallDate": "2021-01-06T16:05:57",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

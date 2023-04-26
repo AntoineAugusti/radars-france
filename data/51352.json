@@ -1,14 +1,14 @@
 {
-    "nid": "20978",
-    "uuid": "02e020ac-ffad-4049-b268-5d28193bae30",
-    "vid": "20978",
+    "nid": "24915",
+    "uuid": "e7b142f7-d113-4ad4-af95-bddc442d3cb4",
+    "vid": "24915",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51352",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE MANS vers MALICORNE SUR SARTHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.073195 47.91678)",
-    "radarInstallDate": "2021-02-08T16:22:28",
-    "radarPlace": "ROEZE SUR SARTHE",
+    "radarInstallDate": "2021-02-08T16:09:10",
+    "radarPlace": [],
     "radarRoad": "RD23",
     "radarTronconKm": [],
     "radarType": [

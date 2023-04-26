@@ -1,14 +1,14 @@
 {
-    "nid": "21347",
-    "uuid": "0a2a5c00-1142-43b0-8363-9a5c723002f6",
-    "vid": "21347",
+    "nid": "25361",
+    "uuid": "c3849d6c-9d57-430e-b27b-d3ace8371fd0",
+    "vid": "25361",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55319",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURG EN BRESSE vers TREVOUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.870893 46.048971)",
-    "radarInstallDate": "2020-08-21T16:23:38",
-    "radarPlace": "SAINT TRIVIER SUR MOIGNANS",
+    "radarInstallDate": "2020-08-21T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD936",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22737",
-    "uuid": "a994f9ad-b0eb-46f9-a82d-fab492e46556",
-    "vid": "22737",
+    "nid": "26260",
+    "uuid": "aa4781c3-231f-4f35-806b-ceef4df724ec",
+    "vid": "26260",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741039",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_25_003",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741039",
+    "changed": "1681741039",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "25 - Doubs",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (47.157277 6.253883)",
-    "radarInstallDate": "2017-10-06T10:53:39",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.451941 43.246963)",
+    "radarInstallDate": "2017-10-05T16:17:20",
     "radarPlace": "-",
     "radarRoad": "D48, D133, N57, D32, D405, D27E, D67, D244, D27, D50, D41, D469",
-    "radarTronconKm": "30.26",
+    "radarTronconKm": "30,3",
     "radarType": [
         {
             "tid": "19",

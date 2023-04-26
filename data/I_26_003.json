@@ -1,0 +1,111 @@
+{
+    "nid": "26265",
+    "uuid": "bba2047d-8466-4d78-9d13-5e66ff93c3d7",
+    "vid": "26265",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1681741039",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "I_26_003",
+    "created": "1681741039",
+    "changed": "1681741039",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "26 - Dr\u00f4me",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.372809 43.34645)",
+    "radarInstallDate": "2019-12-20T16:17:21",
+    "radarPlace": "-",
+    "radarRoad": "D101, D51, D532A, D886, D1, D122B, D241, D877, D220B, D758, D807, D630, D259, D182, D220, D500, D258, , D800, N7, D266, D95N, D132, D257, D163",
+    "radarTronconKm": "40,1",
+    "radarType": [
+        {
+            "tid": "19",
+            "uuid": "6b6992f4-89c5-48e7-a623-8d9a0ce18836",
+            "revisionId": "19",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Itin\u00e9raires",
+            "description": "Sur toute la longueur de cet itin\u00e9raire, il peut y avoir de un \u00e0 plusieurs radars, de plusieurs types.\r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1529311873",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": "Itin\u00e9raire",
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/itineraire.png?itok=woYb4FC_",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/itineraire.png?itok=s-IjhxwS",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/itineraire.png?itok=becOCQye",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "itineraire.png",
+                        "fileCreated": "1519114067",
+                        "fileSize": "2173",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "itineraire",
+            "radarNameDetails": "Itin\u00e9raire"
+        }
+    ],
+    "rulesMesured": [],
+    "traceItineraire": []
+}

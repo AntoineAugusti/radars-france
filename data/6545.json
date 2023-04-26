@@ -1,14 +1,14 @@
 {
-    "nid": "20149",
-    "uuid": "c8f2cc93-1608-44d6-b580-f67e70fff001",
-    "vid": "20149",
+    "nid": "24027",
+    "uuid": "9cb1425a-6318-4d42-954a-476f0aa2d96e",
+    "vid": "24027",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6545",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TAIN L HERMITAGE VERS VALENCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.88148 44.98155)",
-    "radarInstallDate": "2007-02-20T16:20:31",
-    "radarPlace": "CHATEAUNEUF SUR ISERE",
+    "radarInstallDate": "2007-02-20T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

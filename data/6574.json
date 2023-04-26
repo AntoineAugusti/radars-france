@@ -1,14 +1,14 @@
 {
-    "nid": "20154",
-    "uuid": "77cf5e13-290c-4bc6-b822-6c9f43666b4c",
-    "vid": "20154",
+    "nid": "24032",
+    "uuid": "0a229d94-e7d1-4a82-857e-45429b8c379d",
+    "vid": "24032",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6574",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOLE vers POLIGNY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.67538 46.86729)",
-    "radarInstallDate": "2007-02-19T16:20:32",
-    "radarPlace": "TOURMONT",
+    "radarInstallDate": "2007-02-19T16:06:51",
+    "radarPlace": [],
     "radarRoad": "RD905",
     "radarTronconKm": [],
     "radarType": [

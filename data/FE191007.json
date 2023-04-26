@@ -1,14 +1,14 @@
 {
-    "nid": "22148",
-    "uuid": "95643bc3-ce60-44cb-9bad-4fcf9a1e483d",
-    "vid": "22148",
+    "nid": "25764",
+    "uuid": "3ddb5b21-a53c-41c1-8aa6-65a9c0c90d4f",
+    "vid": "25764",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE191007",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RN20 vers Montlhery",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.26621 48.63506)",
-    "radarInstallDate": "2011-08-08T16:26:43",
-    "radarPlace": "LINAS",
+    "radarInstallDate": "2011-08-08T16:12:23",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

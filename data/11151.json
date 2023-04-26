@@ -1,14 +1,14 @@
 {
-    "nid": "20539",
-    "uuid": "41848c9b-0d78-405f-bd55-e22726ceafc1",
-    "vid": "20539",
+    "nid": "24370",
+    "uuid": "851391ef-72e8-4e12-a9bc-4bc792d05686",
+    "vid": "24370",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11151",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FOUGERES vers ALENCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.6205 48.3075)",
-    "radarInstallDate": "2013-02-14T16:21:21",
-    "radarPlace": "MAYENNE",
+    "radarInstallDate": "2013-02-14T16:07:37",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

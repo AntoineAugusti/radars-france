@@ -1,14 +1,14 @@
 {
-    "nid": "21133",
-    "uuid": "da74423f-5ab3-4b87-a037-2a6749713e5a",
-    "vid": "21133",
+    "nid": "25144",
+    "uuid": "fa2e2572-38a7-47fe-86a2-f4e4f0b4fb9d",
+    "vid": "25144",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55096",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT ANDRE DE CUBZAC vers LIBOURNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.409646 44.983219)",
-    "radarInstallDate": "2019-12-19T16:22:56",
-    "radarPlace": "ST ANDRE DE CUBZAC",
+    "radarInstallDate": "2019-12-19T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD670",
     "radarTronconKm": [],
     "radarType": [

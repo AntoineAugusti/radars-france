@@ -1,14 +1,14 @@
 {
-    "nid": "19989",
-    "uuid": "bcbfaa89-1f13-4a2b-87bf-7eeb4ed24fba",
-    "vid": "19989",
+    "nid": "23877",
+    "uuid": "f420a3e7-a460-4c7d-abcd-85f23b9b98e8",
+    "vid": "23877",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4365",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERDUN vers ST MIHIEL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.43531 49.03383)",
-    "radarInstallDate": "2008-11-26T16:20:14",
-    "radarPlace": "GENICOURT SUR MEUSE",
+    "radarInstallDate": "2008-11-26T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD964",
     "radarTronconKm": [],
     "radarType": [

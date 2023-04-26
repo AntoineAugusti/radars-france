@@ -1,14 +1,14 @@
 {
-    "nid": "21879",
-    "uuid": "34005930-d238-4842-b796-08a3a011d9c3",
-    "vid": "21879",
+    "nid": "25519",
+    "uuid": "d7ed2796-8a45-49cd-832c-23652913948d",
+    "vid": "25519",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740673",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE110003",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740673",
+    "changed": "1681740673",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Conflans sur Seine vers Romilly sur Seine",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.71492 48.5168)",
-    "radarInstallDate": "2011-04-18T16:25:39",
-    "radarPlace": "ROMILLY SUR SEINE",
+    "radarInstallDate": "2011-04-18T16:11:20",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

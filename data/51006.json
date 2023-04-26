@@ -1,14 +1,14 @@
 {
-    "nid": "20656",
-    "uuid": "bc282670-2dc1-4267-a25c-2f3db2ad5ec1",
-    "vid": "20656",
+    "nid": "24581",
+    "uuid": "4a5ea126-8a83-487c-9cde-b979f691136d",
+    "vid": "24581",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51006",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ELBEUF vers LE NEUBOURG",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.9473 49.22405)",
-    "radarInstallDate": "2020-07-10T16:21:35",
-    "radarPlace": "FOUQUEVILLE",
+    "radarInstallDate": "2020-07-10T16:08:09",
+    "radarPlace": [],
     "radarRoad": "RD840",
     "radarTronconKm": [],
     "radarType": [

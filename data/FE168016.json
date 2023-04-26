@@ -1,14 +1,14 @@
 {
-    "nid": "22069",
-    "uuid": "fe51f73e-bfee-4e7c-9458-26d339f3a67f",
-    "vid": "22069",
+    "nid": "25686",
+    "uuid": "4537f9bd-2532-4e0a-9d34-d1faa8ae2609",
+    "vid": "25686",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168016",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue Jules Verne vers Nord-Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.29444 47.7322)",
-    "radarInstallDate": "2011-08-08T16:26:28",
-    "radarPlace": "MULHOUSE",
+    "radarInstallDate": "2011-08-08T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

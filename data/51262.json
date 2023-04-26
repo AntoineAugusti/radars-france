@@ -1,14 +1,14 @@
 {
-    "nid": "20902",
-    "uuid": "d0c18761-8971-4bed-bc86-d4cb2e8379ad",
-    "vid": "20902",
+    "nid": "24829",
+    "uuid": "8291c7be-3a2c-418e-83c8-3cdf4a270801",
+    "vid": "24829",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51262",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGES vers NEVERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.722533 47.01314)",
-    "radarInstallDate": "2020-06-12T16:22:17",
-    "radarPlace": "BENGY SUR CRAON",
+    "radarInstallDate": "2020-06-12T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD976",
     "radarTronconKm": [],
     "radarType": [

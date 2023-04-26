@@ -1,14 +1,14 @@
 {
-    "nid": "20128",
-    "uuid": "9365c6f2-1725-4a2b-9cd0-7f7ed8644e9e",
-    "vid": "20128",
+    "nid": "24010",
+    "uuid": "fb62395d-84d3-41f7-9d2b-c759250936ca",
+    "vid": "24010",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6068",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MAMERS vers ALENCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.18193 48.40735)",
-    "radarInstallDate": "2006-07-27T16:20:29",
-    "radarPlace": "VILLENEUVE EN PERSEIGNE",
+    "radarInstallDate": "2006-07-27T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RD311",
     "radarTronconKm": [],
     "radarType": [

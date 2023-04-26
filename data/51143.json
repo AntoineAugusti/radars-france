@@ -1,14 +1,14 @@
 {
-    "nid": "20791",
-    "uuid": "051060cf-cee9-4548-be70-4dc73cf20eac",
-    "vid": "20791",
+    "nid": "24715",
+    "uuid": "986ef44f-df56-426e-90fb-9f17f6f4a226",
+    "vid": "24715",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51143",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATELAUDREN vers QUINTIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.951411 48.499886)",
-    "radarInstallDate": "2019-10-25T16:21:58",
-    "radarPlace": "PLOUVARA",
+    "radarInstallDate": "2019-10-25T16:08:31",
+    "radarPlace": [],
     "radarRoad": "RD7",
     "radarTronconKm": [],
     "radarType": [

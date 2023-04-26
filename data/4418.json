@@ -1,14 +1,14 @@
 {
-    "nid": "20005",
-    "uuid": "da973f8b-d6ce-4b07-b24f-5813b40a4449",
-    "vid": "20005",
+    "nid": "23892",
+    "uuid": "8c2dd37f-727e-480c-b076-c620bdedcb9e",
+    "vid": "23892",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4418",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Montgeron vers Valenton",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.4437 48.72261)",
-    "radarInstallDate": "2009-02-13T16:20:17",
-    "radarPlace": "VILLENEUVE ST GEORGES",
+    "radarInstallDate": "2009-02-13T16:06:35",
+    "radarPlace": [],
     "radarRoad": "RN6",
     "radarTronconKm": [],
     "radarType": [

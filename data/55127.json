@@ -1,14 +1,14 @@
 {
-    "nid": "21163",
-    "uuid": "c7ea59c2-e811-48cc-9124-73e1fff670c7",
-    "vid": "21163",
+    "nid": "25174",
+    "uuid": "26acf5c5-2420-44f4-ac6b-4c190cc650fe",
+    "vid": "25174",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55127",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROGNONAS vers AVIGNON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.80944 43.92197)",
-    "radarInstallDate": "2019-12-19T16:23:02",
-    "radarPlace": "AVIGNON",
+    "radarInstallDate": "2019-12-19T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RN570",
     "radarTronconKm": [],
     "radarType": [

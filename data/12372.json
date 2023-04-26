@@ -1,14 +1,14 @@
 {
-    "nid": "21653",
-    "uuid": "e79fc3f0-1cdb-4f08-af0a-7c71ac4500c5",
-    "vid": "21653",
+    "nid": "23321",
+    "uuid": "f796e87f-ab01-4574-9937-83fae0ac8ffe",
+    "vid": "23321",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12372",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AIX NOULETTE vers DOUAI",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.01685 50.424217)",
-    "radarInstallDate": "2016-05-30T16:24:49",
-    "radarPlace": "COURCELLES LES LENS",
+    "radarInstallDate": "2016-05-30T16:05:41",
+    "radarPlace": [],
     "radarRoad": "A21",
     "radarTronconKm": [],
     "radarType": [

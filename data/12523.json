@@ -1,14 +1,14 @@
 {
-    "nid": "21784",
-    "uuid": "2524acfb-d250-4a11-ab22-893edac81603",
-    "vid": "21784",
+    "nid": "23453",
+    "uuid": "e540d4b8-2363-4c1b-8982-a09c520ed0eb",
+    "vid": "23453",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12523",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NIMES vers SAINT MARTIN DE CRAU",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.627957 43.667701)",
-    "radarInstallDate": "2021-01-18T16:25:17",
-    "radarPlace": "ARLES",
+    "radarInstallDate": "2021-01-18T16:05:52",
+    "radarPlace": [],
     "radarRoad": "RN113",
     "radarTronconKm": [],
     "radarType": [

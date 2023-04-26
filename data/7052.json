@@ -1,14 +1,14 @@
 {
-    "nid": "20229",
-    "uuid": "cb4d2785-f65c-4111-a29e-320f6dd197ce",
-    "vid": "20229",
+    "nid": "24101",
+    "uuid": "279932da-aef2-4326-a68c-4f402f745f67",
+    "vid": "24101",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7052",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Montargis vers Fontenay sur Loing",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.76789 48.07385)",
-    "radarInstallDate": "2007-08-13T16:20:38",
-    "radarPlace": "FONTENAY SUR LOING",
+    "radarInstallDate": "2007-08-13T16:07:01",
+    "radarPlace": [],
     "radarRoad": "RD2007",
     "radarTronconKm": [],
     "radarType": [

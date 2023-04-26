@@ -1,14 +1,14 @@
 {
-    "nid": "20243",
-    "uuid": "5b6cb1cd-c4c5-4581-be1a-11e1c92afca6",
-    "vid": "20243",
+    "nid": "24111",
+    "uuid": "395370d6-f818-444d-a8e5-44840280ab75",
+    "vid": "24111",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7114",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "STRASBOURG vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.6426 48.8314)",
-    "radarInstallDate": "2008-08-28T16:20:41",
-    "radarPlace": "LOGNES",
+    "radarInstallDate": "2008-08-28T16:07:02",
+    "radarPlace": [],
     "radarRoad": "A4",
     "radarTronconKm": [],
     "radarType": [

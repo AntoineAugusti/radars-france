@@ -1,14 +1,14 @@
 {
-    "nid": "21191",
-    "uuid": "ccb1e439-fbe6-422e-9f6a-a0886ee98094",
-    "vid": "21191",
+    "nid": "25202",
+    "uuid": "0b376367-0276-4629-b552-423374f189ce",
+    "vid": "25202",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55155",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "L ISLE SUR LA SORGUE vers MONTEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.027858 43.94728)",
-    "radarInstallDate": "2020-02-27T16:23:08",
-    "radarPlace": "VELLERON",
+    "radarInstallDate": "2020-02-27T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD31",
     "radarTronconKm": [],
     "radarType": [

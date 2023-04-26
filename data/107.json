@@ -1,14 +1,14 @@
 {
-    "nid": "19643",
-    "uuid": "60742500-080a-4622-89be-a1abbbeb1f76",
-    "vid": "19643",
+    "nid": "23584",
+    "uuid": "58bda25b-3825-458e-8c59-2ecf84c2581d",
+    "vid": "23584",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "107",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.28379 46.55504)",
-    "radarInstallDate": "2003-11-04T16:19:45",
-    "radarPlace": "VOUNEUIL SOUS BIARD",
+    "radarInstallDate": "2003-11-04T16:06:03",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

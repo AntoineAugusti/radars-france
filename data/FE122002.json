@@ -1,14 +1,14 @@
 {
-    "nid": "21902",
-    "uuid": "2ec64ab5-f3be-463f-b9a7-04bfd5a25fe9",
-    "vid": "21902",
+    "nid": "25541",
+    "uuid": "690b1209-b80b-42db-900b-046372627ad3",
+    "vid": "25541",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE122002",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Tr\u00e9gueux vers St Brieuc",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-2.74855 48.49254)",
-    "radarInstallDate": "2011-01-05T16:25:46",
-    "radarPlace": "ST BRIEUC",
+    "radarInstallDate": "2011-01-05T16:11:28",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21885",
-    "uuid": "879c304a-854a-40eb-beb8-57487aabd5d9",
-    "vid": "21885",
+    "nid": "25524",
+    "uuid": "94816ae5-b01b-4c98-9d02-d0f464d94435",
+    "vid": "25524",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740673",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE118004",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740673",
+    "changed": "1681740673",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bourges vers Trouy",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.40934 47.06174)",
-    "radarInstallDate": "2010-09-17T16:25:39",
-    "radarPlace": "BOURGES",
+    "radarInstallDate": "2010-09-17T16:11:20",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

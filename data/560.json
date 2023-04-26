@@ -1,14 +1,14 @@
 {
-    "nid": "19788",
-    "uuid": "5654b1fc-60cd-4866-b867-a3da94f455a5",
-    "vid": "19788",
+    "nid": "23712",
+    "uuid": "29bdb772-4beb-4ca4-b0e4-5487bc19c6ab",
+    "vid": "23712",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "560",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHARTRES vers BROU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.21133 48.24599)",
-    "radarInstallDate": "2005-05-24T16:19:53",
-    "radarPlace": "VIEUVICQ",
+    "radarInstallDate": "2005-05-24T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RD921",
     "radarTronconKm": [],
     "radarType": [

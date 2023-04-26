@@ -1,14 +1,14 @@
 {
-    "nid": "21513",
-    "uuid": "4d2e8876-638e-42b9-a7af-859e7de485f5",
-    "vid": "21513",
+    "nid": "23186",
+    "uuid": "193ef4ca-87f8-4852-8204-ee26712d0a3d",
+    "vid": "23186",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12141",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "95-VAL-D'OISE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "CERGY vers ROISSY en FRANCE",
+    "radarDirection": "CERGY vers ROISSY EN FRANCE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.3584 49.060959)",
-    "radarInstallDate": "2013-01-23T16:24:16",
-    "radarPlace": "ATTAINVILLE",
+    "radarInstallDate": "2013-01-23T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RN104",
     "radarTronconKm": [],
     "radarType": [

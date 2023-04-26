@@ -1,14 +1,14 @@
 {
-    "nid": "21248",
-    "uuid": "fe35a45f-040d-4c95-b79f-c0fbf6420ad2",
-    "vid": "21248",
+    "nid": "25259",
+    "uuid": "2b226921-84d8-4b4e-9c48-02b4ecfd1823",
+    "vid": "25259",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55213",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAU vers BAYONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.94774 43.54221)",
-    "radarInstallDate": "2020-02-28T16:23:20",
-    "radarPlace": "HABAS",
+    "radarInstallDate": "2020-02-28T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD817",
     "radarTronconKm": [],
     "radarType": [

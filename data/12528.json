@@ -1,14 +1,14 @@
 {
-    "nid": "21787",
-    "uuid": "30c50bfe-0e10-48a8-81d0-1642ff34ef53",
-    "vid": "21787",
+    "nid": "23456",
+    "uuid": "6417dabf-b721-4242-abff-e531061c54b3",
+    "vid": "23456",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12528",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VIRY CHATILLON vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.342725 48.673921)",
-    "radarInstallDate": "2019-05-17T16:25:18",
-    "radarPlace": "SAVIGNY SUR ORGE",
+    "radarInstallDate": "2019-05-17T16:05:52",
+    "radarPlace": [],
     "radarRoad": "A6",
     "radarTronconKm": [],
     "radarType": [

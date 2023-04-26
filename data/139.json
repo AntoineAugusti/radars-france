@@ -1,14 +1,14 @@
 {
-    "nid": "19662",
-    "uuid": "6c41f258-862d-4873-a1fb-fbf9498a9d50",
-    "vid": "19662",
+    "nid": "23601",
+    "uuid": "a6b7eea8-96a1-401e-8ca3-e2578d4ca540",
+    "vid": "23601",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "139",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHALON SUR SAONE VERS LYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.83825 46.31121)",
-    "radarInstallDate": "2003-12-10T16:19:46",
-    "radarPlace": "MACON",
+    "radarInstallDate": "2003-12-10T16:06:04",
+    "radarPlace": [],
     "radarRoad": "RD906",
     "radarTronconKm": [],
     "radarType": [

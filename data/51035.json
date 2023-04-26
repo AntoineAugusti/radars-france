@@ -1,14 +1,14 @@
 {
-    "nid": "20684",
-    "uuid": "bcc18cea-b2d7-442d-8e25-24bb3d86771d",
-    "vid": "20684",
+    "nid": "24609",
+    "uuid": "232f9cb0-529b-4b31-ae82-97a555f30833",
+    "vid": "24609",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51035",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTAIGU vers ST HERMINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.097273 46.754039)",
-    "radarInstallDate": "2019-07-29T16:21:38",
-    "radarPlace": "MOUCHAMPS",
+    "radarInstallDate": "2019-07-29T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD137",
     "radarTronconKm": [],
     "radarType": [

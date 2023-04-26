@@ -1,14 +1,14 @@
 {
-    "nid": "21406",
-    "uuid": "ca63cf4b-e241-4fc4-bbfa-5c3336ca6a80",
-    "vid": "21406",
+    "nid": "25423",
+    "uuid": "e4b6451c-f71a-4288-9eb0-9c1408d483ee",
+    "vid": "25423",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55387",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DAX vers ST PAUL LES DAX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.084615 43.717809)",
-    "radarInstallDate": "2021-05-28T16:23:51",
-    "radarPlace": "ST PAUL LES DAX",
+    "radarInstallDate": "2021-05-28T16:10:56",
+    "radarPlace": [],
     "radarRoad": "RD459",
     "radarTronconKm": [],
     "radarType": [

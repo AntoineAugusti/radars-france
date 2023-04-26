@@ -1,14 +1,14 @@
 {
-    "nid": "22504",
-    "uuid": "4c2de9c8-d4e5-4d88-aefa-92b81a97219b",
-    "vid": "22504",
+    "nid": "25999",
+    "uuid": "f6295800-8f7b-44f0-8a58-ccbfcc8141f9",
+    "vid": "25999",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE347010",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Monflanquin vers Villeneuve",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.72001 44.42009)",
-    "radarInstallDate": "2011-05-13T16:28:19",
-    "radarPlace": "VILLENEUVE SUR LOT",
+    "radarInstallDate": "2011-05-13T16:13:33",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

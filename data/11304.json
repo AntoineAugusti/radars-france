@@ -1,14 +1,14 @@
 {
-    "nid": "20590",
-    "uuid": "e04112ea-b85d-4369-9111-1812829baffc",
-    "vid": "20590",
+    "nid": "24417",
+    "uuid": "74bb4fbe-15c2-4f98-a30d-a89ae93f6bb8",
+    "vid": "24417",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740462",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11304",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740462",
+    "changed": "1681740462",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CREVIN vers BOURG DES COMPTES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.71742 47.924778)",
-    "radarInstallDate": "2016-01-15T16:21:26",
-    "radarPlace": "BOURG DES COMPTES",
+    "radarInstallDate": "2016-01-15T16:07:46",
+    "radarPlace": [],
     "radarRoad": "RD48",
     "radarTronconKm": [],
     "radarType": [

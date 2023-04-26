@@ -1,14 +1,14 @@
 {
-    "nid": "22085",
-    "uuid": "6d269259-2d82-4034-bba0-aa73f7ef8d39",
-    "vid": "22085",
+    "nid": "25702",
+    "uuid": "569b90b0-178e-4fe4-aed4-62e4ce609a94",
+    "vid": "25702",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE175006",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.27155 48.87522)",
-    "radarInstallDate": "2013-02-08T16:26:28",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-02-08T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

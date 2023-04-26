@@ -1,14 +1,14 @@
 {
-    "nid": "20055",
-    "uuid": "e3a599e3-4ea9-47ec-8747-323ae30e70b3",
-    "vid": "20055",
+    "nid": "23940",
+    "uuid": "16767696-17ed-4d91-b0e4-0a49f5f43caf",
+    "vid": "23940",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4644",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Tulle vers Ussel",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.99313 45.36571)",
-    "radarInstallDate": "2009-05-27T16:20:20",
-    "radarPlace": "ROSIERS D EGLETONS",
+    "radarInstallDate": "2009-05-27T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD1089",
     "radarTronconKm": [],
     "radarType": [

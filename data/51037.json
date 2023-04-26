@@ -1,14 +1,14 @@
 {
-    "nid": "20686",
-    "uuid": "8152cec3-56cf-4887-b27c-0010b7616302",
-    "vid": "20686",
+    "nid": "24611",
+    "uuid": "5fed721a-31a2-4c2c-9afd-e676f660edbc",
+    "vid": "24611",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51037",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA ROCHE SUR YON vers LES LUCS SUR BOULOGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.44719 46.799091)",
-    "radarInstallDate": "2019-07-11T16:21:38",
-    "radarPlace": "BELLEVIGNY",
+    "radarInstallDate": "2019-07-11T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD937",
     "radarTronconKm": [],
     "radarType": [

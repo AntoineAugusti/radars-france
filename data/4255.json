@@ -1,14 +1,14 @@
 {
-    "nid": "19972",
-    "uuid": "fe7ef598-6182-4b4d-9c22-a4b853647425",
-    "vid": "19972",
+    "nid": "23863",
+    "uuid": "786c4984-8cef-438a-ac75-c2ef464f8dd5",
+    "vid": "23863",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4255",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Parthenay vers Poitiers",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.05697 46.65967)",
-    "radarInstallDate": "2008-11-17T16:20:13",
-    "radarPlace": "AYRON",
+    "radarInstallDate": "2008-11-17T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RN149",
     "radarTronconKm": [],
     "radarType": [

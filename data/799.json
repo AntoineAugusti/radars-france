@@ -1,14 +1,14 @@
 {
-    "nid": "19854",
-    "uuid": "5900d072-9e2d-4585-b611-f9ee4bae533f",
-    "vid": "19854",
+    "nid": "23762",
+    "uuid": "3d0d6c85-6e6e-467b-ace1-7a0cce7d5ed9",
+    "vid": "23762",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "799",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERSAILLES VERS BEAUVAIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.09794 49.01956)",
-    "radarInstallDate": "2005-10-05T16:20:01",
-    "radarPlace": "ERAGNY SUR OISE",
+    "radarInstallDate": "2005-10-05T16:06:22",
+    "radarPlace": [],
     "radarRoad": "RN184",
     "radarTronconKm": [],
     "radarType": [

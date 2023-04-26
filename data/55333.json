@@ -1,14 +1,14 @@
 {
-    "nid": "21360",
-    "uuid": "69d3eea9-7b19-4276-82b8-fb3595f57c5a",
-    "vid": "21360",
+    "nid": "25374",
+    "uuid": "e791c83b-7135-4f8b-b60e-55297013b073",
+    "vid": "25374",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55333",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LUDON MEDOC vers BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.608339 44.959829)",
-    "radarInstallDate": "2020-12-16T16:23:44",
-    "radarPlace": "PAREMPUYRE",
+    "radarInstallDate": "2020-12-16T16:10:47",
+    "radarPlace": [],
     "radarRoad": "Rue de Macau (ex RD210)",
     "radarTronconKm": [],
     "radarType": [

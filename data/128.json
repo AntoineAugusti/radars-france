@@ -1,14 +1,14 @@
 {
-    "nid": "19655",
-    "uuid": "b59dd0c2-ee4a-43ef-95e3-d9da9bd4347f",
-    "vid": "19655",
+    "nid": "23594",
+    "uuid": "2bf63d7d-f728-4639-8b2d-d28ff085532f",
+    "vid": "23594",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "128",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATELLERAULT VERS POITIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.35564 46.62896)",
-    "radarInstallDate": "2003-11-28T16:19:45",
-    "radarPlace": "MIGNE AUXANCES",
+    "radarInstallDate": "2003-11-28T16:06:04",
+    "radarPlace": [],
     "radarRoad": "RD910",
     "radarTronconKm": [],
     "radarType": [

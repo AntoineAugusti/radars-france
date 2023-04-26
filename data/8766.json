@@ -1,14 +1,14 @@
 {
-    "nid": "20414",
-    "uuid": "d821684b-7a09-4107-a10c-b74127d5b5f9",
-    "vid": "20414",
+    "nid": "24261",
+    "uuid": "84988103-b923-410c-8921-64bfae60ef83",
+    "vid": "24261",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8766",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LONS LE SAUNIER vers VOITEUR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.5848 46.714)",
-    "radarInstallDate": "2011-04-15T16:21:02",
-    "radarPlace": "MONTAIN",
+    "radarInstallDate": "2011-04-15T16:07:22",
+    "radarPlace": [],
     "radarRoad": "RD70",
     "radarTronconKm": [],
     "radarType": [

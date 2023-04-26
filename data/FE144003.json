@@ -1,14 +1,14 @@
 {
-    "nid": "21926",
-    "uuid": "93f296dc-c584-49f4-a694-b313ce8a66ff",
-    "vid": "21926",
+    "nid": "25565",
+    "uuid": "d1a3b96a-60db-410f-94f9-205b80849d81",
+    "vid": "25565",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE144003",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Place Delorme vers Rue Mond\u00e9sir",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-1.56547 47.21599)",
-    "radarInstallDate": "2010-07-27T16:25:53",
-    "radarPlace": "NANTES",
+    "radarInstallDate": "2010-07-27T16:11:35",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

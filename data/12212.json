@@ -1,14 +1,14 @@
 {
-    "nid": "21554",
-    "uuid": "ef874a57-50b0-465e-b219-d75f8958c5a0",
-    "vid": "21554",
+    "nid": "23225",
+    "uuid": "154e064f-ee1f-4964-8a10-29f8cd040eb0",
+    "vid": "23225",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12212",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALBI vers VILLEFRANCHE D ALBIGEOIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.2793 43.916)",
-    "radarInstallDate": "2013-08-08T16:24:23",
-    "radarPlace": "BELLEGARDE MARSAL",
+    "radarInstallDate": "2013-08-08T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19780",
-    "uuid": "c5712aba-44f8-4e06-b8f2-9469a7716d97",
-    "vid": "19780",
+    "nid": "23705",
+    "uuid": "714821a4-42a1-49ec-9ae2-2f46e795d225",
+    "vid": "23705",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "526",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BONDY vers ST DENIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.4287 48.91851)",
-    "radarInstallDate": "2005-08-28T16:19:53",
-    "radarPlace": "DRANCY",
+    "radarInstallDate": "2005-08-28T16:06:16",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

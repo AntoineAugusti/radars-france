@@ -1,14 +1,14 @@
 {
-    "nid": "22727",
-    "uuid": "59ad7541-efd3-4f97-bff6-7a8d44802a27",
-    "vid": "22727",
+    "nid": "26247",
+    "uuid": "c345e7ed-667f-48f2-875a-844d8820ae28",
+    "vid": "26247",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741037",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_21_001",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741037",
+    "changed": "1681741037",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "21 - C\u00f4te-d'or",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (46.949361 4.604202)",
-    "radarInstallDate": "2017-10-05T10:53:39",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.779785 49.768205)",
+    "radarInstallDate": "2017-10-05T16:17:18",
     "radarPlace": "-",
     "radarRoad": "D111E, D33A, , D33, D973",
-    "radarTronconKm": "5.82",
+    "radarTronconKm": "5,8",
     "radarType": [
         {
             "tid": "19",

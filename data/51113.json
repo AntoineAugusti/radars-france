@@ -1,14 +1,14 @@
 {
-    "nid": "20761",
-    "uuid": "b5f08275-ea8b-4311-bdac-17f00c409a2f",
-    "vid": "20761",
+    "nid": "24685",
+    "uuid": "5023c016-0e4c-4e50-ac5e-9a57e719283e",
+    "vid": "24685",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51113",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORSANG SUR ORGE vers SAVIGNY SUR ORGE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.339855 48.665377)",
-    "radarInstallDate": "2019-12-19T16:21:52",
-    "radarPlace": "VILLEMOISSON SUR ORGE",
+    "radarInstallDate": "2019-12-19T16:08:26",
+    "radarPlace": [],
     "radarRoad": "RD257",
     "radarTronconKm": [],
     "radarType": [

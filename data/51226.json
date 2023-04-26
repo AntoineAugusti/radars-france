@@ -1,14 +1,14 @@
 {
-    "nid": "20870",
-    "uuid": "62cdcdfc-8b8f-4b7d-b354-719fa173d5e2",
-    "vid": "20870",
+    "nid": "24795",
+    "uuid": "5133490f-7f10-43ff-81fa-d759fe8633e1",
+    "vid": "24795",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51226",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "52-HAUTE-MARNE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "ST DIZIER vers CHAUMONT",
+    "radarDirection": "CHAUMONT vers ST DIZIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.113142 48.484515)",
-    "radarInstallDate": "2020-09-24T16:22:12",
-    "radarPlace": "CHATONRUPT SOMMERMONT",
+    "radarInstallDate": "2020-09-24T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RN67",
     "radarTronconKm": [],
     "radarType": [

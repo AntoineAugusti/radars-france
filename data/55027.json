@@ -1,14 +1,14 @@
 {
-    "nid": "21064",
-    "uuid": "702a3ac6-1a83-4452-a620-a84f7c7b279b",
-    "vid": "21064",
+    "nid": "25077",
+    "uuid": "66bc913a-fc96-42db-9900-7133ce47e991",
+    "vid": "25077",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55027",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AITON vers EPIERRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.306556 45.50463)",
-    "radarInstallDate": "2019-11-29T16:22:43",
-    "radarPlace": "ARGENTINE",
+    "radarInstallDate": "2019-11-29T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD1006",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20611",
-    "uuid": "6c3b9a41-d3da-4727-8fbc-a3a673cf33a5",
-    "vid": "20611",
+    "nid": "24527",
+    "uuid": "ce73884e-07ce-443a-b2d1-c561c18fda60",
+    "vid": "24527",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50037",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TROIS RIVIERES vers BASSE TERRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.68565 15.99034)",
-    "radarInstallDate": "2021-07-26T16:21:30",
-    "radarPlace": "GOURBEYRE",
+    "radarInstallDate": "2021-07-26T16:08:00",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21318",
-    "uuid": "5525413f-1ddd-47ae-b891-75e22e45f246",
-    "vid": "21318",
+    "nid": "25330",
+    "uuid": "2026d3c6-cf8e-44ea-ae9d-7bdda76bd23b",
+    "vid": "25330",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55286",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LAPALISSE vers CREUZIER LE NEUF",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.48825 46.18971)",
-    "radarInstallDate": "2020-08-11T16:23:32",
-    "radarPlace": "BOST",
+    "radarInstallDate": "2020-08-11T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD907",
     "radarTronconKm": [],
     "radarType": [

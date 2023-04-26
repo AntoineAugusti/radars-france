@@ -1,14 +1,14 @@
 {
-    "nid": "19787",
-    "uuid": "99509392-dcf4-46fc-970b-61305ff95bac",
-    "vid": "19787",
+    "nid": "23711",
+    "uuid": "39183c54-c1be-4899-8e24-9701e287b5fd",
+    "vid": "23711",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "558",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COURVILLE vers LA LOUPE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.18267 48.47484)",
-    "radarInstallDate": "2005-04-13T16:19:53",
-    "radarPlace": "PONTGOUIN",
+    "radarInstallDate": "2005-04-13T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RD920",
     "radarTronconKm": [],
     "radarType": [

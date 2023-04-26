@@ -1,14 +1,14 @@
 {
-    "nid": "21642",
-    "uuid": "a5f115d1-b658-43a9-885a-72def9b7e878",
-    "vid": "21642",
+    "nid": "23310",
+    "uuid": "9495a2e9-ee76-4fbf-b1c8-3c2f06be2449",
+    "vid": "23310",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12360",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROUBAIX vers LILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.13346 50.68421)",
-    "radarInstallDate": "2016-10-10T16:24:43",
-    "radarPlace": "WASQUEHAL",
+    "radarInstallDate": "2016-10-10T16:05:40",
+    "radarPlace": [],
     "radarRoad": "RD656",
     "radarTronconKm": [],
     "radarType": [

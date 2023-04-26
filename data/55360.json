@@ -1,14 +1,14 @@
 {
-    "nid": "21385",
-    "uuid": "d4867d62-c0e7-4936-990f-09c6a7597cdc",
-    "vid": "21385",
+    "nid": "25399",
+    "uuid": "7bd70835-b2ce-4152-9837-eeaf790ff859",
+    "vid": "25399",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55360",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE BOULOU vers CERET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.79937 42.519337)",
-    "radarInstallDate": "2020-12-09T16:23:51",
-    "radarPlace": "ST JEAN PLA DE CORTS",
+    "radarInstallDate": "2020-12-09T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD115",
     "radarTronconKm": [],
     "radarType": [

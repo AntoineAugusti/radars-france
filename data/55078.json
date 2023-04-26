@@ -1,14 +1,14 @@
 {
-    "nid": "21115",
-    "uuid": "9d49eb7b-f0be-41da-873f-e42527fd6bfa",
-    "vid": "21115",
+    "nid": "25128",
+    "uuid": "9c6319c3-1d32-4709-9af3-666ebe29ee28",
+    "vid": "25128",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55078",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VOLX vers ST MAIME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.830689 43.89678)",
-    "radarInstallDate": "2019-10-22T16:22:55",
-    "radarPlace": "VILLENEUVE",
+    "radarInstallDate": "2019-10-22T16:09:53",
+    "radarPlace": [],
     "radarRoad": "RD13",
     "radarTronconKm": [],
     "radarType": [

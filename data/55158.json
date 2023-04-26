@@ -1,14 +1,14 @@
 {
-    "nid": "21194",
-    "uuid": "93882b49-2caa-43ab-b778-8f8c43182b3e",
-    "vid": "21194",
+    "nid": "25205",
+    "uuid": "aa84fd1a-5194-4b23-a5d6-8733b6e01de5",
+    "vid": "25205",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55158",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLENEUVE SUR LOT vers AIGUILLON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.454872 44.363839)",
-    "radarInstallDate": "2020-07-03T16:23:08",
-    "radarPlace": "LAFITTE SUR LOT",
+    "radarInstallDate": "2020-07-03T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD666",
     "radarTronconKm": [],
     "radarType": [

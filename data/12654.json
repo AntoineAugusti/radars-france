@@ -1,14 +1,14 @@
 {
-    "nid": "21873",
-    "uuid": "02ac1cea-183b-4a67-86ac-b98974c82adc",
-    "vid": "21873",
+    "nid": "23554",
+    "uuid": "036d4377-fe7b-4332-9525-d9cdbbd1dcd3",
+    "vid": "23554",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740359",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12654",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740359",
+    "changed": "1681740359",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BELLAC vers GUERET",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.409979 46.21387)",
-    "radarInstallDate": "2020-11-30T16:25:39",
-    "radarPlace": "ST MAURICE LA SOUTERRAINE",
+    "radarInstallDate": "2020-11-30T16:06:01",
+    "radarPlace": [],
     "radarRoad": "RN145",
     "radarTronconKm": [],
     "radarType": [

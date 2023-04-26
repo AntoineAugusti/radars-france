@@ -1,14 +1,14 @@
 {
-    "nid": "19728",
-    "uuid": "7c389cd5-eed7-424f-8636-3dc195d268a7",
-    "vid": "19728",
+    "nid": "23656",
+    "uuid": "f8515b21-4156-4992-a330-f25968cac8d6",
+    "vid": "23656",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "349",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MAYENNE VERS FOUGERES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.91783 48.2968)",
-    "radarInstallDate": "2004-12-06T16:19:50",
-    "radarPlace": "ERNEE",
+    "radarInstallDate": "2004-12-06T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21641",
-    "uuid": "338c6cc1-1bef-4a40-a40b-499f2e1b30af",
-    "vid": "21641",
+    "nid": "23309",
+    "uuid": "62dbe5cc-0c42-4441-8223-4d498a289ec6",
+    "vid": "23309",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12358",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CARCASSONNE vers MONTAUBAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.49663 43.58519)",
-    "radarInstallDate": "2016-11-21T16:24:43",
-    "radarPlace": "BALMA",
+    "radarInstallDate": "2016-11-21T16:05:40",
+    "radarPlace": [],
     "radarRoad": "A61",
     "radarTronconKm": [],
     "radarType": [

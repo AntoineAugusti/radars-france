@@ -1,14 +1,14 @@
 {
-    "nid": "19682",
-    "uuid": "07c35a80-ba83-46e1-9821-284299f8bc35",
-    "vid": "19682",
+    "nid": "23617",
+    "uuid": "414cf9fc-8fde-499c-9150-83d327e59dbc",
+    "vid": "23617",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "185",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CRUSEILLES VERS ST JULIEN EN GENEVOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.08709 46.05159)",
-    "radarInstallDate": "2005-02-24T16:19:47",
-    "radarPlace": "COPPONEX",
+    "radarInstallDate": "2005-02-24T16:06:06",
+    "radarPlace": [],
     "radarRoad": "RD1201",
     "radarTronconKm": [],
     "radarType": [

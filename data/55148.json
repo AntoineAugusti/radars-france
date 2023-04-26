@@ -1,14 +1,14 @@
 {
-    "nid": "21184",
-    "uuid": "f24c0ddd-f79c-4db0-b368-bfdb81ac33f3",
-    "vid": "21184",
+    "nid": "25195",
+    "uuid": "1ae4c3d0-aab6-46c5-8355-b3a096219ade",
+    "vid": "25195",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55148",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers POMPIGNAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.362647 43.755606)",
-    "radarInstallDate": "2020-01-30T16:23:08",
-    "radarPlace": "ST JORY",
+    "radarInstallDate": "2020-01-30T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD820",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22841",
-    "uuid": "2e6a71bf-cbc6-4f37-ac30-f7773b71c81e",
-    "vid": "22841",
+    "nid": "26389",
+    "uuid": "db127f45-c495-40ee-ad68-8c21c908406f",
+    "vid": "26389",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229224",
+    "revisionTimestamp": "1681741065",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_65_002",
-    "created": "1637229224",
-    "changed": "1637229224",
+    "created": "1681741065",
+    "changed": "1681741065",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "65 - Hautes-Pyr\u00e9n\u00e9es",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (43.25189 -0.125929)",
-    "radarInstallDate": "2017-10-18T10:53:45",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (-1.337019 43.740686)",
+    "radarInstallDate": "2017-10-05T16:17:46",
     "radarPlace": "-",
     "radarRoad": "D817, D70",
-    "radarTronconKm": "1.82",
+    "radarTronconKm": "1,8",
     "radarType": [
         {
             "tid": "19",

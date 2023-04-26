@@ -1,14 +1,14 @@
 {
-    "nid": "22234",
-    "uuid": "f6215e06-3756-4a9c-8df7-efd13a45844a",
-    "vid": "22234",
+    "nid": "25834",
+    "uuid": "82e12f03-2dd6-4845-ace2-feaed8b7fbb4",
+    "vid": "25834",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229188",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE213043",
-    "created": "1637229188",
-    "changed": "1675870018",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vitrolles vers Marseille",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.3056 43.41124)",
-    "radarInstallDate": "2012-12-26T16:27:05",
-    "radarPlace": "LES PENNES MIRABEAU",
+    "radarInstallDate": "2012-12-26T16:12:40",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

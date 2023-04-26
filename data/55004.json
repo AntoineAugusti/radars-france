@@ -1,14 +1,14 @@
 {
-    "nid": "21042",
-    "uuid": "d1e7f408-6662-4a74-a3e0-af43f7520086",
-    "vid": "21042",
+    "nid": "25055",
+    "uuid": "5ed214be-1524-431b-9300-1a5b21f666df",
+    "vid": "25055",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740570",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55004",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740570",
+    "changed": "1681740570",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AIGREFEUILLE D AUNIS vers ROCHEFORT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.939524 46.060822)",
-    "radarInstallDate": "2019-11-08T16:22:38",
-    "radarPlace": "CIRE D AUNIS",
+    "radarInstallDate": "2019-11-08T16:09:36",
+    "radarPlace": [],
     "radarRoad": "RD5",
     "radarTronconKm": [],
     "radarType": [

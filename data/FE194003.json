@@ -1,14 +1,14 @@
 {
-    "nid": "22168",
-    "uuid": "656ccfc1-e5a6-498c-82d8-43999c7ab5fd",
-    "vid": "22168",
+    "nid": "25783",
+    "uuid": "38005fcc-8658-4a96-8585-ea25043577b0",
+    "vid": "25783",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE194003",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Cr\u00e9teil vers Joinville le Pont",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.47139 48.8062)",
-    "radarInstallDate": "2010-04-12T16:26:50",
-    "radarPlace": "ST MAUR DES FOSSES",
+    "radarInstallDate": "2010-04-12T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

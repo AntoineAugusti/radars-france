@@ -1,14 +1,14 @@
 {
-    "nid": "21022",
-    "uuid": "534f26c2-10eb-40f9-8abc-e5706c3966db",
-    "vid": "21022",
+    "nid": "24968",
+    "uuid": "f1c83cef-29f9-478b-b4b4-5c010775bcd3",
+    "vid": "24968",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51409",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BONNEVAL vers CHATEAUDUN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.340886 48.134441)",
-    "radarInstallDate": "2021-05-26T16:22:37",
-    "radarPlace": "FLACEY",
+    "radarInstallDate": "2021-05-26T16:09:22",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

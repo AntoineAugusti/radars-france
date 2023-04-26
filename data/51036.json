@@ -1,14 +1,14 @@
 {
-    "nid": "20685",
-    "uuid": "1d555bdb-8b76-4a14-bf92-b5ed837472c2",
-    "vid": "20685",
+    "nid": "24610",
+    "uuid": "930699ad-965b-47f5-a17e-17a8613e72cd",
+    "vid": "24610",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51036",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VENDRENNES vers LES SABLES D OLONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.45903 46.670675)",
-    "radarInstallDate": "2019-07-11T16:21:38",
-    "radarPlace": "LA ROCHE SUR YON",
+    "radarInstallDate": "2019-07-11T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD160",
     "radarTronconKm": [],
     "radarType": [

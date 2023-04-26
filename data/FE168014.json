@@ -1,14 +1,14 @@
 {
-    "nid": "22067",
-    "uuid": "e299521d-051d-4ba3-b657-1f7846d8cd7a",
-    "vid": "22067",
+    "nid": "25684",
+    "uuid": "6830ae0e-1867-4b8c-99b5-a58fd1da5ecf",
+    "vid": "25684",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168014",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue de Kingersheim vers le Nord",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.32611 47.7688)",
-    "radarInstallDate": "2011-06-15T16:26:22",
-    "radarPlace": "MULHOUSE",
+    "radarInstallDate": "2011-06-15T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

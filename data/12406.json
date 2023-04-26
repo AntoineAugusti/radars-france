@@ -1,14 +1,14 @@
 {
-    "nid": "21683",
-    "uuid": "9cb36285-8d98-4205-925e-007c47d86b7e",
-    "vid": "21683",
+    "nid": "23351",
+    "uuid": "5170e562-2c80-49a3-8074-6b6c78ef45a1",
+    "vid": "23351",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12406",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AIX EN PROVENCE vers NICE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.871259 43.533881)",
-    "radarInstallDate": "2016-08-16T16:24:56",
-    "radarPlace": "TANNERON",
+    "radarInstallDate": "2016-08-16T16:05:43",
+    "radarPlace": [],
     "radarRoad": "A8",
     "radarTronconKm": [],
     "radarType": [

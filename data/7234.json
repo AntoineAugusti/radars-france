@@ -1,14 +1,14 @@
 {
-    "nid": "20274",
-    "uuid": "77cc9255-f5f9-467c-84df-d2203a57cc44",
-    "vid": "20274",
+    "nid": "24140",
+    "uuid": "c11d8580-fea4-43c3-9aed-b81339a0cfd8",
+    "vid": "24140",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7234",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIGNIERES vers CHATEAUROUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.81975 46.8288)",
-    "radarInstallDate": "2008-02-22T16:20:45",
-    "radarPlace": "DIORS",
+    "radarInstallDate": "2008-02-22T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RD925",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20905",
-    "uuid": "5bba5374-2b79-425b-9e72-a0e581c7b240",
-    "vid": "20905",
+    "nid": "24832",
+    "uuid": "dc61fc22-d17a-470e-b1ab-370cfed7ee45",
+    "vid": "24832",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51265",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CONDE EN NORMANDIE vers CAEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.489098 48.911861)",
-    "radarInstallDate": "2020-06-25T16:22:17",
-    "radarPlace": "CLECY",
+    "radarInstallDate": "2020-06-25T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD 562",
     "radarTronconKm": [],
     "radarType": [

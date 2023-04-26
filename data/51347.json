@@ -1,14 +1,14 @@
 {
-    "nid": "20974",
-    "uuid": "f4ccfc1f-a871-4729-91d6-44cf4c37e4bb",
-    "vid": "20974",
+    "nid": "24910",
+    "uuid": "a18d3e6a-b4c4-4eb9-8b1f-a77d4d031b02",
+    "vid": "24910",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51347",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SENLIS vers ROYE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.720967 49.604913)",
-    "radarInstallDate": "2021-07-12T16:22:28",
-    "radarPlace": "CONCHY LES POTS",
+    "radarInstallDate": "2021-07-12T16:09:10",
+    "radarPlace": [],
     "radarRoad": "RD1017",
     "radarTronconKm": [],
     "radarType": [

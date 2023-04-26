@@ -1,14 +1,14 @@
 {
-    "nid": "22162",
-    "uuid": "4ae94b92-dda8-4fd8-ab84-35fff442c45b",
-    "vid": "22162",
+    "nid": "25777",
+    "uuid": "69563262-7567-4f16-b4d2-47f08b2b866e",
+    "vid": "25777",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE192011",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Clichy vers Asni\u00e8res",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.30803 48.90089)",
-    "radarInstallDate": "2010-09-22T16:26:49",
-    "radarPlace": "CLICHY",
+    "radarInstallDate": "2010-09-22T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20821",
-    "uuid": "df5fb11b-3a11-4732-99e8-41178b7c90e9",
-    "vid": "20821",
+    "nid": "24745",
+    "uuid": "5b2993c8-5059-4c17-abf6-da8e61182e27",
+    "vid": "24745",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51173",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SELLES SUR CHER vers ROMORANTIN LANTHENAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.696772 47.329804)",
-    "radarInstallDate": "2020-07-07T16:22:02",
-    "radarPlace": "PRUNIERS EN SOLOGNE",
+    "radarInstallDate": "2020-07-07T16:08:37",
+    "radarPlace": [],
     "radarRoad": "RD 724",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22086",
-    "uuid": "07ebd218-8229-4087-a1c5-06f922f574eb",
-    "vid": "22086",
+    "nid": "25703",
+    "uuid": "6510bd3f-5aae-4c22-9829-77fec78daa74",
+    "vid": "25703",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE175010",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Boulevard de la Villette vers la Place de la Bataille de Stalingrad",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.36773 48.88411)",
-    "radarInstallDate": "2013-02-18T16:26:28",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-02-18T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

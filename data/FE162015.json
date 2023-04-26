@@ -1,14 +1,14 @@
 {
-    "nid": "22039",
-    "uuid": "02650736-d164-41b4-bc51-e4f921d3b637",
-    "vid": "22039",
+    "nid": "25656",
+    "uuid": "abe024d2-74f3-4ce9-be63-f63965996871",
+    "vid": "25656",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162015",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ESQUERCHIN vers MONTIGNY EN GOHELLE",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.94742 50.41712)",
-    "radarInstallDate": "2012-03-29T16:26:21",
-    "radarPlace": "HENIN BEAUMONT",
+    "radarInstallDate": "2012-03-29T16:11:59",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

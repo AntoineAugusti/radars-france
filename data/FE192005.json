@@ -1,14 +1,14 @@
 {
-    "nid": "22159",
-    "uuid": "f19868f6-4861-4d9c-b903-6b43995da06e",
-    "vid": "22159",
+    "nid": "25775",
+    "uuid": "d240464e-5628-46d0-a9c0-2d9265b9cfd9",
+    "vid": "25775",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE192005",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Paris vers Province",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.32554 48.81752)",
-    "radarInstallDate": "2010-10-20T16:26:49",
-    "radarPlace": "MONTROUGE",
+    "radarInstallDate": "2010-10-20T16:12:30",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

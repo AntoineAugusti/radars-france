@@ -1,14 +1,14 @@
 {
-    "nid": "22037",
-    "uuid": "3d944936-b2d1-4f20-b653-98f127440d44",
-    "vid": "22037",
+    "nid": "25654",
+    "uuid": "195685a8-fb7a-4f99-a913-282c9eaca35f",
+    "vid": "25654",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162010",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Lens vers la Bass\u00e9e",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.81837 50.44957)",
-    "radarInstallDate": "2013-01-03T16:26:15",
-    "radarPlace": "LENS",
+    "radarInstallDate": "2013-01-03T16:11:59",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

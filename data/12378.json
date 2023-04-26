@@ -1,14 +1,14 @@
 {
-    "nid": "21657",
-    "uuid": "1695283d-ac17-4074-b0d7-93cc9bbdb143",
-    "vid": "21657",
+    "nid": "23325",
+    "uuid": "189f6c1d-8c80-48f7-98eb-038b62c139e6",
+    "vid": "23325",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12378",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "RIOM vers CLERMONT FERRAND",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (3.11472 45.85361)",
-    "radarInstallDate": "2016-06-20T16:24:49",
-    "radarPlace": "MENETROL",
+    "radarGeolocalisation": "POINT (3.115442 45.854706)",
+    "radarInstallDate": "2016-06-20T16:05:42",
+    "radarPlace": [],
     "radarRoad": "RD2009",
     "radarTronconKm": [],
     "radarType": [

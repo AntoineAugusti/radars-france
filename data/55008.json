@@ -1,14 +1,14 @@
 {
-    "nid": "21046",
-    "uuid": "ed148cd4-6351-45ed-b9fb-a08cfc65e67e",
-    "vid": "21046",
+    "nid": "25059",
+    "uuid": "d76830a6-9c41-4ee7-9f9c-c0190504bc34",
+    "vid": "25059",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740570",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55008",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740570",
+    "changed": "1681740570",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE BUGUE vers PERIGUEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.836593 45.104264)",
-    "radarInstallDate": "2020-01-16T16:22:38",
-    "radarPlace": "ST PIERRE DE CHIGNAC",
+    "radarInstallDate": "2020-01-16T16:09:36",
+    "radarPlace": [],
     "radarRoad": "RD710",
     "radarTronconKm": [],
     "radarType": [

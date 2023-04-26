@@ -1,14 +1,14 @@
 {
-    "nid": "20909",
-    "uuid": "f54174d9-6aad-4d5a-a0be-f35310c98f4b",
-    "vid": "20909",
+    "nid": "24836",
+    "uuid": "4550adda-d7fb-49f3-a39f-041f9ba83eda",
+    "vid": "24836",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51270",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAUNY vers SAINT QUENTIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.270358 49.69803)",
-    "radarInstallDate": "2020-12-23T16:22:18",
-    "radarPlace": "MENNESSIS",
+    "radarInstallDate": "2020-12-23T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD1",
     "radarTronconKm": [],
     "radarType": [

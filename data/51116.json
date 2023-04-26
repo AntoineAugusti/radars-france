@@ -1,14 +1,14 @@
 {
-    "nid": "20764",
-    "uuid": "6193d281-1c3f-480b-bfdd-dd621f38287c",
-    "vid": "20764",
+    "nid": "24688",
+    "uuid": "b64745dd-4b2b-4a03-8c3b-aee23c23c642",
+    "vid": "24688",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51116",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOURS vers LOCHES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.809702 47.291326)",
-    "radarInstallDate": "2019-11-15T16:21:53",
-    "radarPlace": "ESVRES",
+    "radarInstallDate": "2019-11-15T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RD943",
     "radarTronconKm": [],
     "radarType": [

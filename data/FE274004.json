@@ -1,14 +1,14 @@
 {
-    "nid": "22309",
-    "uuid": "660ef00f-274d-4818-8a02-b4dfc2574af1",
-    "vid": "22309",
+    "nid": "25868",
+    "uuid": "e76dbf2a-e781-460a-82b3-5bfdf01edd94",
+    "vid": "25868",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE274004",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Gen\u00e8ve vers Thonon les Bains",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.33026 46.31815)",
-    "radarInstallDate": "2010-07-02T16:27:29",
-    "radarPlace": "MASSONGY",
+    "radarInstallDate": "2010-07-02T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21524",
-    "uuid": "dc2922bc-8a35-4aeb-8be7-8a44249b2a4c",
-    "vid": "21524",
+    "nid": "23196",
+    "uuid": "2652d649-39a2-4893-80e7-9074a3c36e43",
+    "vid": "23196",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12153",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ITALIE vers NICE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.295554 43.732699)",
-    "radarInstallDate": "2013-10-25T16:24:17",
-    "radarPlace": "LA TRINITE",
+    "radarInstallDate": "2013-10-25T16:05:33",
+    "radarPlace": [],
     "radarRoad": "A8",
     "radarTronconKm": [],
     "radarType": [

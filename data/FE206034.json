@@ -1,14 +1,14 @@
 {
-    "nid": "22224",
-    "uuid": "94cfd89e-2714-4d33-a717-98b28bd2557a",
-    "vid": "22224",
+    "nid": "25827",
+    "uuid": "26c0b1ef-6f0a-44c2-9190-8d41b7e0a84f",
+    "vid": "25827",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229188",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE206034",
-    "created": "1637229188",
-    "changed": "1675870018",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nice vers St Laurent du Var",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.25156 43.70048)",
-    "radarInstallDate": "2011-11-25T16:27:04",
-    "radarPlace": "NICE",
+    "radarInstallDate": "2011-11-25T16:12:40",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

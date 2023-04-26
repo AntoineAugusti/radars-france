@@ -1,14 +1,14 @@
 {
-    "nid": "21530",
-    "uuid": "1914bae7-9309-487e-9f61-b2f7a923282f",
-    "vid": "21530",
+    "nid": "23202",
+    "uuid": "108a27c5-e00f-4d8b-8746-df543463ed85",
+    "vid": "23202",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12165",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "LILLE vers PARIS",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (2.6418 49.222)",
-    "radarInstallDate": "2013-07-15T16:24:21",
-    "radarPlace": "CHAMANT",
+    "radarGeolocalisation": "POINT (2.642181 49.223067)",
+    "radarInstallDate": "2013-07-15T16:05:33",
+    "radarPlace": [],
     "radarRoad": "A1",
     "radarTronconKm": [],
     "radarType": [

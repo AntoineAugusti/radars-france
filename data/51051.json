@@ -1,14 +1,14 @@
 {
-    "nid": "20699",
-    "uuid": "df343909-b882-48ef-bc4f-ad42c485a535",
-    "vid": "20699",
+    "nid": "24625",
+    "uuid": "8fa35e12-960c-4d9c-80fa-c64da90b2b29",
+    "vid": "24625",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51051",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AVESNES SUR HELPE vers LA CAPELLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.917941 49.987196)",
-    "radarInstallDate": "2021-06-08T16:21:42",
-    "radarPlace": "LA FLAMENGRIE",
+    "radarInstallDate": "2021-06-08T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

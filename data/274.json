@@ -1,14 +1,14 @@
 {
-    "nid": "19706",
-    "uuid": "ecc68213-212b-4298-ae92-a89775a575eb",
-    "vid": "19706",
+    "nid": "23636",
+    "uuid": "ad668ff5-8776-417a-9e2d-eda01fbaf2c3",
+    "vid": "23636",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "274",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRANTOME EN PERIGORD vers PERIGUEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.67979 45.22916)",
-    "radarInstallDate": "2005-02-01T16:19:49",
-    "radarPlace": "CHATEAU L EVEQUE",
+    "radarInstallDate": "2005-02-01T16:06:09",
+    "radarPlace": [],
     "radarRoad": "RD939",
     "radarTronconKm": [],
     "radarType": [

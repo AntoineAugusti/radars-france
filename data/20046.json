@@ -1,14 +1,14 @@
 {
-    "nid": "22614",
-    "uuid": "0d7630fd-4322-407b-a4d4-6f67da5281f3",
-    "vid": "22614",
+    "nid": "26139",
+    "uuid": "1d03fd48-68cb-4f78-b0dc-7254219f8168",
+    "vid": "26139",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20046",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "Grenoble vers Sisteron",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.73001 44.49779)",
-    "radarInstallDate": "2013-03-25T10:53:35",
+    "radarInstallDate": "2013-03-25T16:17:06",
     "radarPlace": "ASPREMONT",
-    "radarRoad": "RD 1075",
+    "radarRoad": "RD1075",
     "radarTronconKm": "2,8",
     "radarType": [
         {

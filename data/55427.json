@@ -1,14 +1,14 @@
 {
-    "nid": "21423",
-    "uuid": "f627239a-5e9c-4d6b-9a64-34a5a888feb0",
-    "vid": "21423",
+    "nid": "25456",
+    "uuid": "600777f5-b51d-4666-8d65-85136ec0d7d2",
+    "vid": "25456",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55427",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MARSEILLE vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.891326 45.723667)",
-    "radarInstallDate": "2021-08-30T16:23:57",
-    "radarPlace": "VENISSIEUX",
+    "radarInstallDate": "2021-08-30T16:11:04",
+    "radarPlace": [],
     "radarRoad": "RD383",
     "radarTronconKm": [],
     "radarType": [

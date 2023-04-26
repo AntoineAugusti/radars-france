@@ -1,14 +1,14 @@
 {
-    "nid": "22687",
-    "uuid": "772579e7-888d-4e5a-bea4-b3f28631069a",
-    "vid": "22687",
+    "nid": "26195",
+    "uuid": "34b5df02-d635-4f52-b293-a209e72b1443",
+    "vid": "26195",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741031",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20199",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741031",
+    "changed": "1681741031",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "BOULOGNE SUR MER vers DESVRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.75535 50.68241)",
-    "radarInstallDate": "2015-07-17T10:53:38",
+    "radarInstallDate": "2015-07-17T16:17:11",
     "radarPlace": "WIRWIGNES",
     "radarRoad": "RD341",
     "radarTronconKm": "3,8",

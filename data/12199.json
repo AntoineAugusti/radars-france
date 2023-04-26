@@ -1,14 +1,14 @@
 {
-    "nid": "21548",
-    "uuid": "bdf5e91c-290a-464a-8179-4bb35ba0cc77",
-    "vid": "21548",
+    "nid": "23219",
+    "uuid": "29d8c186-76a6-4da6-af45-49798b54a320",
+    "vid": "23219",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12199",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTLIEU LA GARDE vers CHEVANCEAUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.2388 45.3)",
-    "radarInstallDate": "2013-03-18T16:24:22",
-    "radarPlace": "CHEVANCEAUX",
+    "radarInstallDate": "2013-03-18T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

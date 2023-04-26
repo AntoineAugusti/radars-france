@@ -1,14 +1,14 @@
 {
-    "nid": "20551",
-    "uuid": "3e10b59c-49a9-4b0d-852a-70d802c7413c",
-    "vid": "20551",
+    "nid": "24380",
+    "uuid": "a7ddcfa5-7cf6-4afa-90c3-2f5e2d3aadd6",
+    "vid": "24380",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11185",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGNEUF EN RETZ VERS BEAUVOIR SUR MER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.02477 46.94767)",
-    "radarInstallDate": "2012-09-28T16:21:22",
-    "radarPlace": "BOUIN",
+    "radarInstallDate": "2012-09-28T16:07:40",
+    "radarPlace": [],
     "radarRoad": "RD758",
     "radarTronconKm": [],
     "radarType": [

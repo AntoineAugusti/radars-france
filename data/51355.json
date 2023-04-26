@@ -1,14 +1,14 @@
 {
-    "nid": "20981",
-    "uuid": "f5755641-ca57-4bd0-9b25-f86a3c7ed9ae",
-    "vid": "20981",
+    "nid": "24918",
+    "uuid": "3b632215-6717-4e43-99f5-9807e1e00e31",
+    "vid": "24918",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51355",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT FLORENTIN vers AUXERRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.713036 47.918051)",
-    "radarInstallDate": "2020-11-23T16:22:28",
-    "radarPlace": "PONTIGNY",
+    "radarInstallDate": "2020-11-23T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RN77",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21228",
-    "uuid": "6ee9c9f1-0b81-4963-9d8f-23ab82972fc2",
-    "vid": "21228",
+    "nid": "25239",
+    "uuid": "7953b1de-64d6-4f30-b66b-7bee62c2f9fa",
+    "vid": "25239",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55192",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NICE vers MENTON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.42505 43.74849)",
-    "radarInstallDate": "2021-05-12T16:23:14",
-    "radarPlace": "BEAUSOLEIL",
+    "radarInstallDate": "2021-05-12T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RD6007",
     "radarTronconKm": [],
     "radarType": [

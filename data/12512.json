@@ -1,14 +1,14 @@
 {
-    "nid": "21774",
-    "uuid": "733adbfd-9fb5-45d8-a8f6-1d76b59ae559",
-    "vid": "21774",
+    "nid": "23443",
+    "uuid": "44bb2990-a14e-4758-8589-174fb6a8087e",
+    "vid": "23443",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12512",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PROVINCE vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.3452 48.509)",
-    "radarInstallDate": "2017-08-03T16:25:17",
-    "radarPlace": "ST LEGER SUR SARTHE",
+    "radarInstallDate": "2017-08-03T16:05:51",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

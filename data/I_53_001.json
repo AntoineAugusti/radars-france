@@ -1,14 +1,14 @@
 {
-    "nid": "22809",
-    "uuid": "87ea93c4-0520-4264-9fce-a0203831633d",
-    "vid": "22809",
+    "nid": "26353",
+    "uuid": "37a76073-1c6a-47a6-853e-94e029d1ab09",
+    "vid": "26353",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229222",
+    "revisionTimestamp": "1681741056",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_53_001",
-    "created": "1637229222",
-    "changed": "1637229222",
+    "created": "1681741056",
+    "changed": "1681741056",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "53 - Mayenne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.46483 -0.186935)",
-    "radarInstallDate": "2017-10-18T10:53:42",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (0.205582 44.831021)",
+    "radarInstallDate": "2017-10-06T16:17:37",
     "radarPlace": "-",
     "radarRoad": "N12",
-    "radarTronconKm": "2.99",
+    "radarTronconKm": "3",
     "radarType": [
         {
             "tid": "19",

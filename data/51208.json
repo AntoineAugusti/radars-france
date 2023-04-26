@@ -1,14 +1,14 @@
 {
-    "nid": "20854",
-    "uuid": "3751c0eb-922c-43c9-a49c-284bb0182d27",
-    "vid": "20854",
+    "nid": "24779",
+    "uuid": "10f51fbd-4347-4167-839b-4b516aba1bfa",
+    "vid": "24779",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51208",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOUTTENCOURT vers BEAUCHAMPS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.538539 49.999464)",
-    "radarInstallDate": "2020-02-11T16:22:08",
-    "radarPlace": "GAMACHES",
+    "radarInstallDate": "2020-02-11T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD1015",
     "radarTronconKm": [],
     "radarType": [

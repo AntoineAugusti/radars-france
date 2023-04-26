@@ -1,14 +1,14 @@
 {
-    "nid": "21719",
-    "uuid": "b35948a6-6aa4-4187-89fd-2af0feb25341",
-    "vid": "21719",
+    "nid": "23387",
+    "uuid": "e35ef0fa-3604-4abc-af49-b0d724acefd0",
+    "vid": "23387",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12448",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY vers SAINT DIE DES VOSGES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.8941 48.3351)",
-    "radarInstallDate": "2016-09-26T16:25:03",
-    "radarPlace": "LA VOIVRE",
+    "radarInstallDate": "2016-09-26T16:05:47",
+    "radarPlace": [],
     "radarRoad": "RN59",
     "radarTronconKm": [],
     "radarType": [

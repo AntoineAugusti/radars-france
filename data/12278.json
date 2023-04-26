@@ -1,14 +1,14 @@
 {
-    "nid": "21592",
-    "uuid": "85898e61-fd88-4a57-9d7e-3034649129c9",
-    "vid": "21592",
+    "nid": "23261",
+    "uuid": "193d234e-1153-4dca-99b7-c47e38a901d2",
+    "vid": "23261",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12278",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAMBERY vers LYON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.7306 45.557)",
-    "radarInstallDate": "2014-01-20T16:24:35",
-    "radarPlace": "VEREL DE MONTBEL",
+    "radarInstallDate": "2014-01-20T16:05:37",
+    "radarPlace": [],
     "radarRoad": "A43",
     "radarTronconKm": [],
     "radarType": [

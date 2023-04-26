@@ -1,14 +1,14 @@
 {
-    "nid": "20025",
-    "uuid": "3fc121c4-f74a-4d5e-b4c1-231cc9439a2d",
-    "vid": "20025",
+    "nid": "23911",
+    "uuid": "c989bc5e-33c6-413e-8a79-c02f493ca1c3",
+    "vid": "23911",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4490",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VALENCIENNES VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.3588 50.2904)",
-    "radarInstallDate": "2009-02-27T16:20:18",
-    "radarPlace": "NEUVILLE SUR ESCAUT",
+    "radarInstallDate": "2009-02-27T16:06:36",
+    "radarPlace": [],
     "radarRoad": "A2",
     "radarTronconKm": [],
     "radarType": [

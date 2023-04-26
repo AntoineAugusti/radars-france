@@ -1,14 +1,14 @@
 {
-    "nid": "21446",
-    "uuid": "ccb46bd8-f8fe-4baa-a330-d7f807b0f7f9",
-    "vid": "21446",
+    "nid": "23120",
+    "uuid": "56cb0aab-b587-451d-bbdc-60f30b77bac3",
+    "vid": "23120",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12030",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARTENAY vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.891 48.108)",
-    "radarInstallDate": "2012-03-30T16:24:03",
-    "radarPlace": "RUAN",
+    "radarInstallDate": "2012-03-30T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RD2020",
     "radarTronconKm": [],
     "radarType": [

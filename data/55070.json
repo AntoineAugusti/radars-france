@@ -1,14 +1,14 @@
 {
-    "nid": "21107",
-    "uuid": "e323ca20-0455-40d5-a2f6-578be80fee6e",
-    "vid": "21107",
+    "nid": "25120",
+    "uuid": "16175486-ad80-4c3e-9e5a-182435c93766",
+    "vid": "25120",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55070",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAISSARGUES vers AUBORD",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.336144 43.775638)",
-    "radarInstallDate": "2020-02-11T16:22:50",
-    "radarPlace": "NIMES",
+    "radarInstallDate": "2020-02-11T16:09:48",
+    "radarPlace": [],
     "radarRoad": "RD135",
     "radarTronconKm": [],
     "radarType": [

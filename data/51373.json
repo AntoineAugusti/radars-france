@@ -1,14 +1,14 @@
 {
-    "nid": "20995",
-    "uuid": "a8c81a4d-a751-4682-8692-6bd798519a82",
-    "vid": "20995",
+    "nid": "24933",
+    "uuid": "edb41ed8-5a34-42cf-96d0-19acefb993b3",
+    "vid": "24933",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51373",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DORMANS vers REIMS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.980107 49.23639)",
-    "radarInstallDate": "2021-03-10T16:22:32",
-    "radarPlace": "LES MESNEUX",
+    "radarInstallDate": "2021-03-10T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD980",
     "radarTronconKm": [],
     "radarType": [

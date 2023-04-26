@@ -1,14 +1,14 @@
 {
-    "nid": "21047",
-    "uuid": "451ca0e3-1e7b-4834-bbfd-e3a6055e7e51",
-    "vid": "21047",
+    "nid": "25060",
+    "uuid": "966ad613-4af3-425c-87fc-2a6cec817058",
+    "vid": "25060",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55010",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FIX ST GENEYS vers PAULHAGUET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.524655 45.172394)",
-    "radarInstallDate": "2019-08-07T16:22:38",
-    "radarPlace": "ST GEORGES D AURAC",
+    "radarInstallDate": "2019-08-07T16:09:40",
+    "radarPlace": [],
     "radarRoad": "RN102",
     "radarTronconKm": [],
     "radarType": [

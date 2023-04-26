@@ -1,14 +1,14 @@
 {
-    "nid": "20608",
-    "uuid": "dda7509b-4f31-4ab8-954f-dfd0a4adfdad",
-    "vid": "20608",
+    "nid": "24524",
+    "uuid": "9bea8580-cab6-43b6-8b40-e058204bc43e",
+    "vid": "24524",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50031",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POINTE A PITRE PRINCIPAL vers BASSE TERRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.63508 15.98781)",
-    "radarInstallDate": "2020-02-17T16:21:30",
-    "radarPlace": "TROIS RIVIERES",
+    "radarInstallDate": "2020-02-17T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

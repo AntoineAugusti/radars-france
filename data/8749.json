@@ -1,14 +1,14 @@
 {
-    "nid": "20409",
-    "uuid": "c4c670d4-cbbb-4d94-83c2-e4f1bcdb432f",
-    "vid": "20409",
+    "nid": "24258",
+    "uuid": "7037d14e-47fd-482b-9a62-7ec5b32f9804",
+    "vid": "24258",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8749",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUNE VERS DIJON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.0013 47.27)",
-    "radarInstallDate": "2011-01-01T16:21:02",
-    "radarPlace": "MARSANNAY LA COTE",
+    "radarInstallDate": "2011-01-01T16:07:22",
+    "radarPlace": [],
     "radarRoad": "RD974",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21881",
-    "uuid": "9282808e-74eb-4cc7-baac-c9cb11316b64",
-    "vid": "21881",
+    "nid": "25521",
+    "uuid": "4f3df811-be1c-486f-93fa-89e76dd50d59",
+    "vid": "25521",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740673",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE118000",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740673",
+    "changed": "1681740673",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bourges vers St Doulchard",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.38935 47.08204)",
-    "radarInstallDate": "2010-11-05T16:25:39",
-    "radarPlace": "BOURGES",
+    "radarInstallDate": "2010-11-05T16:11:20",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

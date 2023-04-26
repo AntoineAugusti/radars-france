@@ -1,14 +1,14 @@
 {
-    "nid": "21706",
-    "uuid": "6236aee3-7c0e-4397-ae16-0d9674195188",
-    "vid": "21706",
+    "nid": "23374",
+    "uuid": "8deb6eaf-20c6-4be0-962f-780e7daf15ee",
+    "vid": "23374",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12432",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DREUX vers VERSAILLES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.626852 48.78852)",
-    "radarInstallDate": "2016-11-28T16:24:57",
-    "radarPlace": "MAULETTE",
+    "radarInstallDate": "2016-11-28T16:05:45",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

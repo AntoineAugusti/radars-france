@@ -1,14 +1,14 @@
 {
-    "nid": "22100",
-    "uuid": "5fc1d3a1-96b5-41dc-ad9b-585bbc6a45c9",
-    "vid": "22100",
+    "nid": "25717",
+    "uuid": "d74fb473-24e3-4964-a942-5b3933cbb3c1",
+    "vid": "25717",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE176005",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.05604 49.45289)",
-    "radarInstallDate": "2011-04-28T16:26:35",
-    "radarPlace": "ROUEN",
+    "radarInstallDate": "2011-04-28T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

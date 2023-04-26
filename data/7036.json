@@ -1,14 +1,14 @@
 {
-    "nid": "20223",
-    "uuid": "c465e3e8-0dba-44cb-a253-576fb003cf6c",
-    "vid": "20223",
+    "nid": "24095",
+    "uuid": "1945db07-e8b3-40da-aac3-1f99c10ae112",
+    "vid": "24095",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7036",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NORT SUR ERDRE VERS CARQUEFOU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.47804 47.32609)",
-    "radarInstallDate": "2008-03-13T16:20:38",
-    "radarPlace": "ST MARS DU DESERT",
+    "radarInstallDate": "2008-03-13T16:06:58",
+    "radarPlace": [],
     "radarRoad": "RD178",
     "radarTronconKm": [],
     "radarType": [

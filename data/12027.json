@@ -1,14 +1,14 @@
 {
-    "nid": "21443",
-    "uuid": "e55e4c5a-22d1-4c96-a45c-16cac4394c4d",
-    "vid": "21443",
+    "nid": "23117",
+    "uuid": "c4c0bf2d-e37f-4026-b5a1-5df9854e4dea",
+    "vid": "23117",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12027",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "37-INDRE-ET-LOIRE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "FONDETTES vers JOUE LES TOURS",
+    "radarDirection": "JOUE LES TOURS vers CORMERY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.70358 47.32163)",
-    "radarInstallDate": "2012-02-10T16:24:03",
-    "radarPlace": "CHAMBRAY LES TOURS",
+    "radarInstallDate": "2012-02-10T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RD37",
     "radarTronconKm": [],
     "radarType": [
@@ -108,9 +108,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "7",
-            "uuid": "c447707a-c428-4166-ac14-c667a8cdcb41",
-            "revisionId": "7",
+            "tid": "8",
+            "uuid": "9202ddc3-ba6a-450b-bdbf-86b3582f0107",
+            "revisionId": "8",
             "langcode": "fr",
             "vid": [
                 {
@@ -121,7 +121,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 80",
+            "name": "Vitesse VL 90",
             "description": [
                 {
                     "value": null,
@@ -134,7 +134,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154470",
+            "changed": "1515154485",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -146,30 +146,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-80.png?itok=TcuP772z",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-90.png?itok=W0JW7Fma",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-80.png?itok=TK2yJ19C",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-90.png?itok=NvEa8V-1",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-80.png?itok=thPluA0X",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-90.png?itok=b9OnBVQV",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-80.png",
-                        "fileCreated": "1515154465",
-                        "fileSize": "4045",
+                        "fileName": "vitesse-90.png",
+                        "fileCreated": "1515154481",
+                        "fileSize": "3523",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_80",
+            "macineName": "vitesse_vl_90",
             "ruleLabel": "Vitesse"
         },
         {

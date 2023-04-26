@@ -1,14 +1,14 @@
 {
-    "nid": "22824",
-    "uuid": "18d2f931-48ce-40cf-85d7-053e432f1aa1",
-    "vid": "22824",
+    "nid": "26370",
+    "uuid": "78beb809-bde6-4e63-b8c7-f3ba3f5eb019",
+    "vid": "26370",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229222",
+    "revisionTimestamp": "1681741060",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_60_006",
-    "created": "1637229222",
-    "changed": "1637229222",
+    "created": "1681741060",
+    "changed": "1681741060",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "60 - Oise",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (49.291932 2.604848)",
-    "radarInstallDate": "2017-10-06T10:53:43",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (0.809239 47.402754)",
+    "radarInstallDate": "2017-10-05T16:17:41",
     "radarPlace": "-",
     "radarRoad": "D565, D1017, D120,",
-    "radarTronconKm": "7.67",
+    "radarTronconKm": "7,7",
     "radarType": [
         {
             "tid": "19",

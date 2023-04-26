@@ -1,14 +1,14 @@
 {
-    "nid": "22049",
-    "uuid": "b1d49c38-ca88-46ef-8bb7-da1bc01fadda",
-    "vid": "22049",
+    "nid": "25666",
+    "uuid": "7fd83be7-65dd-4ac4-8953-56e2ce687b2f",
+    "vid": "25666",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE167006",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LINGOLSHEIM vers STRASBOURG",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.70597 48.56451)",
-    "radarInstallDate": "2011-08-25T16:26:21",
-    "radarPlace": "STRASBOURG",
+    "radarInstallDate": "2011-08-25T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

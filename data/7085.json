@@ -1,14 +1,14 @@
 {
-    "nid": "20238",
-    "uuid": "63a5c9db-b4c0-4faf-93a2-c83940d98621",
-    "vid": "20238",
+    "nid": "24107",
+    "uuid": "6153c97e-ef99-47c6-85e7-a6a0f684ff0c",
+    "vid": "24107",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7085",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ETRECHY VERS ETAMPES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.18068 48.4641)",
-    "radarInstallDate": "2007-10-31T16:20:39",
-    "radarPlace": "MORIGNY CHAMPIGNY",
+    "radarInstallDate": "2007-10-31T16:07:01",
+    "radarPlace": [],
     "radarRoad": "RN20",
     "radarTronconKm": [],
     "radarType": [

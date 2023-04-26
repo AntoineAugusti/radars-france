@@ -1,14 +1,14 @@
 {
-    "nid": "19931",
-    "uuid": "4f47932f-bc0b-4868-8f21-5290f24f606c",
-    "vid": "19931",
+    "nid": "23823",
+    "uuid": "44e32290-4a77-447e-bf13-5cff66b15eeb",
+    "vid": "23823",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4048",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Besan\u00e7on vers Dole",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.75994 47.16203)",
-    "radarInstallDate": "2008-10-01T16:20:08",
-    "radarPlace": "DAMPIERRE",
+    "radarInstallDate": "2008-10-01T16:06:28",
+    "radarPlace": [],
     "radarRoad": "RD673",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20567",
-    "uuid": "8be727dc-51e0-407b-b94a-78baf78ce684",
-    "vid": "20567",
+    "nid": "24396",
+    "uuid": "e2bad284-1058-4aee-9dea-9d7d26818c2f",
+    "vid": "24396",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11229",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAILLY ROMAINVILLIERS vers CHESSY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.81354 48.844561)",
-    "radarInstallDate": "2013-10-07T16:21:23",
-    "radarPlace": "BAILLY ROMAINVILLIERS",
+    "radarInstallDate": "2013-10-07T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RD344P",
     "radarTronconKm": [],
     "radarType": [

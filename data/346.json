@@ -1,14 +1,14 @@
 {
-    "nid": "19727",
-    "uuid": "9fe5d91c-3add-4a90-9622-60a05ad87dda",
-    "vid": "19727",
+    "nid": "23655",
+    "uuid": "c002137c-621c-428b-aa90-67b70e6ff771",
+    "vid": "23655",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "346",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BARFLEUR vers CHERBOURG EN COTENTIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.47515 49.64416)",
-    "radarInstallDate": "2005-06-13T16:19:49",
-    "radarPlace": "GONNEVILLE LE THEIL",
+    "radarInstallDate": "2005-06-13T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RD901",
     "radarTronconKm": [],
     "radarType": [

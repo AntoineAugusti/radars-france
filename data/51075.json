@@ -1,14 +1,14 @@
 {
-    "nid": "20723",
-    "uuid": "b693e1d3-a191-4dc1-9592-91475403898d",
-    "vid": "20723",
+    "nid": "24648",
+    "uuid": "31c8de10-58ba-410d-a3be-4f92c2044018",
+    "vid": "24648",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51075",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BLOIS vers CHATEAUDUN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.328694 47.674316)",
-    "radarInstallDate": "2019-08-23T16:21:47",
-    "radarPlace": "VILLERBON",
+    "radarInstallDate": "2019-08-23T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD924",
     "radarTronconKm": [],
     "radarType": [

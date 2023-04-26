@@ -1,14 +1,14 @@
 {
-    "nid": "21082",
-    "uuid": "49484ea1-039a-4ee1-8cba-1479434428e3",
-    "vid": "21082",
+    "nid": "25095",
+    "uuid": "8e09e13d-0300-4200-8d20-d341cad4af1e",
+    "vid": "25095",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55045",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RILHAC RANCON vers VERNEUIL SUR VIENNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.255308 45.891697)",
-    "radarInstallDate": "2019-12-05T16:22:49",
-    "radarPlace": "CHAPTELAT",
+    "radarInstallDate": "2019-12-05T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RN520",
     "radarTronconKm": [],
     "radarType": [

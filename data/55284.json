@@ -1,14 +1,14 @@
 {
-    "nid": "21316",
-    "uuid": "28570220-fecf-4adf-b10a-b8cb93584ffb",
-    "vid": "21316",
+    "nid": "25328",
+    "uuid": "8460ac36-d85b-4b43-ac7c-dbcb9e30271e",
+    "vid": "25328",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55284",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAHORS vers AGEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.73406 44.26005)",
-    "radarInstallDate": "2020-07-24T16:23:32",
-    "radarPlace": "LAROQUE TIMBAUT",
+    "radarInstallDate": "2020-07-24T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD656",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22492",
-    "uuid": "26515074-d882-4104-af65-b2a9ab0a815f",
-    "vid": "22492",
+    "nid": "26074",
+    "uuid": "acd6e93f-cd4d-4f14-b3f5-cd5dd95bb898",
+    "vid": "26074",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE344501",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.38496 47.16053)",
-    "radarInstallDate": "2013-08-19T16:28:19",
-    "radarPlace": "LA HAIE FOUASSIERE",
+    "radarInstallDate": "2013-08-19T16:13:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

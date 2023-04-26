@@ -1,14 +1,14 @@
 {
-    "nid": "22898",
-    "uuid": "2cfbdba2-9443-4893-bf63-acc9855dea85",
-    "vid": "22898",
+    "nid": "26459",
+    "uuid": "2067eb41-2c82-427e-9806-96fabd035d9f",
+    "vid": "26459",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741083",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_91_003",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741083",
+    "changed": "1681741083",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "91 - Essonne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.435222 2.201699)",
-    "radarInstallDate": "2018-01-08T10:53:49",
-    "radarPlace": "-",
-    "radarRoad": "D837",
-    "radarTronconKm": "22.65",
+    "radarDirection": "48.476538, -0.153653",
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": [],
+    "radarInstallDate": "2017-10-18T16:18:05",
+    "radarPlace": "D837\"",
+    "radarRoad": "\"300",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

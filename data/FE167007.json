@@ -1,14 +1,14 @@
 {
-    "nid": "22050",
-    "uuid": "0c5e9ebb-cbdb-4f4b-b54c-b29700c569bd",
-    "vid": "22050",
+    "nid": "25667",
+    "uuid": "e828f9e7-e810-4a70-a73a-61037b706d2b",
+    "vid": "25667",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE167007",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.78417 48.8135)",
-    "radarInstallDate": "2011-09-09T16:26:21",
-    "radarPlace": "HAGUENAU",
+    "radarInstallDate": "2011-09-09T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

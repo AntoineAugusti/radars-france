@@ -1,14 +1,14 @@
 {
-    "nid": "21934",
-    "uuid": "92fbe689-4cb8-4564-8c08-691cbe1ed0f2",
-    "vid": "21934",
+    "nid": "25573",
+    "uuid": "99eba70f-e32a-4477-a88b-56ba16375ece",
+    "vid": "25573",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE145010",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Orl\u00e9ans vers St Jean de Braye",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.96377 47.91401)",
-    "radarInstallDate": "2011-03-28T16:25:53",
-    "radarPlace": "ST JEAN DE BRAYE",
+    "radarInstallDate": "2011-03-28T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

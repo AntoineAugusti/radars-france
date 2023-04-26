@@ -1,14 +1,14 @@
 {
-    "nid": "20357",
-    "uuid": "5e75d6f4-33d5-4385-ac65-99bdf3185a67",
-    "vid": "20357",
+    "nid": "24211",
+    "uuid": "2faacb61-6737-4670-923d-b1c557737c76",
+    "vid": "24211",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8585",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALENCON vers ROUEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.2682 48.745)",
-    "radarInstallDate": "2011-02-16T16:20:54",
-    "radarPlace": "CROISILLES",
+    "radarInstallDate": "2011-02-16T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD438",
     "radarTronconKm": [],
     "radarType": [

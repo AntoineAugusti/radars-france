@@ -1,14 +1,14 @@
 {
-    "nid": "21718",
-    "uuid": "939c3deb-a8a3-44b7-9e18-4318b5d252a2",
-    "vid": "21718",
+    "nid": "23386",
+    "uuid": "31d6bcfe-4099-4aeb-973e-bd248a8eeb58",
+    "vid": "23386",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12445",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.731561 47.739045)",
-    "radarInstallDate": "2020-01-14T16:25:03",
-    "radarPlace": "ST CYR LES COLONS",
+    "radarInstallDate": "2020-01-14T16:05:47",
+    "radarPlace": [],
     "radarRoad": "A6",
     "radarTronconKm": [],
     "radarType": [

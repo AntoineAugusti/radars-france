@@ -1,14 +1,14 @@
 {
-    "nid": "20646",
-    "uuid": "79fae832-7f10-4e74-9d58-945f8a50e87a",
-    "vid": "20646",
+    "nid": "24566",
+    "uuid": "f730f9ab-ac70-409c-837c-91bcd2bc7fd2",
+    "vid": "24566",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50419",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT ANDRE vers SAINTE SUZANNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (55.6573 -20.9569)",
-    "radarInstallDate": "2020-12-29T16:21:34",
-    "radarPlace": "SAINT ANDRE",
+    "radarInstallDate": "2020-12-29T16:08:09",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19726",
-    "uuid": "d37ec71a-65cf-4b99-90a3-497b938b1cc9",
-    "vid": "19726",
+    "nid": "23654",
+    "uuid": "5ab56507-3c1a-4af9-bd00-2a76ff683d24",
+    "vid": "23654",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "345",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COUTANCES vers LESSAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.48766 49.10263)",
-    "radarInstallDate": "2005-05-10T16:19:49",
-    "radarPlace": "ANCTEVILLE",
+    "radarInstallDate": "2005-05-10T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RD2",
     "radarTronconKm": [],
     "radarType": [

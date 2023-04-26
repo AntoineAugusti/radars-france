@@ -1,14 +1,14 @@
 {
-    "nid": "21850",
-    "uuid": "ef0395c7-bff4-4a26-92f5-53dff97eeae9",
-    "vid": "21850",
+    "nid": "23528",
+    "uuid": "88fcac3e-e8c9-45ec-9eb1-22b4aec55275",
+    "vid": "23528",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12625",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LILLE vers VALENCIENNES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.48538 50.36111)",
-    "radarInstallDate": "2020-11-10T16:25:32",
-    "radarPlace": "VALENCIENNES",
+    "radarInstallDate": "2020-11-10T16:05:58",
+    "radarPlace": [],
     "radarRoad": "A23",
     "radarTronconKm": [],
     "radarType": [

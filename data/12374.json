@@ -1,14 +1,14 @@
 {
-    "nid": "21655",
-    "uuid": "7c64ff5b-38aa-4ed0-aa2d-9a2b5df1f0a3",
-    "vid": "21655",
+    "nid": "23323",
+    "uuid": "639a3e66-0edb-4008-96dd-b52687ca5aa1",
+    "vid": "23323",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12374",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "NEVERS vers PARIS",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (3.139964 47.038745)",
-    "radarInstallDate": "2016-09-19T16:24:49",
-    "radarPlace": "VARENNES VAUZELLES",
+    "radarGeolocalisation": "POINT (3.13987 47.038913)",
+    "radarInstallDate": "2016-09-19T16:05:41",
+    "radarPlace": [],
     "radarRoad": "A77",
     "radarTronconKm": [],
     "radarType": [

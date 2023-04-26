@@ -1,14 +1,14 @@
 {
-    "nid": "21453",
-    "uuid": "5985d40d-d8b1-48fc-9c97-e7ef144867ed",
-    "vid": "21453",
+    "nid": "23127",
+    "uuid": "25154c8f-cd91-43e8-999d-3fe1d72eb2b7",
+    "vid": "23127",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12043",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "MARSEILLE vers PARIS",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (4.9344 45.796)",
-    "radarInstallDate": "2012-03-22T16:24:03",
-    "radarPlace": "VAULX EN VELIN",
+    "radarGeolocalisation": "POINT (4.934379 45.796074)",
+    "radarInstallDate": "2012-03-22T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RN346",
     "radarTronconKm": [],
     "radarType": [

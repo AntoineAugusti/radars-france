@@ -1,14 +1,14 @@
 {
-    "nid": "21615",
-    "uuid": "bd2f29ef-3ebd-421b-bb41-d0be2336ca56",
-    "vid": "21615",
+    "nid": "23284",
+    "uuid": "53e9a145-64de-4b02-b1d8-0f5952f900b1",
+    "vid": "23284",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12324",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers AUCH",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.6237 43.663)",
-    "radarInstallDate": "2015-06-29T16:24:36",
-    "radarPlace": "AUCH",
+    "radarInstallDate": "2015-06-29T16:05:38",
+    "radarPlace": [],
     "radarRoad": "RN124",
     "radarTronconKm": [],
     "radarType": [

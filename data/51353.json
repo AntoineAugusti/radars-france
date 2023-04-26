@@ -1,14 +1,14 @@
 {
-    "nid": "20979",
-    "uuid": "8a3bcae3-41cb-4e55-b686-1e608e269aba",
-    "vid": "20979",
+    "nid": "24916",
+    "uuid": "0a192294-6e16-44b0-bfd7-9aa1d332848f",
+    "vid": "24916",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51353",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MAULEVRIER SAINTE GERTRUDE vers YVETOT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.730021 49.580283)",
-    "radarInstallDate": "2020-12-01T16:22:28",
-    "radarPlace": "LOUVETOT",
+    "radarInstallDate": "2020-12-01T16:09:10",
+    "radarPlace": [],
     "radarRoad": "RD131",
     "radarTronconKm": [],
     "radarType": [

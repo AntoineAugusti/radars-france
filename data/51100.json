@@ -1,14 +1,14 @@
 {
-    "nid": "20748",
-    "uuid": "a20cad52-3c50-4858-a563-482fa5a5fc99",
-    "vid": "20748",
+    "nid": "24672",
+    "uuid": "90938d82-c8a4-4be4-99ea-d947f785f7ca",
+    "vid": "24672",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51100",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "27-EURE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "Beuzeville vers PONT Audemer",
+    "radarDirection": "PONT AUDEMER vers BEUZEVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.441016 49.362353)",
-    "radarInstallDate": "2020-01-24T16:21:48",
-    "radarPlace": "TOUTAINVILLE",
+    "radarInstallDate": "2020-01-24T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RD675",
     "radarTronconKm": [],
     "radarType": [

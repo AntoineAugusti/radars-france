@@ -1,14 +1,14 @@
 {
-    "nid": "21388",
-    "uuid": "239df2ce-af3f-4062-9097-44b6b5302548",
-    "vid": "21388",
+    "nid": "25402",
+    "uuid": "81476091-855b-45df-836e-ae84a22fa944",
+    "vid": "25402",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55363",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE BARCARES vers RIVESALTES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.00051 42.786233)",
-    "radarInstallDate": "2020-10-09T16:23:51",
-    "radarPlace": "ST LAURENT DE LA SALANQUE",
+    "radarInstallDate": "2020-10-09T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD83",
     "radarTronconKm": [],
     "radarType": [

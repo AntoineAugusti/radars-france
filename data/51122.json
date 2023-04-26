@@ -1,14 +1,14 @@
 {
-    "nid": "20770",
-    "uuid": "a24a2b71-5908-4741-98fb-c1c1b87ecc05",
-    "vid": "20770",
+    "nid": "24694",
+    "uuid": "a6ddea97-689b-421a-88af-100d2583890c",
+    "vid": "24694",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51122",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BLOIS vers TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.86879 47.401925)",
-    "radarInstallDate": "2019-11-28T16:21:53",
-    "radarPlace": "VERNOU SUR BRENNE",
+    "radarInstallDate": "2019-11-28T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RD952",
     "radarTronconKm": [],
     "radarType": [

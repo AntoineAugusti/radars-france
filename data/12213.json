@@ -1,14 +1,14 @@
 {
-    "nid": "21555",
-    "uuid": "726a352f-565e-4f77-a998-392b832db760",
-    "vid": "21555",
+    "nid": "23226",
+    "uuid": "68e74924-b503-429d-bd13-106f9caabffd",
+    "vid": "23226",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12213",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRASSAC vers CASTRES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.3086 43.621)",
-    "radarInstallDate": "2013-04-08T16:24:23",
-    "radarPlace": "BURLATS",
+    "radarInstallDate": "2013-04-08T16:05:35",
+    "radarPlace": [],
     "radarRoad": "RD622",
     "radarTronconKm": [],
     "radarType": [

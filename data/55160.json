@@ -1,14 +1,14 @@
 {
-    "nid": "21196",
-    "uuid": "61cefb03-1a6e-4bf7-b784-d646a12abcbf",
-    "vid": "21196",
+    "nid": "25207",
+    "uuid": "18680aa6-2635-46ca-96b8-4b2dff5a213e",
+    "vid": "25207",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55160",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MEYSSAC vers BRIVE LA GAILLARDE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.55456 45.12362)",
-    "radarInstallDate": "2020-02-12T16:23:08",
-    "radarPlace": "COSNAC",
+    "radarInstallDate": "2020-02-12T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD38",
     "radarTronconKm": [],
     "radarType": [

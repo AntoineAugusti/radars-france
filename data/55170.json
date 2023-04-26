@@ -1,14 +1,14 @@
 {
-    "nid": "21206",
-    "uuid": "1909cd08-0482-4b63-a74c-b69bffc966df",
-    "vid": "21206",
+    "nid": "25217",
+    "uuid": "4d93b35f-69d9-491c-b347-096349bb729e",
+    "vid": "25217",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55170",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "42-LOIRE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "MONTROND LES BAINS vers VEAUCHE",
+    "radarDirection": "VEAUCHE vers MONTROND LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.265287 45.598721)",
-    "radarInstallDate": "2020-01-30T16:23:13",
-    "radarPlace": "CUZIEU",
+    "radarInstallDate": "2020-01-30T16:10:12",
+    "radarPlace": [],
     "radarRoad": "RD1082",
     "radarTronconKm": [],
     "radarType": [

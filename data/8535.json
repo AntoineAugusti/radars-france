@@ -1,14 +1,14 @@
 {
-    "nid": "20344",
-    "uuid": "6c12e941-fd0a-4ec9-8590-a499e962c272",
-    "vid": "20344",
+    "nid": "24199",
+    "uuid": "41f08d0b-5422-4137-89a1-5bafe4d9e8e4",
+    "vid": "24199",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8535",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PROVINCE vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.417 48.939)",
-    "radarInstallDate": "2010-11-19T16:20:53",
-    "radarPlace": "LE BOURGET",
+    "radarInstallDate": "2010-11-19T16:07:13",
+    "radarPlace": [],
     "radarRoad": "A1",
     "radarTronconKm": [],
     "radarType": [

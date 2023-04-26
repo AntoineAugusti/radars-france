@@ -1,14 +1,14 @@
 {
-    "nid": "22826",
-    "uuid": "e355ba79-62b2-4dde-b5ce-a33678702318",
-    "vid": "22826",
+    "nid": "26373",
+    "uuid": "070ae0d6-091f-42a9-87e6-8eef92945176",
+    "vid": "26373",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229222",
+    "revisionTimestamp": "1681741062",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_61_004",
-    "created": "1637229222",
-    "changed": "1637229222",
+    "created": "1681741062",
+    "changed": "1681741062",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "61 - Orne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.456685 -0.626282)",
-    "radarInstallDate": "2017-10-06T10:53:43",
-    "radarPlace": "-",
-    "radarRoad": "D924, D924E, D260, D118, D43, D229, D24, D826, D820, D22, D462, D207, D22A, D924D, D56, D924C, D829, D18, D23, D908, D811, D828, D898, D814, D976, D300, D962A, D264, D962, D911, D257, D827, D54, D368, D225, D262, D259, D223, D25",
-    "radarTronconKm": "65.66",
+    "radarDirection": "47.009371, 0.601023",
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": [],
+    "radarInstallDate": "2017-10-05T16:17:42",
+    "radarPlace": "D962, D976\"",
+    "radarRoad": "\"300",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

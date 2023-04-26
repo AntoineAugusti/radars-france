@@ -1,14 +1,14 @@
 {
-    "nid": "21377",
-    "uuid": "50b4e8b8-cd89-4285-bc50-1f55f7cc666c",
-    "vid": "21377",
+    "nid": "25391",
+    "uuid": "5e141510-0209-4549-acae-36e6389a81e9",
+    "vid": "25391",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55351",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SURGERES vers MAUZE SUR LE MIGNON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.718432 46.145499)",
-    "radarInstallDate": "2020-12-23T16:23:45",
-    "radarPlace": "SAINT GEORGES DU BOIS",
+    "radarInstallDate": "2020-12-23T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD911",
     "radarTronconKm": [],
     "radarType": [

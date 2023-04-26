@@ -1,14 +1,14 @@
 {
-    "nid": "21012",
-    "uuid": "e323dd97-6e0c-4bb0-abc1-df3a9f6f6a2b",
-    "vid": "21012",
+    "nid": "24956",
+    "uuid": "3ff7fb99-d9e3-4356-af1d-808e501076a2",
+    "vid": "24956",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51396",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROSTRENEN vers SAINT BRIEUC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.148665 48.313731)",
-    "radarInstallDate": "2021-02-19T16:22:33",
-    "radarPlace": "ST NICOLAS DU PELEM",
+    "radarInstallDate": "2021-02-19T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD790",
     "radarTronconKm": [],
     "radarType": [

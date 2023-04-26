@@ -1,14 +1,14 @@
 {
-    "nid": "20332",
-    "uuid": "d6ff1e07-e065-4c33-8f29-dd2b98a7be71",
-    "vid": "20332",
+    "nid": "24189",
+    "uuid": "c85858ec-e03d-4a0b-a257-12da8e6aaf2c",
+    "vid": "24189",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7479",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE MANS vers LA FL\u00c8CHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.00997 47.7235)",
-    "radarInstallDate": "2009-03-09T16:20:53",
-    "radarPlace": "CLERMONT CREANS",
+    "radarInstallDate": "2009-03-09T16:07:10",
+    "radarPlace": [],
     "radarRoad": "RD323",
     "radarTronconKm": [],
     "radarType": [

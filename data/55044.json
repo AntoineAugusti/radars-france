@@ -1,14 +1,14 @@
 {
-    "nid": "21081",
-    "uuid": "dd573c32-7be7-435b-b4d1-a7fb1b021446",
-    "vid": "21081",
+    "nid": "25094",
+    "uuid": "99bd5eb2-7193-4e58-802e-b2cf315b9d72",
+    "vid": "25094",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55044",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIMOGES vers ST YRIEIX LA PERCHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.291192 45.767661)",
-    "radarInstallDate": "2019-10-07T16:22:49",
-    "radarPlace": "LE VIGEN",
+    "radarInstallDate": "2019-10-07T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD704",
     "radarTronconKm": [],
     "radarType": [

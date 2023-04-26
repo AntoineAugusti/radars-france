@@ -1,14 +1,14 @@
 {
-    "nid": "20049",
-    "uuid": "df8040cd-34fd-4765-a70d-d48c39e55858",
-    "vid": "20049",
+    "nid": "23934",
+    "uuid": "03c91a45-d4f6-4f27-ae45-0b5747812f43",
+    "vid": "23934",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4597",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOISSONS vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.9916 49.2345)",
-    "radarInstallDate": "2009-09-09T16:20:20",
-    "radarPlace": "COYOLLES",
+    "radarInstallDate": "2009-09-09T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

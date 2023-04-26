@@ -1,14 +1,14 @@
 {
-    "nid": "20519",
-    "uuid": "885f0ec8-2482-42ae-bdfd-f435f0763aa8",
-    "vid": "20519",
+    "nid": "24354",
+    "uuid": "fcfc8045-caaf-403d-81fe-8021970996ed",
+    "vid": "24354",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11086",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAMPAGNOLE vers PONTARLIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.0539 46.816)",
-    "radarInstallDate": "2012-04-06T16:21:18",
-    "radarPlace": "CENSEAU",
+    "radarInstallDate": "2012-04-06T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD471",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20377",
-    "uuid": "67cfc04c-befe-4bd0-ae4b-1156ff373562",
-    "vid": "20377",
+    "nid": "24230",
+    "uuid": "9db1f70e-e4aa-42f6-b292-a9d2d7aade43",
+    "vid": "24230",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8641",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "APATOU vers ST LAURENT DU MARONI",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-54.03177 5.49099)",
-    "radarInstallDate": "2014-04-28T16:20:58",
-    "radarPlace": "ST LAURENT DU MARONI",
+    "radarInstallDate": "2014-04-28T16:07:18",
+    "radarPlace": [],
     "radarRoad": "RD11",
     "radarTronconKm": [],
     "radarType": [

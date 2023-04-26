@@ -1,14 +1,14 @@
 {
-    "nid": "20999",
-    "uuid": "d2d02a0b-ef2a-4014-8897-1db57b62ae59",
-    "vid": "20999",
+    "nid": "24938",
+    "uuid": "2849ac5f-39e6-468b-95d1-42a79d5416c4",
+    "vid": "24938",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51378",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARRAINCOURT vers DESTRY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.549284 48.966957)",
-    "radarInstallDate": "2021-07-26T16:22:33",
-    "radarPlace": "BRULANGE",
+    "radarInstallDate": "2021-07-26T16:09:16",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

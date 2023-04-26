@@ -1,14 +1,14 @@
 {
-    "nid": "19865",
-    "uuid": "2c275364-4b92-484a-9bfc-e3e4851bf60c",
-    "vid": "19865",
+    "nid": "23771",
+    "uuid": "c9843176-70a1-403e-aa00-eb3b365ad0c4",
+    "vid": "23771",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "871",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAR LE DUC vers ST DIZIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.15287 48.76746)",
-    "radarInstallDate": "2005-06-27T16:20:01",
-    "radarPlace": "BAR LE DUC",
+    "radarInstallDate": "2005-06-27T16:06:22",
+    "radarPlace": [],
     "radarRoad": "RD635",
     "radarTronconKm": [],
     "radarType": [

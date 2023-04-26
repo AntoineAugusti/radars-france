@@ -1,14 +1,14 @@
 {
-    "nid": "21279",
-    "uuid": "e632221c-4a8c-4e5b-b97a-cccd462ec86a",
-    "vid": "21279",
+    "nid": "25292",
+    "uuid": "af9e6685-e282-4bb8-97cf-477b723040b4",
+    "vid": "25292",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55246",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "82-TARN-ET-GARONNE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "SALVAGNAC vers MONTAUBAN",
+    "radarDirection": "MONTAUBAN vers SALVAGNAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.440531 43.956499)",
-    "radarInstallDate": "2020-12-28T16:23:26",
-    "radarPlace": "SAINT NAUPHARY",
+    "radarInstallDate": "2020-12-28T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

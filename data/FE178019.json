@@ -1,14 +1,14 @@
 {
-    "nid": "22125",
-    "uuid": "c95809d4-054a-41f6-a29c-54a951a2c266",
-    "vid": "22125",
+    "nid": "25741",
+    "uuid": "7042cd55-7c33-4c0b-82a0-34fd36955815",
+    "vid": "25741",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178019",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord-Ouest vers Sud-Est",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.03547 48.9388)",
-    "radarInstallDate": "2011-06-15T16:26:36",
-    "radarPlace": "CARRIERES SOUS POISSY",
+    "radarInstallDate": "2011-06-15T16:12:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

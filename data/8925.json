@@ -1,14 +1,14 @@
 {
-    "nid": "20459",
-    "uuid": "bc44b7df-4689-42b4-9784-252b575c43b2",
-    "vid": "20459",
+    "nid": "24303",
+    "uuid": "80490fbb-57a5-45c3-890f-8699df57cbec",
+    "vid": "24303",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8925",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CLEFS VAL D ANJOU vers BAUGE EN ANJOU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.10143 47.5582)",
-    "radarInstallDate": "2011-05-02T16:21:10",
-    "radarPlace": "BAUGE EN ANJOU",
+    "radarInstallDate": "2011-05-02T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD938",
     "radarTronconKm": [],
     "radarType": [

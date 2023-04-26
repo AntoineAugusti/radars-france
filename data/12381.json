@@ -1,14 +1,14 @@
 {
-    "nid": "21660",
-    "uuid": "1dfde13b-d0c2-4085-8505-262072a6fa68",
-    "vid": "21660",
+    "nid": "23328",
+    "uuid": "93a5a6b4-c696-4679-80c7-6660ea0e11b9",
+    "vid": "23328",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12381",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DREUX vers CHARTRES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.463278 48.507389)",
-    "radarInstallDate": "2016-09-08T16:24:50",
-    "radarPlace": "POISVILLIERS",
+    "radarInstallDate": "2016-09-08T16:05:42",
+    "radarPlace": [],
     "radarRoad": "RN154",
     "radarTronconKm": [],
     "radarType": [

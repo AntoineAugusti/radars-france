@@ -1,14 +1,14 @@
 {
-    "nid": "21336",
-    "uuid": "b1fc9ce1-ea66-48c0-a375-d6b8e588bdbb",
-    "vid": "21336",
+    "nid": "25350",
+    "uuid": "0d926cf2-2951-4bf4-8927-3791045559f2",
+    "vid": "25350",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55308",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTAGNIEU vers SAINT BENOIT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.469646 45.780178)",
-    "radarInstallDate": "2020-09-18T16:23:38",
-    "radarPlace": "BRIORD",
+    "radarInstallDate": "2020-09-18T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD19",
     "radarTronconKm": [],
     "radarType": [

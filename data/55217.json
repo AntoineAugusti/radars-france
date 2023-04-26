@@ -1,14 +1,14 @@
 {
-    "nid": "21252",
-    "uuid": "dec6de07-3b48-46d4-bccb-b958aa48c5ac",
-    "vid": "21252",
+    "nid": "25263",
+    "uuid": "798d64da-298c-4f3c-8c54-fc2e49524774",
+    "vid": "25263",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55217",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SANGUINET vers PARENTIS EN BORN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.1068 44.452)",
-    "radarInstallDate": "2021-01-04T16:23:20",
-    "radarPlace": "BISCARROSSE",
+    "radarInstallDate": "2021-01-04T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD652",
     "radarTronconKm": [],
     "radarType": [

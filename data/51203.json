@@ -1,14 +1,14 @@
 {
-    "nid": "20850",
-    "uuid": "5691f4b0-cb38-4bc6-9879-dc48706f214d",
-    "vid": "20850",
+    "nid": "24774",
+    "uuid": "419dc4ae-9d2e-4185-972a-ac87368f0aef",
+    "vid": "24774",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51203",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROYE vers CUVILLY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.752146 49.648851)",
-    "radarInstallDate": "2020-01-24T16:22:08",
-    "radarPlace": "TILLOLOY",
+    "radarInstallDate": "2020-01-24T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD1017",
     "radarTronconKm": [],
     "radarType": [

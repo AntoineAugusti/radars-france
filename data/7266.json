@@ -1,14 +1,14 @@
 {
-    "nid": "20286",
-    "uuid": "dfff3e24-368b-4ea6-aeaa-b7c4d821c2a3",
-    "vid": "20286",
+    "nid": "24150",
+    "uuid": "5c65e389-b482-4b44-bc72-9f92a62eaf5a",
+    "vid": "24150",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7266",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SABLE SUR SARTHE vers LA FLECHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.1134 47.72732)",
-    "radarInstallDate": "2008-04-04T16:20:46",
-    "radarPlace": "LA FLECHE",
+    "radarInstallDate": "2008-04-04T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RD306",
     "radarTronconKm": [],
     "radarType": [

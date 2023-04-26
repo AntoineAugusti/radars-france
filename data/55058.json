@@ -1,14 +1,14 @@
 {
-    "nid": "21095",
-    "uuid": "4ccca2d9-d2f4-498d-b4ce-c1e5af856349",
-    "vid": "21095",
+    "nid": "25108",
+    "uuid": "16a7e646-64bf-4648-b762-367d0d739681",
+    "vid": "25108",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55058",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NARBONNE vers PERPIGNAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.943681 43.083293)",
-    "radarInstallDate": "2019-08-07T16:22:50",
-    "radarPlace": "PEYRIAC DE MER",
+    "radarInstallDate": "2019-08-07T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD6009",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19649",
-    "uuid": "cc8ae498-ad67-4405-b76a-51c6054bf9b9",
-    "vid": "19649",
+    "nid": "23589",
+    "uuid": "a5564b91-9003-4944-b69a-c02b53e9be15",
+    "vid": "23589",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "118",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PROVINCE VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2516 48.88743)",
-    "radarInstallDate": "2003-11-25T16:19:45",
-    "radarPlace": "PUTEAUX",
+    "radarInstallDate": "2003-11-25T16:06:04",
+    "radarPlace": [],
     "radarRoad": "RN1014",
     "radarTronconKm": [],
     "radarType": [

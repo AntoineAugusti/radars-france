@@ -1,14 +1,14 @@
 {
-    "nid": "22600",
-    "uuid": "09a5c5bd-896c-4dd3-9d4d-4aca23f8bbef",
-    "vid": "22600",
+    "nid": "26125",
+    "uuid": "546a5938-b2b4-448a-a095-07a4d4a2e27d",
+    "vid": "26125",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20012",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "ALES vers SALINDRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.1417 44.17134)",
-    "radarInstallDate": "2013-03-18T10:53:35",
+    "radarInstallDate": "2013-03-18T16:17:04",
     "radarPlace": "ROUSSON",
     "radarRoad": "RD16",
     "radarTronconKm": "2,3",

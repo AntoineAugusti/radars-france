@@ -1,14 +1,14 @@
 {
-    "nid": "22511",
-    "uuid": "4303b826-029c-40c1-a5e7-965cbdad6b58",
-    "vid": "22511",
+    "nid": "26083",
+    "uuid": "3520d388-aee6-4a82-8461-1f527400f71e",
+    "vid": "26083",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE347603",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.16004 44.50768)",
-    "radarInstallDate": "2013-09-23T16:28:20",
-    "radarPlace": "MARMANDE",
+    "radarInstallDate": "2013-09-23T16:14:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

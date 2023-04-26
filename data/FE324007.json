@@ -1,14 +1,14 @@
 {
-    "nid": "22405",
-    "uuid": "9ac1d136-6536-4452-b5c9-d8d64e6d6bac",
-    "vid": "22405",
+    "nid": "25926",
+    "uuid": "4fff4cef-018c-4a5d-92fa-6d56af807a99",
+    "vid": "25926",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE324007",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "P\u00e9rigueux vers Limoges",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.72969 45.18788)",
-    "radarInstallDate": "2010-05-19T16:27:54",
-    "radarPlace": "PERIGUEUX",
+    "radarInstallDate": "2010-05-19T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

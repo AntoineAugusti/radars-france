@@ -1,14 +1,14 @@
 {
-    "nid": "20832",
-    "uuid": "d741f948-2006-4265-b6f7-15692e3b02f9",
-    "vid": "20832",
+    "nid": "24756",
+    "uuid": "a91e356e-0d05-4aac-bb77-35ca35f267e0",
+    "vid": "24756",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51184",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST ROMAIN DE COLBOSC vers BOLBEC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.435647 49.554309)",
-    "radarInstallDate": "2020-10-24T16:22:03",
-    "radarPlace": "ST EUSTACHE LA FORET",
+    "radarInstallDate": "2020-10-24T16:08:41",
+    "radarPlace": [],
     "radarRoad": "RD6015",
     "radarTronconKm": [],
     "radarType": [

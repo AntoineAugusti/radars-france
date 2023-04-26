@@ -1,14 +1,14 @@
 {
-    "nid": "22451",
-    "uuid": "1f094af6-e9b1-4377-a17f-ac9178dccd5b",
-    "vid": "22451",
+    "nid": "25967",
+    "uuid": "8fdfd39f-ad89-45fb-a4db-cf9ecedbafdf",
+    "vid": "25967",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE333008",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bd Pierre 1er vers barri\u00e8re du M\u00e9doc",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.59089 44.85754)",
-    "radarInstallDate": "2012-10-29T16:28:02",
-    "radarPlace": "LE BOUSCAT",
+    "radarInstallDate": "2012-10-29T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

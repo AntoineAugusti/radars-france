@@ -1,14 +1,14 @@
 {
-    "nid": "21678",
-    "uuid": "ae67448b-6a72-4d1e-b0ae-b9eed46e30ab",
-    "vid": "21678",
+    "nid": "23346",
+    "uuid": "b44fd5a6-8421-4c3e-95c5-63104926729e",
+    "vid": "23346",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12401",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DIJON vers NANCY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.19463 47.73548)",
-    "radarInstallDate": "2016-11-28T16:24:50",
-    "radarPlace": "AUJEURRES",
+    "radarInstallDate": "2016-11-28T16:05:43",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21762",
-    "uuid": "a757003b-0eca-458b-b17e-0b88ed3903c9",
-    "vid": "21762",
+    "nid": "23431",
+    "uuid": "dcd5598d-d790-4819-8c80-ebb77f27a8dd",
+    "vid": "23431",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12500",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRESSUIRE vers CHOLET",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.807677 46.972338)",
-    "radarInstallDate": "2016-11-21T16:25:11",
-    "radarPlace": "MAULEON",
+    "radarInstallDate": "2016-11-21T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RN249",
     "radarTronconKm": [],
     "radarType": [

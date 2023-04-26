@@ -1,14 +1,14 @@
 {
-    "nid": "21606",
-    "uuid": "3d547f30-6142-4e42-9d1b-9a13adaaefbf",
-    "vid": "21606",
+    "nid": "23275",
+    "uuid": "79255f93-0b6e-46fd-ab6e-a455fb2a1dd6",
+    "vid": "23275",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12309",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers ROUEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.04682 49.4168)",
-    "radarInstallDate": "2014-12-29T16:24:36",
-    "radarPlace": "LE GRAND QUEVILLY",
+    "radarInstallDate": "2014-12-29T16:05:38",
+    "radarPlace": [],
     "radarRoad": "RN338",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22539",
-    "uuid": "428533b1-e7c9-4af6-b66c-bf9bd81b83ef",
-    "vid": "22539",
+    "nid": "26019",
+    "uuid": "696b3d39-bb9f-4cb0-ad97-a48f0cece545",
+    "vid": "26019",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE365000",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "vers centre ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.05619 43.22775)",
-    "radarInstallDate": "2009-12-15T16:28:28",
-    "radarPlace": "TARBES",
+    "radarInstallDate": "2009-12-15T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

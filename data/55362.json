@@ -1,14 +1,14 @@
 {
-    "nid": "21387",
-    "uuid": "3de95a7d-41b9-4bbe-9ac2-fc22d1dbe0ef",
-    "vid": "21387",
+    "nid": "25401",
+    "uuid": "de5b4780-a26c-4066-8a31-1c921e48d38f",
+    "vid": "25401",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55362",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BANYULS DELS ASPRES vers POLLESTRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.85654 42.599081)",
-    "radarInstallDate": "2020-10-16T16:23:51",
-    "radarPlace": "VILLEMOLAQUE",
+    "radarInstallDate": "2020-10-16T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD900",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21917",
-    "uuid": "4af37ea5-7004-4392-9dd6-18006a36047e",
-    "vid": "21917",
+    "nid": "25556",
+    "uuid": "05a9e089-fa8c-4558-bd51-345990c45c44",
+    "vid": "25556",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE137004",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Le Mans vers Tours",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (0.55112 47.54799)",
-    "radarInstallDate": "2011-07-06T16:25:47",
-    "radarPlace": "NEUILLE PONT PIERRE",
+    "radarInstallDate": "2011-07-06T16:11:35",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

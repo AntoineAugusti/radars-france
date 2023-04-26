@@ -1,14 +1,14 @@
 {
-    "nid": "22864",
-    "uuid": "3876a265-f1c4-4839-9ac8-e548ee96506c",
-    "vid": "22864",
+    "nid": "26418",
+    "uuid": "e18391d4-bb21-468d-974d-1da4b9f9b9b8",
+    "vid": "26418",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229226",
+    "revisionTimestamp": "1681741072",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_76_001",
-    "created": "1637229226",
-    "changed": "1637229226",
+    "created": "1681741072",
+    "changed": "1681741072",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "76 - Seine-Maritime",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (49.438784 1.149894)",
-    "radarInstallDate": "2017-10-09T10:53:47",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (2.192637 48.334258)",
+    "radarInstallDate": "2021-04-16T16:17:53",
     "radarPlace": "-",
     "radarRoad": "D13, D7, D91, D53, D13B, D43A, D453, D93, D43, N31",
-    "radarTronconKm": "16.55",
+    "radarTronconKm": "16,6",
     "radarType": [
         {
             "tid": "19",

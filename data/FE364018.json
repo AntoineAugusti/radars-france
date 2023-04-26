@@ -1,14 +1,14 @@
 {
-    "nid": "22532",
-    "uuid": "3fc755c5-78f5-4ecd-b3da-b18f432414bf",
-    "vid": "22532",
+    "nid": "26012",
+    "uuid": "4b63d980-5a7c-4813-a40d-0f5dfe4cb382",
+    "vid": "26012",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364018",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "St Jean de Luz vers Biarritz",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.58931 43.43801)",
-    "radarInstallDate": "2010-11-19T16:28:28",
-    "radarPlace": "BIDART",
+    "radarInstallDate": "2010-11-19T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

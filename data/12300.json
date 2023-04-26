@@ -1,14 +1,14 @@
 {
-    "nid": "21601",
-    "uuid": "ebd11b86-819a-4a95-803d-e5f26d087b35",
-    "vid": "21601",
+    "nid": "23270",
+    "uuid": "2b4ecbba-5753-4f06-bbe5-f741418dd770",
+    "vid": "23270",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12300",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEZIERS vers MONTPELLIER",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.6513 43.475)",
-    "radarInstallDate": "2014-05-05T16:24:36",
-    "radarPlace": "POUSSAN",
+    "radarInstallDate": "2014-05-05T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A9",
     "radarTronconKm": [],
     "radarType": [

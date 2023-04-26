@@ -1,14 +1,14 @@
 {
-    "nid": "21499",
-    "uuid": "f13fdd79-59d3-4409-b406-bed71596a4b1",
-    "vid": "21499",
+    "nid": "23172",
+    "uuid": "6cd39114-f11a-480f-a077-eaf5e5aa66f1",
+    "vid": "23172",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12112",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "STRASBOURG vers COLMAR",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.7303 48.589)",
-    "radarInstallDate": "2013-11-04T16:24:15",
-    "radarPlace": "STRASBOURG",
-    "radarRoad": "A35",
+    "radarInstallDate": "2013-11-04T16:05:31",
+    "radarPlace": [],
+    "radarRoad": "M35",
     "radarTronconKm": [],
     "radarType": [
         {
@@ -108,9 +108,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "8",
-            "uuid": "9202ddc3-ba6a-450b-bdbf-86b3582f0107",
-            "revisionId": "8",
+            "tid": "6",
+            "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab",
+            "revisionId": "6",
             "langcode": "fr",
             "vid": [
                 {
@@ -121,7 +121,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 90",
+            "name": "Vitesse VL 70",
             "description": [
                 {
                     "value": null,
@@ -134,7 +134,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154485",
+            "changed": "1515154422",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -146,36 +146,36 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-90.png?itok=W0JW7Fma",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=MwLJaTo3",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-90.png?itok=NvEa8V-1",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=Ysf5V2xf",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-90.png?itok=b9OnBVQV",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=g4VQHCOS",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-90.png",
-                        "fileCreated": "1515154481",
-                        "fileSize": "3523",
+                        "fileName": "vitesse-70.png",
+                        "fileCreated": "1515154374",
+                        "fileSize": "3375",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_90",
+            "macineName": "vitesse_vl_70",
             "ruleLabel": "Vitesse"
         },
         {
-            "tid": "13",
-            "uuid": "93d3b89b-9732-4d30-b797-acb288b6cfc3",
-            "revisionId": "13",
+            "tid": "12",
+            "uuid": "e455f557-10f0-4062-a587-54b63db60d33",
+            "revisionId": "12",
             "langcode": "fr",
             "vid": [
                 {
@@ -186,7 +186,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse PL 80",
+            "name": "Vitesse PL 70",
             "description": [
                 {
                     "value": null,
@@ -199,7 +199,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154707",
+            "changed": "1515154684",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -211,30 +211,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-80_0.png?itok=A1NC_vwk",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-70_0.png?itok=aZgDxnSp",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-80_0.png?itok=w_ByyVFw",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70_0.png?itok=5XFl5VX3",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-80_0.png?itok=Px6k8JCS",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70_0.png?itok=39yGSn9o",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-80.png",
-                        "fileCreated": "1515154697",
-                        "fileSize": "4045",
+                        "fileName": "vitesse-70.png",
+                        "fileCreated": "1515154671",
+                        "fileSize": "3375",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_pl_80",
+            "macineName": "vitesse_pl_70",
             "ruleLabel": "Vitesse"
         }
     ],

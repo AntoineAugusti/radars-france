@@ -1,14 +1,14 @@
 {
-    "nid": "20276",
-    "uuid": "bcbd8602-4e7d-438c-b3b9-c0e74bcd0a2e",
-    "vid": "20276",
+    "nid": "24142",
+    "uuid": "095fea4f-358b-4d62-a2d5-135632d5ef3b",
+    "vid": "24142",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7246",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CLISSON vers VALLET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.28277 47.11442)",
-    "radarInstallDate": "2008-04-18T16:20:45",
-    "radarPlace": "GORGES",
+    "radarInstallDate": "2008-04-18T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RD763",
     "radarTronconKm": [],
     "radarType": [

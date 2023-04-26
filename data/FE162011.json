@@ -1,14 +1,14 @@
 {
-    "nid": "22038",
-    "uuid": "c265f715-1cfd-4893-849f-4498d3f2411c",
-    "vid": "22038",
+    "nid": "25655",
+    "uuid": "e4763166-e7de-437d-8137-257c05a811f5",
+    "vid": "25655",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162011",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.92709 50.42525)",
-    "radarInstallDate": "2011-06-02T16:26:15",
-    "radarPlace": "MONTIGNY EN GOHELLE",
+    "radarInstallDate": "2011-06-02T16:11:59",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

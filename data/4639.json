@@ -1,14 +1,14 @@
 {
-    "nid": "20053",
-    "uuid": "44ba0f76-9dd6-48f0-96d4-a2e7b0fad7d8",
-    "vid": "20053",
+    "nid": "23938",
+    "uuid": "f0351318-fecf-48b0-83df-360f644e33f0",
+    "vid": "23938",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4639",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURG EN BRESSE vers LONS LE SAUNIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.45883 46.59771)",
-    "radarInstallDate": "2009-03-25T16:20:20",
-    "radarPlace": "VAL SONNETTE",
+    "radarInstallDate": "2009-03-25T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD1083",
     "radarTronconKm": [],
     "radarType": [

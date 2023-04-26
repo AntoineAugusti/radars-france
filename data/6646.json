@@ -1,14 +1,14 @@
 {
-    "nid": "20169",
-    "uuid": "7f2fa448-018f-4d20-b965-280e8b79a8c1",
-    "vid": "20169",
+    "nid": "24046",
+    "uuid": "02385bd5-02cb-47f8-a066-c763f9f3491f",
+    "vid": "24046",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6646",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POITIERS VERS NIORT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.39921 46.3403)",
-    "radarInstallDate": "2007-01-16T16:20:32",
-    "radarPlace": "CHAURAY",
+    "radarInstallDate": "2007-01-16T16:06:53",
+    "radarPlace": [],
     "radarRoad": "RD611",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20925",
-    "uuid": "d7723eaa-a6ef-4a26-b6a5-967808a9e15e",
-    "vid": "20925",
+    "nid": "24852",
+    "uuid": "ea449af2-a328-4e5c-aa6c-b02bc07a8f7b",
+    "vid": "24852",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51286",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT GAULTIER vers LE BLANC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.256907 46.632641)",
-    "radarInstallDate": "2020-06-26T16:22:18",
-    "radarPlace": "CIRON",
+    "radarInstallDate": "2020-06-26T16:08:58",
+    "radarPlace": [],
     "radarRoad": "RD951",
     "radarTronconKm": [],
     "radarType": [

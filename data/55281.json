@@ -1,14 +1,14 @@
 {
-    "nid": "21313",
-    "uuid": "7cb70267-8627-4fe0-9d5d-c221e9df4c42",
-    "vid": "21313",
+    "nid": "25325",
+    "uuid": "5121ed52-eeb0-47cf-b17d-944f9fe80300",
+    "vid": "25325",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55281",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANNECY vers BELLEGARDE SUR VALSERINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.884905 46.044218)",
-    "radarInstallDate": "2020-09-04T16:23:32",
-    "radarPlace": "VANZY",
+    "radarInstallDate": "2020-09-04T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD1508",
     "radarTronconKm": [],
     "radarType": [

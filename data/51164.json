@@ -1,14 +1,14 @@
 {
-    "nid": "20812",
-    "uuid": "5ee1e91a-c1f3-4347-a889-50151380d2c0",
-    "vid": "20812",
+    "nid": "24736",
+    "uuid": "24de2992-0b01-42d2-b4ae-c80a2bf28f36",
+    "vid": "24736",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51164",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORLEANS vers CHATEAUDUN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.429908 48.05195)",
-    "radarInstallDate": "2020-01-20T16:22:02",
-    "radarPlace": "VILLEMAURY",
+    "radarInstallDate": "2020-01-20T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD955",
     "radarTronconKm": [],
     "radarType": [

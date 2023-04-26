@@ -1,14 +1,14 @@
 {
-    "nid": "20773",
-    "uuid": "3877038e-1100-4b9d-889a-652a8ad79868",
-    "vid": "20773",
+    "nid": "24697",
+    "uuid": "c6cddbeb-c168-4aab-83be-ebdedf05c222",
+    "vid": "24697",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51125",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MAYENNE vers ALENCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.175322 48.472298)",
-    "radarInstallDate": "2019-11-08T16:21:53",
-    "radarPlace": "PRE EN PAIL ST SAMSON",
+    "radarInstallDate": "2019-11-08T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

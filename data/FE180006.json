@@ -1,14 +1,14 @@
 {
-    "nid": "22133",
-    "uuid": "3ac865f7-cd98-4af4-b06c-f850f3bfd9c1",
-    "vid": "22133",
+    "nid": "25749",
+    "uuid": "40e33ec6-a727-43aa-9c78-7fb0cd97a9b8",
+    "vid": "25749",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE180006",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Amiens vers St Fuscien",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.30352 49.88613)",
-    "radarInstallDate": "2011-02-28T16:26:42",
-    "radarPlace": "AMIENS",
+    "radarInstallDate": "2011-02-28T16:12:22",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22225",
-    "uuid": "a80a0570-cfe7-4049-b9e3-ace30e8781e8",
-    "vid": "22225",
+    "nid": "25828",
+    "uuid": "553eb64d-cb1a-4658-8a93-d10dffb3a6c9",
+    "vid": "25828",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229188",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE206035",
-    "created": "1637229188",
-    "changed": "1675870018",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nice vers Villefranche sur mer",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.28233 43.70619)",
-    "radarInstallDate": "2011-11-25T16:27:04",
-    "radarPlace": "NICE",
+    "radarInstallDate": "2011-11-25T16:12:40",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

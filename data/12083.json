@@ -1,14 +1,14 @@
 {
-    "nid": "21481",
-    "uuid": "311f7e77-f807-478f-b161-0b10284bceed",
-    "vid": "21481",
+    "nid": "23154",
+    "uuid": "307b0731-64de-439c-91d1-0813ebf44267",
+    "vid": "23154",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12083",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "CLERMONT FERRAND vers MONTPELLIER",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (3.2021 45.268)",
-    "radarInstallDate": "2012-05-02T16:24:10",
-    "radarPlace": "MASSIAC",
+    "radarGeolocalisation": "POINT (3.202271 45.268816)",
+    "radarInstallDate": "2012-05-02T16:05:30",
+    "radarPlace": [],
     "radarRoad": "A75",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20006",
-    "uuid": "3cf28c66-603c-4aad-a326-ae45534ad99b",
-    "vid": "20006",
+    "nid": "23893",
+    "uuid": "61a17b5e-c96b-4d89-b714-d075c80021e1",
+    "vid": "23893",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4419",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHENNEVIERES SUR MARNE vers JOINVILLE LE PONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.49814 48.81709)",
-    "radarInstallDate": "2009-06-23T16:20:17",
-    "radarPlace": "CHAMPIGNY SUR MARNE",
+    "radarInstallDate": "2009-06-23T16:06:35",
+    "radarPlace": [],
     "radarRoad": "RD4",
     "radarTronconKm": [],
     "radarType": [

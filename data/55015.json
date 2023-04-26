@@ -1,14 +1,14 @@
 {
-    "nid": "21052",
-    "uuid": "04e78e30-a962-4a1a-85fb-2c0c30d79794",
-    "vid": "21052",
+    "nid": "25065",
+    "uuid": "b5906b19-0d25-4f35-b030-120e958a9db6",
+    "vid": "25065",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55015",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOUGLON vers CASTELJALOUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.107304 44.347279)",
-    "radarInstallDate": "2019-10-04T16:22:43",
-    "radarPlace": "LABASTIDE CASTEL AMOUROUX",
+    "radarInstallDate": "2019-10-04T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD933",
     "radarTronconKm": [],
     "radarType": [

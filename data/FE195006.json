@@ -1,14 +1,14 @@
 {
-    "nid": "22180",
-    "uuid": "ddedac29-c0eb-45cc-a87f-a37ee41b76c0",
-    "vid": "22180",
+    "nid": "25795",
+    "uuid": "6d2ce6be-7511-4465-90cb-cdac0f06ef5a",
+    "vid": "25795",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195006",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sannois vers Gennevilliers",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.25471 48.95446)",
-    "radarInstallDate": "2010-03-24T16:26:50",
-    "radarPlace": "ARGENTEUIL",
+    "radarInstallDate": "2010-03-24T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

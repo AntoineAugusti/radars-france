@@ -1,14 +1,14 @@
 {
-    "nid": "20472",
-    "uuid": "1d981ff9-8efc-4c8a-9566-918e1d17f50d",
-    "vid": "20472",
+    "nid": "24315",
+    "uuid": "ddc31b60-f043-4a51-93f4-0aa2c51b0fb0",
+    "vid": "24315",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8959",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ECULLY vers LYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.859775 45.782461)",
-    "radarInstallDate": "2011-09-08T16:21:10",
-    "radarPlace": "LYON",
+    "radarInstallDate": "2011-09-08T16:07:28",
+    "radarPlace": [],
     "radarRoad": "Tunnel de la Croix Rousse",
     "radarTronconKm": [],
     "radarType": [

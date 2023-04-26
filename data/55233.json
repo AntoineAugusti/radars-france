@@ -1,14 +1,14 @@
 {
-    "nid": "21268",
-    "uuid": "5d585ac9-7a3b-487c-b0f2-baee33538c7c",
-    "vid": "21268",
+    "nid": "25279",
+    "uuid": "f02676e8-1b43-4dcb-a3cb-1bc39f2d8454",
+    "vid": "25279",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55233",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTAUBAN vers BOUDOU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.151055 44.12464)",
-    "radarInstallDate": "2020-06-03T16:23:26",
-    "radarPlace": "MOISSAC",
+    "radarInstallDate": "2020-06-03T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD927",
     "radarTronconKm": [],
     "radarType": [
@@ -115,9 +115,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "6",
-            "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab",
-            "revisionId": "6",
+            "tid": "5",
+            "uuid": "45e527ec-7c1f-4fd3-ad4e-fdf43bd3c688",
+            "revisionId": "5",
             "langcode": "fr",
             "vid": [
                 {
@@ -128,7 +128,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 70",
+            "name": "Vitesse VL 50",
             "description": [
                 {
                     "value": null,
@@ -141,7 +141,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154422",
+            "changed": "1515154429",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -153,30 +153,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=MwLJaTo3",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-50.png?itok=Tq7k-JhP",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=Ysf5V2xf",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-50.png?itok=WnbSkqJL",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=g4VQHCOS",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-50.png?itok=E16zFtv9",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-70.png",
-                        "fileCreated": "1515154374",
-                        "fileSize": "3375",
+                        "fileName": "vitesse-50.png",
+                        "fileCreated": "1515154342",
+                        "fileSize": "3506",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_70",
+            "macineName": "vitesse_vl_50",
             "ruleLabel": "Vitesse"
         }
     ],

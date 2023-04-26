@@ -1,14 +1,14 @@
 {
-    "nid": "20467",
-    "uuid": "da9af9a9-0940-4a46-9aa0-35180770c6c5",
-    "vid": "20467",
+    "nid": "24310",
+    "uuid": "c4e4f8f0-357f-4bf8-88ea-84abff32fb46",
+    "vid": "24310",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8940",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERDUN vers ETAIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.6255 49.213)",
-    "radarInstallDate": "2011-08-03T16:21:10",
-    "radarPlace": "ETAIN",
+    "radarInstallDate": "2011-08-03T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD603",
     "radarTronconKm": [],
     "radarType": [

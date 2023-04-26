@@ -1,14 +1,14 @@
 {
-    "nid": "22653",
-    "uuid": "cabcdd84-1297-4c78-a55a-074795fe5020",
-    "vid": "22653",
+    "nid": "26172",
+    "uuid": "cb637db8-6275-4409-ad35-ca02d53704c9",
+    "vid": "26172",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20123",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "A10 VERS A6",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.25636 48.62853)",
-    "radarInstallDate": "2014-08-04T10:53:37",
+    "radarInstallDate": "2014-08-04T16:17:09",
     "radarPlace": "LINAS",
     "radarRoad": "RN104",
     "radarTronconKm": "3",

@@ -1,14 +1,14 @@
 {
-    "nid": "21727",
-    "uuid": "483e029c-4f00-489a-a908-1edf9332d5d7",
-    "vid": "21727",
+    "nid": "23395",
+    "uuid": "0b0e5f5d-45e5-4403-9c66-9236b5af395c",
+    "vid": "23395",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12459",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST FELIU D AVALL vers PERPIGNAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.826943 42.689842)",
-    "radarInstallDate": "2016-11-14T16:25:04",
-    "radarPlace": "PERPIGNAN",
+    "radarInstallDate": "2016-11-14T16:05:47",
+    "radarPlace": [],
     "radarRoad": "RN116",
     "radarTronconKm": [],
     "radarType": [

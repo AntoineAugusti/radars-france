@@ -1,14 +1,14 @@
 {
-    "nid": "21759",
-    "uuid": "599d3f5b-6a66-4d11-8821-1c12a2742994",
-    "vid": "21759",
+    "nid": "23428",
+    "uuid": "1d35540a-1b71-45df-b925-e33fe6d70c6f",
+    "vid": "23428",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12497",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORLAIX vers BREST",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-4.045053 48.518535)",
-    "radarInstallDate": "2016-11-18T16:25:11",
-    "radarPlace": "LANDIVISIAU",
+    "radarInstallDate": "2016-11-18T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

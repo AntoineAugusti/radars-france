@@ -1,14 +1,14 @@
 {
-    "nid": "22375",
-    "uuid": "b0ffc94c-6c6e-45d5-b652-dc2dac2c2d31",
-    "vid": "22375",
+    "nid": "25900",
+    "uuid": "f14d3f58-e917-47c3-b00c-6ba42748f8b0",
+    "vid": "25900",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316010",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GOND PONTOUVRE vers CHAMPNIERS",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.17396 45.67261)",
-    "radarInstallDate": "2010-08-13T16:27:46",
-    "radarPlace": "GOND PONTOUVRE",
+    "radarInstallDate": "2010-08-13T16:13:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

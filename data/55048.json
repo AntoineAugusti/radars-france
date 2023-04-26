@@ -1,14 +1,14 @@
 {
-    "nid": "21085",
-    "uuid": "b6d0ead7-70b6-4a05-baab-55f650518d30",
-    "vid": "21085",
+    "nid": "25098",
+    "uuid": "cbfcda6a-3a9b-499c-88f9-5a0b6555731b",
+    "vid": "25098",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55048",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RUE DE NEXON vers QUAI SALVADOR ALLENDE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.253863 45.814624)",
-    "radarInstallDate": "2019-09-18T16:22:49",
-    "radarPlace": "LIMOGES",
+    "radarInstallDate": "2019-09-18T16:09:47",
+    "radarPlace": [],
     "radarRoad": "Boulevard Robert Maloubier (Voie de Liaison Sud)",
     "radarTronconKm": [],
     "radarType": [

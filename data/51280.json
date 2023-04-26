@@ -1,14 +1,14 @@
 {
-    "nid": "20919",
-    "uuid": "8acf0dc0-8f0f-4ac5-a150-c1ec3e3564e2",
-    "vid": "20919",
+    "nid": "24846",
+    "uuid": "c29c6308-5941-4fbb-becc-6e349ae19ac6",
+    "vid": "24846",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51280",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORTEAU vers VALDAHON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.37561 47.142314)",
-    "radarInstallDate": "2020-08-26T16:22:18",
-    "radarPlace": "EPENOY",
+    "radarInstallDate": "2020-08-26T16:08:58",
+    "radarPlace": [],
     "radarRoad": "RD461",
     "radarTronconKm": [],
     "radarType": [

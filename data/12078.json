@@ -1,14 +1,14 @@
 {
-    "nid": "21477",
-    "uuid": "85e89ec2-19d0-4775-b930-0d4f43258535",
-    "vid": "21477",
+    "nid": "23150",
+    "uuid": "2596f70f-eba6-4a31-bea8-f40dfae4c9e5",
+    "vid": "23150",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12078",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTAUBAN vers TOULOUSE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.3646 43.999)",
-    "radarInstallDate": "2013-11-12T16:24:09",
-    "radarPlace": "MONTAUBAN",
+    "radarInstallDate": "2013-11-12T16:05:30",
+    "radarPlace": [],
     "radarRoad": "A20",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20164",
-    "uuid": "2e05bd1e-9db8-4ee4-8c77-9119b4ef370b",
-    "vid": "20164",
+    "nid": "24041",
+    "uuid": "fa85570e-ea71-4f05-b948-e7a8a5566229",
+    "vid": "24041",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6622",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PRADES VERS PERPIGNAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.55013 42.65222)",
-    "radarInstallDate": "2007-09-21T16:20:32",
-    "radarPlace": "RODES",
+    "radarInstallDate": "2007-09-21T16:06:53",
+    "radarPlace": [],
     "radarRoad": "RN116",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22831",
-    "uuid": "b4d0307d-1ce8-4f66-9a8f-976be954b093",
-    "vid": "22831",
+    "nid": "26378",
+    "uuid": "a59167e8-3ec5-445c-936a-567e8310efcc",
+    "vid": "26378",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229224",
+    "revisionTimestamp": "1681741062",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_62_002",
-    "created": "1637229224",
-    "changed": "1637229224",
+    "created": "1681741062",
+    "changed": "1681741062",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "62 - Pas-de-Calais",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (50.700269 2.223438)",
-    "radarInstallDate": "2017-10-06T10:53:44",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.155937 45.504476)",
+    "radarInstallDate": "2018-09-11T16:17:43",
     "radarPlace": "-",
     "radarRoad": "D157, D343, D133, D92, D341, D126, D130, D93, D193, D71, D154, D107, A26, D192, , D104, D190, D108E1, D158, D928, D130E2, D155",
-    "radarTronconKm": "38.73",
+    "radarTronconKm": "38,7",
     "radarType": [
         {
             "tid": "19",

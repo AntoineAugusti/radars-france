@@ -1,14 +1,14 @@
 {
-    "nid": "20987",
-    "uuid": "f76b05c9-7517-47b9-abef-19a9815559c4",
-    "vid": "20987",
+    "nid": "24924",
+    "uuid": "8e69942b-db81-4038-8437-194337fbfa1f",
+    "vid": "24924",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51361",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GAMACHES vers OISEMONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.601011 49.981997)",
-    "radarInstallDate": "2020-12-08T16:22:29",
-    "radarPlace": "TILLOY FLORIVILLE",
+    "radarInstallDate": "2020-12-08T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD936",
     "radarTronconKm": [],
     "radarType": [

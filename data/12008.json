@@ -1,14 +1,14 @@
 {
-    "nid": "21434",
-    "uuid": "36d4d2a7-1a6b-42a0-b5ba-c4ee9fd808c5",
-    "vid": "21434",
+    "nid": "23108",
+    "uuid": "f415c0b7-56a4-498e-8d28-66632978a80d",
+    "vid": "23108",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12008",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MACON vers MOULINS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.4365 46.413)",
-    "radarInstallDate": "2011-10-31T16:23:57",
-    "radarPlace": "VEROSVRES",
+    "radarInstallDate": "2011-10-31T16:05:27",
+    "radarPlace": [],
     "radarRoad": "RN79",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21088",
-    "uuid": "14d8d4e8-5204-4c25-910a-646d52f9e482",
-    "vid": "21088",
+    "nid": "25101",
+    "uuid": "7b00d5d5-9a4c-426b-ad80-690d43cd9c43",
+    "vid": "25101",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55051",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AGDE vers VIAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.442378 43.306661)",
-    "radarInstallDate": "2019-11-25T16:22:49",
-    "radarPlace": "AGDE",
+    "radarInstallDate": "2019-11-25T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD612",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22371",
-    "uuid": "68df54e0-868b-43db-8b4a-0bb39e5c8f6b",
-    "vid": "22371",
+    "nid": "25896",
+    "uuid": "570837ec-47b8-4c61-9bbb-1f49b73bd471",
+    "vid": "25896",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316005",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Soyaux vers Angoul\u00eame",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.18468 45.65085)",
-    "radarInstallDate": "2010-10-11T16:27:46",
-    "radarPlace": "ANGOULEME",
+    "radarInstallDate": "2010-10-11T16:12:58",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

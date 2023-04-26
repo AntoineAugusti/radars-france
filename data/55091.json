@@ -1,14 +1,14 @@
 {
-    "nid": "21128",
-    "uuid": "47524efa-28ac-4742-956c-0a072046dbc0",
-    "vid": "21128",
+    "nid": "25139",
+    "uuid": "416f3ef4-fc26-4e5a-b23c-8fd6a15ce198",
+    "vid": "25139",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55091",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "THOUARS vers PARTHENAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.196315 46.917393)",
-    "radarInstallDate": "2019-11-04T16:22:55",
-    "radarPlace": "LUZAY",
+    "radarInstallDate": "2019-11-04T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD938",
     "radarTronconKm": [],
     "radarType": [

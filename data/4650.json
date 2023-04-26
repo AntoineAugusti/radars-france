@@ -1,14 +1,14 @@
 {
-    "nid": "20057",
-    "uuid": "ceb4dc69-3d7e-4a77-803f-b0cfa4d56bfb",
-    "vid": "20057",
+    "nid": "23942",
+    "uuid": "5bc4da24-1c16-4970-84f4-35edfd23860e",
+    "vid": "23942",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4650",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "P\u00e9rigueux vers Limoges",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.94784 45.49629)",
-    "radarInstallDate": "2009-09-04T16:20:20",
-    "radarPlace": "CHALAIS",
+    "radarInstallDate": "2009-09-04T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RN21",
     "radarTronconKm": [],
     "radarType": [

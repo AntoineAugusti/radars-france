@@ -1,14 +1,14 @@
 {
-    "nid": "22676",
-    "uuid": "1957edc4-ecb0-42f2-84b0-e23240545349",
-    "vid": "22676",
+    "nid": "26188",
+    "uuid": "61f83362-812c-4fae-a5c2-afb79f10e187",
+    "vid": "26188",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741029",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20178",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741029",
+    "changed": "1681741029",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "La seyne sur Mer vers La valette du var",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.9509 43.12053)",
-    "radarInstallDate": "2014-12-29T10:53:37",
+    "radarInstallDate": "2014-12-29T16:17:10",
     "radarPlace": "TOULON",
     "radarRoad": "A50",
     "radarTronconKm": "3,3",
@@ -108,9 +108,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "5",
-            "uuid": "45e527ec-7c1f-4fd3-ad4e-fdf43bd3c688",
-            "revisionId": "5",
+            "tid": "6",
+            "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab",
+            "revisionId": "6",
             "langcode": "fr",
             "vid": [
                 {
@@ -121,7 +121,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 50",
+            "name": "Vitesse VL 70",
             "description": [
                 {
                     "value": null,
@@ -134,7 +134,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154429",
+            "changed": "1515154422",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -146,30 +146,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-50.png?itok=Tq7k-JhP",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=MwLJaTo3",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-50.png?itok=WnbSkqJL",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=Ysf5V2xf",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-50.png?itok=E16zFtv9",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=g4VQHCOS",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-50.png",
-                        "fileCreated": "1515154342",
-                        "fileSize": "3506",
+                        "fileName": "vitesse-70.png",
+                        "fileCreated": "1515154374",
+                        "fileSize": "3375",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_50",
+            "macineName": "vitesse_vl_70",
             "ruleLabel": "Vitesse"
         }
     ],

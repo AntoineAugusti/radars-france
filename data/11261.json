@@ -1,14 +1,14 @@
 {
-    "nid": "20577",
-    "uuid": "81fa4fc5-f457-4a10-a917-fbd8bc052656",
-    "vid": "20577",
+    "nid": "24405",
+    "uuid": "34699e4d-6b8a-4942-ae03-f484c2cc316d",
+    "vid": "24405",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11261",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PLACE FELIX EBOUE vers BOULEVARD DIDEROT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.390433 48.840788)",
-    "radarInstallDate": "2014-01-27T16:21:26",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2014-01-27T16:07:42",
+    "radarPlace": [],
     "radarRoad": "Face au n\u00b0 167/169 de l'avenue Daumesnil",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20559",
-    "uuid": "5c1857df-94eb-4c96-b602-0d1988929c05",
-    "vid": "20559",
+    "nid": "24388",
+    "uuid": "22a752f7-9f5b-4849-9a37-b1aad2fad49a",
+    "vid": "24388",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11198",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Versailles vers Toussus le Noble",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.1314 48.78)",
-    "radarInstallDate": "2012-06-14T16:21:22",
-    "radarPlace": "BUC",
+    "radarInstallDate": "2012-06-14T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RD938",
     "radarTronconKm": [],
     "radarType": [

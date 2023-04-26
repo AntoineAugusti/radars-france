@@ -1,14 +1,14 @@
 {
-    "nid": "21173",
-    "uuid": "492d5830-a97a-4714-9871-764b77ea0691",
-    "vid": "21173",
+    "nid": "25184",
+    "uuid": "7739d4fc-6e2e-4270-ad80-8b4fa5b85435",
+    "vid": "25184",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55137",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TULLE vers ARGENTAT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.8813 45.1388)",
-    "radarInstallDate": "2019-12-19T16:23:07",
-    "radarPlace": "ST CHAMANT",
+    "radarInstallDate": "2019-12-19T16:10:05",
+    "radarPlace": [],
     "radarRoad": "RD1120",
     "radarTronconKm": [],
     "radarType": [

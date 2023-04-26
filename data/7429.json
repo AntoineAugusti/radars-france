@@ -1,14 +1,14 @@
 {
-    "nid": "20323",
-    "uuid": "9461c1ce-c489-45e0-ab0c-a01c03813b95",
-    "vid": "20323",
+    "nid": "24181",
+    "uuid": "16ea6c20-a55a-4291-8df8-78e950a8779a",
+    "vid": "24181",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7429",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGERS vers SAUMUR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.16805 47.41574)",
-    "radarInstallDate": "2008-04-24T16:20:50",
-    "radarPlace": "LES BOIS D ANJOU",
+    "radarInstallDate": "2008-04-24T16:07:10",
+    "radarPlace": [],
     "radarRoad": "RD347",
     "radarTronconKm": [],
     "radarType": [

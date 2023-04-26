@@ -1,14 +1,14 @@
 {
-    "nid": "19838",
-    "uuid": "8e17de27-b738-4ee3-ba35-ddfa77a82cb0",
-    "vid": "19838",
+    "nid": "23750",
+    "uuid": "12431fb4-ddd7-4d50-8269-8f544a55415f",
+    "vid": "23750",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "739",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MOISY vers BLOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.31281 47.78566)",
-    "radarInstallDate": "2005-10-01T16:19:59",
-    "radarPlace": "VILLENEUVE FROUVILLE",
+    "radarInstallDate": "2005-10-01T16:06:20",
+    "radarPlace": [],
     "radarRoad": "RD924",
     "radarTronconKm": [],
     "radarType": [

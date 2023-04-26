@@ -1,14 +1,14 @@
 {
-    "nid": "22525",
-    "uuid": "1c871848-57ca-40c5-b50a-df7e7275a35a",
-    "vid": "22525",
+    "nid": "26005",
+    "uuid": "94cdb9dd-1395-4b63-8fcd-df69d3c097ac",
+    "vid": "26005",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364002",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.78083 43.49267)",
-    "radarInstallDate": "2010-01-26T16:28:28",
-    "radarPlace": "ORTHEZ",
+    "radarInstallDate": "2010-01-26T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

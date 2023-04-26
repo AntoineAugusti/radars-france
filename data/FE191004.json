@@ -1,14 +1,14 @@
 {
-    "nid": "22146",
-    "uuid": "6af16413-17c8-4699-be95-d04a5204b870",
-    "vid": "22146",
+    "nid": "25762",
+    "uuid": "b5f8f9a3-d7b6-4c81-8fd4-13c6ac8688e0",
+    "vid": "25762",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE191004",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rond point de l'Aubrac vers l'Avenue de Bourgogne",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.17504 48.67825)",
-    "radarInstallDate": "2010-10-11T16:26:43",
-    "radarPlace": "LES ULIS",
+    "radarInstallDate": "2010-10-11T16:12:23",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20351",
-    "uuid": "ab578eb0-022e-4705-ac78-6511e2f3d5bd",
-    "vid": "20351",
+    "nid": "24205",
+    "uuid": "0a21e950-721b-4241-8892-16b96689131d",
+    "vid": "24205",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8564",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FOIX vers MONTESQUIEU VOLVESTRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.2436 43.182)",
-    "radarInstallDate": "2011-02-11T16:20:54",
-    "radarPlace": "THOUARS SUR ARIZE",
+    "radarInstallDate": "2011-02-11T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD628",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21726",
-    "uuid": "41dceb49-2d71-4e35-aa5a-01fd88405523",
-    "vid": "21726",
+    "nid": "23394",
+    "uuid": "f2622d09-2a07-44f2-9eef-2c758feff786",
+    "vid": "23394",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12458",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "NANCY vers DIJON",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (5.730125 48.176342)",
-    "radarInstallDate": "2016-10-31T16:25:04",
-    "radarPlace": "VRECOURT",
+    "radarGeolocalisation": "POINT (5.730118 48.176329)",
+    "radarInstallDate": "2016-10-31T16:05:47",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

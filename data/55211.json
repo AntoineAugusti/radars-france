@@ -1,14 +1,14 @@
 {
-    "nid": "21246",
-    "uuid": "268efb73-2258-448c-8bf5-42a9e4494cfb",
-    "vid": "21246",
+    "nid": "25257",
+    "uuid": "89735be1-3f19-4375-b736-2016ca34fa04",
+    "vid": "25257",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55211",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SALAISE SUR SANNE vers LA COTE SAINT ANDRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.897465 45.351548)",
-    "radarInstallDate": "2021-01-27T16:23:20",
-    "radarPlace": "SONNAY",
+    "radarInstallDate": "2021-01-27T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD51",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20936",
-    "uuid": "c583266c-081a-4636-9740-12a57d6f8202",
-    "vid": "20936",
+    "nid": "24863",
+    "uuid": "fb8681a2-1fc5-432e-b46e-e49487a75b45",
+    "vid": "24863",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51297",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAIMPOL vers SAINT BRIEUC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.005312 48.645602)",
-    "radarInstallDate": "2020-07-10T16:22:22",
-    "radarPlace": "LANNEBERT",
+    "radarInstallDate": "2020-07-10T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD6",
     "radarTronconKm": [],
     "radarType": [

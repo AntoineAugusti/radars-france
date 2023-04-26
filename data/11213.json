@@ -1,14 +1,14 @@
 {
-    "nid": "20563",
-    "uuid": "11f69247-2341-4475-aa04-85261266f753",
-    "vid": "20563",
+    "nid": "24392",
+    "uuid": "cb12444f-7129-4b46-8b86-90db54090a54",
+    "vid": "24392",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11213",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SANARY SUR MER Vers LA SEYNE SUR MER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.8124 43.11)",
-    "radarInstallDate": "2012-08-01T16:21:22",
-    "radarPlace": "SIX FOURS LES PLAGES",
+    "radarInstallDate": "2012-08-01T16:07:41",
+    "radarPlace": [],
     "radarRoad": "n\u00b0 322 Promenade G\u00e9n\u00e9ral Charles De Gaulle (RD559)",
     "radarTronconKm": [],
     "radarType": [

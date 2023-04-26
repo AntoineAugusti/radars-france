@@ -1,14 +1,14 @@
 {
-    "nid": "19916",
-    "uuid": "238c0316-374f-412f-aa9a-a6adc8f1d566",
-    "vid": "19916",
+    "nid": "23810",
+    "uuid": "b3ef111c-663c-482d-a099-0ebe9e65f360",
+    "vid": "23810",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3228",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NIORT vers ST JEAN D ANGELY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.46651 46.26278)",
-    "radarInstallDate": "2005-12-29T16:20:07",
-    "radarPlace": "ST SYMPHORIEN",
+    "radarInstallDate": "2005-12-29T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RD650",
     "radarTronconKm": [],
     "radarType": [

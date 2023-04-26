@@ -1,14 +1,14 @@
 {
-    "nid": "22585",
-    "uuid": "a3a023c9-dc29-434b-a7bf-f836eae9f87a",
-    "vid": "22585",
+    "nid": "26049",
+    "uuid": "96041e9d-b18e-40ce-9430-6420b60e50fd",
+    "vid": "26049",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE386010",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Limoges vers Niort",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.32128 46.55188)",
-    "radarInstallDate": "2011-02-02T16:28:44",
-    "radarPlace": "ST BENOIT",
+    "radarInstallDate": "2011-02-02T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

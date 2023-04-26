@@ -1,14 +1,14 @@
 {
-    "nid": "22098",
-    "uuid": "4879beb8-466d-4cff-8916-e5955056700e",
-    "vid": "22098",
+    "nid": "25715",
+    "uuid": "6cc981fa-1a28-4cf4-98c3-736ad47c0e3e",
+    "vid": "25715",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE176003",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.19947 49.38958)",
-    "radarInstallDate": "2010-05-19T16:26:29",
-    "radarPlace": "BOOS",
+    "radarInstallDate": "2010-05-19T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22726",
-    "uuid": "e2a7605b-c1ac-47a4-9a5f-01ee9679d778",
-    "vid": "22726",
+    "nid": "26246",
+    "uuid": "6949a75f-bfdd-42b6-a32c-9e701aa95753",
+    "vid": "26246",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741037",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_18_001",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741037",
+    "changed": "1681741037",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "18 - Cher",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (47.126804 2.335341)",
-    "radarInstallDate": "2017-10-05T10:53:39",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.715182 49.781141)",
+    "radarInstallDate": "2017-10-05T16:17:18",
     "radarPlace": "-",
     "radarRoad": "D79E, D60, D160, D20, D68, D79, D2076, D30",
-    "radarTronconKm": "19.80",
+    "radarTronconKm": "19,8",
     "radarType": [
         {
             "tid": "19",

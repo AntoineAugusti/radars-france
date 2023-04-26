@@ -1,14 +1,14 @@
 {
-    "nid": "19890",
-    "uuid": "18c5b020-0b26-43ca-8cb4-93b9ba0d37fd",
-    "vid": "19890",
+    "nid": "23790",
+    "uuid": "51558e69-e7c2-493e-b741-62dc0af4afba",
+    "vid": "23790",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3043",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BELFORT VERS MULHOUSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.85237 47.64114)",
-    "radarInstallDate": "2005-11-17T16:20:04",
-    "radarPlace": "BELFORT",
+    "radarInstallDate": "2005-11-17T16:06:25",
+    "radarPlace": [],
     "radarRoad": "RD83",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20028",
-    "uuid": "a59b273f-7f23-48d3-b327-140843c51a93",
-    "vid": "20028",
+    "nid": "23914",
+    "uuid": "4f276307-104a-4c97-9500-99ed0d994057",
+    "vid": "23914",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4499",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Venissieux vers  Lyon",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.8424 45.72325)",
-    "radarInstallDate": "2009-04-09T16:20:18",
-    "radarPlace": "LYON",
+    "radarInstallDate": "2009-04-09T16:06:38",
+    "radarPlace": [],
     "radarRoad": "23, Boulevard Chambaud de la Bruy\u00e8re",
     "radarTronconKm": [],
     "radarType": [

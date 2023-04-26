@@ -1,14 +1,14 @@
 {
-    "nid": "20213",
-    "uuid": "cad1b9f2-dbab-42db-a58a-283fc4813487",
-    "vid": "20213",
+    "nid": "24086",
+    "uuid": "5cd10388-b2fe-46da-9da3-a8205e9112d7",
+    "vid": "24086",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6882",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BLERE vers MONTRICHARD",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.07752 47.32157)",
-    "radarInstallDate": "2008-04-24T16:20:38",
-    "radarPlace": "FRANCUEIL",
+    "radarInstallDate": "2008-04-24T16:06:58",
+    "radarPlace": [],
     "radarRoad": "RD976",
     "radarTronconKm": [],
     "radarType": [

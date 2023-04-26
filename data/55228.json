@@ -1,14 +1,14 @@
 {
-    "nid": "21263",
-    "uuid": "e0142e5f-7d84-41aa-bea1-aca1ef9f41c5",
-    "vid": "21263",
+    "nid": "25274",
+    "uuid": "e3cfe060-74e4-4d6d-9f02-b8eea4c31d92",
+    "vid": "25274",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55228",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTECH vers MONTAUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.3148 43.99464)",
-    "radarInstallDate": "2021-03-11T16:23:25",
-    "radarPlace": "MONTAUBAN",
+    "radarInstallDate": "2021-03-11T16:10:20",
+    "radarPlace": [],
     "radarRoad": "RD928",
     "radarTronconKm": [],
     "radarType": [

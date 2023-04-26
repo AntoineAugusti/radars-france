@@ -1,14 +1,14 @@
 {
-    "nid": "19955",
-    "uuid": "e873f391-63ab-4d1f-a2cb-320160f0c81d",
-    "vid": "19955",
+    "nid": "23846",
+    "uuid": "101d38f7-d4cf-4f94-8bcc-27890dddedf8",
+    "vid": "23846",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4154",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Gaillon vers Louviers",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.28544 49.17172)",
-    "radarInstallDate": "2009-10-23T16:20:11",
-    "radarPlace": "LE VAL D HAZEY",
+    "radarInstallDate": "2009-10-23T16:06:29",
+    "radarPlace": [],
     "radarRoad": "RD6015",
     "radarTronconKm": [],
     "radarType": [

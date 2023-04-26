@@ -1,14 +1,14 @@
 {
-    "nid": "22423",
-    "uuid": "2c31be85-feae-47f6-8226-4de67b1117e4",
-    "vid": "22423",
+    "nid": "25942",
+    "uuid": "6f1e1a37-90cb-4720-9627-1e9e98a768e5",
+    "vid": "25942",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE330023",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Beaucaire vers N\u00eemes",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (4.56137 43.83064)",
-    "radarInstallDate": "2011-04-01T16:27:55",
-    "radarPlace": "JONQUIERES ST VINCENT",
+    "radarInstallDate": "2011-04-01T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

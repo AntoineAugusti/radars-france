@@ -1,14 +1,14 @@
 {
-    "nid": "22648",
-    "uuid": "3a5bea21-cb4b-4633-b707-407f577f67af",
-    "vid": "22648",
+    "nid": "26167",
+    "uuid": "906eed03-6a44-4255-a691-4e94e23ab37d",
+    "vid": "26167",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20110",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "EZE vers CAP D AIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.3822 43.73209)",
-    "radarInstallDate": "2014-02-24T10:53:36",
+    "radarInstallDate": "2014-02-24T16:17:08",
     "radarPlace": "EZE",
     "radarRoad": "RM6007",
     "radarTronconKm": "1,4",

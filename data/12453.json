@@ -1,14 +1,14 @@
 {
-    "nid": "21723",
-    "uuid": "dbbb993d-69d1-4417-b81d-6af51b37966a",
-    "vid": "21723",
+    "nid": "23391",
+    "uuid": "d5585da7-80d4-46d7-b649-3a3c39dd9c6a",
+    "vid": "23391",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12453",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AIX EN PROVENCE vers NICE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.45668 43.512)",
-    "radarInstallDate": "2016-10-06T16:25:03",
-    "radarPlace": "AIX EN PROVENCE",
+    "radarInstallDate": "2016-10-06T16:05:47",
+    "radarPlace": [],
     "radarRoad": "A8",
     "radarTronconKm": [],
     "radarType": [

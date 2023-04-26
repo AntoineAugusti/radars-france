@@ -1,14 +1,14 @@
 {
-    "nid": "20473",
-    "uuid": "9036fd74-55ce-4dd9-b44a-25de9387b932",
-    "vid": "20473",
+    "nid": "24316",
+    "uuid": "4106045b-ea05-4e28-afeb-6b9f774a1677",
+    "vid": "24316",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8964",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bonneville vers Marignier",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.475034 46.071812)",
-    "radarInstallDate": "2012-12-05T16:21:10",
-    "radarPlace": "MARIGNIER",
+    "radarInstallDate": "2012-12-05T16:07:31",
+    "radarPlace": [],
     "radarRoad": "RD1205",
     "radarTronconKm": [],
     "radarType": [

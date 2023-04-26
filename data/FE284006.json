@@ -1,14 +1,14 @@
 {
-    "nid": "22344",
-    "uuid": "fa55b9b5-d228-4d61-94be-fd00433db00a",
-    "vid": "22344",
+    "nid": "25886",
+    "uuid": "4895bad0-546d-4561-9c2b-959fe57daba9",
+    "vid": "25886",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229194",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE284006",
-    "created": "1637229194",
-    "changed": "1675870051",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avignon vers Le Pontet",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.81345 43.95334)",
-    "radarInstallDate": "2009-11-03T16:27:38",
-    "radarPlace": "AVIGNON",
+    "radarInstallDate": "2009-11-03T16:12:58",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

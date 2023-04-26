@@ -1,14 +1,14 @@
 {
-    "nid": "19882",
-    "uuid": "6412bb5b-a313-4dc0-9d7c-debca9347a7f",
-    "vid": "19882",
+    "nid": "23783",
+    "uuid": "f393d28b-c91c-4162-a5d6-4b8aaf9109f3",
+    "vid": "23783",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "984",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GIROMAGNY VERS BELFORT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.83214 47.72206)",
-    "radarInstallDate": "2005-09-06T16:20:04",
-    "radarPlace": "CHAUX",
+    "radarInstallDate": "2005-09-06T16:06:23",
+    "radarPlace": [],
     "radarRoad": "RD465",
     "radarTronconKm": [],
     "radarType": [

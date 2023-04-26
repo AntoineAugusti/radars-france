@@ -1,14 +1,14 @@
 {
-    "nid": "22453",
-    "uuid": "e4cb86ef-c03c-4020-8a93-b38f223400c4",
-    "vid": "22453",
+    "nid": "25969",
+    "uuid": "e83e8de5-7c8d-4b6d-996d-8fc42afd75da",
+    "vid": "25969",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE333015",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Talence vers Bordeaux",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.59745 44.81973)",
-    "radarInstallDate": "2012-06-07T16:28:03",
-    "radarPlace": "TALENCE",
+    "radarInstallDate": "2012-06-07T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

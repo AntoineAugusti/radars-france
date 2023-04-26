@@ -1,14 +1,14 @@
 {
-    "nid": "21043",
-    "uuid": "47692d9a-e6e8-4ce9-b460-f0e5b7e14e16",
-    "vid": "21043",
+    "nid": "25056",
+    "uuid": "04fa480b-de43-4806-ac6c-3f9a83b760b4",
+    "vid": "25056",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740570",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55005",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740570",
+    "changed": "1681740570",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINTES vers ST PORCHAIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.695512 45.775194)",
-    "radarInstallDate": "2020-12-28T16:22:38",
-    "radarPlace": "ST GEORGES DES COTEAUX",
+    "radarInstallDate": "2020-12-28T16:09:36",
+    "radarPlace": [],
     "radarRoad": "RD137",
     "radarTronconKm": [],
     "radarType": [

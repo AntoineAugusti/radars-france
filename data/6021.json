@@ -1,14 +1,14 @@
 {
-    "nid": "20116",
-    "uuid": "cb7a3bd9-bd3e-4274-9516-28966866036f",
-    "vid": "20116",
+    "nid": "24000",
+    "uuid": "0d547db7-e7a5-4377-b643-6cae272b77df",
+    "vid": "24000",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6021",
-    "created": "1637229118",
-    "changed": "1675869624",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS L HAY LES ROSES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.33953 48.80902)",
-    "radarInstallDate": "2006-06-30T16:20:27",
-    "radarPlace": "ARCUEIL",
+    "radarInstallDate": "2006-06-30T16:06:47",
+    "radarPlace": [],
     "radarRoad": "A6A",
     "radarTronconKm": [],
     "radarType": [

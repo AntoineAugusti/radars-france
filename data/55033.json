@@ -1,14 +1,14 @@
 {
-    "nid": "21070",
-    "uuid": "7a361353-4762-4f77-a59c-3fdd74347dff",
-    "vid": "21070",
+    "nid": "25083",
+    "uuid": "38533efe-2992-4fbd-8d58-15b60c7f77db",
+    "vid": "25083",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55033",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FRANGY vers ANNECY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.005227 46.00177)",
-    "radarInstallDate": "2019-10-25T16:22:44",
-    "radarPlace": "SALLENOVES",
+    "radarInstallDate": "2019-10-25T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD1508",
     "radarTronconKm": [],
     "radarType": [

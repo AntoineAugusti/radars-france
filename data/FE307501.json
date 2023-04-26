@@ -1,14 +1,14 @@
 {
-    "nid": "22360",
-    "uuid": "88c569aa-2ca8-45ec-8a6a-7779ce89a79e",
-    "vid": "22360",
+    "nid": "26050",
+    "uuid": "1e4ad28d-1ff6-42c7-a47e-c2532b85b8d7",
+    "vid": "26050",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229194",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE307501",
-    "created": "1637229194",
-    "changed": "1675870051",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (4.74498 44.63323)",
-    "radarInstallDate": "2013-07-19T16:27:38",
-    "radarPlace": "MEYSSE",
+    "radarInstallDate": "2013-07-19T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

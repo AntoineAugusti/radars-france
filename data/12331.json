@@ -1,14 +1,14 @@
 {
-    "nid": "21619",
-    "uuid": "4fbf7878-d39e-4b3b-9b3f-e9b23c7b3eb5",
-    "vid": "21619",
+    "nid": "23287",
+    "uuid": "333fb4b0-42e4-4b20-a6e0-011370027450",
+    "vid": "23287",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12331",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AUCH vers TOULOUSE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.31945 43.6067)",
-    "radarInstallDate": "2016-03-18T16:24:42",
-    "radarPlace": "COLOMIERS",
+    "radarInstallDate": "2016-03-18T16:05:39",
+    "radarPlace": [],
     "radarRoad": "RN124",
     "radarTronconKm": [],
     "radarType": [

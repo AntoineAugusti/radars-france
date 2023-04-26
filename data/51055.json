@@ -1,14 +1,14 @@
 {
-    "nid": "20703",
-    "uuid": "d8e65c36-047b-45b3-8403-aafd8abba16d",
-    "vid": "20703",
+    "nid": "24629",
+    "uuid": "40a4ce56-7a7a-4c29-a64b-9935f8b836e3",
+    "vid": "24629",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51055",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAUMONT EN VEXIN vers GISORS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.850355 49.281269)",
-    "radarInstallDate": "2019-11-05T16:21:42",
-    "radarPlace": "TRIE LA VILLE",
+    "radarInstallDate": "2019-11-05T16:08:19",
+    "radarPlace": [],
     "radarRoad": "RD 923",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20119",
-    "uuid": "df761c7f-e422-4028-a6dc-ef0e2e0a6d9c",
-    "vid": "20119",
+    "nid": "24002",
+    "uuid": "76c0bbb2-4403-4c61-9c6f-02dc869103a0",
+    "vid": "24002",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6038",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRASSE vers VILLENEUVE LOUBET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.07415 43.65824)",
-    "radarInstallDate": "2006-05-08T16:20:28",
-    "radarPlace": "ROQUEFORT LES PINS",
+    "radarInstallDate": "2006-05-08T16:06:47",
+    "radarPlace": [],
     "radarRoad": "RD2085",
     "radarTronconKm": [],
     "radarType": [

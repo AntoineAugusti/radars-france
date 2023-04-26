@@ -1,14 +1,14 @@
 {
-    "nid": "20583",
-    "uuid": "37370bf7-8db6-4e12-bab2-048baf0d1cb2",
-    "vid": "20583",
+    "nid": "24410",
+    "uuid": "28d030f3-689b-4fd5-870e-a0015e960f8b",
+    "vid": "24410",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740462",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11285",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740462",
+    "changed": "1681740462",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTPELLIER vers LATTES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.9189 43.586)",
-    "radarInstallDate": "2015-10-12T16:21:26",
-    "radarPlace": "LATTES",
+    "radarInstallDate": "2015-10-12T16:07:45",
+    "radarPlace": [],
     "radarRoad": "Av Fr\u00eache, 160 m en amont du chemin de Soriech",
     "radarTronconKm": [],
     "radarType": [

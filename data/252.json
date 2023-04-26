@@ -1,14 +1,14 @@
 {
-    "nid": "19699",
-    "uuid": "21169285-0548-4772-8e66-be3e93d3e316",
-    "vid": "19699",
+    "nid": "23630",
+    "uuid": "bbaedf8f-ad69-4777-b263-25f336837c84",
+    "vid": "23630",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "252",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VICHY VERS VARENNES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.45748 46.17012)",
-    "radarInstallDate": "2004-09-15T16:19:48",
-    "radarPlace": "CREUZIER LE NEUF",
+    "radarInstallDate": "2004-09-15T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RD2209",
     "radarTronconKm": [],
     "radarType": [

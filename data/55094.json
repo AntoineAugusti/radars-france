@@ -1,14 +1,14 @@
 {
-    "nid": "21131",
-    "uuid": "b82450a9-8408-4a62-942a-8e0bea08e440",
-    "vid": "21131",
+    "nid": "25142",
+    "uuid": "0ab9716a-a5cb-4307-a73a-b565b685fef3",
+    "vid": "25142",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55094",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX vers LANGON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.384264 44.663564)",
-    "radarInstallDate": "2020-03-04T16:22:56",
-    "radarPlace": "VIRELADE",
+    "radarInstallDate": "2020-03-04T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD1113",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22542",
-    "uuid": "4c4b3246-34a9-4043-9707-301807a5a20e",
-    "vid": "22542",
+    "nid": "26022",
+    "uuid": "f4248b80-328c-442b-bc6b-4de452ed2404",
+    "vid": "26022",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE366002",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vers le centre ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.87444 42.68811)",
-    "radarInstallDate": "2010-06-02T16:28:29",
-    "radarPlace": "PERPIGNAN",
+    "radarInstallDate": "2010-06-02T16:13:42",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

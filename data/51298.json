@@ -1,14 +1,14 @@
 {
-    "nid": "20937",
-    "uuid": "6a87d057-9edf-4102-a64e-e59258eee6a4",
-    "vid": "20937",
+    "nid": "24864",
+    "uuid": "56c94dd6-c1e4-48a9-9250-89fa71a74696",
+    "vid": "24864",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51298",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GAEL vers NEANT SUR YVEL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.262687 48.101444)",
-    "radarInstallDate": "2020-07-10T16:22:22",
-    "radarPlace": "MAURON",
+    "radarInstallDate": "2020-07-10T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD766",
     "radarTronconKm": [],
     "radarType": [

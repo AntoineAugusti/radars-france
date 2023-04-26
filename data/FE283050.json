@@ -1,14 +1,14 @@
 {
-    "nid": "22324",
-    "uuid": "12a10f55-ed9b-43ee-8773-6daa79e99f9e",
-    "vid": "22324",
+    "nid": "25880",
+    "uuid": "fae25a5e-5310-44fa-a82b-ad7eb1fd07b5",
+    "vid": "25880",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE283050",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers sud",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.98569 43.1365)",
-    "radarInstallDate": "2012-08-10T16:27:30",
-    "radarPlace": "LA VALETTE DU VAR",
+    "radarInstallDate": "2012-08-10T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

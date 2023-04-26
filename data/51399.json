@@ -1,14 +1,14 @@
 {
-    "nid": "21014",
-    "uuid": "20ff95d4-cb76-44f3-9774-3a1c0be91d67",
-    "vid": "21014",
+    "nid": "24959",
+    "uuid": "50e70bb4-bb65-4a06-be9f-3aa785d48bb3",
+    "vid": "24959",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51399",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA FERRIERE BOCHARD vers ALENCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.008779 48.418385)",
-    "radarInstallDate": "2021-08-17T16:22:33",
-    "radarPlace": "MIEUXCE",
+    "radarInstallDate": "2021-08-17T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD1",
     "radarTronconKm": [],
     "radarType": [

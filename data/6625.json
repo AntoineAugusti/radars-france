@@ -1,14 +1,14 @@
 {
-    "nid": "20165",
-    "uuid": "f8be8fce-39dc-4315-88ef-835669b60947",
-    "vid": "20165",
+    "nid": "24042",
+    "uuid": "55fb664d-9914-43d3-8fdf-2d4922d4f582",
+    "vid": "24042",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6625",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PHILIPPSBOURG vers NIEDERBRONN LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.61618 48.96515)",
-    "radarInstallDate": "2008-04-18T16:20:32",
-    "radarPlace": "NIEDERBRONN LES BAINS",
+    "radarInstallDate": "2008-04-18T16:06:53",
+    "radarPlace": [],
     "radarRoad": "RD1062",
     "radarTronconKm": [],
     "radarType": [

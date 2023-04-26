@@ -1,14 +1,14 @@
 {
-    "nid": "20589",
-    "uuid": "4fb04a49-e623-404f-8e94-bef70b3fe9c0",
-    "vid": "20589",
+    "nid": "24416",
+    "uuid": "1f89cfae-c133-4a88-a5b5-3d539e905cc1",
+    "vid": "24416",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740462",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11301",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740462",
+    "changed": "1681740462",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHALONS EN CHAMPAGNE vers VITRY LE FRANCOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.42415 48.91581)",
-    "radarInstallDate": "2015-10-23T16:21:26",
-    "radarPlace": "SARRY",
+    "radarInstallDate": "2015-10-23T16:07:46",
+    "radarPlace": [],
     "radarRoad": "RN44",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22618",
-    "uuid": "7f304b4c-c4be-4652-adcb-86c393f54804",
-    "vid": "22618",
+    "nid": "26143",
+    "uuid": "0588a672-d3db-4061-9fff-7c2882476ad4",
+    "vid": "26143",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20057",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "Cercottes vers Chevilly",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.88121 47.99521)",
-    "radarInstallDate": "2013-07-08T10:53:35",
+    "radarInstallDate": "2013-07-08T16:17:06",
     "radarPlace": "CHEVILLY",
-    "radarRoad": "RD 2020",
+    "radarRoad": "RD2020",
     "radarTronconKm": "2,2",
     "radarType": [
         {

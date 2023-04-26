@@ -1,14 +1,14 @@
 {
-    "nid": "21819",
-    "uuid": "d9ae77a0-b15a-4695-9975-c2117dcd936a",
-    "vid": "21819",
+    "nid": "23492",
+    "uuid": "4784ae6d-3722-4afc-aa80-b64e7e3658aa",
+    "vid": "23492",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12576",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POUILLY EN AUXOIS vers DIJON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.955637 47.336664)",
-    "radarInstallDate": "2020-08-17T16:25:25",
-    "radarPlace": "PLOMBIERES LES DIJON",
+    "radarInstallDate": "2020-08-17T16:05:55",
+    "radarPlace": [],
     "radarRoad": "A38",
     "radarTronconKm": [],
     "radarType": [

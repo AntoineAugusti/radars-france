@@ -1,14 +1,14 @@
 {
-    "nid": "22452",
-    "uuid": "c07315d8-6ebe-4594-bad4-647a050e1c59",
-    "vid": "22452",
+    "nid": "25968",
+    "uuid": "7205e5a1-5820-4dc2-8d95-e54ca0c686b9",
+    "vid": "25968",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE333010",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Barri\u00e8re de M\u00e9doc vers la place Ravezies",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.59133 44.85653)",
-    "radarInstallDate": "2012-10-29T16:28:02",
-    "radarPlace": "BORDEAUX",
+    "radarInstallDate": "2012-10-29T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

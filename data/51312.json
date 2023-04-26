@@ -1,14 +1,14 @@
 {
-    "nid": "20950",
-    "uuid": "48471232-5429-4a6d-a19a-333e0f0a56a2",
-    "vid": "20950",
+    "nid": "24877",
+    "uuid": "dcbe4513-e096-466c-b0c9-11028af177af",
+    "vid": "24877",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51312",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LANGRES vers CHAUMONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.273529 47.959867)",
-    "radarInstallDate": "2020-12-04T16:22:23",
-    "radarPlace": "ROLAMPONT",
+    "radarInstallDate": "2020-12-04T16:09:04",
+    "radarPlace": [],
     "radarRoad": "RD619",
     "radarTronconKm": [],
     "radarType": [

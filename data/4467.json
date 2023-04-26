@@ -1,14 +1,14 @@
 {
-    "nid": "20013",
-    "uuid": "82d8a491-df8e-4bd0-b27d-221540680a9c",
-    "vid": "20013",
+    "nid": "23900",
+    "uuid": "cf57faa2-341e-4d0e-8d26-aa3dfbe32097",
+    "vid": "23900",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4467",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRIOLLAY vers ANGERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.48993 47.53829)",
-    "radarInstallDate": "2008-12-24T16:20:17",
-    "radarPlace": "ECOUFLANT",
+    "radarInstallDate": "2008-12-24T16:06:36",
+    "radarPlace": [],
     "radarRoad": "RD52",
     "radarTronconKm": [],
     "radarType": [

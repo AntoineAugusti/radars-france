@@ -1,14 +1,14 @@
 {
-    "nid": "21208",
-    "uuid": "8197c498-c5bb-43b2-806f-d349d7273c8d",
-    "vid": "21208",
+    "nid": "25219",
+    "uuid": "ac71c0a7-6677-4b3f-922c-1fdd26abf187",
+    "vid": "25219",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55172",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NIMES vers LUNEL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.289978 43.778521)",
-    "radarInstallDate": "2019-12-19T16:23:13",
-    "radarPlace": "BERNIS",
+    "radarInstallDate": "2019-12-19T16:10:12",
+    "radarPlace": [],
     "radarRoad": "RN113",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21300",
-    "uuid": "0cdf22b6-a33c-43e0-a3f3-742a9fb52b4c",
-    "vid": "21300",
+    "nid": "25312",
+    "uuid": "d27353c6-c8a9-4b52-8c27-2e4a77e8174e",
+    "vid": "25312",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55268",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAHORS vers PUY L EVEQUE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.370473 44.51196)",
-    "radarInstallDate": "2020-09-09T16:23:32",
-    "radarPlace": "ESPERE",
+    "radarInstallDate": "2020-09-09T16:10:33",
+    "radarPlace": [],
     "radarRoad": "RD811",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20290",
-    "uuid": "3df1a637-bba6-471b-afdf-ba3a02610881",
-    "vid": "20290",
+    "nid": "24154",
+    "uuid": "c833d15b-6306-4042-b7fa-e5a1f4c90c18",
+    "vid": "24154",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7283",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON vers ORANGE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.73481 44.1952)",
-    "radarInstallDate": "2008-03-27T16:20:46",
-    "radarPlace": "MORNAS",
+    "radarInstallDate": "2008-03-27T16:07:06",
+    "radarPlace": [],
     "radarRoad": "A7",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20681",
-    "uuid": "923e465d-ffac-48f6-86cd-c005be5e05ff",
-    "vid": "20681",
+    "nid": "24606",
+    "uuid": "9182d364-7c10-4b50-9076-7ca82e465d18",
+    "vid": "24606",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51032",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ACHERES vers POISSY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.061219 48.945376)",
-    "radarInstallDate": "2019-07-29T16:21:38",
-    "radarPlace": "POISSY",
+    "radarInstallDate": "2019-07-29T16:08:14",
+    "radarPlace": [],
     "radarRoad": "RD30",
     "radarTronconKm": [],
     "radarType": [

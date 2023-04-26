@@ -1,14 +1,14 @@
 {
-    "nid": "21482",
-    "uuid": "44759545-75ad-42eb-9a56-82405ff5e812",
-    "vid": "21482",
+    "nid": "23155",
+    "uuid": "60bfe12c-6f5c-4c57-a7c2-40aabe931bc0",
+    "vid": "23155",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12084",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTPELLIER vers CLERMONT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.1705 45.175)",
-    "radarInstallDate": "2012-05-02T16:24:10",
-    "radarPlace": "ST PONCY",
+    "radarInstallDate": "2012-05-02T16:05:30",
+    "radarPlace": [],
     "radarRoad": "A75",
     "radarTronconKm": [],
     "radarType": [

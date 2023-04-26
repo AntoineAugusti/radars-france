@@ -1,14 +1,14 @@
 {
-    "nid": "20162",
-    "uuid": "d9bc5c91-10a4-417d-b0cc-2dcfc42059dd",
-    "vid": "20162",
+    "nid": "24039",
+    "uuid": "070eb77a-fb75-4390-989f-618e26ae116c",
+    "vid": "24039",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6618",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAU vers BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.31953 43.50138)",
-    "radarInstallDate": "2007-02-08T16:20:32",
-    "radarPlace": "LALONQUETTE",
+    "radarInstallDate": "2007-02-08T16:06:53",
+    "radarPlace": [],
     "radarRoad": "RD834",
     "radarTronconKm": [],
     "radarType": [

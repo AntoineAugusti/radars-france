@@ -1,14 +1,14 @@
 {
-    "nid": "20187",
-    "uuid": "f2c64aac-516f-4a82-b21b-bd8f9e67781a",
-    "vid": "20187",
+    "nid": "24063",
+    "uuid": "e7128890-2add-4a93-b6d8-9e1c48dba540",
+    "vid": "24063",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6748",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AMIENS vers MONSURES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.18313 49.753)",
-    "radarInstallDate": "2007-04-30T16:20:35",
-    "radarPlace": "TILLOY LES CONTY",
+    "radarInstallDate": "2007-04-30T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD210",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21971",
-    "uuid": "68738faa-dda7-442d-8158-cf1455c91221",
-    "vid": "21971",
+    "nid": "25608",
+    "uuid": "893c7373-005a-4fae-8796-7d57c2eb5674",
+    "vid": "25608",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE156001",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-2.99453 47.66869)",
-    "radarInstallDate": "2010-05-25T16:26:01",
-    "radarPlace": "AURAY",
+    "radarInstallDate": "2010-05-25T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

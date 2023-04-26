@@ -1,14 +1,14 @@
 {
-    "nid": "22576",
-    "uuid": "507d2b49-2aab-4d80-98b2-b4edee2b26c5",
-    "vid": "22576",
+    "nid": "26040",
+    "uuid": "f39218a2-f67b-4515-bb2a-496ff11fef56",
+    "vid": "26040",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE382002",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CASTELSARRASIN vers MONTAUBAN",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.32003 44.01735)",
-    "radarInstallDate": "2009-12-18T16:28:37",
-    "radarPlace": "MONTAUBAN",
+    "radarInstallDate": "2009-12-18T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

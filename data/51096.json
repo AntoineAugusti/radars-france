@@ -1,14 +1,14 @@
 {
-    "nid": "20744",
-    "uuid": "bb87bc3e-7f34-45b5-890d-f26825b3b1cb",
-    "vid": "20744",
+    "nid": "24668",
+    "uuid": "2e107082-1d33-4bcc-bcbf-c37e6d786dd7",
+    "vid": "24668",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51096",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CUISERY  vers LACROST",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.940732 46.55722)",
-    "radarInstallDate": "2020-07-27T16:21:48",
-    "radarPlace": "LACROST",
+    "radarInstallDate": "2020-07-27T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RD975",
     "radarTronconKm": [],
     "radarType": [

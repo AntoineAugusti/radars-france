@@ -1,14 +1,14 @@
 {
-    "nid": "22635",
-    "uuid": "3ea879a4-64ba-45e6-bcf0-173bb03f1110",
-    "vid": "22635",
+    "nid": "26156",
+    "uuid": "0affce04-34c8-4578-b40c-5ac82fbd5753",
+    "vid": "26156",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741027",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20087",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741027",
+    "changed": "1681741027",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.52429 48.52822)",
-    "radarInstallDate": "2013-07-15T10:53:36",
+    "radarInstallDate": "2013-07-15T16:17:07",
     "radarPlace": "ST LANGIS LES MORTAGNE",
     "radarRoad": "RD401",
     "radarTronconKm": "1,9",

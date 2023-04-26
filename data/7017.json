@@ -1,14 +1,14 @@
 {
-    "nid": "20221",
-    "uuid": "1df218bf-52da-4a46-8464-5f330dee196f",
-    "vid": "20221",
+    "nid": "24093",
+    "uuid": "135137fd-bf4e-428a-a5c1-9cc3ef2abb9b",
+    "vid": "24093",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7017",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGOULEME vers POITIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.18496 45.85372)",
-    "radarInstallDate": "2007-11-05T16:20:38",
-    "radarPlace": "MAINE DE BOIXE",
+    "radarInstallDate": "2007-11-05T16:06:58",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

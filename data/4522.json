@@ -1,14 +1,14 @@
 {
-    "nid": "20030",
-    "uuid": "d6f7d8cb-a1a2-4cd1-8e65-9012112ebf8c",
-    "vid": "20030",
+    "nid": "23916",
+    "uuid": "68747c93-6196-492a-8c91-6eaab772bd59",
+    "vid": "23916",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4522",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EPINAL vers DOCELLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.51265 48.17329)",
-    "radarInstallDate": "2009-01-16T16:20:19",
-    "radarPlace": "EPINAL",
+    "radarInstallDate": "2009-01-16T16:06:38",
+    "radarPlace": [],
     "radarRoad": "RD11",
     "radarTronconKm": [],
     "radarType": [

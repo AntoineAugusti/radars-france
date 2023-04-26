@@ -1,14 +1,14 @@
 {
-    "nid": "19734",
-    "uuid": "25456ad3-1d9c-44df-b79d-0b290b78b1a6",
-    "vid": "19734",
+    "nid": "23662",
+    "uuid": "ef13668b-1a13-4ec4-9aca-fe6631b68273",
+    "vid": "23662",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "358",
-    "created": "1637229109",
-    "changed": "1675869590",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST DIE DES VOSGES vers NEUF BRISACH",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.10899 48.1714)",
-    "radarInstallDate": "2005-03-25T16:19:50",
-    "radarPlace": "LE BONHOMME",
+    "radarInstallDate": "2005-03-25T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RD415",
     "radarTronconKm": [],
     "radarType": [

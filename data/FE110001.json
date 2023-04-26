@@ -1,14 +1,14 @@
 {
-    "nid": "21877",
-    "uuid": "08ae336a-5fb1-4d2d-becc-5e857031531e",
-    "vid": "21877",
+    "nid": "25517",
+    "uuid": "776bcb5d-2bb8-49fc-8ff4-019157e06482",
+    "vid": "25517",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740673",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE110001",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740673",
+    "changed": "1681740673",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Dijon vers Troyes",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (4.08951 48.26683)",
-    "radarInstallDate": "2011-04-18T16:25:39",
-    "radarPlace": "ST JULIEN LES VILLAS",
+    "radarInstallDate": "2011-04-18T16:11:20",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20605",
-    "uuid": "4a696d4c-7489-4181-a97d-955c23c0dd8e",
-    "vid": "20605",
+    "nid": "24521",
+    "uuid": "e27992e6-3b4e-43dd-89a2-a3c737ee208f",
+    "vid": "24521",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50028",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POINTE NOIRE vers BAIE MAHAULT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.629509 16.208144)",
-    "radarInstallDate": "2020-01-02T16:21:30",
-    "radarPlace": "PETIT BOURG",
+    "radarInstallDate": "2020-01-02T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RD23",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21775",
-    "uuid": "dea6c019-32fc-4bab-92c8-19d293134393",
-    "vid": "21775",
+    "nid": "23444",
+    "uuid": "fe1b1afe-53e4-4776-81cf-d07c79c7ae48",
+    "vid": "23444",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12513",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIBOURNE vers BORDEAUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.333458 44.883648)",
-    "radarInstallDate": "2017-10-24T16:25:17",
-    "radarPlace": "VAYRES",
+    "radarInstallDate": "2017-10-24T16:05:51",
+    "radarPlace": [],
     "radarRoad": "RN89",
     "radarTronconKm": [],
     "radarType": [

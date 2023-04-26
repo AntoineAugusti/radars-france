@@ -1,14 +1,14 @@
 {
-    "nid": "19776",
-    "uuid": "136518d6-00cd-411e-ac66-9d71c08e5b28",
-    "vid": "19776",
+    "nid": "23701",
+    "uuid": "4fe34894-9a68-4781-a7fd-5fd4525cdf02",
+    "vid": "23701",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "518",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TARBES VERS MONTPELLIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.44788 43.57446)",
-    "radarInstallDate": "2005-08-26T16:19:53",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2005-08-26T16:06:15",
+    "radarPlace": [],
     "radarRoad": "A620",
     "radarTronconKm": [],
     "radarType": [

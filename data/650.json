@@ -1,14 +1,14 @@
 {
-    "nid": "19818",
-    "uuid": "474f0f87-469b-4763-9883-c6826782a883",
-    "vid": "19818",
+    "nid": "23736",
+    "uuid": "a53744d1-6506-4621-bf20-b666f01f6a30",
+    "vid": "23736",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "650",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGERS vers NANTES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.49589 47.26192)",
-    "radarInstallDate": "2005-05-04T16:19:56",
-    "radarPlace": "NANTES",
+    "radarInstallDate": "2005-05-04T16:06:19",
+    "radarPlace": [],
     "radarRoad": "Route de Paris, face au 6, Rue du Danemark",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21280",
-    "uuid": "dba6b7a4-a57d-4881-a352-7583acb24de9",
-    "vid": "21280",
+    "nid": "25293",
+    "uuid": "068ba788-1641-49a7-aebe-f6451b608f70",
+    "vid": "25293",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55247",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TARASCON SUR ARIEGE vers FOIX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.6385 42.917)",
-    "radarInstallDate": "2020-06-25T16:23:26",
-    "radarPlace": "ST PAUL DE JARRAT",
+    "radarInstallDate": "2020-06-25T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RN20",
     "radarTronconKm": [],
     "radarType": [

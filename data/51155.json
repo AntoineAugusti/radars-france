@@ -1,14 +1,14 @@
 {
-    "nid": "20803",
-    "uuid": "9fa62dce-929c-4cde-ba5a-a10fa59b2108",
-    "vid": "20803",
+    "nid": "24727",
+    "uuid": "6560f450-255d-4f01-ac4d-cad007be0a9b",
+    "vid": "24727",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51155",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LUCON vers FONTENAY LE COMTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.074161 46.47488)",
-    "radarInstallDate": "2020-01-24T16:21:58",
-    "radarPlace": "NALLIERS",
+    "radarInstallDate": "2020-01-24T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD 949",
     "radarTronconKm": [],
     "radarType": [

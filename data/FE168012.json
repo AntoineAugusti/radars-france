@@ -1,14 +1,14 @@
 {
-    "nid": "22065",
-    "uuid": "dece1c39-3eb4-447b-8bd0-d26b559c28ac",
-    "vid": "22065",
+    "nid": "25682",
+    "uuid": "6b0673be-019c-49a7-ba0b-829f5cf80f77",
+    "vid": "25682",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168012",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vers la Rue Golb\u00e9ry",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.36049 48.08063)",
-    "radarInstallDate": "2011-04-04T16:26:22",
-    "radarPlace": "COLMAR",
+    "radarInstallDate": "2011-04-04T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

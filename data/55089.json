@@ -1,14 +1,14 @@
 {
-    "nid": "21126",
-    "uuid": "78794320-49f1-44dc-9b51-7885ead4fe53",
-    "vid": "21126",
+    "nid": "25137",
+    "uuid": "c28b583c-8399-41f8-a207-7c9904e6760f",
+    "vid": "25137",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55089",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST JEAN D ANGELY vers MELLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.2389 46.12084)",
-    "radarInstallDate": "2019-10-25T16:22:55",
-    "radarPlace": "BRIOUX SUR BOUTONNE",
+    "radarInstallDate": "2019-10-25T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD950",
     "radarTronconKm": [],
     "radarType": [

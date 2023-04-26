@@ -1,14 +1,14 @@
 {
-    "nid": "20195",
-    "uuid": "2e15605c-0cd5-4191-a07d-ee15a357b458",
-    "vid": "20195",
+    "nid": "24069",
+    "uuid": "aa4fbb29-6a0b-4095-846a-61ad47f2b1c0",
+    "vid": "24069",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6796",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS CHARTRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.14675 48.63505)",
-    "radarInstallDate": "2007-07-26T16:20:35",
-    "radarPlace": "BRIIS SOUS FORGES",
+    "radarInstallDate": "2007-07-26T16:06:57",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

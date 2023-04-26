@@ -1,14 +1,14 @@
 {
-    "nid": "20027",
-    "uuid": "3e8872f6-e168-4fcf-b31c-78fd803fa5fc",
-    "vid": "20027",
+    "nid": "23913",
+    "uuid": "f9810c0b-6e61-43e7-9ada-79c377a513de",
+    "vid": "23913",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4497",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON VERS MARSEILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.8175 45.73316)",
-    "radarInstallDate": "2009-04-02T16:20:18",
-    "radarPlace": "LYON",
+    "radarInstallDate": "2009-04-02T16:06:38",
+    "radarPlace": [],
     "radarRoad": "M7 (ex A7)",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22090",
-    "uuid": "632de647-d148-4929-b9ef-406f10f3e412",
-    "vid": "22090",
+    "nid": "25707",
+    "uuid": "beac0764-05c7-440b-9b01-0971803fdf16",
+    "vid": "25707",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE175015",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "De Quai d'Ivry vers le Quai Fran\u00e7ois Mauriac",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.37974 48.83221)",
-    "radarInstallDate": "2013-02-08T16:26:28",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-02-08T16:12:08",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

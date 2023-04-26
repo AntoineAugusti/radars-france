@@ -1,14 +1,14 @@
 {
-    "nid": "21894",
-    "uuid": "5cf21d31-d263-407a-a247-06c68419f69c",
-    "vid": "21894",
+    "nid": "25533",
+    "uuid": "b43d174d-f11f-4308-9551-5c2eb08c8728",
+    "vid": "25533",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE121005",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT APOLLINAIRE vers FONTAINE LES DIJON",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (5.05718 47.33656)",
-    "radarInstallDate": "2009-10-30T16:25:46",
-    "radarPlace": "DIJON",
+    "radarInstallDate": "2009-10-30T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22289",
-    "uuid": "6090b622-be4f-4a5d-bdfd-fb274375347f",
-    "vid": "22289",
+    "nid": "25859",
+    "uuid": "b68c17d1-77ad-41e0-bb78-161160e857c9",
+    "vid": "25859",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE269003",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ecully vers Lyon",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.79481 45.77362)",
-    "radarInstallDate": "2009-09-15T16:27:20",
-    "radarPlace": "LYON",
+    "radarInstallDate": "2009-09-15T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

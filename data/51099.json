@@ -1,14 +1,14 @@
 {
-    "nid": "20747",
-    "uuid": "81bca82b-9c0b-4271-9820-e145e6235476",
-    "vid": "20747",
+    "nid": "24671",
+    "uuid": "2cfdf07c-1b0c-4481-ada9-3c87095b2f5d",
+    "vid": "24671",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51099",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COULOMMIERS vers MAUPERTHUIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.052633 48.77983)",
-    "radarInstallDate": "2019-11-08T16:21:48",
-    "radarPlace": "BEAUTHEIL SAINTS",
+    "radarInstallDate": "2019-11-08T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RD402",
     "radarTronconKm": [],
     "radarType": [

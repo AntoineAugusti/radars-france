@@ -1,14 +1,14 @@
 {
-    "nid": "21339",
-    "uuid": "4cc43108-20df-409a-a719-3f90ec7eae74",
-    "vid": "21339",
+    "nid": "25353",
+    "uuid": "72c0cf36-5f3c-41f9-a6e3-40312e9e486e",
+    "vid": "25353",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55311",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST HIPPOLYTE vers LE BARCARES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.987636 42.782131)",
-    "radarInstallDate": "2020-10-15T16:23:38",
-    "radarPlace": "ST LAURENT DE LA SALANQUE",
+    "radarInstallDate": "2020-10-15T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD83",
     "radarTronconKm": [],
     "radarType": [

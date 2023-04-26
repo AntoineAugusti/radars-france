@@ -1,14 +1,14 @@
 {
-    "nid": "20815",
-    "uuid": "b8471aa7-d4dd-4abf-88e1-8dbf4079f639",
-    "vid": "20815",
+    "nid": "24739",
+    "uuid": "aed0d689-d668-4740-bb72-0c10f711c9f4",
+    "vid": "24739",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51167",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LUSSE vers SELESTAT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.321013 48.268916)",
-    "radarInstallDate": "2020-01-16T16:22:02",
-    "radarPlace": "LIEPVRE",
+    "radarInstallDate": "2020-01-16T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RN59",
     "radarTronconKm": [],
     "radarType": [

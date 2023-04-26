@@ -1,14 +1,14 @@
 {
-    "nid": "20407",
-    "uuid": "58708075-6ba0-4941-9f80-ab07640b21cb",
-    "vid": "20407",
+    "nid": "24256",
+    "uuid": "6ad686a7-66b7-47d3-aab9-09849d4194f4",
+    "vid": "24256",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8744",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAEN vers VIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.73643 49.02055)",
-    "radarInstallDate": "2010-12-10T16:21:02",
-    "radarPlace": "DIALAN SUR CHAINE",
+    "radarInstallDate": "2010-12-10T16:07:22",
+    "radarPlace": [],
     "radarRoad": "RD577",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21946",
-    "uuid": "16c34b4e-d531-4539-90ab-cfde680d9ff7",
-    "vid": "21946",
+    "nid": "25584",
+    "uuid": "978f00fc-a7d7-40fa-a5b7-11739c88a1e2",
+    "vid": "25584",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE151000",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "FARECO",
-    "radarGeolocalisation": "POINT (4.37827 48.94266)",
-    "radarInstallDate": "2010-10-11T16:25:53",
-    "radarPlace": "CHALONS EN CHAMPAGNE",
+    "radarGeolocalisation": "POINT (4.377967 48.942883)",
+    "radarInstallDate": "2010-10-11T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22054",
-    "uuid": "0efcc183-1212-491b-8d50-2dab84672ac7",
-    "vid": "22054",
+    "nid": "25671",
+    "uuid": "c5bea958-51a3-47c1-9439-fb3293b6b0a3",
+    "vid": "25671",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE167014",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "vers Colmar",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.45738 48.26896)",
-    "radarInstallDate": "2011-04-18T16:26:21",
-    "radarPlace": "SELESTAT",
+    "radarInstallDate": "2011-04-18T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21180",
-    "uuid": "fd3eb33e-c89d-49fa-8abb-dcdf3b1719ca",
-    "vid": "21180",
+    "nid": "25191",
+    "uuid": "7f8208ba-e7d1-446d-b2e3-820713613f49",
+    "vid": "25191",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55144",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RAMATUELLE vers SAINT TROPEZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.61068 43.23483)",
-    "radarInstallDate": "2020-01-23T16:23:07",
-    "radarPlace": "RAMATUELLE",
+    "radarInstallDate": "2020-01-23T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD61",
     "radarTronconKm": [],
     "radarType": [

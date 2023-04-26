@@ -1,14 +1,14 @@
 {
-    "nid": "21090",
-    "uuid": "e2d73ff5-8839-41c2-ad64-aa6e9f168751",
-    "vid": "21090",
+    "nid": "25103",
+    "uuid": "9bdc1d1c-69b9-426f-9bf0-cd07efd2f23c",
+    "vid": "25103",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55053",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEZIERS vers VALROS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.306284 43.38266)",
-    "radarInstallDate": "2019-10-28T16:22:49",
-    "radarPlace": "SERVIAN",
+    "radarInstallDate": "2019-10-28T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RN9",
     "radarTronconKm": [],
     "radarType": [

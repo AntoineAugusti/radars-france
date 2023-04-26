@@ -1,14 +1,14 @@
 {
-    "nid": "20465",
-    "uuid": "1d912edb-7857-4fe2-94c5-a441ccee76fd",
-    "vid": "20465",
+    "nid": "24308",
+    "uuid": "00f2844c-fb94-4bc7-b026-75024be621e8",
+    "vid": "24308",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8932",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHALONS EN CHAMPAGNE vers REIMS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.3817 48.97)",
-    "radarInstallDate": "2012-03-15T16:21:10",
-    "radarPlace": "CHALONS EN CHAMPAGNE",
+    "radarInstallDate": "2012-03-15T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RN44",
     "radarTronconKm": [],
     "radarType": [

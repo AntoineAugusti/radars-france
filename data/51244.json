@@ -1,14 +1,14 @@
 {
-    "nid": "20886",
-    "uuid": "684a0bce-64f0-4252-9ef8-92388a9d3bc6",
-    "vid": "20886",
+    "nid": "24813",
+    "uuid": "55214562-b589-439b-89ec-02eeab28b868",
+    "vid": "24813",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51244",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SARRE UNION vers PHALSBOURG",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.207202 48.846424)",
-    "radarInstallDate": "2020-06-25T16:22:13",
-    "radarPlace": "SIEWILLER",
+    "radarInstallDate": "2020-06-25T16:08:52",
+    "radarPlace": [],
     "radarRoad": "RD1061",
     "radarTronconKm": [],
     "radarType": [

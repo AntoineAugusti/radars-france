@@ -1,14 +1,14 @@
 {
-    "nid": "22603",
-    "uuid": "6311a558-4005-48a0-b119-49a67fc51e2e",
-    "vid": "22603",
+    "nid": "26128",
+    "uuid": "ba57bbd8-40a9-4a2b-a3ae-0d12cd7a3e71",
+    "vid": "26128",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20020",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "PARIS vers TOULOUSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.54349 45.40673)",
-    "radarInstallDate": "2012-11-30T10:53:35",
+    "radarInstallDate": "2012-11-30T16:17:04",
     "radarPlace": "UZERCHE",
-    "radarRoad": "A 20",
+    "radarRoad": "A20",
     "radarTronconKm": "7,3",
     "radarType": [
         {

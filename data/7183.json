@@ -1,14 +1,14 @@
 {
-    "nid": "20263",
-    "uuid": "3d977bd4-19ef-485f-ba34-e1f18ce482d7",
-    "vid": "20263",
+    "nid": "24131",
+    "uuid": "25505af3-149e-4585-820a-8ca9e88e3f34",
+    "vid": "24131",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7183",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Foix vers Tarascon Sur Ariege",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.60132 42.85711)",
-    "radarInstallDate": "2008-02-25T16:20:42",
-    "radarPlace": "TARASCON SUR ARIEGE",
+    "radarInstallDate": "2008-02-25T16:07:05",
+    "radarPlace": [],
     "radarRoad": "RD618",
     "radarTronconKm": [],
     "radarType": [

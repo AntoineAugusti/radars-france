@@ -1,14 +1,14 @@
 {
-    "nid": "20991",
-    "uuid": "0a6dd244-2a53-4bb6-9449-2d25c0e0ca61",
-    "vid": "20991",
+    "nid": "24929",
+    "uuid": "c16fb83a-39ce-4d40-aafa-9af84c1d9abe",
+    "vid": "24929",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51369",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAU LA VALLIERE vers TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.613059 47.447281)",
-    "radarInstallDate": "2021-03-23T16:22:32",
-    "radarPlace": "LA MEMBROLLE SUR CHOISILLE",
+    "radarInstallDate": "2021-03-23T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD959",
     "radarTronconKm": [],
     "radarType": [

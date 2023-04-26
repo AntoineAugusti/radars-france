@@ -1,14 +1,14 @@
 {
-    "nid": "21630",
-    "uuid": "82a4cbe0-6605-4d2e-8a33-38a3825bf425",
-    "vid": "21630",
+    "nid": "23298",
+    "uuid": "ddce9e48-aae2-4f43-9bbf-13b07c51dde6",
+    "vid": "23298",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12343",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NEUFCHATEL EN BRAY vers AMIENS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.7445 49.78055)",
-    "radarInstallDate": "2016-04-22T16:24:42",
-    "radarPlace": "AUMALE",
+    "radarInstallDate": "2016-04-22T16:05:40",
+    "radarPlace": [],
     "radarRoad": "A29",
     "radarTronconKm": [],
     "radarType": [

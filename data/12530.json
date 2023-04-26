@@ -1,14 +1,14 @@
 {
-    "nid": "21789",
-    "uuid": "7e37db52-d6b3-4e14-9864-a78748c3bb0a",
-    "vid": "21789",
+    "nid": "23458",
+    "uuid": "f2692fa5-765b-4262-ad65-6cf7b32f0142",
+    "vid": "23458",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12530",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers BAYONNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.97557 43.173501)",
-    "radarInstallDate": "2020-02-24T16:25:18",
-    "radarPlace": "ROQUEFORT SUR GARONNE",
+    "radarInstallDate": "2020-02-24T16:05:52",
+    "radarPlace": [],
     "radarRoad": "A64",
     "radarTronconKm": [],
     "radarType": [

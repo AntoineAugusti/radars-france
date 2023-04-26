@@ -1,14 +1,14 @@
 {
-    "nid": "19966",
-    "uuid": "dfe07e7e-2192-4196-90ad-0930f57e96f2",
-    "vid": "19966",
+    "nid": "23857",
+    "uuid": "fb27c14e-7687-4e14-bfe0-da90d2198966",
+    "vid": "23857",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4221",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LEVROUX vers CHATEAUROUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.64325 46.9093)",
-    "radarInstallDate": "2008-12-05T16:20:11",
-    "radarPlace": "VINEUIL",
+    "radarInstallDate": "2008-12-05T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD956",
     "radarTronconKm": [],
     "radarType": [

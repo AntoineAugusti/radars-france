@@ -1,14 +1,14 @@
 {
-    "nid": "21442",
-    "uuid": "66b484c0-515b-4e6f-b7d1-035d3e161417",
-    "vid": "21442",
+    "nid": "23116",
+    "uuid": "9ae5f719-679e-4ac6-ae73-923df1cc65f0",
+    "vid": "23116",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12025",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FONDETTES vers JOUE LES TOURS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.65324 47.37244)",
-    "radarInstallDate": "2012-02-10T16:24:03",
-    "radarPlace": "JOUE LES TOURS",
+    "radarInstallDate": "2012-02-10T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RD37",
     "radarTronconKm": [],
     "radarType": [

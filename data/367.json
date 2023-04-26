@@ -1,14 +1,14 @@
 {
-    "nid": "19736",
-    "uuid": "026696b5-ef9d-4aa2-af7c-0cb2c85e3828",
-    "vid": "19736",
+    "nid": "23664",
+    "uuid": "f873ddcd-07fa-43b4-9ede-ae2bedce43f5",
+    "vid": "23664",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "367",
-    "created": "1637229109",
-    "changed": "1675869590",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LOUHANS vers EPERVANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.91729 46.73646)",
-    "radarInstallDate": "2005-04-20T16:19:50",
-    "radarPlace": "EPERVANS",
+    "radarInstallDate": "2005-04-20T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RD978",
     "radarTronconKm": [],
     "radarType": [

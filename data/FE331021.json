@@ -1,14 +1,14 @@
 {
-    "nid": "22438",
-    "uuid": "42b12d27-d6f1-4a54-8675-c619fc6dafa7",
-    "vid": "22438",
+    "nid": "25957",
+    "uuid": "34e1687a-76b7-4bdd-9467-9f2e26e72050",
+    "vid": "25957",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE331021",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ramonville St Agne vers Toulouse",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.45867 43.56676)",
-    "radarInstallDate": "2011-03-18T16:28:02",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2011-03-18T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

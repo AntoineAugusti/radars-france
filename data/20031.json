@@ -1,14 +1,14 @@
 {
-    "nid": "22609",
-    "uuid": "5f5f413a-c119-4bca-8bbc-5836832fccc0",
-    "vid": "22609",
+    "nid": "26134",
+    "uuid": "55ce965e-b45f-473d-8110-f52477f14888",
+    "vid": "26134",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20031",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "Soyaux vers Puymoyen",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.18197 45.62526)",
-    "radarInstallDate": "2013-05-17T10:53:35",
+    "radarInstallDate": "2013-05-17T16:17:05",
     "radarPlace": "PUYMOYEN",
     "radarRoad": "RD1000",
     "radarTronconKm": "2,5",

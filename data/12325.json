@@ -1,14 +1,14 @@
 {
-    "nid": "21616",
-    "uuid": "891d62ae-896d-4e65-8864-820c82507a5a",
-    "vid": "21616",
+    "nid": "23285",
+    "uuid": "894d8029-25c8-44ee-8496-44ed339c9631",
+    "vid": "23285",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12325",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VOREPPE vers VALENCE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.38752 45.17387)",
-    "radarInstallDate": "2015-07-17T16:24:36",
-    "radarPlace": "BEAULIEU",
+    "radarInstallDate": "2015-07-17T16:05:39",
+    "radarPlace": [],
     "radarRoad": "A49",
     "radarTronconKm": [],
     "radarType": [

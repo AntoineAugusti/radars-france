@@ -1,14 +1,14 @@
 {
-    "nid": "21234",
-    "uuid": "c2b27ecb-3f52-48d6-9cbf-7b4e3be3379e",
-    "vid": "21234",
+    "nid": "25245",
+    "uuid": "7e86ddbd-f527-4fb3-909d-72235a93471b",
+    "vid": "25245",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55198",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DONZERE vers GRIGNAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.73459 44.42468)",
-    "radarInstallDate": "2021-03-23T16:23:19",
-    "radarPlace": "DONZERE",
+    "radarInstallDate": "2021-03-23T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RD541",
     "radarTronconKm": [],
     "radarType": [

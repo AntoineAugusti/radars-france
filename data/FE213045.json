@@ -1,14 +1,14 @@
 {
-    "nid": "22235",
-    "uuid": "fccd1d59-fc4a-466e-a683-79902b37ec72",
-    "vid": "22235",
+    "nid": "25835",
+    "uuid": "f2e4a25a-076b-483d-9a8f-66fbd57d640e",
+    "vid": "25835",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229188",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE213045",
-    "created": "1637229188",
-    "changed": "1675870018",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT ANDIOL vers ORGON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.99503 43.80767)",
-    "radarInstallDate": "2012-06-21T16:27:05",
-    "radarPlace": "PLAN D ORGON",
+    "radarInstallDate": "2012-06-21T16:12:48",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

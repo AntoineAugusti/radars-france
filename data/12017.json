@@ -1,14 +1,14 @@
 {
-    "nid": "21438",
-    "uuid": "5dfa45ca-402a-464d-9a5c-2ddf61a4e91a",
-    "vid": "21438",
+    "nid": "23112",
+    "uuid": "a7bb695f-8540-474c-af6f-a4523b26b0ef",
+    "vid": "23112",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12017",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGEVILLERS vers THIONVILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.09112 49.377654)",
-    "radarInstallDate": "2012-07-30T16:23:57",
-    "radarPlace": "THIONVILLE",
+    "radarInstallDate": "2012-07-30T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RD14",
     "radarTronconKm": [],
     "radarType": [

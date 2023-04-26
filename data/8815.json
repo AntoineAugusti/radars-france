@@ -1,14 +1,14 @@
 {
-    "nid": "20427",
-    "uuid": "9c0a15fe-6ee7-4d41-a459-e86773cc1069",
-    "vid": "20427",
+    "nid": "24273",
+    "uuid": "29067718-b68b-4bae-a249-6284b1ef5487",
+    "vid": "24273",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8815",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURG EN BRESSE VERS JAYAT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.121 46.363)",
-    "radarInstallDate": "2011-05-19T16:21:05",
-    "radarPlace": "JAYAT",
+    "radarInstallDate": "2011-05-19T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RD975",
     "radarTronconKm": [],
     "radarType": [

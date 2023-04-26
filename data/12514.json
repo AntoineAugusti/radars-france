@@ -1,14 +1,14 @@
 {
-    "nid": "21776",
-    "uuid": "ffce457a-eb09-482a-b89b-9dffb8e5c662",
-    "vid": "21776",
+    "nid": "23445",
+    "uuid": "1e016195-c2ab-4c36-9974-c079e72716cf",
+    "vid": "23445",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12514",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHOLET vers NANTES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.3227 47.156)",
-    "radarInstallDate": "2016-12-05T16:25:17",
-    "radarPlace": "VALLET",
+    "radarInstallDate": "2016-12-05T16:05:51",
+    "radarPlace": [],
     "radarRoad": "RN249",
     "radarTronconKm": [],
     "radarType": [

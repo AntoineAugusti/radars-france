@@ -1,14 +1,14 @@
 {
-    "nid": "21572",
-    "uuid": "ba9742d0-7aed-4fdd-ac55-e7762eabacd9",
-    "vid": "21572",
+    "nid": "23242",
+    "uuid": "7765590f-6e8d-44a1-ac5e-e9acd6c8b35c",
+    "vid": "23242",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12245",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TROYES vers ARCIS SUR AUBE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.1362 48.496)",
-    "radarInstallDate": "2014-01-02T16:24:29",
-    "radarPlace": "ST ETIENNE SOUS BARBUISE",
+    "radarInstallDate": "2014-01-02T16:05:36",
+    "radarPlace": [],
     "radarRoad": "RD677",
     "radarTronconKm": [],
     "radarType": [

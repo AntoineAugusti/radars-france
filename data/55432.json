@@ -1,14 +1,14 @@
 {
-    "nid": "21426",
-    "uuid": "5468a3e5-cf3f-4d96-81d0-1b9ba2270253",
-    "vid": "21426",
+    "nid": "25461",
+    "uuid": "afa67c91-8e3e-4881-abee-a49c9865bf4a",
+    "vid": "25461",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55432",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MAUBOURGUET vers LABATUT RIVIERE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.036685 43.500808)",
-    "radarInstallDate": "2021-06-21T16:23:57",
-    "radarPlace": "ESTIRAC",
+    "radarInstallDate": "2021-06-21T16:11:04",
+    "radarPlace": [],
     "radarRoad": "RD8",
     "radarTronconKm": [],
     "radarType": [

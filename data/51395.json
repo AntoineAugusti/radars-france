@@ -1,14 +1,14 @@
 {
-    "nid": "21011",
-    "uuid": "b08026c7-3275-4f1c-9aff-60e8bf646758",
-    "vid": "21011",
+    "nid": "24955",
+    "uuid": "e80b8fc5-833d-47b3-ab57-d0013bc9f426",
+    "vid": "24955",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51395",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CARHAIX PLOUGUER vers LORIENT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.55019 48.086391)",
-    "radarInstallDate": "2021-01-27T16:22:33",
-    "radarPlace": "LE SAINT",
+    "radarInstallDate": "2021-01-27T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD769",
     "radarTronconKm": [],
     "radarType": [

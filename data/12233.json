@@ -1,14 +1,14 @@
 {
-    "nid": "21562",
-    "uuid": "c751078d-99ce-42e6-bfcd-b34c88bf6a8d",
-    "vid": "21562",
+    "nid": "23232",
+    "uuid": "df550c49-e0a3-4c5a-9968-f00d93774519",
+    "vid": "23232",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12233",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LILLE vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.0965 50.589)",
-    "radarInstallDate": "2013-11-21T16:24:28",
-    "radarPlace": "LESQUIN",
+    "radarInstallDate": "2013-11-21T16:05:35",
+    "radarPlace": [],
     "radarRoad": "A1",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21135",
-    "uuid": "9843cc3f-1e6d-42ca-806b-eb9ba79e51cf",
-    "vid": "21135",
+    "nid": "25146",
+    "uuid": "af7959eb-87e1-40ca-a1e6-baa710b1f502",
+    "vid": "25146",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55098",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AUBENAS vers LE TEIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.62361 44.57262)",
-    "radarInstallDate": "2020-02-04T16:22:56",
-    "radarPlace": "AUBIGNAS",
+    "radarInstallDate": "2020-02-04T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RN102",
     "radarTronconKm": [],
     "radarType": [

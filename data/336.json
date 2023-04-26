@@ -1,14 +1,14 @@
 {
-    "nid": "19723",
-    "uuid": "840983a7-68c0-4304-9100-2742bfe916c3",
-    "vid": "19723",
+    "nid": "23651",
+    "uuid": "a1ea24b4-9e3b-48e3-bdfb-ed1ef8cf08c7",
+    "vid": "23651",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "336",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATELLERAULT vers POITIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.42488 46.72308)",
-    "radarInstallDate": "2005-07-21T16:19:49",
-    "radarPlace": "BEAUMONT",
+    "radarInstallDate": "2005-07-21T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RD910",
     "radarTronconKm": [],
     "radarType": [

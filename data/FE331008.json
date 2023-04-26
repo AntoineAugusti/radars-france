@@ -1,14 +1,14 @@
 {
-    "nid": "22431",
-    "uuid": "b0a60dea-82d8-4a5f-ba08-59fab74fc05f",
-    "vid": "22431",
+    "nid": "25950",
+    "uuid": "0b35086c-1b73-4c36-9aeb-478511d0062a",
+    "vid": "25950",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE331008",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Toulouse vers Seysses",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.40241 43.55849)",
-    "radarInstallDate": "2011-01-17T16:28:02",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2011-01-17T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

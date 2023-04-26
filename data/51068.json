@@ -1,14 +1,14 @@
 {
-    "nid": "20716",
-    "uuid": "e55e67b7-3e51-46ea-b00a-79e00a200764",
-    "vid": "20716",
+    "nid": "24642",
+    "uuid": "3657a083-1027-4570-b1a4-f244cd6e986f",
+    "vid": "24642",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51068",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA CHAPELLE EN SERVAL vers SENLIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.539706 49.141868)",
-    "radarInstallDate": "2019-12-12T16:21:43",
-    "radarPlace": "LA CHAPELLE EN SERVAL",
+    "radarInstallDate": "2019-12-12T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD1017",
     "radarTronconKm": [],
     "radarType": [

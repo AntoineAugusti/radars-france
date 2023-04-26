@@ -1,14 +1,14 @@
 {
-    "nid": "21597",
-    "uuid": "ad31898b-03a0-4471-9860-07ad4e638b8f",
-    "vid": "21597",
+    "nid": "23266",
+    "uuid": "e4aa3fd6-229e-4ff1-8bde-d0ab326f7fae",
+    "vid": "23266",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12294",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX vers BAYONNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.81927 44.40999)",
-    "radarInstallDate": "2014-04-08T16:24:35",
-    "radarPlace": "SAUGNACQ ET MURET",
+    "radarInstallDate": "2014-04-08T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A63",
     "radarTronconKm": [],
     "radarType": [

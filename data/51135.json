@@ -1,14 +1,14 @@
 {
-    "nid": "20783",
-    "uuid": "e21c71c1-aad0-43f2-ab2c-e391776ae9d9",
-    "vid": "20783",
+    "nid": "24707",
+    "uuid": "4ff3dba5-437d-4404-a6fe-a2dc623195f3",
+    "vid": "24707",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51135",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TONNERRE vers TROYES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.018639 47.920362)",
-    "radarInstallDate": "2020-09-04T16:21:58",
-    "radarPlace": "MOLOSMES",
+    "radarInstallDate": "2020-09-04T16:08:31",
+    "radarPlace": [],
     "radarRoad": "RD944",
     "radarTronconKm": [],
     "radarType": [

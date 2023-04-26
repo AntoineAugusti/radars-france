@@ -1,14 +1,14 @@
 {
-    "nid": "21161",
-    "uuid": "c894bd22-6001-4094-895b-f6a8683236c0",
-    "vid": "21161",
+    "nid": "25172",
+    "uuid": "6417b96d-7ec3-42c3-8beb-5537e5778d16",
+    "vid": "25172",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55125",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAVAILLON vers MERINDOL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.1467 43.757)",
-    "radarInstallDate": "2019-12-16T16:23:02",
-    "radarPlace": "CHEVAL BLANC",
+    "radarInstallDate": "2019-12-16T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD973",
     "radarTronconKm": [],
     "radarType": [

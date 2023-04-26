@@ -1,14 +1,14 @@
 {
-    "nid": "21559",
-    "uuid": "afcd8ddd-b2ff-40bf-acb7-5eb93dceeaee",
-    "vid": "21559",
+    "nid": "23229",
+    "uuid": "11f71835-8e02-4a19-9a85-8c4aed7e1e74",
+    "vid": "23229",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12224",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "CLERMONT L HERAULT vers MONTPELLIER",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (3.6938 43.629)",
-    "radarInstallDate": "2013-09-06T16:24:28",
-    "radarPlace": "MONTARNAUD",
+    "radarGeolocalisation": "POINT (3.69391 43.62914)",
+    "radarInstallDate": "2013-09-06T16:05:35",
+    "radarPlace": [],
     "radarRoad": "A750",
     "radarTronconKm": [],
     "radarType": [

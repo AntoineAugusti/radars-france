@@ -1,14 +1,14 @@
 {
-    "nid": "20553",
-    "uuid": "f07e386a-b852-442c-a2d6-c595b58fe12e",
-    "vid": "20553",
+    "nid": "24382",
+    "uuid": "6e000199-81a2-4567-9547-4a92e1dc3a26",
+    "vid": "24382",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11190",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rueil-Malmaison vers La-Garenne-Colombes",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.20696 48.89088)",
-    "radarInstallDate": "2012-09-28T16:21:22",
-    "radarPlace": "NANTERRE",
+    "radarInstallDate": "2012-09-28T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RD131(face au 60 av Joliot-Curie)",
     "radarTronconKm": [],
     "radarType": [

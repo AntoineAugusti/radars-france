@@ -1,14 +1,14 @@
 {
-    "nid": "22094",
-    "uuid": "23e09b33-e5ad-437c-8e3e-a49273ec7908",
-    "vid": "22094",
+    "nid": "25711",
+    "uuid": "503a9b65-5e5a-40a3-baf7-3644208e137e",
+    "vid": "25711",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE175043",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue du Louvre vers la Seine",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.3408 48.86091)",
-    "radarInstallDate": "2013-02-08T16:26:29",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-02-08T16:12:14",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

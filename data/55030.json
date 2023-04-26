@@ -1,14 +1,14 @@
 {
-    "nid": "21067",
-    "uuid": "469b3581-daab-49b2-99a3-7fdb55b91beb",
-    "vid": "21067",
+    "nid": "25080",
+    "uuid": "c6035745-b14d-4ba6-94b4-7f183ce7fcec",
+    "vid": "25080",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55030",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VIRIGNIN vers ST JEAN DE CHEVELU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.784344 45.703531)",
-    "radarInstallDate": "2019-08-12T16:22:44",
-    "radarPlace": "YENNE",
+    "radarInstallDate": "2019-08-12T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD1504",
     "radarTronconKm": [],
     "radarType": [

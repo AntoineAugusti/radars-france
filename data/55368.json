@@ -1,14 +1,14 @@
 {
-    "nid": "21392",
-    "uuid": "59ed97fc-2356-4b7f-b66a-9f9fc9eb37e1",
-    "vid": "21392",
+    "nid": "25407",
+    "uuid": "1e1c8c33-0070-49d5-962e-64bdee92fc76",
+    "vid": "25407",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55368",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PEROUGES vers LE MONTELLIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.101395 45.927842)",
-    "radarInstallDate": "2021-07-06T16:23:51",
-    "radarPlace": "JOYEUX",
+    "radarInstallDate": "2021-07-06T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD4",
     "radarTronconKm": [],
     "radarType": [

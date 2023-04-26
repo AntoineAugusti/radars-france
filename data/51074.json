@@ -1,14 +1,14 @@
 {
-    "nid": "20722",
-    "uuid": "e15a1d5c-7e44-4af0-96a7-03a0450473aa",
-    "vid": "20722",
+    "nid": "24647",
+    "uuid": "76b9f767-29d9-4519-9037-cf24cdff8eb6",
+    "vid": "24647",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51074",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRUZ vers BAULON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.814665 48.020599)",
-    "radarInstallDate": "2019-07-19T16:21:47",
-    "radarPlace": "GOVEN",
+    "radarInstallDate": "2019-07-19T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD44",
     "radarTronconKm": [],
     "radarType": [

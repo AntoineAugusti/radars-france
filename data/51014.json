@@ -1,14 +1,14 @@
 {
-    "nid": "20664",
-    "uuid": "31b71569-94ff-4882-8072-0ab06b4db52a",
-    "vid": "20664",
+    "nid": "24589",
+    "uuid": "576159d6-4127-44d8-841f-2e1105e25ec3",
+    "vid": "24589",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51014",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORVAULT vers BOUGUENAIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.622706 47.203363)",
-    "radarInstallDate": "2019-07-19T16:21:37",
-    "radarPlace": "ST HERBLAIN",
+    "radarInstallDate": "2019-07-19T16:08:10",
+    "radarPlace": [],
     "radarRoad": "RN844",
     "radarTronconKm": [],
     "radarType": [

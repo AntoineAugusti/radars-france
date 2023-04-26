@@ -1,14 +1,14 @@
 {
-    "nid": "20372",
-    "uuid": "9673ad5d-8830-4b2b-b5bf-dae484a8a021",
-    "vid": "20372",
+    "nid": "24226",
+    "uuid": "8d55a1c9-8142-4ff3-876d-ffbfd67e3271",
+    "vid": "24226",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8632",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATILLON COLIGNY vers MONTARGIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.7578 47.968)",
-    "radarInstallDate": "2011-03-28T16:20:58",
-    "radarPlace": "AMILLY",
+    "radarInstallDate": "2011-03-28T16:07:18",
+    "radarPlace": [],
     "radarRoad": "RD93",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22597",
-    "uuid": "6792818c-455a-4df4-b5e3-519092d7ebe4",
-    "vid": "22597",
+    "nid": "26122",
+    "uuid": "c4b70361-dcba-4012-a8e8-64fe9b3c77db",
+    "vid": "26122",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20007",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "St Nazaire vers St Brevin les Pins  (Nord / Sud)",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.178384 47.297645)",
-    "radarInstallDate": "2012-09-07T10:53:35",
+    "radarInstallDate": "2012-09-07T16:17:04",
     "radarPlace": "ST BREVIN LES PINS",
-    "radarRoad": "RD213",
+    "radarRoad": "RD 213",
     "radarTronconKm": "3,4",
     "radarType": [
         {

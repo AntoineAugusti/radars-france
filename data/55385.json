@@ -1,14 +1,14 @@
 {
-    "nid": "21404",
-    "uuid": "f82d9adf-40e0-4b15-ab55-7d4c38184649",
-    "vid": "21404",
+    "nid": "25421",
+    "uuid": "ffb36fd4-883b-4b43-842c-d8af8af851e7",
+    "vid": "25421",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55385",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PIA vers POLLESTRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.883063 42.660478)",
-    "radarInstallDate": "2020-12-09T16:23:51",
-    "radarPlace": "PERPIGNAN",
+    "radarInstallDate": "2020-12-09T16:10:56",
+    "radarPlace": [],
     "radarRoad": "RD900",
     "radarTronconKm": [],
     "radarType": [

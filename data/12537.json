@@ -1,14 +1,14 @@
 {
-    "nid": "21793",
-    "uuid": "8958e726-42c8-4722-8a6b-6ff79babfda4",
-    "vid": "21793",
+    "nid": "23463",
+    "uuid": "6a933cf7-09cd-4634-a242-57eecaae8a8a",
+    "vid": "23463",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12537",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LENS vers LA BASSEE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.831789 50.466852)",
-    "radarInstallDate": "2019-05-17T16:25:18",
-    "radarPlace": "VENDIN LE VIEIL",
+    "radarInstallDate": "2019-05-17T16:05:53",
+    "radarPlace": [],
     "radarRoad": "RN47",
     "radarTronconKm": [],
     "radarType": [

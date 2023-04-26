@@ -1,14 +1,14 @@
 {
-    "nid": "21275",
-    "uuid": "2b46be43-e00d-48d4-a256-d9a0f0bb5335",
-    "vid": "21275",
+    "nid": "25286",
+    "uuid": "203daa82-854f-4ac8-8d0e-c90052df9720",
+    "vid": "25286",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55240",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRENOBLE vers LYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.33245 45.41662)",
-    "radarInstallDate": "2020-11-26T16:23:26",
-    "radarPlace": "LE MOTTIER",
+    "radarInstallDate": "2020-11-26T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD1085",
     "radarTronconKm": [],
     "radarType": [

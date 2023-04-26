@@ -1,14 +1,14 @@
 {
-    "nid": "20926",
-    "uuid": "3624ed8d-5ce9-45a2-820c-7ff569be9a34",
-    "vid": "20926",
+    "nid": "24853",
+    "uuid": "6721ed6b-9bb0-4ed4-bfea-ed107cd6adf2",
+    "vid": "24853",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51287",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VITRE vers FOUGERES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.151327 48.274769)",
-    "radarInstallDate": "2020-06-11T16:22:18",
-    "radarPlace": "LUITRE DOMPIERRE",
+    "radarInstallDate": "2020-06-11T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD 178",
     "radarTronconKm": [],
     "radarType": [

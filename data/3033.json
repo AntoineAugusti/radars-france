@@ -1,14 +1,14 @@
 {
-    "nid": "19889",
-    "uuid": "bb7d44d0-05f8-4cd9-b1ee-d797990445b9",
-    "vid": "19889",
+    "nid": "23789",
+    "uuid": "71473f9e-205f-458c-9fa3-ca592822dcca",
+    "vid": "23789",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3033",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERSAILLES VERS VAUCRESSON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.15161 48.8268)",
-    "radarInstallDate": "2006-01-14T16:20:04",
-    "radarPlace": "MARNES LA COQUETTE",
+    "radarInstallDate": "2006-01-14T16:06:25",
+    "radarPlace": [],
     "radarRoad": "RD182",
     "radarTronconKm": [],
     "radarType": [

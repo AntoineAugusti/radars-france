@@ -1,14 +1,14 @@
 {
-    "nid": "19782",
-    "uuid": "75ad6e89-71d3-48df-9e14-52c43adb86ab",
-    "vid": "19782",
+    "nid": "23706",
+    "uuid": "eaa38bf8-5269-4e30-be41-97b6e16312d2",
+    "vid": "23706",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "536",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CLERMONT FERRAND VERS MONTPELLIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.21671 45.60167)",
-    "radarInstallDate": "2005-03-30T16:19:53",
-    "radarPlace": "SAUVAGNAT STE MARTHE",
+    "radarInstallDate": "2005-03-30T16:06:16",
+    "radarPlace": [],
     "radarRoad": "A75",
     "radarTronconKm": [],
     "radarType": [

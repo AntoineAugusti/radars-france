@@ -1,14 +1,14 @@
 {
-    "nid": "21746",
-    "uuid": "2a14a4c7-eae8-4868-83a2-50fdfef31278",
-    "vid": "21746",
+    "nid": "23414",
+    "uuid": "e336bb14-1e7e-428e-88ea-e3c08afbabd5",
+    "vid": "23414",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12481",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CRETEIL vers DREUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.070456 48.790311)",
-    "radarInstallDate": "2017-03-27T16:25:11",
-    "radarPlace": "VERSAILLES",
+    "radarInstallDate": "2017-03-27T16:05:48",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19864",
-    "uuid": "40aecda1-30e4-4de1-abf2-40ae4ecb8539",
-    "vid": "19864",
+    "nid": "23770",
+    "uuid": "3e966c20-7eb8-415b-bcbc-ed6591f57c00",
+    "vid": "23770",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "867",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MEUNG SUR LOIRE vers ORLEANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.73588 47.85058)",
-    "radarInstallDate": "2005-12-05T16:20:01",
-    "radarPlace": "ST AY",
+    "radarInstallDate": "2005-12-05T16:06:22",
+    "radarPlace": [],
     "radarRoad": "RD2152",
     "radarTronconKm": [],
     "radarType": [

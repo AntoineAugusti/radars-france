@@ -1,14 +1,14 @@
 {
-    "nid": "21916",
-    "uuid": "a85f0090-1513-422a-8ccb-92dbcca4569b",
-    "vid": "21916",
+    "nid": "25555",
+    "uuid": "f80a77aa-a240-4426-be54-ee623fa5f27b",
+    "vid": "25555",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE137003",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Tours vers Ch\u00e2teau Renault",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (0.78348 47.49706)",
-    "radarInstallDate": "2011-04-18T16:25:47",
-    "radarPlace": "MONNAIE",
+    "radarInstallDate": "2011-04-18T16:11:28",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19819",
-    "uuid": "7a919b6e-094e-4fb0-beb4-a01eaecc64dc",
-    "vid": "19819",
+    "nid": "23737",
+    "uuid": "a60c4345-d32d-4003-bfbb-a342dbd5edb1",
+    "vid": "23737",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "651",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARNAY LE DUC vers POUILLY EN AUXOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.48915 47.14772)",
-    "radarInstallDate": "2005-04-14T16:19:58",
-    "radarPlace": "MIMEURE",
+    "radarInstallDate": "2005-04-14T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RD981",
     "radarTronconKm": [],
     "radarType": [

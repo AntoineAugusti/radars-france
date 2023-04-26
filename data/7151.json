@@ -1,14 +1,14 @@
 {
-    "nid": "20252",
-    "uuid": "ca354824-aede-4532-a474-dc39249b5793",
-    "vid": "20252",
+    "nid": "24120",
+    "uuid": "b867804b-7c94-4257-ba6d-8d82ac9e5874",
+    "vid": "24120",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7151",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRANDVILLE vers VILLEDIEU LES POELES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.50303 48.83699)",
-    "radarInstallDate": "2008-02-01T16:20:41",
-    "radarPlace": "ST PLANCHERS",
+    "radarInstallDate": "2008-02-01T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RD924",
     "radarTronconKm": [],
     "radarType": [

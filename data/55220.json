@@ -1,14 +1,14 @@
 {
-    "nid": "21255",
-    "uuid": "6e33ebc2-3dcf-4988-87e6-4e8a17da89de",
-    "vid": "21255",
+    "nid": "25266",
+    "uuid": "44f3f0d3-614b-4c6f-ac3f-7bd80b9a90b7",
+    "vid": "25266",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55220",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LOUDES vers LE PUY EN VELAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.833134 45.058022)",
-    "radarInstallDate": "2020-06-10T16:23:20",
-    "radarPlace": "CEYSSAC",
+    "radarInstallDate": "2020-06-10T16:10:20",
+    "radarPlace": [],
     "radarRoad": "RD590",
     "radarTronconKm": [],
     "radarType": [

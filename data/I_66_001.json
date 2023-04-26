@@ -1,14 +1,14 @@
 {
-    "nid": "22842",
-    "uuid": "8b5a714a-9719-43e5-8f83-83e9181675e2",
-    "vid": "22842",
+    "nid": "26390",
+    "uuid": "4096c8fb-0f1e-4b48-a1d0-f1450b9eee73",
+    "vid": "26390",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229224",
+    "revisionTimestamp": "1681741065",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_66_001",
-    "created": "1637229224",
-    "changed": "1637229224",
+    "created": "1681741065",
+    "changed": "1681741065",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "66 - Pyr\u00e9n\u00e9es-Orientales",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (42.525361 2.851122)",
-    "radarInstallDate": "2017-10-09T10:53:45",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (0.018087 44.139919)",
+    "radarInstallDate": "2017-10-05T16:17:46",
     "radarPlace": "-",
     "radarRoad": "D2, D618, D50, D61, D11, D61A",
-    "radarTronconKm": "12.89",
+    "radarTronconKm": "12,9",
     "radarType": [
         {
             "tid": "19",

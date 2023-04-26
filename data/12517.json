@@ -1,14 +1,14 @@
 {
-    "nid": "21779",
-    "uuid": "626e0484-d840-433e-937f-a5eeb5e70f4d",
-    "vid": "21779",
+    "nid": "23448",
+    "uuid": "96b86ab0-633e-4633-9d5d-17396c98d34b",
+    "vid": "23448",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12517",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TROYES vers CHALONS EN CHAMPAGNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.17437 48.656155)",
-    "radarInstallDate": "2016-12-01T16:25:17",
-    "radarPlace": "MAILLY LE CAMP",
+    "radarInstallDate": "2016-12-01T16:05:52",
+    "radarPlace": [],
     "radarRoad": "A26",
     "radarTronconKm": [],
     "radarType": [

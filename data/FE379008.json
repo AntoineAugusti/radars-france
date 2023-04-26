@@ -1,14 +1,14 @@
 {
-    "nid": "22572",
-    "uuid": "3a1b5a4e-ac25-4bf8-bf00-b89c1792b0c2",
-    "vid": "22572",
+    "nid": "26036",
+    "uuid": "052c064c-d23a-4ae8-8f7c-4d5a82ecf464",
+    "vid": "26036",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE379008",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Thouars vers Ste Verge",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.21698 46.992)",
-    "radarInstallDate": "2010-12-28T16:28:37",
-    "radarPlace": "THOUARS",
+    "radarInstallDate": "2010-12-28T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

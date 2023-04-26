@@ -1,14 +1,14 @@
 {
-    "nid": "20737",
-    "uuid": "d8f0e75e-e1f4-41a9-b8a0-ccdb1fbceadf",
-    "vid": "20737",
+    "nid": "24662",
+    "uuid": "fadedc42-f9bf-4215-9e55-eed3af64a700",
+    "vid": "24662",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51089",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ERNEE vers FOUGERES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.099823 48.327402)",
-    "radarInstallDate": "2019-07-29T16:21:48",
-    "radarPlace": "LA CHAPELLE JANSON",
+    "radarInstallDate": "2019-07-29T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

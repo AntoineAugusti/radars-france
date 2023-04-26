@@ -1,14 +1,14 @@
 {
-    "nid": "21914",
-    "uuid": "7792a1cb-97d0-43a0-a34e-8a4bb77c2e1c",
-    "vid": "21914",
+    "nid": "25553",
+    "uuid": "236b48e6-8d55-4d3f-be31-7de27e19551d",
+    "vid": "25553",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE137001",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "La Ville aux Dames vers Tours",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (0.74247 47.39722)",
-    "radarInstallDate": "2011-05-25T16:25:47",
-    "radarPlace": "ST PIERRE DES CORPS",
+    "radarInstallDate": "2011-05-25T16:11:28",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

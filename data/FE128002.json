@@ -1,14 +1,14 @@
 {
-    "nid": "21907",
-    "uuid": "8a98d1e8-e997-4933-aa9d-1340599b9a97",
-    "vid": "21907",
+    "nid": "25546",
+    "uuid": "9e5496c9-a93a-49a2-94a1-ef382ebf77e9",
+    "vid": "25546",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE128002",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.24417 48.75866)",
-    "radarInstallDate": "2010-11-05T16:25:46",
-    "radarPlace": "ST REMY SUR AVRE",
+    "radarInstallDate": "2010-11-05T16:11:28",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

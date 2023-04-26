@@ -1,14 +1,14 @@
 {
-    "nid": "21274",
-    "uuid": "f48eb77d-3efe-4d50-9bac-13c78cf68789",
-    "vid": "21274",
+    "nid": "25285",
+    "uuid": "f680808d-886c-4efa-9062-0580f6bc032d",
+    "vid": "25285",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55239",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE BOURG D OISANS vers VIZILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.78997 45.05042)",
-    "radarInstallDate": "2020-08-20T16:23:26",
-    "radarPlace": "SECHILIENNE",
+    "radarInstallDate": "2020-08-20T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD1091",
     "radarTronconKm": [],
     "radarType": [

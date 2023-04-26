@@ -1,14 +1,14 @@
 {
-    "nid": "20794",
-    "uuid": "34a95c03-f36e-48b7-bf43-c2e90f376896",
-    "vid": "20794",
+    "nid": "24718",
+    "uuid": "86ff7ef7-c075-484f-8d1a-8aeb93d99fc0",
+    "vid": "24718",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51146",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ESTREES ST DENIS vers ST MARTIN LONGUEAU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.619439 49.38175)",
-    "radarInstallDate": "2019-12-09T16:21:58",
-    "radarPlace": "BLINCOURT",
+    "radarInstallDate": "2019-12-09T16:08:31",
+    "radarPlace": [],
     "radarRoad": "RD1017",
     "radarTronconKm": [],
     "radarType": [

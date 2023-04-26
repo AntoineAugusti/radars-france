@@ -1,14 +1,14 @@
 {
-    "nid": "20021",
-    "uuid": "306fd19a-b2f3-4f90-b092-f46cc058fe64",
-    "vid": "20021",
+    "nid": "23907",
+    "uuid": "61168f16-e8d6-4ebc-b626-26759dedb48b",
+    "vid": "23907",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4483",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATRES LA FORET vers LA CHAPELLE RAINSOUIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.45898 48.12239)",
-    "radarInstallDate": "2009-02-02T16:20:17",
-    "radarPlace": "ST CHRISTOPHE DU LUAT",
+    "radarInstallDate": "2009-02-02T16:06:36",
+    "radarPlace": [],
     "radarRoad": "RD20",
     "radarTronconKm": [],
     "radarType": [

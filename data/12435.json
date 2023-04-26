@@ -1,14 +1,14 @@
 {
-    "nid": "21709",
-    "uuid": "6bf3d1a8-970d-4353-9a0c-1c3fd1caae13",
-    "vid": "21709",
+    "nid": "23377",
+    "uuid": "18aebd03-27ac-4da1-a9da-f8cff29f0b89",
+    "vid": "23377",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12435",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BREST vers MORLAIX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-4.377201 48.452766)",
-    "radarInstallDate": "2016-12-19T16:25:03",
-    "radarPlace": "GUIPAVAS",
+    "radarInstallDate": "2016-12-19T16:05:46",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

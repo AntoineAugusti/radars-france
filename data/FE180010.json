@@ -1,14 +1,14 @@
 {
-    "nid": "22136",
-    "uuid": "a4372a06-a02c-4380-9868-f0c8d1f70f99",
-    "vid": "22136",
+    "nid": "25752",
+    "uuid": "4e1ebb5e-793d-4c18-a814-540b95994010",
+    "vid": "25752",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE180010",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Amiens vers Longueau",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.35034 49.87342)",
-    "radarInstallDate": "2011-10-03T16:26:42",
-    "radarPlace": "LONGUEAU",
+    "radarInstallDate": "2011-10-03T16:12:23",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

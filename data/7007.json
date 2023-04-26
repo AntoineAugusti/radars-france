@@ -1,14 +1,14 @@
 {
-    "nid": "20217",
-    "uuid": "d19eab78-8976-4186-bcd7-1866b11eb575",
-    "vid": "20217",
+    "nid": "24090",
+    "uuid": "8f297e7f-5208-4c45-bc4d-4ee62a7bb994",
+    "vid": "24090",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7007",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MERLEVENEZ VERS BELZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.22242 47.71148)",
-    "radarInstallDate": "2007-11-16T16:20:38",
-    "radarPlace": "PLOUHINEC",
+    "radarInstallDate": "2007-11-16T16:06:58",
+    "radarPlace": [],
     "radarRoad": "RD9",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20035",
-    "uuid": "60681b5e-b736-4f91-8042-5eaae352f517",
-    "vid": "20035",
+    "nid": "23921",
+    "uuid": "a8a98b09-0997-4340-996e-96aa6d639c57",
+    "vid": "23921",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4532",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Joigny vers Sens",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.29971 48.07803)",
-    "radarInstallDate": "2009-01-16T16:20:19",
-    "radarPlace": "VILLENEUVE SUR YONNE",
+    "radarInstallDate": "2009-01-16T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD606",
     "radarTronconKm": [],
     "radarType": [

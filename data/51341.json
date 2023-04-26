@@ -1,14 +1,14 @@
 {
-    "nid": "20970",
-    "uuid": "1a7acee2-fb22-4b9e-aa01-9a1f0abb6d2e",
-    "vid": "20970",
+    "nid": "24904",
+    "uuid": "70bdf1d3-f604-45e2-8a1e-8a163d18e819",
+    "vid": "24904",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51341",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOISSONS vers CREPY EN VALOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.987522 49.235132)",
-    "radarInstallDate": "2021-07-30T16:22:28",
-    "radarPlace": "VAUMOISE",
+    "radarInstallDate": "2021-07-30T16:09:05",
+    "radarPlace": [],
     "radarRoad": "RD1324",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20070",
-    "uuid": "bad4be6b-ae2c-4761-a97d-c60f2ad94443",
-    "vid": "20070",
+    "nid": "23954",
+    "uuid": "afef83bf-9c6a-449a-ade9-ae5abd6e23dc",
+    "vid": "23954",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4763",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "REGINA vers MATOURY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-52.3538 4.81139)",
-    "radarInstallDate": "2009-11-15T16:20:23",
-    "radarPlace": "MATOURY",
+    "radarInstallDate": "2009-11-15T16:06:42",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21905",
-    "uuid": "86966ed6-2c14-4529-bea1-1ba7144d1ad5",
-    "vid": "21905",
+    "nid": "25544",
+    "uuid": "4b2d9fba-e782-4a97-9643-6bb44ba9b32b",
+    "vid": "25544",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE127002",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.16164 49.01643)",
-    "radarInstallDate": "2013-02-28T16:25:46",
-    "radarPlace": "EVREUX",
+    "radarInstallDate": "2013-02-28T16:11:28",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

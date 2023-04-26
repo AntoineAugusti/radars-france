@@ -1,14 +1,14 @@
 {
-    "nid": "21735",
-    "uuid": "bd404a40-9e56-4887-9e62-c5b3f54bc245",
-    "vid": "21735",
+    "nid": "23403",
+    "uuid": "afa83ae4-1cf1-4374-ba28-d267a0a86600",
+    "vid": "23403",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12469",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY vers EPINAL",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.24245 48.460773)",
-    "radarInstallDate": "2020-06-05T16:25:04",
-    "radarPlace": "CRANTENOY",
+    "radarInstallDate": "2020-06-05T16:05:48",
+    "radarPlace": [],
     "radarRoad": "RN57",
     "radarTronconKm": [],
     "radarType": [

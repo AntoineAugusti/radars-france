@@ -1,14 +1,14 @@
 {
-    "nid": "22709",
-    "uuid": "5e2d7ac1-8dc4-4820-9704-e6fee95b0715",
-    "vid": "22709",
+    "nid": "26223",
+    "uuid": "d87af457-5ffb-474c-b580-2432f9cb3c60",
+    "vid": "26223",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741033",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_08_006",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741033",
+    "changed": "1681741033",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "08 - Ardennes",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (49.768205 4.779785)",
-    "radarInstallDate": "2017-10-05T10:53:38",
-    "radarPlace": "-",
-    "radarRoad": "D979",
-    "radarTronconKm": "10.41",
+    "radarDirection": "49.398551, 3.333299",
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": [],
+    "radarInstallDate": "2017-10-05T16:17:15",
+    "radarPlace": "D979\"",
+    "radarRoad": "\"300",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

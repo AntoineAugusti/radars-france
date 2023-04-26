@@ -1,14 +1,14 @@
 {
-    "nid": "22115",
-    "uuid": "03982426-2ac5-44ab-b308-f0cc37a530a9",
-    "vid": "22115",
+    "nid": "25731",
+    "uuid": "807fe2c7-f3c7-4778-8271-b3968bbffec9",
+    "vid": "25731",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178006",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "vers le Ch\u00e2teau de Versailles",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.13674 48.80545)",
-    "radarInstallDate": "2011-04-18T16:26:35",
-    "radarPlace": "VERSAILLES",
+    "radarInstallDate": "2011-04-18T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

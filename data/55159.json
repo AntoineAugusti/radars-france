@@ -1,14 +1,14 @@
 {
-    "nid": "21195",
-    "uuid": "819c8e66-1006-4b78-8a5e-8d306c7d00b4",
-    "vid": "21195",
+    "nid": "25206",
+    "uuid": "a67e7ac2-8963-4776-9d00-69d95a12b08a",
+    "vid": "25206",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55159",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "OBJAT vers BRIVE LA GAILLARDE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.42767 45.22226)",
-    "radarInstallDate": "2020-03-10T16:23:08",
-    "radarPlace": "ALLASSAC",
+    "radarInstallDate": "2020-03-10T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD901",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20071",
-    "uuid": "fed4aaf8-42c9-44cd-bc93-e6da753c2713",
-    "vid": "20071",
+    "nid": "23955",
+    "uuid": "9e7e7e4a-4744-418b-a2f4-8e9ecb5204f9",
+    "vid": "23955",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4774",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers ST GERMAIN EN LAYE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.1003 48.88705)",
-    "radarInstallDate": "2009-11-12T16:20:23",
-    "radarPlace": "LE PECQ",
+    "radarInstallDate": "2009-11-12T16:06:42",
+    "radarPlace": [],
     "radarRoad": "RN13",
     "radarTronconKm": [],
     "radarType": [

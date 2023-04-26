@@ -1,14 +1,14 @@
 {
-    "nid": "20521",
-    "uuid": "768d0743-1bc4-4c60-8230-23ade28b7bf0",
-    "vid": "20521",
+    "nid": "24355",
+    "uuid": "b07040e4-c64f-4673-acd2-ca87cc4d8618",
+    "vid": "24355",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11092",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BLOIS vers TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.11729 47.46997)",
-    "radarInstallDate": "2012-02-03T16:21:18",
-    "radarPlace": "VEUZAIN SUR LOIRE",
+    "radarInstallDate": "2012-02-03T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD952",
     "radarTronconKm": [],
     "radarType": [

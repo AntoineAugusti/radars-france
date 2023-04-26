@@ -1,14 +1,14 @@
 {
-    "nid": "20677",
-    "uuid": "d71641b6-4193-48e8-8128-32820731ddc1",
-    "vid": "20677",
+    "nid": "24602",
+    "uuid": "734df8d8-6689-4d50-8ee4-4740c7aa0f41",
+    "vid": "24602",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51027",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MELUN vers TORCY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.698663 48.722639)",
-    "radarInstallDate": "2019-07-11T16:21:38",
-    "radarPlace": "PRESLES EN BRIE",
+    "radarInstallDate": "2019-07-11T16:08:14",
+    "radarPlace": [],
     "radarRoad": "RD471",
     "radarTronconKm": [],
     "radarType": [

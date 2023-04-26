@@ -1,14 +1,14 @@
 {
-    "nid": "20624",
-    "uuid": "59ae8110-2abb-4849-8d3e-eb18d840a39a",
-    "vid": "20624",
+    "nid": "24542",
+    "uuid": "735ce9f9-e1a2-4251-92c9-f3fce6321599",
+    "vid": "24542",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50246",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE ROBERT vers STE MARIE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-60.975426 14.74541)",
-    "radarInstallDate": "2021-03-10T16:21:31",
-    "radarPlace": "TRINITE",
+    "radarInstallDate": "2021-03-10T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22847",
-    "uuid": "1885f110-5c1a-4385-a2c0-0f135e91b4b7",
-    "vid": "22847",
+    "nid": "26396",
+    "uuid": "3005adb1-c141-484d-a2bc-fc7d5a80dfe3",
+    "vid": "26396",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229224",
+    "revisionTimestamp": "1681741065",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_68_002",
-    "created": "1637229224",
-    "changed": "1637229224",
+    "created": "1681741065",
+    "changed": "1681741065",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "68 - Haut-Rhin",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.042108 7.163555)",
-    "radarInstallDate": "2017-10-09T10:53:45",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.754467 45.455792)",
+    "radarInstallDate": "2017-10-05T16:17:47",
     "radarPlace": "-",
     "radarRoad": "D417, D7, D10.4, , D43, D10.1",
-    "radarTronconKm": "12.39",
+    "radarTronconKm": "12,4",
     "radarType": [
         {
             "tid": "19",

@@ -1,14 +1,14 @@
 {
-    "nid": "22697",
-    "uuid": "4961f312-83c0-4002-b6e1-f084fc271c81",
-    "vid": "22697",
+    "nid": "26207",
+    "uuid": "48c7948f-203f-4007-b2f2-badcc1274e6c",
+    "vid": "26207",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741032",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_02_002",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741032",
+    "changed": "1681741032",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "02 - Aisne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (49.381973 3.277744)",
-    "radarInstallDate": "2017-10-05T10:53:38",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.705801 45.757404)",
+    "radarInstallDate": "2017-10-05T16:17:13",
     "radarPlace": "-",
     "radarRoad": "D943, D17, D1150, N31, D1160, D2",
-    "radarTronconKm": "13.37",
+    "radarTronconKm": "13,4",
     "radarType": [
         {
             "tid": "19",

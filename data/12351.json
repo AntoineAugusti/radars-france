@@ -1,14 +1,14 @@
 {
-    "nid": "21636",
-    "uuid": "412a99cb-131c-4bb5-a563-194999be7c73",
-    "vid": "21636",
+    "nid": "23304",
+    "uuid": "934fc37e-c99c-4b62-8655-c9926ccedeea",
+    "vid": "23304",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12351",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX vers MONTPELLIER",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.46013 43.64658)",
-    "radarInstallDate": "2017-07-24T16:24:42",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2017-07-24T16:05:40",
+    "radarPlace": [],
     "radarRoad": "A62",
     "radarTronconKm": [],
     "radarType": [

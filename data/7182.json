@@ -1,14 +1,14 @@
 {
-    "nid": "20262",
-    "uuid": "4c1c0df3-b31a-4868-b2cb-6f95aa5d7f26",
-    "vid": "20262",
+    "nid": "24130",
+    "uuid": "35f76e51-fde0-43d9-8ca0-38e6261e179e",
+    "vid": "24130",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7182",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AX LES THERMES VERS FOIX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.77227 42.7512)",
-    "radarInstallDate": "2007-12-03T16:20:42",
-    "radarPlace": "UNAC",
+    "radarInstallDate": "2007-12-03T16:07:05",
+    "radarPlace": [],
     "radarRoad": "RN20",
     "radarTronconKm": [],
     "radarType": [

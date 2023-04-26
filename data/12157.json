@@ -1,14 +1,14 @@
 {
-    "nid": "21526",
-    "uuid": "eed4f526-0736-4767-a34b-c052c3741e96",
-    "vid": "21526",
+    "nid": "23198",
+    "uuid": "9db210ca-b667-4b10-ac48-f918b108b6dc",
+    "vid": "23198",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12157",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NEUVY SUR BARANGEON vers VIERZON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.190504 47.283681)",
-    "radarInstallDate": "2013-10-25T16:24:17",
-    "radarPlace": "VOUZERON",
+    "radarInstallDate": "2013-10-25T16:05:33",
+    "radarPlace": [],
     "radarRoad": "RD926",
     "radarTronconKm": [],
     "radarType": [

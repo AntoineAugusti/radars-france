@@ -1,14 +1,14 @@
 {
-    "nid": "20580",
-    "uuid": "3f58d6a4-4b19-4a8c-8abe-b5106508546b",
-    "vid": "20580",
+    "nid": "24408",
+    "uuid": "d5b0a259-765c-48bc-b35f-32d15ec29c17",
+    "vid": "24408",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11271",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ESPAGNE vers FRANCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.19117 42.74837)",
-    "radarInstallDate": "2014-10-15T16:21:26",
-    "radarPlace": "ARAGNOUET",
+    "radarInstallDate": "2014-10-15T16:07:42",
+    "radarPlace": [],
     "radarRoad": "Tunnel de Bielsa - RD173",
     "radarTronconKm": [],
     "radarType": [

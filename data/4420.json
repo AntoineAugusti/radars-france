@@ -1,14 +1,14 @@
 {
-    "nid": "20007",
-    "uuid": "18ca6b03-d591-4d5d-bdc0-51cf4a26b68f",
-    "vid": "20007",
+    "nid": "23894",
+    "uuid": "5e1e1dd5-024e-43cb-b84d-70dbf2f3c3c8",
+    "vid": "23894",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4420",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOGENT SUR MARNE vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.42681 48.8457)",
-    "radarInstallDate": "2009-07-08T16:20:17",
-    "radarPlace": "VINCENNES",
+    "radarInstallDate": "2009-07-08T16:06:35",
+    "radarPlace": [],
     "radarRoad": "110, avenue de Paris",
     "radarTronconKm": [],
     "radarType": [

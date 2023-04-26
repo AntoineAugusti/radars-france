@@ -1,14 +1,14 @@
 {
-    "nid": "21167",
-    "uuid": "8f624776-570a-493c-a459-0eb1e8f7d87b",
-    "vid": "21167",
+    "nid": "25178",
+    "uuid": "8b0fc801-6946-40bd-9d4f-7c7c70f3e1a4",
+    "vid": "25178",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55131",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "19-CORREZE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "TULLE vers BRIVE LA GAILLARDE",
+    "radarDirection": "BRIVE LA GAILLARDE vers TULLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.68252 45.20905)",
-    "radarInstallDate": "2020-02-25T16:23:02",
-    "radarPlace": "CORNIL",
+    "radarInstallDate": "2020-02-25T16:10:01",
+    "radarPlace": [],
     "radarRoad": "RD1089",
     "radarTronconKm": [],
     "radarType": [

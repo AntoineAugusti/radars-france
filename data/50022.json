@@ -1,14 +1,14 @@
 {
-    "nid": "20602",
-    "uuid": "a0986e0e-5ce0-4711-af9e-a5d5641857c7",
-    "vid": "20602",
+    "nid": "24518",
+    "uuid": "3a1e0652-0719-4dc8-b61d-17d81d4cfc23",
+    "vid": "24518",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50022",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POINTE A PITRE vers LAMENTIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.627314 16.260363)",
-    "radarInstallDate": "2020-11-19T16:21:30",
-    "radarPlace": "BAIE MAHAULT",
+    "radarInstallDate": "2020-11-19T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

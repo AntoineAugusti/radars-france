@@ -1,14 +1,14 @@
 {
-    "nid": "21573",
-    "uuid": "979980c5-ced7-4839-82b8-ede32b5e7f6a",
-    "vid": "21573",
+    "nid": "23243",
+    "uuid": "f1a787ec-7db2-46dc-a28b-5bcedb3f70f9",
+    "vid": "23243",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12246",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SEVERAC LE CHATEAU vers RODEZ",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.695 44.39)",
-    "radarInstallDate": "2013-09-02T16:24:29",
-    "radarPlace": "MONTROZIER",
+    "radarInstallDate": "2013-09-02T16:05:36",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

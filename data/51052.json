@@ -1,14 +1,14 @@
 {
-    "nid": "20700",
-    "uuid": "e245dc35-8ceb-4776-8cfd-0cd814971918",
-    "vid": "20700",
+    "nid": "24626",
+    "uuid": "ceabdffe-37f5-4202-9318-a5c18d2ff536",
+    "vid": "24626",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51052",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PLOUAY vers LORIENT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.340261 47.837727)",
-    "radarInstallDate": "2019-09-09T16:21:42",
-    "radarPlace": "CAUDAN",
+    "radarInstallDate": "2019-09-09T16:08:19",
+    "radarPlace": [],
     "radarRoad": "RD 769",
     "radarTronconKm": [],
     "radarType": [

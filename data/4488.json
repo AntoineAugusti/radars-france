@@ -1,14 +1,14 @@
 {
-    "nid": "20023",
-    "uuid": "daa2c7a6-1fd0-4d3c-860a-5e70f73eaf6f",
-    "vid": "20023",
+    "nid": "23909",
+    "uuid": "29ed9af6-ec47-407d-bc55-1eb04b506d1f",
+    "vid": "23909",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4488",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Valenciennes vers Lille",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.40659 50.41986)",
-    "radarInstallDate": "2009-01-09T16:20:18",
-    "radarPlace": "HASNON",
+    "radarInstallDate": "2009-01-09T16:06:36",
+    "radarPlace": [],
     "radarRoad": "A23",
     "radarTronconKm": [],
     "radarType": [

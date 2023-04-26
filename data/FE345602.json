@@ -1,14 +1,14 @@
 {
-    "nid": "22497",
-    "uuid": "43f49e83-f7ac-410a-837f-9423d9ed250a",
-    "vid": "22497",
+    "nid": "26079",
+    "uuid": "a19d4bb9-c63a-485d-bbb6-4473b1e16b13",
+    "vid": "26079",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE345602",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.77446 48.10317)",
-    "radarInstallDate": "2015-06-19T16:28:19",
-    "radarPlace": "FONTENAY SUR LOING",
+    "radarInstallDate": "2015-06-19T16:13:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20671",
-    "uuid": "58c7b815-1328-405b-b310-e0bbb88635c7",
-    "vid": "20671",
+    "nid": "24596",
+    "uuid": "18b230a1-a10b-4e84-a76e-c32321d4fde0",
+    "vid": "24596",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51021",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LOUVRES vers SURVILLIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.529935 49.084022)",
-    "radarInstallDate": "2020-12-24T16:21:38",
-    "radarPlace": "SAINT WITZ",
+    "radarInstallDate": "2020-12-24T16:08:14",
+    "radarPlace": [],
     "radarRoad": "RD317",
     "radarTronconKm": [],
     "radarType": [

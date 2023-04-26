@@ -1,14 +1,14 @@
 {
-    "nid": "20826",
-    "uuid": "29ca3cfe-7c0c-44bd-a4cd-f7bc1f84bf89",
-    "vid": "20826",
+    "nid": "24750",
+    "uuid": "e0d63e49-f815-4dcf-aad4-2bc12c3c9f0f",
+    "vid": "24750",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51178",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SERCOEUR vers EPINAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.518401 48.227529)",
-    "radarInstallDate": "2020-08-07T16:22:03",
-    "radarPlace": "LONGCHAMP",
+    "radarInstallDate": "2020-08-07T16:08:41",
+    "radarPlace": [],
     "radarRoad": "RD46",
     "radarTronconKm": [],
     "radarType": [

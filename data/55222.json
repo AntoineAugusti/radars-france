@@ -1,14 +1,14 @@
 {
-    "nid": "21257",
-    "uuid": "1edbdeec-89b4-4511-92a5-69854f8672c6",
-    "vid": "21257",
+    "nid": "25268",
+    "uuid": "af9b1547-949a-4921-a20e-f7c2ce1cc6d6",
+    "vid": "25268",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55222",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONISTROL SUR LOIRE vers BAS EN BASSET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.141844 45.292876)",
-    "radarInstallDate": "2020-02-25T16:23:20",
-    "radarPlace": "BAS EN BASSET",
+    "radarInstallDate": "2020-02-25T16:10:20",
+    "radarPlace": [],
     "radarRoad": "RD12",
     "radarTronconKm": [],
     "radarType": [

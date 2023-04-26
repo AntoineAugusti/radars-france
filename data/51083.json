@@ -1,14 +1,14 @@
 {
-    "nid": "20731",
-    "uuid": "b7be54fc-8bd0-4960-9565-1f95e6ced660",
-    "vid": "20731",
+    "nid": "24656",
+    "uuid": "5da14602-0dbb-41f7-8591-d7b904806317",
+    "vid": "24656",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51083",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CARROUGES vers LA FERTE MACE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.291599 48.587108)",
-    "radarInstallDate": "2019-09-27T16:21:47",
-    "radarPlace": "MAGNY LE DESERT",
+    "radarInstallDate": "2019-09-27T16:08:21",
+    "radarPlace": [],
     "radarRoad": "RD908",
     "radarTronconKm": [],
     "radarType": [

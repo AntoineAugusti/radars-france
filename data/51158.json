@@ -1,14 +1,14 @@
 {
-    "nid": "20806",
-    "uuid": "21f8999a-cfc1-4c7a-a6cd-637e929d7687",
-    "vid": "20806",
+    "nid": "24730",
+    "uuid": "8cd98d9f-6350-4720-813e-03f458bb4c4c",
+    "vid": "24730",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51158",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORLEANS vers ST CYR EN VAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.935635 47.864399)",
-    "radarInstallDate": "2020-08-20T16:21:59",
-    "radarPlace": "ST JEAN LE BLANC",
+    "radarInstallDate": "2020-08-20T16:08:36",
+    "radarPlace": [],
     "radarRoad": "AVENUE GASTON GALLOUX",
     "radarTronconKm": [],
     "radarType": [

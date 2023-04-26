@@ -1,14 +1,14 @@
 {
-    "nid": "21061",
-    "uuid": "0a745145-e39a-4070-af09-145485ca7d8f",
-    "vid": "21061",
+    "nid": "25074",
+    "uuid": "1093cf91-9514-44bf-8430-36ce02fc4219",
+    "vid": "25074",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55024",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAU vers COARRAZE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.265683 43.239133)",
-    "radarInstallDate": "2019-08-19T16:22:43",
-    "radarPlace": "BORDES",
+    "radarInstallDate": "2019-08-19T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD938",
     "radarTronconKm": [],
     "radarType": [

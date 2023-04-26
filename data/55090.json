@@ -1,14 +1,14 @@
 {
-    "nid": "21127",
-    "uuid": "8cb19e43-04e3-471d-b7bd-06788fc66b16",
-    "vid": "21127",
+    "nid": "25138",
+    "uuid": "4d4f74bd-f0ec-4317-8cc1-31baf76cb388",
+    "vid": "25138",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55090",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST MAIXENT L ECOLE vers PARTHENAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.21562 46.593969)",
-    "radarInstallDate": "2019-10-25T16:22:55",
-    "radarPlace": "POMPAIRE",
+    "radarInstallDate": "2019-10-25T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD938",
     "radarTronconKm": [],
     "radarType": [

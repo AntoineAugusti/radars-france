@@ -1,14 +1,14 @@
 {
-    "nid": "21256",
-    "uuid": "aa4a6557-2732-4b65-ab29-6b7bf0b93c5f",
-    "vid": "21256",
+    "nid": "25267",
+    "uuid": "fe196804-9b1c-41f0-b57b-5150a9597ec3",
+    "vid": "25267",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55221",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FIRMINY vers SAINT MAURICE DE LIGNON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.150569 45.266111)",
-    "radarInstallDate": "2020-02-25T16:23:20",
-    "radarPlace": "MONISTROL SUR LOIRE",
+    "radarInstallDate": "2020-02-25T16:10:20",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

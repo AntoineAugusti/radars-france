@@ -1,14 +1,14 @@
 {
-    "nid": "22010",
-    "uuid": "16a9bb27-7782-4be8-b9af-95f53487464c",
-    "vid": "22010",
+    "nid": "25641",
+    "uuid": "d258c2a2-fcaa-4953-b654-a3df2cc6515e",
+    "vid": "25641",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE160005",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Soissons vers Compi\u00e8gne",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.04604 49.39815)",
-    "radarInstallDate": "2010-03-05T16:26:14",
-    "radarPlace": "JAULZY",
+    "radarInstallDate": "2010-03-05T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

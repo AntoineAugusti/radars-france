@@ -1,14 +1,14 @@
 {
-    "nid": "22514",
-    "uuid": "6f0fcc52-2c0a-4105-909a-1f36dab610e6",
-    "vid": "22514",
+    "nid": "26086",
+    "uuid": "42bab7c8-e75b-4edd-beb2-4408ba1e35ca",
+    "vid": "26086",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE359504",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.08054 50.66037)",
-    "radarInstallDate": "2013-07-22T16:28:20",
-    "radarPlace": "MARCQ EN BAROEUL",
+    "radarInstallDate": "2013-07-22T16:14:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

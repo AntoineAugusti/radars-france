@@ -1,14 +1,14 @@
 {
-    "nid": "20645",
-    "uuid": "4a4570fd-819e-4862-b970-ec07049101b4",
-    "vid": "20645",
+    "nid": "24563",
+    "uuid": "a5534fa9-8f0d-4483-95a4-185c136b13ba",
+    "vid": "24563",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50409",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT LOUIS vers LE TAMPON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (55.46488 -21.33213)",
-    "radarInstallDate": "2021-04-14T16:21:34",
-    "radarPlace": "SAINT PIERRE",
+    "radarInstallDate": "2021-04-14T16:08:05",
+    "radarPlace": [],
     "radarRoad": "RN3",
     "radarTronconKm": [],
     "radarType": [

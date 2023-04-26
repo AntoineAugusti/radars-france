@@ -1,14 +1,14 @@
 {
-    "nid": "22214",
-    "uuid": "0eb1d74b-0c61-47e6-bafb-0a0f015b6003",
-    "vid": "22214",
+    "nid": "25824",
+    "uuid": "f6a1c6fa-ab1a-4037-8579-96acf440df2d",
+    "vid": "25824",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229186",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE206015",
-    "created": "1637229186",
-    "changed": "1675870011",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Route du Bord de Mer vers Nice",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.17826 43.65658)",
-    "radarInstallDate": "2010-11-19T16:26:58",
-    "radarPlace": "ST LAURENT DU VAR",
+    "radarInstallDate": "2010-11-19T16:12:40",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

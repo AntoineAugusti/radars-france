@@ -1,14 +1,14 @@
 {
-    "nid": "21210",
-    "uuid": "9b040988-0b66-442d-86e7-0d4123e53997",
-    "vid": "21210",
+    "nid": "25221",
+    "uuid": "18de0d2f-16aa-4528-a729-458bdc7e6a54",
+    "vid": "25221",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55174",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FREJUS vers LE MUY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.6323 43.46272)",
-    "radarInstallDate": "2019-12-20T16:23:13",
-    "radarPlace": "ROQUEBRUNE SUR ARGENS",
+    "radarInstallDate": "2019-12-20T16:10:12",
+    "radarPlace": [],
     "radarRoad": "RDN7",
     "radarTronconKm": [],
     "radarType": [

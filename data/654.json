@@ -1,14 +1,14 @@
 {
-    "nid": "19821",
-    "uuid": "ca6c7d88-eb1d-4832-b1f9-9a518f657ce6",
-    "vid": "19821",
+    "nid": "23739",
+    "uuid": "916512bb-fea3-4f65-9d64-639b116bac66",
+    "vid": "23739",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "654",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BONS EN CHABLAIS VERS THONON LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.46116 46.34075)",
-    "radarInstallDate": "2005-05-25T16:19:58",
-    "radarPlace": "ALLINGES",
+    "radarInstallDate": "2005-05-25T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RD903",
     "radarTronconKm": [],
     "radarType": [

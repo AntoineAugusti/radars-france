@@ -1,14 +1,14 @@
 {
-    "nid": "22758",
-    "uuid": "6fd3554c-b74b-4814-95f6-9aa2ae27e804",
-    "vid": "22758",
+    "nid": "26289",
+    "uuid": "aacee7ed-53ed-40de-84de-182c7464375a",
+    "vid": "26289",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229219",
+    "revisionTimestamp": "1681741044",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_31_002",
-    "created": "1637229219",
-    "changed": "1637229219",
+    "created": "1681741044",
+    "changed": "1681741044",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "31 - Haute-Garonne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (43.411947 1.429423)",
-    "radarInstallDate": "2017-10-09T10:53:40",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.225996 47.671265)",
+    "radarInstallDate": "2021-03-17T16:17:25",
     "radarPlace": "-",
     "radarRoad": "D40, D12C, D12D, D28E, D43, D25M, D820, D48, D25, D48F, D40X, D622",
-    "radarTronconKm": "18.51",
+    "radarTronconKm": "18,5",
     "radarType": [
         {
             "tid": "19",

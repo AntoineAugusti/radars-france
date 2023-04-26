@@ -1,14 +1,14 @@
 {
-    "nid": "21870",
-    "uuid": "49cbe58f-929e-4981-a05a-ac26ee5c3b02",
-    "vid": "21870",
+    "nid": "23551",
+    "uuid": "9c7fffd4-a124-4262-9767-0be3d28a36fb",
+    "vid": "23551",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740359",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12651",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740359",
+    "changed": "1681740359",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRUXELLES vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.52505 50.33817)",
-    "radarInstallDate": "2020-12-10T16:25:38",
-    "radarPlace": "MARLY",
+    "radarInstallDate": "2020-12-10T16:06:01",
+    "radarPlace": [],
     "radarRoad": "A2",
     "radarTronconKm": [],
     "radarType": [

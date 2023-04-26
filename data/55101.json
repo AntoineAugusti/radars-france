@@ -1,14 +1,14 @@
 {
-    "nid": "21138",
-    "uuid": "d1986dcf-ff71-4ffe-b158-a73a6bb6ace2",
-    "vid": "21138",
+    "nid": "25149",
+    "uuid": "a80ab99a-0d26-4644-9475-817226729fa0",
+    "vid": "25149",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55101",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CARCASSONNE vers BEZIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.9186 43.306)",
-    "radarInstallDate": "2020-02-25T16:22:56",
-    "radarPlace": "ARGELIERS",
+    "radarInstallDate": "2020-02-25T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD5",
     "radarTronconKm": [],
     "radarType": [

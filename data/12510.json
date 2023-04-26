@@ -1,14 +1,14 @@
 {
-    "nid": "21772",
-    "uuid": "8fba2493-7c6e-4f58-9a16-01d6d0c53105",
-    "vid": "21772",
+    "nid": "23441",
+    "uuid": "5c589cc1-3ad1-4780-804f-119df3a24fe3",
+    "vid": "23441",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12510",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DAX vers MONT DE MARSAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.738436 43.85137)",
-    "radarInstallDate": "2017-02-16T16:25:17",
-    "radarPlace": "CARCARES STE CROIX",
+    "radarInstallDate": "2017-02-16T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RD824",
     "radarTronconKm": [],
     "radarType": [

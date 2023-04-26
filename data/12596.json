@@ -1,14 +1,14 @@
 {
-    "nid": "21832",
-    "uuid": "2626cc3b-c7f8-41cc-bd3c-661fc09862fc",
-    "vid": "21832",
+    "nid": "23507",
+    "uuid": "ebbd1982-82cc-4d7d-b4c3-1d4b48668e8e",
+    "vid": "23507",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12596",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DREUX vers ALENCON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.282611 48.745444)",
-    "radarInstallDate": "2020-11-03T16:25:31",
-    "radarPlace": "VERT EN DROUAIS",
+    "radarInstallDate": "2020-11-03T16:05:56",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

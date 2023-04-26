@@ -1,14 +1,14 @@
 {
-    "nid": "20485",
-    "uuid": "4c255cfe-1073-4758-a472-44649a16d91d",
-    "vid": "20485",
+    "nid": "24327",
+    "uuid": "f7fdf9eb-1bbf-43b7-be7f-5172b7b21925",
+    "vid": "24327",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8992",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST PRIEST vers VENISSIEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.876683 45.722977)",
-    "radarInstallDate": "2012-02-27T16:21:14",
-    "radarPlace": "LYON",
+    "radarInstallDate": "2012-02-27T16:07:32",
+    "radarPlace": [],
     "radarRoad": "Face au n\u00b0 49 de l' Avenue Viviani",
     "radarTronconKm": [],
     "radarType": [

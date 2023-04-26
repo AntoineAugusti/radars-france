@@ -1,14 +1,14 @@
 {
-    "nid": "19664",
-    "uuid": "590a9c02-e7f1-471d-b2a3-3cdceda9b617",
-    "vid": "19664",
+    "nid": "23603",
+    "uuid": "3a1c170a-cf5b-4ea7-b40f-38f45a0a7a88",
+    "vid": "23603",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "144",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS PONTAULT COMBAULT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.44854 48.8167)",
-    "radarInstallDate": "2003-12-16T16:19:46",
-    "radarPlace": "ST MAURICE",
+    "radarInstallDate": "2003-12-16T16:06:06",
+    "radarPlace": [],
     "radarRoad": "A4",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21821",
-    "uuid": "e83c0fb4-9771-46a3-8da4-1a9cc04de5a2",
-    "vid": "21821",
+    "nid": "23496",
+    "uuid": "0ceb1856-6b5e-4c5d-84a7-d42b21e26412",
+    "vid": "23496",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12583",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUNEUF DU FAOU vers CHATEAULIN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-3.99181 48.21978)",
-    "radarInstallDate": "2020-11-26T16:25:25",
-    "radarPlace": "PLEYBEN",
+    "radarInstallDate": "2020-11-26T16:05:55",
+    "radarPlace": [],
     "radarRoad": "RN164",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21731",
-    "uuid": "73ebb8b8-07c7-4869-80fa-be9d749d3bdc",
-    "vid": "21731",
+    "nid": "23399",
+    "uuid": "c7f4de95-0b96-4ed5-ae11-91a880576465",
+    "vid": "23399",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12464",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRENOBLE vers LYON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.4011 45.469651)",
-    "radarInstallDate": "2016-08-12T16:25:04",
-    "radarPlace": "MONTREVEL",
+    "radarInstallDate": "2016-08-12T16:05:47",
+    "radarPlace": [],
     "radarRoad": "A48",
     "radarTronconKm": [],
     "radarType": [

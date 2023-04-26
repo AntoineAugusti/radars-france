@@ -1,14 +1,14 @@
 {
-    "nid": "22124",
-    "uuid": "ef8da988-38d5-4e03-98fc-62e5cf6a81f0",
-    "vid": "22124",
+    "nid": "25740",
+    "uuid": "cf3d5cca-842f-4e14-b9c9-74d983ee2a8d",
+    "vid": "25740",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178018",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rosny sur Seine vers Mantes la Jolie",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.71124 48.99018)",
-    "radarInstallDate": "2011-03-21T16:26:36",
-    "radarPlace": "MANTES LA JOLIE",
+    "radarInstallDate": "2011-03-21T16:12:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

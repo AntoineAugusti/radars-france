@@ -1,14 +1,14 @@
 {
-    "nid": "21969",
-    "uuid": "6635c0a2-067b-49c8-bd43-4fdf6570f6e7",
-    "vid": "21969",
+    "nid": "25606",
+    "uuid": "89931267-2d20-4814-a101-5a135003ea8f",
+    "vid": "25606",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE154015",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LAXOU vers VILLERS LES NANCY",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (6.1468 48.677)",
-    "radarInstallDate": "2011-12-09T16:26:00",
-    "radarPlace": "LAXOU",
+    "radarInstallDate": "2011-12-09T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

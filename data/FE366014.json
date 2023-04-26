@@ -1,14 +1,14 @@
 {
-    "nid": "22551",
-    "uuid": "959e8fb5-4875-410b-9968-4b15a06c64db",
-    "vid": "22551",
+    "nid": "26031",
+    "uuid": "1285e6cd-5bc2-4342-8676-2e756743e00b",
+    "vid": "26031",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE366014",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avenue Paul Alduy vers avenue Albert Einstein",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.90517 42.67727)",
-    "radarInstallDate": "2012-01-03T16:28:36",
-    "radarPlace": "PERPIGNAN",
+    "radarInstallDate": "2012-01-03T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

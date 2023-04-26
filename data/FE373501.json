@@ -1,14 +1,14 @@
 {
-    "nid": "22566",
-    "uuid": "54f7b4dd-4718-4d7a-8e04-f7d110a5163c",
-    "vid": "22566",
+    "nid": "26107",
+    "uuid": "b22c5180-281c-43c4-8c81-665552979fe5",
+    "vid": "26107",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE373501",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (5.90926 45.68552)",
-    "radarInstallDate": "2013-06-20T16:28:36",
-    "radarPlace": "AIX LES BAINS",
+    "radarInstallDate": "2013-06-20T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19797",
-    "uuid": "42f72c0a-25aa-4b6c-9671-7b0602faced9",
-    "vid": "19797",
+    "nid": "23718",
+    "uuid": "fe914e26-1d90-408c-8b0e-f021cc4a54b6",
+    "vid": "23718",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "592",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DUNKERQUE vers LILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.0216 50.6219)",
-    "radarInstallDate": "2005-10-17T16:19:55",
-    "radarPlace": "LILLE",
+    "radarInstallDate": "2005-10-17T16:06:16",
+    "radarPlace": [],
     "radarRoad": "A25",
     "radarTronconKm": [],
     "radarType": [

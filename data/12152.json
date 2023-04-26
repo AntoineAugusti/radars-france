@@ -1,14 +1,14 @@
 {
-    "nid": "21523",
-    "uuid": "929a415e-a1ba-4328-a7f4-d991778c246e",
-    "vid": "21523",
+    "nid": "23195",
+    "uuid": "ae47a71a-1f65-47e2-98c6-4fb984c001fa",
+    "vid": "23195",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12152",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.0409 50.523)",
-    "radarInstallDate": "2013-07-04T16:24:17",
-    "radarPlace": "SECLIN",
+    "radarInstallDate": "2013-07-04T16:05:33",
+    "radarPlace": [],
     "radarRoad": "A1",
     "radarTronconKm": [],
     "radarType": [

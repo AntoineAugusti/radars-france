@@ -1,14 +1,14 @@
 {
-    "nid": "21643",
-    "uuid": "23c49e52-9a3b-48c1-a32b-591cc5454b3c",
-    "vid": "21643",
+    "nid": "23311",
+    "uuid": "e4856d24-073b-4961-b734-352423c9e98d",
+    "vid": "23311",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12361",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "21-COTE-D'OR",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "LONGVIC vers ST APOLLINAIRE",
+    "radarDirection": "LONGVIC vers SAINT APOLLINAIRE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.07991 47.3168)",
-    "radarInstallDate": "2016-12-19T16:24:43",
-    "radarPlace": "DIJON",
+    "radarInstallDate": "2016-12-19T16:05:40",
+    "radarPlace": [],
     "radarRoad": "RN274",
     "radarTronconKm": [],
     "radarType": [

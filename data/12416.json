@@ -1,14 +1,14 @@
 {
-    "nid": "21693",
-    "uuid": "69172097-4172-46e6-a351-dfad074b695e",
-    "vid": "21693",
+    "nid": "23361",
+    "uuid": "30c319c3-3dab-4d7e-8524-a1ae87b01bc7",
+    "vid": "23361",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12416",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY vers DIJON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.91715 48.66979)",
-    "radarInstallDate": "2016-12-16T16:24:56",
-    "radarPlace": "DOMMARTIN LES TOUL",
+    "radarInstallDate": "2016-12-16T16:05:45",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

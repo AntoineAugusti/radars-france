@@ -1,14 +1,14 @@
 {
-    "nid": "21688",
-    "uuid": "c36d0c5e-3f59-4415-bfd7-43d80b536cd4",
-    "vid": "21688",
+    "nid": "23356",
+    "uuid": "7b526b7f-ea21-4709-bc3e-4622d21ed8a7",
+    "vid": "23356",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12411",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT AMAND MONTROND vers CLERMONT FERRAND",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.80366 46.35551)",
-    "radarInstallDate": "2016-09-23T16:24:56",
-    "radarPlace": "DOYET",
+    "radarInstallDate": "2016-09-23T16:05:44",
+    "radarPlace": [],
     "radarRoad": "A71",
     "radarTronconKm": [],
     "radarType": [

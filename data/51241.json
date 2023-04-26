@@ -1,14 +1,14 @@
 {
-    "nid": "20883",
-    "uuid": "da014321-e75f-40d8-8521-878520c1eae7",
-    "vid": "20883",
+    "nid": "24810",
+    "uuid": "e3ca345f-28cb-4cd4-9af4-e905c220ea0d",
+    "vid": "24810",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51241",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PLOUEZEC vers LEZARDRIEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.079707 48.764821)",
-    "radarInstallDate": "2020-03-11T16:22:13",
-    "radarPlace": "PAIMPOL",
+    "radarInstallDate": "2020-03-11T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD 786",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21975",
-    "uuid": "6ef4a347-53ff-43aa-b721-ad7bbf0d8308",
-    "vid": "21975",
+    "nid": "25612",
+    "uuid": "089f6d11-5a72-4194-9bdb-ddf2c2380ac4",
+    "vid": "25612",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159000",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue de Turenne vers Rue Bonte Pollet",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.03905 50.62709)",
-    "radarInstallDate": "2010-07-02T16:26:01",
-    "radarPlace": "LILLE",
+    "radarInstallDate": "2010-07-02T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

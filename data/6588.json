@@ -1,14 +1,14 @@
 {
-    "nid": "20157",
-    "uuid": "56f29f08-bd9b-4e06-b045-c0b6c725624d",
-    "vid": "20157",
+    "nid": "24035",
+    "uuid": "3558079b-00fc-43a6-8466-c2de06d33c35",
+    "vid": "24035",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6588",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLENEUVE SUR LOT vers TONNEINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.34103 44.37736)",
-    "radarInstallDate": "2007-06-29T16:20:32",
-    "radarPlace": "TONNEINS",
+    "radarInstallDate": "2007-06-29T16:06:51",
+    "radarPlace": [],
     "radarRoad": "RD911",
     "radarTronconKm": [],
     "radarType": [

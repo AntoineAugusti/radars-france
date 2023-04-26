@@ -1,14 +1,14 @@
 {
-    "nid": "21754",
-    "uuid": "c8b8d529-c51d-4a81-bab6-32ca7a81853d",
-    "vid": "21754",
+    "nid": "23422",
+    "uuid": "737d604a-1402-462b-b970-2c30a19a9326",
+    "vid": "23422",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12490",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DREUX vers EVREUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.17674 48.86851)",
-    "radarInstallDate": "2017-02-20T16:25:11",
-    "radarPlace": "CHAVIGNY BAILLEUL",
+    "radarInstallDate": "2017-02-20T16:05:49",
+    "radarPlace": [],
     "radarRoad": "RN154",
     "radarTronconKm": [],
     "radarType": [

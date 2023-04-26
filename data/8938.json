@@ -1,14 +1,14 @@
 {
-    "nid": "20466",
-    "uuid": "a369de3f-91dc-4ad7-aa4a-33b013a94e1d",
-    "vid": "20466",
+    "nid": "24309",
+    "uuid": "354f8eac-e7b5-4de7-9b23-d7b9e8516943",
+    "vid": "24309",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8938",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Longuyon vers Spincourt",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.63 49.38)",
-    "radarInstallDate": "2011-10-13T16:21:10",
-    "radarPlace": "ROUVROIS SUR OTHAIN",
+    "radarInstallDate": "2011-10-13T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD618",
     "radarTronconKm": [],
     "radarType": [

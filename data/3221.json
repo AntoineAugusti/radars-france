@@ -1,14 +1,14 @@
 {
-    "nid": "19914",
-    "uuid": "ad1d3798-1818-4c4d-9ef8-4035d6d30c6d",
-    "vid": "19914",
+    "nid": "23809",
+    "uuid": "5a83715d-08fb-4a73-bee2-ab828fa7df6d",
+    "vid": "23809",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3221",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SURESNES VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.22461 48.86819)",
-    "radarInstallDate": "2006-01-14T16:20:07",
-    "radarPlace": "SURESNES",
+    "radarInstallDate": "2006-01-14T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RD985",
     "radarTronconKm": [],
     "radarType": [

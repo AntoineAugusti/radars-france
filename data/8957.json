@@ -1,14 +1,14 @@
 {
-    "nid": "20471",
-    "uuid": "0d7361e1-aa20-4646-a1cb-1a342433a321",
-    "vid": "20471",
+    "nid": "24314",
+    "uuid": "545327b9-1ac0-46e7-a215-187578401594",
+    "vid": "24314",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8957",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "STOTZHEIM vers BENFELD",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.5399 48.387)",
-    "radarInstallDate": "2011-12-15T16:21:10",
-    "radarPlace": "KERTZFELD",
+    "radarInstallDate": "2011-12-15T16:07:28",
+    "radarPlace": [],
     "radarRoad": "RD5",
     "radarTronconKm": [],
     "radarType": [

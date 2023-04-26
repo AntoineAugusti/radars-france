@@ -1,14 +1,14 @@
 {
-    "nid": "21928",
-    "uuid": "6ddfb64a-7d29-4b40-9705-b8b1964e2cc0",
-    "vid": "21928",
+    "nid": "25567",
+    "uuid": "82c102ac-da81-4bad-b90c-f9c566bac4fe",
+    "vid": "25567",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE145001",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ormes vers Orl\u00e9ans",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.84078 47.92806)",
-    "radarInstallDate": "2011-03-28T16:25:53",
-    "radarPlace": "INGRE",
+    "radarInstallDate": "2011-03-28T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

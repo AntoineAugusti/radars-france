@@ -1,14 +1,14 @@
 {
-    "nid": "20364",
-    "uuid": "14f6f6bb-9f8e-4a79-bccf-0632bbd04983",
-    "vid": "20364",
+    "nid": "24218",
+    "uuid": "dc75ade8-2fed-4756-bffe-1548b85d4ef1",
+    "vid": "24218",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8612",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA CHAPELLE ST MESMIN vers ORLEANS CENTRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.88241 47.8979)",
-    "radarInstallDate": "2010-12-10T16:20:57",
-    "radarPlace": "ORLEANS",
+    "radarInstallDate": "2010-12-10T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD2152",
     "radarTronconKm": [],
     "radarType": [

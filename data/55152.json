@@ -1,14 +1,14 @@
 {
-    "nid": "21188",
-    "uuid": "076d55ea-a178-441c-b30b-5b5bf2c6e362",
-    "vid": "21188",
+    "nid": "25199",
+    "uuid": "a15c2069-88ab-4461-b2dc-c6acc4224beb",
+    "vid": "25199",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55152",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTEUX vers SARRIANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.97622 44.06161)",
-    "radarInstallDate": "2019-12-18T16:23:08",
-    "radarPlace": "MONTEUX",
+    "radarInstallDate": "2019-12-18T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD31",
     "radarTronconKm": [],
     "radarType": [

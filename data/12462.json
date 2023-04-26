@@ -1,14 +1,14 @@
 {
-    "nid": "21729",
-    "uuid": "ae2629ec-ffb8-40bd-975b-62015c82c395",
-    "vid": "21729",
+    "nid": "23397",
+    "uuid": "76766b5f-2f85-4ca6-a970-37a8f156f5cd",
+    "vid": "23397",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12462",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST PARRES AUX TERTRES vers LA CHAPELLE ST LUC",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.1133 48.3295)",
-    "radarInstallDate": "2016-12-29T16:25:04",
-    "radarPlace": "CRENEY PRES TROYES",
+    "radarInstallDate": "2016-12-29T16:05:47",
+    "radarPlace": [],
     "radarRoad": "RD610",
     "radarTronconKm": [],
     "radarType": [

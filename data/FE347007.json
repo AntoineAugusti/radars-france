@@ -1,14 +1,14 @@
 {
-    "nid": "22502",
-    "uuid": "b7f32850-d158-4eb4-b11f-57dcb4eebb87",
-    "vid": "22502",
+    "nid": "25997",
+    "uuid": "7629636a-630e-4796-9c62-80c442c9edab",
+    "vid": "25997",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE347007",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Fumel vers Villeneuve",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.72988 44.41564)",
-    "radarInstallDate": "2011-05-13T16:28:19",
-    "radarPlace": "VILLENEUVE SUR LOT",
+    "radarInstallDate": "2011-05-13T16:13:33",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

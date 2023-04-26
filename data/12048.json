@@ -1,14 +1,14 @@
 {
-    "nid": "21457",
-    "uuid": "1ae2905d-90b6-46aa-87e2-3727c9918edc",
-    "vid": "21457",
+    "nid": "23130",
+    "uuid": "979966ec-3706-4807-b1f5-60353f6ba964",
+    "vid": "23130",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12048",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORANGE vers NIMES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.604 43.937)",
-    "radarInstallDate": "2014-03-24T16:24:03",
-    "radarPlace": "FOURNES",
+    "radarInstallDate": "2014-03-24T16:05:28",
+    "radarPlace": [],
     "radarRoad": "A9",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21458",
-    "uuid": "66757692-180c-461e-b4b0-87fcb560dbff",
-    "vid": "21458",
+    "nid": "23131",
+    "uuid": "9543ad07-3c3c-4aca-8923-c658574935c1",
+    "vid": "23131",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12050",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "31-HAUTE-GARONNE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "TOULOUSE vers MONTPELLIER",
+    "radarDirection": "TOULOUSE vers NARBONNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.4965 43.584)",
-    "radarInstallDate": "2013-02-05T16:24:03",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2013-02-05T16:05:28",
+    "radarPlace": [],
     "radarRoad": "A61",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20428",
-    "uuid": "648798dd-2d64-4669-a577-e449e16eb9ff",
-    "vid": "20428",
+    "nid": "24274",
+    "uuid": "b72df89e-1842-4779-bbb0-26604c88ee56",
+    "vid": "24274",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8818",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAR SUR AUBE vers CHAUMONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.6984 48.239)",
-    "radarInstallDate": "2011-04-29T16:21:05",
-    "radarPlace": "BAR SUR AUBE",
+    "radarInstallDate": "2011-04-29T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RD619",
     "radarTronconKm": [],
     "radarType": [

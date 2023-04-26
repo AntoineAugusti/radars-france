@@ -1,14 +1,14 @@
 {
-    "nid": "20069",
-    "uuid": "575f399f-037f-4dce-a967-d179397ace77",
-    "vid": "20069",
+    "nid": "23953",
+    "uuid": "d56a1579-724e-4e68-904f-52ff53a19758",
+    "vid": "23953",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4756",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SURVILLIERS vers ROISSY EN FRANCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.50757 49.03754)",
-    "radarInstallDate": "2010-01-29T16:20:23",
-    "radarPlace": "LOUVRES",
+    "radarInstallDate": "2010-01-29T16:06:42",
+    "radarPlace": [],
     "radarRoad": "RD317",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21728",
-    "uuid": "b24f79f6-dbb4-46e6-8624-953be2c819ec",
-    "vid": "21728",
+    "nid": "23396",
+    "uuid": "6edcea31-a9ff-43e9-9452-8c8bfdb94d2d",
+    "vid": "23396",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12460",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "LAVAL vers RENNES",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (-1.432711 48.101803)",
-    "radarInstallDate": "2016-10-17T16:25:04",
-    "radarPlace": "CHATEAUBOURG",
+    "radarGeolocalisation": "POINT (-1.436677 48.101714)",
+    "radarInstallDate": "2016-10-17T16:05:47",
+    "radarPlace": [],
     "radarRoad": "RN157",
     "radarTronconKm": [],
     "radarType": [

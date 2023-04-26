@@ -1,14 +1,14 @@
 {
-    "nid": "20507",
-    "uuid": "e672bc17-e3b2-4e89-9f39-68568503ddd9",
-    "vid": "20507",
+    "nid": "24344",
+    "uuid": "6314e20a-edac-4292-a156-a93f30e5859f",
+    "vid": "24344",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11043",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "JOUARS PONTCHARTRAIN vers MAUREPAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.9059 48.766)",
-    "radarInstallDate": "2011-10-08T16:21:15",
-    "radarPlace": "COIGNIERES",
+    "radarInstallDate": "2011-10-08T16:07:32",
+    "radarPlace": [],
     "radarRoad": "RD13",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22447",
-    "uuid": "cae92d8c-98f3-472b-8ce1-a5fa50a552d9",
-    "vid": "22447",
+    "nid": "25963",
+    "uuid": "ccdefce9-5d91-4814-9a1b-c0a8a45a7de0",
+    "vid": "25963",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE333003",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Place de la Victoire vers la Gare St Jean",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.56121 44.82823)",
-    "radarInstallDate": "2009-11-03T16:28:02",
-    "radarPlace": "BORDEAUX",
+    "radarInstallDate": "2009-11-03T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

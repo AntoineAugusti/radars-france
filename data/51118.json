@@ -1,14 +1,14 @@
 {
-    "nid": "20766",
-    "uuid": "b0c6f785-d5c0-4916-a2df-b4ab87178858",
-    "vid": "20766",
+    "nid": "24690",
+    "uuid": "f5a581c1-2780-4901-87ea-e8588c849517",
+    "vid": "24690",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51118",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHOLET vers VENDRENNES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.997671 46.908651)",
-    "radarInstallDate": "2020-01-20T16:21:53",
-    "radarPlace": "CHAMBRETAUD",
+    "radarInstallDate": "2020-01-20T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RD 160",
     "radarTronconKm": [],
     "radarType": [

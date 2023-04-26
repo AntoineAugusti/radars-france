@@ -1,14 +1,14 @@
 {
-    "nid": "21773",
-    "uuid": "fa408fd5-0d3d-417d-82b1-a04c1cff47a9",
-    "vid": "21773",
+    "nid": "23442",
+    "uuid": "d8fc9deb-a689-4311-aed7-cc6c02855bc7",
+    "vid": "23442",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12511",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BREST vers NANTES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-2.9395 47.671)",
-    "radarInstallDate": "2016-10-17T16:25:17",
-    "radarPlace": "PLUNERET",
+    "radarInstallDate": "2016-10-17T16:05:51",
+    "radarPlace": [],
     "radarRoad": "RN165",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21749",
-    "uuid": "53504415-6978-4038-88b6-e9d542637188",
-    "vid": "21749",
+    "nid": "23417",
+    "uuid": "c8791b10-45bb-41d1-ac85-7b36a2b24da2",
+    "vid": "23417",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12484",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GENEVE vers ANNECY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.080695 46.049706)",
-    "radarInstallDate": "2016-10-31T16:25:11",
-    "radarPlace": "COPPONEX",
+    "radarInstallDate": "2016-10-31T16:05:49",
+    "radarPlace": [],
     "radarRoad": "A41",
     "radarTronconKm": [],
     "radarType": [

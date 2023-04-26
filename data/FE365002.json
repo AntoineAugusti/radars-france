@@ -1,14 +1,14 @@
 {
-    "nid": "22541",
-    "uuid": "18c1fa9d-bf61-4d3f-b345-253908d162e1",
-    "vid": "22541",
+    "nid": "26021",
+    "uuid": "73f2b317-9f00-4697-9a9c-4671bf72a901",
+    "vid": "26021",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE365002",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "France-Espagne",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.19113 42.74836)",
-    "radarInstallDate": "2017-10-09T16:28:29",
-    "radarPlace": "ARAGNOUET",
+    "radarInstallDate": "2017-10-09T16:13:42",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

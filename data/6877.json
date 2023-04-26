@@ -1,14 +1,14 @@
 {
-    "nid": "20210",
-    "uuid": "89093e74-5e46-418c-99c1-ae890ad9b81d",
-    "vid": "20210",
+    "nid": "24083",
+    "uuid": "ced4aecc-5700-46e0-b8bd-3cc303563378",
+    "vid": "24083",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6877",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Dreux vers Creteil",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.18948 48.77981)",
-    "radarInstallDate": "2007-12-03T16:20:38",
-    "radarPlace": "VELIZY VILLACOUBLAY",
+    "radarInstallDate": "2007-12-03T16:06:58",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

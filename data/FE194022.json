@@ -1,14 +1,14 @@
 {
-    "nid": "22175",
-    "uuid": "eaff4542-a6c6-4526-b60a-e37d3acc52e2",
-    "vid": "22175",
+    "nid": "25790",
+    "uuid": "ea0093a0-7969-470e-8655-b423839cb96d",
+    "vid": "25790",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE194022",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.43457 48.84992)",
-    "radarInstallDate": "2011-02-11T16:26:50",
-    "radarPlace": "VINCENNES",
+    "radarInstallDate": "2011-02-11T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

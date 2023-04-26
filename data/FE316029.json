@@ -1,14 +1,14 @@
 {
-    "nid": "22380",
-    "uuid": "a550c970-b5a7-4a61-9a28-0c860a10d1f4",
-    "vid": "22380",
+    "nid": "25905",
+    "uuid": "2f75aff6-473d-4d57-b05f-97506cb8f6d2",
+    "vid": "25905",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316029",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COGNAC vers BARBEZIEUX ST HILAIRE",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.3285 45.67392)",
-    "radarInstallDate": "2010-09-07T16:27:46",
-    "radarPlace": "CHATEAUBERNARD",
+    "radarInstallDate": "2010-09-07T16:13:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

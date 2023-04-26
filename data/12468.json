@@ -1,14 +1,14 @@
 {
-    "nid": "21734",
-    "uuid": "2f37d9c0-5c57-41c8-ab73-de4ed8f4b001",
-    "vid": "21734",
+    "nid": "23402",
+    "uuid": "cef2cd7e-a784-4e9e-9f0c-4222ec6bb56e",
+    "vid": "23402",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12468",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGERS vers RENNES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.59979 48.011707)",
-    "radarInstallDate": "2016-07-25T16:25:04",
-    "radarPlace": "BOURGBARRE",
+    "radarInstallDate": "2016-07-25T16:05:48",
+    "radarPlace": [],
     "radarRoad": "RD173",
     "radarTronconKm": [],
     "radarType": [

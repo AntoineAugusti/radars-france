@@ -1,14 +1,14 @@
 {
-    "nid": "21395",
-    "uuid": "3391c74f-f5a5-4777-9ebe-a7a57fe672d8",
-    "vid": "21395",
+    "nid": "25410",
+    "uuid": "33bf408c-69a6-4cff-a0b6-b418b487c0d1",
+    "vid": "25410",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55371",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CUSSET vers CHARMEIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.41333 46.15508)",
-    "radarInstallDate": "2020-10-14T16:23:51",
-    "radarPlace": "CREUZIER LE VIEUX",
+    "radarInstallDate": "2020-10-14T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD27",
     "radarTronconKm": [],
     "radarType": [

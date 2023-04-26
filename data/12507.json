@@ -1,14 +1,14 @@
 {
-    "nid": "21769",
-    "uuid": "41aa9aeb-cd5c-4d78-93d1-fa003d478396",
-    "vid": "21769",
+    "nid": "23438",
+    "uuid": "a6a0544b-5feb-4418-932d-838380e9a232",
+    "vid": "23438",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12507",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DINAN vers ST MALO",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-2.03866 48.51575)",
-    "radarInstallDate": "2017-06-08T16:25:17",
-    "radarPlace": "PLESLIN TRIGAVOU",
+    "radarInstallDate": "2017-06-08T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RN176",
     "radarTronconKm": [],
     "radarType": [

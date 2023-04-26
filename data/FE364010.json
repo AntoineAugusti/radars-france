@@ -1,14 +1,14 @@
 {
-    "nid": "22530",
-    "uuid": "05e13a4c-cd15-49f7-9731-81476717bc99",
-    "vid": "22530",
+    "nid": "26010",
+    "uuid": "d92423fa-39c1-420d-8fc4-4bcab3c190be",
+    "vid": "26010",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364010",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.37748 43.31209)",
-    "radarInstallDate": "2010-01-26T16:28:28",
-    "radarPlace": "BILLERE",
+    "radarInstallDate": "2010-01-26T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22686",
-    "uuid": "a2b8af1d-2b17-4790-a523-9c3aeb50a79a",
-    "vid": "22686",
+    "nid": "26194",
+    "uuid": "7d4b2585-5f09-4abf-98ad-32d55c1ae8e3",
+    "vid": "26194",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741031",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20198",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741031",
+    "changed": "1681741031",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "NANTEAU SUR ESSONNE vers PITHIVIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.34397 48.24962)",
-    "radarInstallDate": "2015-07-17T10:53:38",
+    "radarInstallDate": "2015-07-17T16:17:11",
     "radarPlace": "LE MALESHERBOIS",
     "radarRoad": "RD2152",
     "radarTronconKm": "5,2",

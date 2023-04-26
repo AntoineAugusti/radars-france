@@ -1,14 +1,14 @@
 {
-    "nid": "21515",
-    "uuid": "945d4a2c-cef2-41cd-9433-27644c2080d0",
-    "vid": "21515",
+    "nid": "23188",
+    "uuid": "00fb84b7-4c88-4e86-a7d9-5cb4120a83d1",
+    "vid": "23188",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12143",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "44-LOIRE-ATLANTIQUE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "CARQUEFOU vers NANTES",
+    "radarDirection": "CARQUEFOU vers BASSE GOULAINE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.477797 47.253115)",
-    "radarInstallDate": "2014-02-14T16:24:16",
-    "radarPlace": "STE LUCE SUR LOIRE",
+    "radarInstallDate": "2014-02-14T16:05:32",
+    "radarPlace": [],
     "radarRoad": "A811",
     "radarTronconKm": [],
     "radarType": [

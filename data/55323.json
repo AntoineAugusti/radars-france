@@ -1,14 +1,14 @@
 {
-    "nid": "21351",
-    "uuid": "3a36991b-032a-4cc2-af81-b44ccdf08a08",
-    "vid": "21351",
+    "nid": "25365",
+    "uuid": "d4614ee8-a8c6-4ef5-abe1-f7489abe43b6",
+    "vid": "25365",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55323",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANNEMASSE vers THONON LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.317059 46.264996)",
-    "radarInstallDate": "2020-09-07T16:23:44",
-    "radarPlace": "LOISIN",
+    "radarInstallDate": "2020-09-07T16:10:42",
+    "radarPlace": [],
     "radarRoad": "RD1206",
     "radarTronconKm": [],
     "radarType": [

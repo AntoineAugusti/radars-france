@@ -1,14 +1,14 @@
 {
-    "nid": "20564",
-    "uuid": "226fdc52-0ebd-40f7-aee6-08642962b518",
-    "vid": "20564",
+    "nid": "24393",
+    "uuid": "08bdb941-c187-45f7-bbdb-da541061b268",
+    "vid": "24393",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11214",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "La Seyne sur Mer vers Sanary su Mer",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.823865 43.10086)",
-    "radarInstallDate": "2012-07-05T16:21:22",
-    "radarPlace": "SIX FOURS LES PLAGES",
+    "radarInstallDate": "2012-07-05T16:07:41",
+    "radarPlace": [],
     "radarRoad": "au niveau du n\u00b0 986 de l'avenue de la mer",
     "radarTronconKm": [],
     "radarType": [

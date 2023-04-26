@@ -1,14 +1,14 @@
 {
-    "nid": "20891",
-    "uuid": "36644394-35a7-4502-9e2a-ee858cb05c04",
-    "vid": "20891",
+    "nid": "24818",
+    "uuid": "aa2705ae-1525-4764-9267-3eddd2e06b29",
+    "vid": "24818",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51250",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERRIERES EN ANJOU vers CORZE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.420395 47.530024)",
-    "radarInstallDate": "2020-07-17T16:22:13",
-    "radarPlace": "VILLEVEQUE",
+    "radarInstallDate": "2020-07-17T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD 323",
     "radarTronconKm": [],
     "radarType": [

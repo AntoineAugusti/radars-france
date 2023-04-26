@@ -1,14 +1,14 @@
 {
-    "nid": "21912",
-    "uuid": "ade597de-b3a5-4530-996b-3f1b6bcee2a8",
-    "vid": "21912",
+    "nid": "25551",
+    "uuid": "f2cf6fe1-da2d-4aa1-b3a4-41121c41230d",
+    "vid": "25551",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE135021",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Lorient vers Rennes",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-1.75776 48.09839)",
-    "radarInstallDate": "2013-03-04T16:25:47",
-    "radarPlace": "LE RHEU",
+    "radarInstallDate": "2013-03-04T16:11:28",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

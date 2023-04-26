@@ -1,14 +1,14 @@
 {
-    "nid": "19834",
-    "uuid": "88991934-3460-4447-8b37-0de1242adeca",
-    "vid": "19834",
+    "nid": "23749",
+    "uuid": "3b5c38a1-74d1-4329-84e3-e5298a55e5ac",
+    "vid": "23749",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "715",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LORIENT VERS QUIMPER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.59531 47.87007)",
-    "radarInstallDate": "2005-07-25T16:19:59",
-    "radarPlace": "MELLAC",
+    "radarInstallDate": "2005-07-25T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RN165",
     "radarTronconKm": [],
     "radarType": [

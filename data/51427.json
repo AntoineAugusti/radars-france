@@ -1,14 +1,14 @@
 {
-    "nid": "21034",
-    "uuid": "80a7d7ad-aa40-4d7a-ab45-92ec25560ff3",
-    "vid": "21034",
+    "nid": "24986",
+    "uuid": "c8089db4-bfe3-4165-a0c5-4ed889c3eda0",
+    "vid": "24986",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51427",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "HAM  vers GUISCARD",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.057832 49.680722)",
-    "radarInstallDate": "2021-09-22T16:22:38",
-    "radarPlace": "LE PLESSIS PATTE D OIE",
+    "radarInstallDate": "2021-09-22T16:09:23",
+    "radarPlace": [],
     "radarRoad": "RD932",
     "radarTronconKm": [],
     "radarType": [

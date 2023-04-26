@@ -1,14 +1,14 @@
 {
-    "nid": "19938",
-    "uuid": "b0c53a9a-4dff-43c3-a408-e868726a07c7",
-    "vid": "19938",
+    "nid": "23830",
+    "uuid": "d310aa1a-2fb8-4a5e-9d4b-178aabbfa8c2",
+    "vid": "23830",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4072",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAU vers SAULT DE NAVAILLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.4713 43.4238)",
-    "radarInstallDate": "2009-02-04T16:20:08",
-    "radarPlace": "MAZEROLLES",
+    "radarInstallDate": "2009-02-04T16:06:29",
+    "radarPlace": [],
     "radarRoad": "RD945",
     "radarTronconKm": [],
     "radarType": [

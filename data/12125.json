@@ -1,14 +1,14 @@
 {
-    "nid": "21504",
-    "uuid": "f2204143-d9f3-42e1-8d6e-305931435078",
-    "vid": "21504",
+    "nid": "23177",
+    "uuid": "02b81059-012c-43d8-8ca8-c7f233a7433a",
+    "vid": "23177",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12125",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROYE vers MONTDIDIER",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.7086 49.658)",
-    "radarInstallDate": "2012-09-17T16:24:16",
-    "radarPlace": "GRIVILLERS",
+    "radarInstallDate": "2012-09-17T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RD930",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22163",
-    "uuid": "7bb87336-28fa-47ee-87af-7ee75a51c680",
-    "vid": "22163",
+    "nid": "25778",
+    "uuid": "e9c39f00-6b84-4651-bcb8-bc6f1678b0b5",
+    "vid": "25778",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE192012",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bagneux vers Cachan",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.32178 48.79618)",
-    "radarInstallDate": "2010-12-01T16:26:49",
-    "radarPlace": "BAGNEUX",
+    "radarInstallDate": "2010-12-01T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

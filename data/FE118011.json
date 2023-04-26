@@ -1,14 +1,14 @@
 {
-    "nid": "21891",
-    "uuid": "23d0dc59-3b19-4558-b44d-8c08848b0e92",
-    "vid": "21891",
+    "nid": "25530",
+    "uuid": "fb33e530-e5f4-4084-be7f-dba27e092940",
+    "vid": "25530",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE118011",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "St Florent sur Cher vers Bourges",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.39383 47.07209)",
-    "radarInstallDate": "2010-09-29T16:25:46",
-    "radarPlace": "BOURGES",
+    "radarInstallDate": "2010-09-29T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

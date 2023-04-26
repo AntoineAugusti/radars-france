@@ -1,14 +1,14 @@
 {
-    "nid": "20907",
-    "uuid": "3e73552b-c71d-43ed-a38a-886deb765b3e",
-    "vid": "20907",
+    "nid": "24834",
+    "uuid": "ec4df8e8-d9de-4d74-878d-3fc92700231a",
+    "vid": "24834",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51268",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT SEVER vers VIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.987786 48.840292)",
-    "radarInstallDate": "2020-06-04T16:22:18",
-    "radarPlace": "NOUES DE SIENNE",
+    "radarInstallDate": "2020-06-04T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD 524",
     "radarTronconKm": [],
     "radarType": [

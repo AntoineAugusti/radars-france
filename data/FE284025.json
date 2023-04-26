@@ -1,14 +1,14 @@
 {
-    "nid": "22354",
-    "uuid": "fcff534e-c4df-46d5-b9d8-42c4947e0e88",
-    "vid": "22354",
+    "nid": "25888",
+    "uuid": "e6b52bc0-c5e5-4014-babc-7dbc681bd3ea",
+    "vid": "25888",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229194",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE284025",
-    "created": "1637229194",
-    "changed": "1675870051",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAMARET sur AIGUES vers CADEROUSSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.80389 44.13645)",
-    "radarInstallDate": "2011-12-08T16:27:38",
-    "radarPlace": "ORANGE",
+    "radarInstallDate": "2011-12-08T16:12:58",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

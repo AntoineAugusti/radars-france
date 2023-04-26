@@ -1,14 +1,14 @@
 {
-    "nid": "22701",
-    "uuid": "1cfeda33-bd84-493e-9a86-4f0c947dae00",
-    "vid": "22701",
+    "nid": "26212",
+    "uuid": "e716b8cf-a2f2-4cef-8e2b-14e972088569",
+    "vid": "26212",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741032",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_04_003",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741032",
+    "changed": "1681741032",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "04 - Alpes-de-Haute-Provence",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (43.80018 5.833841)",
-    "radarInstallDate": "2017-10-05T10:53:38",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.134907 45.856874)",
+    "radarInstallDate": "2017-10-05T16:17:13",
     "radarPlace": "-",
-    "radarRoad": "D6",
-    "radarTronconKm": "12.73",
+    "radarRoad": ", D6",
+    "radarTronconKm": "12,7",
     "radarType": [
         {
             "tid": "19",

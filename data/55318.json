@@ -1,14 +1,14 @@
 {
-    "nid": "21346",
-    "uuid": "eb7282aa-0125-42f1-a022-9c6d3d7699a4",
-    "vid": "21346",
+    "nid": "25360",
+    "uuid": "7931c75e-9c24-47e6-af4a-2117606dad34",
+    "vid": "25360",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55318",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TARBES vers MAUBOURGUET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.049532 43.42321)",
-    "radarInstallDate": "2020-11-02T16:23:38",
-    "radarPlace": "VIC EN BIGORRE",
+    "radarInstallDate": "2020-11-02T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD935",
     "radarTronconKm": [],
     "radarType": [

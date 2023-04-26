@@ -1,14 +1,14 @@
 {
-    "nid": "20863",
-    "uuid": "e7279efd-abd4-4fd9-9d8c-62c12a50c735",
-    "vid": "20863",
+    "nid": "24788",
+    "uuid": "e49bfcdf-0aed-4274-aed1-def1eff2fcdd",
+    "vid": "24788",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51219",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST BENOIT DES ONDES vers ST MALO",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.902344 48.647381)",
-    "radarInstallDate": "2020-02-13T16:22:08",
-    "radarPlace": "ST MELOIR DES ONDES",
+    "radarInstallDate": "2020-02-13T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RD155",
     "radarTronconKm": [],
     "radarType": [

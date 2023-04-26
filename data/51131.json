@@ -1,14 +1,14 @@
 {
-    "nid": "20779",
-    "uuid": "6b66e4cf-b1d0-43dc-af7a-440e9b5e9563",
-    "vid": "20779",
+    "nid": "24703",
+    "uuid": "2a26c009-1006-4b36-9aa7-07e174441621",
+    "vid": "24703",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51131",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "AUXERRE vers TROYES",
     "radarEquipment": "MORPHO",
-    "radarGeolocalisation": "POINT (3.728609 47.963108)",
-    "radarInstallDate": "2019-11-14T16:21:57",
-    "radarPlace": "VERGIGNY",
+    "radarGeolocalisation": "POINT (3.728577 47.962949)",
+    "radarInstallDate": "2019-11-14T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RN77",
     "radarTronconKm": [],
     "radarType": [

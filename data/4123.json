@@ -1,14 +1,14 @@
 {
-    "nid": "19949",
-    "uuid": "4500a293-1f17-441d-a498-1a713a996ee8",
-    "vid": "19949",
+    "nid": "23840",
+    "uuid": "bdb544af-db3b-462d-a114-0547b99ea91f",
+    "vid": "23840",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4123",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CASTRES vers LAUTREC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.19168 43.64046)",
-    "radarInstallDate": "2008-12-04T16:20:10",
-    "radarPlace": "CASTRES",
+    "radarInstallDate": "2008-12-04T16:06:29",
+    "radarPlace": [],
     "radarRoad": "RD83",
     "radarTronconKm": [],
     "radarType": [

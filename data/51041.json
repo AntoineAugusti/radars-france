@@ -1,14 +1,14 @@
 {
-    "nid": "20689",
-    "uuid": "b02a0746-00d0-419b-9648-0e25a101b79b",
-    "vid": "20689",
+    "nid": "24615",
+    "uuid": "4984acf4-8c9d-4400-a90b-a0226bb30558",
+    "vid": "24615",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51041",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOISSONS vers MARLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.620533 49.549722)",
-    "radarInstallDate": "2020-06-04T16:21:42",
-    "radarPlace": "LAON",
+    "radarInstallDate": "2020-06-04T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

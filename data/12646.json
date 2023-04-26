@@ -1,14 +1,14 @@
 {
-    "nid": "21865",
-    "uuid": "80df8ec7-e2cf-48f8-847f-7c5dafe77822",
-    "vid": "21865",
+    "nid": "23546",
+    "uuid": "08f5dafa-f14b-47e1-bd4e-1affda0d3d16",
+    "vid": "23546",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740359",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12646",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740359",
+    "changed": "1681740359",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOYELLES SUR MER vers ABBEVILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.73917 50.157033)",
-    "radarInstallDate": "2020-12-02T16:25:38",
-    "radarPlace": "PORT LE GRAND",
+    "radarInstallDate": "2020-12-02T16:06:00",
+    "radarPlace": [],
     "radarRoad": "RD40",
     "radarTronconKm": [],
     "radarType": [

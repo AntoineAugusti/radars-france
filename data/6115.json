@@ -1,14 +1,14 @@
 {
-    "nid": "20138",
-    "uuid": "28d75244-ebd2-4a92-acd1-efaefc3c23b4",
-    "vid": "20138",
+    "nid": "24019",
+    "uuid": "ec87b83c-5692-435b-aebf-23337c22eeb6",
+    "vid": "24019",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6115",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AGEN VERS AUCH",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.64958 43.93838)",
-    "radarInstallDate": "2006-07-21T16:20:29",
-    "radarPlace": "LECTOURE",
+    "radarInstallDate": "2006-07-21T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RN21",
     "radarTronconKm": [],
     "radarType": [

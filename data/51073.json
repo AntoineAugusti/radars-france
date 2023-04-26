@@ -1,14 +1,14 @@
 {
-    "nid": "20721",
-    "uuid": "3b7bb4c7-6d16-4ff2-a916-e9ade42ff882",
-    "vid": "20721",
+    "nid": "24646",
+    "uuid": "502e4d8a-3169-4786-b6af-41f0d19fbbc8",
+    "vid": "24646",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51073",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "WAVIGNES vers BRETEUIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.32083 49.603306)",
-    "radarInstallDate": "2020-01-03T16:21:47",
-    "radarPlace": "BEAUVOIR",
+    "radarInstallDate": "2020-01-03T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD 916",
     "radarTronconKm": [],
     "radarType": [

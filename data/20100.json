@@ -1,14 +1,14 @@
 {
-    "nid": "22644",
-    "uuid": "5a59e724-85b1-462c-97d9-dba6153d01fa",
-    "vid": "22644",
+    "nid": "26163",
+    "uuid": "48d1468d-90c3-4af3-9b23-e727156735fb",
+    "vid": "26163",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741027",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20100",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741027",
+    "changed": "1681741027",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "Chevilly vers Cercottes",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.88102 47.99532)",
-    "radarInstallDate": "2013-08-19T10:53:36",
+    "radarInstallDate": "2013-08-19T16:17:08",
     "radarPlace": "CERCOTTES",
     "radarRoad": "RD2020",
     "radarTronconKm": "2,2",

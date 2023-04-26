@@ -1,14 +1,14 @@
 {
-    "nid": "20642",
-    "uuid": "d73c557e-a863-420a-be3b-427e59d796be",
-    "vid": "20642",
+    "nid": "24560",
+    "uuid": "6460862a-4db3-472e-bfa2-14743307a8ca",
+    "vid": "24560",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50406",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT LEU vers SAINT PAUL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (55.25272 -21.03179)",
-    "radarInstallDate": "2021-04-09T16:21:34",
-    "radarPlace": "SAINT PAUL",
+    "radarInstallDate": "2021-04-09T16:08:05",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

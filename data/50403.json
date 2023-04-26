@@ -1,14 +1,14 @@
 {
-    "nid": "20639",
-    "uuid": "15047df3-e34e-4e64-8816-8cfcd7756f8a",
-    "vid": "20639",
+    "nid": "24557",
+    "uuid": "a32f32ac-7fd7-4c56-b07b-3b8c2f8731c4",
+    "vid": "24557",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50403",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE TAMPON vers SAINT PIERRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (55.501305 -21.302367)",
-    "radarInstallDate": "2020-12-30T16:21:34",
-    "radarPlace": "SAINT PIERRE",
+    "radarInstallDate": "2020-12-30T16:08:05",
+    "radarPlace": [],
     "radarRoad": "RN3",
     "radarTronconKm": [],
     "radarType": [

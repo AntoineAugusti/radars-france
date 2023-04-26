@@ -1,14 +1,14 @@
 {
-    "nid": "20922",
-    "uuid": "d67b5a73-4c1d-446f-a0a5-c2f9b790d3c1",
-    "vid": "20922",
+    "nid": "24849",
+    "uuid": "e385806b-dba8-4e5f-a2e2-a7b6726eafd5",
+    "vid": "24849",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51283",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOULTZEREN vers LE THOLY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.787159 48.078801)",
-    "radarInstallDate": "2020-08-07T16:22:18",
-    "radarPlace": "GERARDMER",
+    "radarInstallDate": "2020-08-07T16:08:58",
+    "radarPlace": [],
     "radarRoad": "RD417",
     "radarTronconKm": [],
     "radarType": [

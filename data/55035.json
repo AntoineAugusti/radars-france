@@ -1,14 +1,14 @@
 {
-    "nid": "21072",
-    "uuid": "46d81733-4aaa-422f-87e5-c556c94060b4",
-    "vid": "21072",
+    "nid": "25085",
+    "uuid": "c3c7668c-54a5-47dd-843a-0f2c666f83e6",
+    "vid": "25085",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55035",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CASTRES vers TOULOUSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.896611 43.5664)",
-    "radarInstallDate": "2019-08-12T16:22:44",
-    "radarPlace": "CUQ TOULZA",
+    "radarInstallDate": "2019-08-12T16:09:42",
+    "radarPlace": [],
     "radarRoad": "RN126",
     "radarTronconKm": [],
     "radarType": [

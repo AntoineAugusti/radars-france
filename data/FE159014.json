@@ -1,14 +1,14 @@
 {
-    "nid": "21985",
-    "uuid": "c305e426-8a31-4e34-9388-920ba744a6c1",
-    "vid": "21985",
+    "nid": "25621",
+    "uuid": "c9ac559f-be85-4898-8689-7867328b9939",
+    "vid": "25621",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159014",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Dunkerque vers Gravelines",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.30489 51.02247)",
-    "radarInstallDate": "2010-12-01T16:26:07",
-    "radarPlace": "GRANDE SYNTHE",
+    "radarInstallDate": "2010-12-01T16:11:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

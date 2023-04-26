@@ -1,14 +1,14 @@
 {
-    "nid": "20208",
-    "uuid": "4adf4f38-cfe2-47ec-8d7c-478c2abeb914",
-    "vid": "20208",
+    "nid": "24081",
+    "uuid": "6ef98b85-007f-42a8-afff-c932fba6f71f",
+    "vid": "24081",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6860",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Paris vers chartres",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2926 48.7184)",
-    "radarInstallDate": "2007-09-19T16:20:36",
-    "radarPlace": "MASSY",
+    "radarInstallDate": "2007-09-19T16:06:58",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

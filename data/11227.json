@@ -1,14 +1,14 @@
 {
-    "nid": "20565",
-    "uuid": "82fe6f97-b280-42ae-adbd-f8f4cf324d83",
-    "vid": "20565",
+    "nid": "24394",
+    "uuid": "897eed7a-70bd-474d-9269-31e84f1ba4a7",
+    "vid": "24394",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11227",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS Vers NANCY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.61201 48.7318)",
-    "radarInstallDate": "2012-08-01T16:21:22",
-    "radarPlace": "LA NOUE",
+    "radarInstallDate": "2012-08-01T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

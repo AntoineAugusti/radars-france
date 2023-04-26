@@ -1,14 +1,14 @@
 {
-    "nid": "20694",
-    "uuid": "2f1c4e95-48e8-4138-b4f2-af3197c1b401",
-    "vid": "20694",
+    "nid": "24620",
+    "uuid": "21f19aec-1c50-45d2-b5ee-2a2236f6ea5b",
+    "vid": "24620",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51046",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURBONNE LES BAINS vers CHAUMONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.642628 47.963419)",
-    "radarInstallDate": "2021-05-12T16:21:42",
-    "radarPlace": "LE CHATELET SUR MEUSE",
+    "radarInstallDate": "2021-05-12T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD417",
     "radarTronconKm": [],
     "radarType": [

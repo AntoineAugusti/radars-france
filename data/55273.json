@@ -1,14 +1,14 @@
 {
-    "nid": "21305",
-    "uuid": "ee162f93-4895-4d3c-8975-a2c8ba51c09e",
-    "vid": "21305",
+    "nid": "25317",
+    "uuid": "76b98fda-4ded-448c-aeef-ab36ed347181",
+    "vid": "25317",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55273",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTAUBAN vers BRIVE LA GAILLARDE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.433312 44.427711)",
-    "radarInstallDate": "2020-07-31T16:23:32",
-    "radarPlace": "CAHORS",
+    "radarInstallDate": "2020-07-31T16:10:33",
+    "radarPlace": [],
     "radarRoad": "RD820",
     "radarTronconKm": [],
     "radarType": [

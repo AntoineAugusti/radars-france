@@ -1,14 +1,14 @@
 {
-    "nid": "22599",
-    "uuid": "526cc94f-5b34-48ae-bcdf-c782f29c2d33",
-    "vid": "22599",
+    "nid": "26124",
+    "uuid": "24134edc-1ba2-440d-a587-29b1b36fa807",
+    "vid": "26124",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20010",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,10 +39,10 @@
     "radarDirection": "Paris vers Bordeaux",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.24597 46.36678)",
-    "radarInstallDate": "2012-12-03T10:53:35",
+    "radarInstallDate": "2012-12-03T16:17:04",
     "radarPlace": "ROMANS",
     "radarRoad": "A10",
-    "radarTronconKm": "0",
+    "radarTronconKm": "12,9",
     "radarType": [
         {
             "tid": "18",

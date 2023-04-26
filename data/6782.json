@@ -1,14 +1,14 @@
 {
-    "nid": "20193",
-    "uuid": "50642c2f-86df-479a-8a1d-dd98ecbd25ca",
-    "vid": "20193",
+    "nid": "24068",
+    "uuid": "94e6bd8e-78b1-49d8-9423-fd74fb3ccc6c",
+    "vid": "24068",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6782",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOISSONS vers CHATEAU THIERRY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.3708 49.2148)",
-    "radarInstallDate": "2007-05-04T16:20:35",
-    "radarPlace": "OULCHY LE CHATEAU",
+    "radarInstallDate": "2007-05-04T16:06:57",
+    "radarPlace": [],
     "radarRoad": "RD1",
     "radarTronconKm": [],
     "radarType": [

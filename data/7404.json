@@ -1,14 +1,14 @@
 {
-    "nid": "20318",
-    "uuid": "89d17b05-ebd7-4845-85a0-7d08f13b4258",
-    "vid": "20318",
+    "nid": "24178",
+    "uuid": "77bdc9f1-8585-4edc-b947-85c927656a18",
+    "vid": "24178",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7404",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATELLERAULT vers LENCLOITRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.44463 46.8157)",
-    "radarInstallDate": "2008-10-13T16:20:50",
-    "radarPlace": "THURE",
+    "radarInstallDate": "2008-10-13T16:07:10",
+    "radarPlace": [],
     "radarRoad": "RD725",
     "radarTronconKm": [],
     "radarType": [

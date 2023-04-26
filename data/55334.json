@@ -1,14 +1,14 @@
 {
-    "nid": "21361",
-    "uuid": "db0daa49-ed63-4d70-a986-655743911344",
-    "vid": "21361",
+    "nid": "25375",
+    "uuid": "35db9464-6fee-4946-9285-4ed85abb80e4",
+    "vid": "25375",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55334",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX vers PERIGUEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.31618 45.0321)",
-    "radarInstallDate": "2021-08-25T16:23:44",
-    "radarPlace": "SAINT MEDARD DE MUSSIDAN",
+    "radarInstallDate": "2021-08-25T16:10:47",
+    "radarPlace": [],
     "radarRoad": "RD6089",
     "radarTronconKm": [],
     "radarType": [

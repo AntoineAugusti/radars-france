@@ -1,14 +1,14 @@
 {
-    "nid": "20190",
-    "uuid": "e63af591-359d-4900-bf05-a06c05d1fbda",
-    "vid": "20190",
+    "nid": "24066",
+    "uuid": "8b8960ab-f2fd-4bbb-99cc-d8d213b83b92",
+    "vid": "24066",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6765",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LATTES VERS JUVIGNAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.84185 43.59885)",
-    "radarInstallDate": "2007-02-19T16:20:35",
-    "radarPlace": "MONTPELLIER",
+    "radarInstallDate": "2007-02-19T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD65",
     "radarTronconKm": [],
     "radarType": [

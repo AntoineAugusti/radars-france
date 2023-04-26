@@ -1,14 +1,14 @@
 {
-    "nid": "22781",
-    "uuid": "756ed1f7-c1e6-4c61-bf6c-2b9b38e7a7cf",
-    "vid": "22781",
+    "nid": "26319",
+    "uuid": "a0f76863-beec-4bfe-ab54-b1be6238d594",
+    "vid": "26319",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229221",
+    "revisionTimestamp": "1681741049",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_42_004",
-    "created": "1637229221",
-    "changed": "1637229221",
+    "created": "1681741049",
+    "changed": "1681741049",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "42 - Loire",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (45.499926 4.203782)",
-    "radarInstallDate": "2017-10-05T10:53:41",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (1.458736 48.455488)",
+    "radarInstallDate": "2017-10-09T16:17:30",
     "radarPlace": "-",
     "radarRoad": "D102, D108, D8",
-    "radarTronconKm": "7.94",
+    "radarTronconKm": "7,9",
     "radarType": [
         {
             "tid": "19",

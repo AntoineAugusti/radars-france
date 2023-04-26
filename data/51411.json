@@ -1,14 +1,14 @@
 {
-    "nid": "21024",
-    "uuid": "660016ce-4025-4208-a0f3-e07e065881cc",
-    "vid": "21024",
+    "nid": "24970",
+    "uuid": "bc328dbf-9d34-4fb6-b38d-3b818d066317",
+    "vid": "24970",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51411",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MULHOUSE vers SAUSHEIM",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.35231 47.75802)",
-    "radarInstallDate": "2021-05-21T16:22:37",
-    "radarPlace": "MULHOUSE",
+    "radarInstallDate": "2021-05-21T16:09:22",
+    "radarPlace": [],
     "radarRoad": "66 ALLEE NATHAN KATZ",
     "radarTronconKm": [],
     "radarType": [

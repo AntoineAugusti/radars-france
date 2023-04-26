@@ -1,14 +1,14 @@
 {
-    "nid": "22498",
-    "uuid": "45557c43-2506-4afc-8f72-b72767314d54",
-    "vid": "22498",
+    "nid": "25993",
+    "uuid": "164fe1e1-65fd-4c1e-83bb-0c7fed4627fc",
+    "vid": "25993",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE347000",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Agen vers Toulouse",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.63367 44.20058)",
-    "radarInstallDate": "2011-02-11T16:28:19",
-    "radarPlace": "AGEN",
+    "radarInstallDate": "2011-02-11T16:13:33",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

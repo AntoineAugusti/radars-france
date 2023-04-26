@@ -1,14 +1,14 @@
 {
-    "nid": "20861",
-    "uuid": "35fb6d5f-f9c3-486b-8af1-0751cf69aecf",
-    "vid": "20861",
+    "nid": "24786",
+    "uuid": "f8828513-9618-40be-a897-eeb44378e470",
+    "vid": "24786",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51217",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "COMBEAUFONTAINE vers VESOUL",
     "radarEquipment": "MORPHO",
-    "radarGeolocalisation": "POINT (5.939364 47.703273)",
-    "radarInstallDate": "2020-02-05T16:22:08",
-    "radarPlace": "LA NEUVELLE LES SCEY",
+    "radarGeolocalisation": "POINT (5.939888 47.703123)",
+    "radarInstallDate": "2020-02-05T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RN 19",
     "radarTronconKm": [],
     "radarType": [

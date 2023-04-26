@@ -1,14 +1,14 @@
 {
-    "nid": "20823",
-    "uuid": "7359234a-a5f8-46e7-98cf-2ebc8b0aa74e",
-    "vid": "20823",
+    "nid": "24747",
+    "uuid": "ba715c8b-9d1f-49b4-b100-fd55c47df149",
+    "vid": "24747",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51175",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST POL SUR TERNOISE vers DIVION",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.413996 50.418405)",
-    "radarInstallDate": "2020-01-10T16:22:02",
-    "radarPlace": "LA THIEULOYE",
+    "radarInstallDate": "2020-01-10T16:08:37",
+    "radarPlace": [],
     "radarRoad": "RD941",
     "radarTronconKm": [],
     "radarType": [

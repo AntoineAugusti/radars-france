@@ -1,14 +1,14 @@
 {
-    "nid": "22626",
-    "uuid": "00cb467e-32b6-41b2-ae37-944b1cb45986",
-    "vid": "22626",
+    "nid": "26150",
+    "uuid": "b3cee0ff-7cbf-450c-866d-4b7f267b9352",
+    "vid": "26150",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20073",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "AIX EN PROVENCE vers NICE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.44353 43.41365)",
-    "radarInstallDate": "2013-10-14T10:53:36",
+    "radarInstallDate": "2013-10-14T16:17:06",
     "radarPlace": "VIDAUBAN",
     "radarRoad": "A8",
     "radarTronconKm": "5,9",

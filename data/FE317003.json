@@ -1,14 +1,14 @@
 {
-    "nid": "22394",
-    "uuid": "373eaf41-bc7b-4926-ba3d-d809b7577920",
-    "vid": "22394",
+    "nid": "25919",
+    "uuid": "a005a5b3-15b3-4e68-8891-41c4dbc7d236",
+    "vid": "25919",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE317003",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bd de la R\u00e9publique vers Rue Gambetta",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.02926 45.62408)",
-    "radarInstallDate": "2012-02-01T16:27:47",
-    "radarPlace": "ROYAN",
+    "radarInstallDate": "2012-02-01T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

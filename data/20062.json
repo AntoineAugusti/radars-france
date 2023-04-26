@@ -1,14 +1,14 @@
 {
-    "nid": "22622",
-    "uuid": "75d4a6eb-c485-4bbd-b2a8-60397373884e",
-    "vid": "22622",
+    "nid": "26147",
+    "uuid": "1e837dfc-6a36-4286-a630-13e2541765cf",
+    "vid": "26147",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20062",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "DUNKERQUE vers LILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.93313 50.64271)",
-    "radarInstallDate": "2015-04-13T10:53:35",
+    "radarInstallDate": "2015-04-13T16:17:06",
     "radarPlace": "ENNETIERES EN WEPPES",
     "radarRoad": "A25",
     "radarTronconKm": "3,1",

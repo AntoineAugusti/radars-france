@@ -1,14 +1,14 @@
 {
-    "nid": "22473",
-    "uuid": "c1382e32-56dc-4b27-bc89-b9680994837d",
-    "vid": "22473",
+    "nid": "25989",
+    "uuid": "19b9bb18-cd0d-488b-86cf-9ab99627ba66",
+    "vid": "25989",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE334026",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE CRES vers BAILLARGUES",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.96748 43.65376)",
-    "radarInstallDate": "2012-02-28T16:28:10",
-    "radarPlace": "VENDARGUES",
+    "radarInstallDate": "2012-02-28T16:13:25",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

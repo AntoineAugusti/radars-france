@@ -1,14 +1,14 @@
 {
-    "nid": "22612",
-    "uuid": "4ac8bb27-2f60-4354-bc82-2c66b4c7e48e",
-    "vid": "22612",
+    "nid": "26137",
+    "uuid": "5af9ee2c-44e6-4717-92de-a1bc0c811c9e",
+    "vid": "26137",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20039",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "Vigny vers Cergy",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.00108 49.05873)",
-    "radarInstallDate": "2014-03-03T10:53:35",
+    "radarInstallDate": "2014-03-03T16:17:05",
     "radarPlace": "COURDIMANCHE",
     "radarRoad": "RD14",
     "radarTronconKm": "1,3",

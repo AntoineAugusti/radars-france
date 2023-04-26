@@ -1,14 +1,14 @@
 {
-    "nid": "20125",
-    "uuid": "ee1e2ba4-2e9a-4e17-bba3-8f467bc8d6ff",
-    "vid": "20125",
+    "nid": "24007",
+    "uuid": "0a48c179-572c-4015-bbfa-8a09ab94112c",
+    "vid": "24007",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6061",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLEFRANCHE DE ROUERGUE vers RODEZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.09555 44.41325)",
-    "radarInstallDate": "2006-06-12T16:20:29",
-    "radarPlace": "MALEVILLE",
+    "radarInstallDate": "2006-06-12T16:06:49",
+    "radarPlace": [],
     "radarRoad": "RD1",
     "radarTronconKm": [],
     "radarType": [

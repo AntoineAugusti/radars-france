@@ -1,14 +1,14 @@
 {
-    "nid": "22013",
-    "uuid": "7e53916f-64a8-43af-adf8-192c4aa0149c",
-    "vid": "22013",
+    "nid": "25642",
+    "uuid": "8d5b5fb8-5f4c-462d-951f-d7640d44dfec",
+    "vid": "25642",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE160010",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "avenue Jean Mermoz vers Beauvais centre ville",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.08258 49.43608)",
-    "radarInstallDate": "2010-07-13T16:26:14",
-    "radarPlace": "BEAUVAIS",
+    "radarInstallDate": "2010-07-13T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

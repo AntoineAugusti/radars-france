@@ -1,14 +1,14 @@
 {
-    "nid": "20570",
-    "uuid": "265210c0-a6be-42f4-a710-0d4e0f653a2d",
-    "vid": "20570",
+    "nid": "24399",
+    "uuid": "b17d7ac9-db51-411e-ad86-f6cb9c136e6c",
+    "vid": "24399",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11244",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RIOM vers ISSOIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.1353 45.784)",
-    "radarInstallDate": "2013-12-16T16:21:25",
-    "radarPlace": "CLERMONT FERRAND",
+    "radarInstallDate": "2013-12-16T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RD769 - Rue Louis BLERIOT",
     "radarTronconKm": [],
     "radarType": [

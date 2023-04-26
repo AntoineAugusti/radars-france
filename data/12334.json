@@ -1,14 +1,14 @@
 {
-    "nid": "21621",
-    "uuid": "747c9a0c-5e6c-4ac1-810f-8ba01d8ab818",
-    "vid": "21621",
+    "nid": "23289",
+    "uuid": "e207d9c0-792d-4935-9461-ecf8894239da",
+    "vid": "23289",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12334",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CARPENTRAS vers AVIGNON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.86708 43.97436)",
-    "radarInstallDate": "2016-05-27T16:24:42",
-    "radarPlace": "LE PONTET",
+    "radarInstallDate": "2016-05-27T16:05:39",
+    "radarPlace": [],
     "radarRoad": "RD225",
     "radarTronconKm": [],
     "radarType": [

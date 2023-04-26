@@ -1,14 +1,14 @@
 {
-    "nid": "21684",
-    "uuid": "9023dafb-dff2-4389-994d-ea302d0b9a87",
-    "vid": "21684",
+    "nid": "23352",
+    "uuid": "dce97683-c8c3-48e9-9efc-1734c018a3ac",
+    "vid": "23352",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12407",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAUMONT vers TROYES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.3245 48.1701)",
-    "radarInstallDate": "2016-12-08T16:24:56",
-    "radarPlace": "CHAUFFOUR LES BAILLY",
+    "radarInstallDate": "2016-12-08T16:05:43",
+    "radarPlace": [],
     "radarRoad": "A5",
     "radarTronconKm": [],
     "radarType": [

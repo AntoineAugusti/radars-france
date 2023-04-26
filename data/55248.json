@@ -1,14 +1,14 @@
 {
-    "nid": "21281",
-    "uuid": "5cb4f1b5-4337-46d4-9d64-3448bd23fc32",
-    "vid": "21281",
+    "nid": "25294",
+    "uuid": "52ce95b3-8257-45f4-bb5e-afdb71e292f7",
+    "vid": "25294",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55248",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers FOIX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.58974 43.02396)",
-    "radarInstallDate": "2020-07-23T16:23:26",
-    "radarPlace": "CRAMPAGNA",
+    "radarInstallDate": "2020-07-23T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD919",
     "radarTronconKm": [],
     "radarType": [

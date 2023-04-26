@@ -1,14 +1,14 @@
 {
-    "nid": "21222",
-    "uuid": "4fa73c37-2fca-422b-9355-1d62fecb5114",
-    "vid": "21222",
+    "nid": "25233",
+    "uuid": "7493eda1-3632-4bf0-ae90-568e3b1027ba",
+    "vid": "25233",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55186",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE TEIL vers LE PUY EN VELAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.39633 44.62108)",
-    "radarInstallDate": "2020-02-07T16:23:14",
-    "radarPlace": "AUBENAS",
+    "radarInstallDate": "2020-02-07T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RN102",
     "radarTronconKm": [],
     "radarType": [

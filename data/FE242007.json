@@ -1,14 +1,14 @@
 {
-    "nid": "22272",
-    "uuid": "2829f3d4-7f74-4887-b70e-4f3332d5a245",
-    "vid": "22272",
+    "nid": "25848",
+    "uuid": "c369571d-d8a8-4aa0-bc96-5bcaf0262a51",
+    "vid": "25848",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229189",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE242007",
-    "created": "1637229189",
-    "changed": "1675870026",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue de la Lib\u00e9ration vers le Nord-Est",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.36445 45.4032)",
-    "radarInstallDate": "2011-05-20T16:27:13",
-    "radarPlace": "LA RICAMARIE",
+    "radarInstallDate": "2011-05-20T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

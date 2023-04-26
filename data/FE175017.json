@@ -1,14 +1,14 @@
 {
-    "nid": "22091",
-    "uuid": "07934a51-20a5-4622-9f88-2297a6e14b50",
-    "vid": "22091",
+    "nid": "25708",
+    "uuid": "df564660-c2d5-4803-b338-0d7faae3d624",
+    "vid": "25708",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE175017",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Place de la Bastille vers l'avenue de la R\u00e9publique",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.37157 48.86374)",
-    "radarInstallDate": "2013-01-03T16:26:28",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-01-03T16:12:08",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21531",
-    "uuid": "1a98fae3-4cc8-4d05-9acc-3d9f46ce1514",
-    "vid": "21531",
+    "nid": "23203",
+    "uuid": "9eca5536-a4bb-4955-8caf-51acc858a051",
+    "vid": "23203",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12166",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers SOISSONS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.732704 49.087861)",
-    "radarInstallDate": "2013-09-09T16:24:22",
-    "radarPlace": "LAGNY LE SEC",
+    "radarInstallDate": "2013-09-09T16:05:33",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

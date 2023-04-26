@@ -1,14 +1,14 @@
 {
-    "nid": "20244",
-    "uuid": "fff02cac-bcd1-44e1-81a9-40f7d213383c",
-    "vid": "20244",
+    "nid": "24112",
+    "uuid": "b00e76b0-a490-4a30-b52e-414812f63f75",
+    "vid": "24112",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7115",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GUIGNES vers PROVINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.9621 48.5815)",
-    "radarInstallDate": "2008-03-25T16:20:41",
-    "radarPlace": "GRANDPUITS BAILLY CARROIS",
+    "radarInstallDate": "2008-03-25T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RD619",
     "radarTronconKm": [],
     "radarType": [

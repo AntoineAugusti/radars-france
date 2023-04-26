@@ -1,14 +1,14 @@
 {
-    "nid": "21285",
-    "uuid": "3176ddea-4cf0-492b-bb30-39a111b0cbb0",
-    "vid": "21285",
+    "nid": "25298",
+    "uuid": "55d31cbb-74b1-4a3a-9319-1ccbcb0f391b",
+    "vid": "25298",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55252",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VOIRON vers LES ABRETS EN DAUPHINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.5961 45.508744)",
-    "radarInstallDate": "2020-08-20T16:23:26",
-    "radarPlace": "LES ABRETS EN DAUPHINE",
+    "radarInstallDate": "2020-08-20T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD1075",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20887",
-    "uuid": "3a80235a-a939-4950-914f-612eb8ae93d7",
-    "vid": "20887",
+    "nid": "24814",
+    "uuid": "aad6e935-0dd2-4ebe-b9aa-01c3e37cb1be",
+    "vid": "24814",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51245",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VESOUL vers BESANCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.097632 47.467291)",
-    "radarInstallDate": "2020-09-22T16:22:13",
-    "radarPlace": "QUENOCHE",
+    "radarInstallDate": "2020-09-22T16:08:52",
+    "radarPlace": [],
     "radarRoad": "RN57",
     "radarTronconKm": [],
     "radarType": [

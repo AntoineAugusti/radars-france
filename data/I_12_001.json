@@ -1,14 +1,14 @@
 {
-    "nid": "22716",
-    "uuid": "200e5353-5e65-4b3c-8a34-1e6119d2659e",
-    "vid": "22716",
+    "nid": "26230",
+    "uuid": "88f125e6-60ed-45f9-9337-1124339608bb",
+    "vid": "26230",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741035",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_12_001",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741035",
+    "changed": "1681741035",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "12 - Aveyron",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (44.374152 2.59704)",
-    "radarInstallDate": "2017-10-05T10:53:39",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.833841 43.80018)",
+    "radarInstallDate": "2017-10-05T16:17:16",
     "radarPlace": "-",
     "radarRoad": "N88, D195, D224, D56, D29, D581, D563, D96, D28, D295, D259, D27, D59, D64, D216, D95, D511, D602",
-    "radarTronconKm": "41.59",
+    "radarTronconKm": "41,6",
     "radarType": [
         {
             "tid": "19",

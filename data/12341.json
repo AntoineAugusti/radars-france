@@ -1,14 +1,14 @@
 {
-    "nid": "21628",
-    "uuid": "79118ec0-35f8-4767-8167-2da1a25ca86d",
-    "vid": "21628",
+    "nid": "23296",
+    "uuid": "3296ab62-58db-435a-985d-613cf391af49",
+    "vid": "23296",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12341",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOISSONS vers REIMS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.48006 49.36362)",
-    "radarInstallDate": "2016-06-02T16:24:42",
-    "radarPlace": "CIRY SALSOGNE",
+    "radarInstallDate": "2016-06-02T16:05:40",
+    "radarPlace": [],
     "radarRoad": "RN31",
     "radarTronconKm": [],
     "radarType": [

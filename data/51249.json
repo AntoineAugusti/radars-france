@@ -1,14 +1,14 @@
 {
-    "nid": "20890",
-    "uuid": "89754c76-b8fe-41a9-89f8-e0acb922e2f5",
-    "vid": "20890",
+    "nid": "24817",
+    "uuid": "13336729-8ebe-4ed7-870a-ee33cdf2bdcf",
+    "vid": "24817",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51249",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "85-VENDEE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "AIZENAY vers ST GILLES CROIX DE VIE",
+    "radarDirection": "-",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.673457 46.719194)",
-    "radarInstallDate": "2020-03-06T16:22:13",
-    "radarPlace": "AIZENAY",
+    "radarInstallDate": "2020-03-06T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD6",
     "radarTronconKm": [],
     "radarType": [
@@ -113,72 +113,6 @@
             "radarNameDetails": "Radar fixe"
         }
     ],
-    "rulesMesured": [
-        {
-            "tid": "6",
-            "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab",
-            "revisionId": "6",
-            "langcode": "fr",
-            "vid": [
-                {
-                    "target_id": "rules"
-                }
-            ],
-            "revisionCreated": [],
-            "revisionUser": [],
-            "revisionLogMessage": [],
-            "status": "1",
-            "name": "Vitesse VL 70",
-            "description": [
-                {
-                    "value": null,
-                    "format": null
-                }
-            ],
-            "weight": "0",
-            "parent": [
-                {
-                    "target_id": "0"
-                }
-            ],
-            "changed": "1515154422",
-            "defaultLangcode": "1",
-            "revisionTranslationAffected": "1",
-            "path": [
-                {
-                    "langcode": "fr"
-                }
-            ],
-            "illustration": [
-                {
-                    "styles": {
-                        "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=MwLJaTo3",
-                            "height": "70",
-                            "width": "70"
-                        },
-                        "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=Ysf5V2xf",
-                            "height": "70",
-                            "width": "70"
-                        },
-                        "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=g4VQHCOS",
-                            "height": "70",
-                            "width": "70"
-                        }
-                    },
-                    "infos": {
-                        "fileName": "vitesse-70.png",
-                        "fileCreated": "1515154374",
-                        "fileSize": "3375",
-                        "fileExtension": "png"
-                    }
-                }
-            ],
-            "macineName": "vitesse_vl_70",
-            "ruleLabel": "Vitesse"
-        }
-    ],
+    "rulesMesured": [],
     "traceItineraire": []
 }

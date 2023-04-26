@@ -1,14 +1,14 @@
 {
-    "nid": "21056",
-    "uuid": "806b855e-1282-4c2c-8b6a-796ffffc58ee",
-    "vid": "21056",
+    "nid": "25069",
+    "uuid": "c2922a33-e9ab-4f6d-992a-3af51f1a22fe",
+    "vid": "25069",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55019",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COURNON D AUVERGNE vers AULNAT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.14858 45.766571)",
-    "radarInstallDate": "2019-10-22T16:22:43",
-    "radarPlace": "CLERMONT FERRAND",
+    "radarInstallDate": "2019-10-22T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD772",
     "radarTronconKm": [],
     "radarType": [

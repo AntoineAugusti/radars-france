@@ -1,14 +1,14 @@
 {
-    "nid": "20648",
-    "uuid": "b5d0df93-9b8f-4be4-90ee-e8e6caf0f67f",
-    "vid": "20648",
+    "nid": "24568",
+    "uuid": "f7a47429-a7a9-4e89-b45a-16ef49f706bb",
+    "vid": "24568",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50421",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT DENIS vers SAINT PIERRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (55.313936 -21.236908)",
-    "radarInstallDate": "2020-12-23T16:21:34",
-    "radarPlace": "SAINT LEU",
+    "radarInstallDate": "2020-12-23T16:08:09",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

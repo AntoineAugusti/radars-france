@@ -1,14 +1,14 @@
 {
-    "nid": "22144",
-    "uuid": "66f63120-0271-42f3-84db-48f843569864",
-    "vid": "22144",
+    "nid": "25760",
+    "uuid": "3a65617d-48ef-4b54-aac2-3cb6b6d10dd3",
+    "vid": "25760",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE191002",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FLEURY MEROGIS vers ST MICHEL SUR ORGE",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.34434 48.63465)",
-    "radarInstallDate": "2010-11-19T16:26:42",
-    "radarPlace": "STE GENEVIEVE DES BOIS",
+    "radarInstallDate": "2010-11-19T16:12:23",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

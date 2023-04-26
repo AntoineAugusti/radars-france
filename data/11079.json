@@ -1,14 +1,14 @@
 {
-    "nid": "20516",
-    "uuid": "31ed9748-5475-4c53-bbc8-2507c3725f16",
-    "vid": "20516",
+    "nid": "24352",
+    "uuid": "0bc8336f-7357-461c-b0a0-d5c2c01e71b5",
+    "vid": "24352",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11079",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE POINCONNET vers ST MAUR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.6628 46.77)",
-    "radarInstallDate": "2012-01-30T16:21:18",
-    "radarPlace": "ST MAUR",
+    "radarInstallDate": "2012-01-30T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD67",
     "radarTronconKm": [],
     "radarType": [

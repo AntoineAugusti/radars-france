@@ -1,14 +1,14 @@
 {
-    "nid": "20358",
-    "uuid": "4ff3cc10-e04d-4666-96ec-3a0c7afe2ae4",
-    "vid": "20358",
+    "nid": "24212",
+    "uuid": "0251936b-c98e-4617-bf28-522ce99eb5d8",
+    "vid": "24212",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8586",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FLERS VERS DOMFRONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.5744 48.69)",
-    "radarInstallDate": "2010-10-22T16:20:54",
-    "radarPlace": "LE CHATELLIER",
+    "radarInstallDate": "2010-10-22T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD962",
     "radarTronconKm": [],
     "radarType": [

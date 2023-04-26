@@ -1,14 +1,14 @@
 {
-    "nid": "22427",
-    "uuid": "dafbd09d-68e6-44d4-8e58-c72a45a7041c",
-    "vid": "22427",
+    "nid": "25946",
+    "uuid": "a59015ee-791d-4eab-97f7-689395f4227e",
+    "vid": "25946",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE330029",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "St Christol les Al\u00e8s vers Al\u00e8s centre-ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (4.08202 44.10535)",
-    "radarInstallDate": "2011-06-02T16:27:55",
-    "radarPlace": "ALES",
+    "radarInstallDate": "2011-06-02T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

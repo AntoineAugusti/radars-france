@@ -1,14 +1,14 @@
 {
-    "nid": "19731",
-    "uuid": "2638d967-e462-4d26-9738-4478fbe34f5f",
-    "vid": "19731",
+    "nid": "23659",
+    "uuid": "938202e6-fb9d-4c19-a240-d1375aa73f16",
+    "vid": "23659",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "352",
-    "created": "1637229109",
-    "changed": "1675869590",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LAVAL vers CHATEAU GONTIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.70397 47.96125)",
-    "radarInstallDate": "2005-04-11T16:19:50",
-    "radarPlace": "ENTRAMMES",
+    "radarInstallDate": "2005-04-11T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RN162",
     "radarTronconKm": [],
     "radarType": [

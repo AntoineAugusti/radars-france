@@ -1,14 +1,14 @@
 {
-    "nid": "22191",
-    "uuid": "50c6593a-fe6a-4fa7-b094-ef9907b9917c",
-    "vid": "22191",
+    "nid": "25806",
+    "uuid": "7216f4f6-fda2-4109-aff3-89cabedf2c02",
+    "vid": "25806",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229186",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195023",
-    "created": "1637229186",
-    "changed": "1675870011",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Cergy vers Vaur\u00e9al",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.01828 49.04332)",
-    "radarInstallDate": "2011-01-10T16:26:57",
-    "radarPlace": "CERGY",
+    "radarInstallDate": "2011-01-10T16:12:39",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21658",
-    "uuid": "91730ef3-959b-403d-83e6-9657c3a47e6a",
-    "vid": "21658",
+    "nid": "23326",
+    "uuid": "4793125e-20af-48fb-8e9c-56e3da1841f8",
+    "vid": "23326",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12379",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTLUCON vers GUERET",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.40286 46.285)",
-    "radarInstallDate": "2016-10-03T16:24:49",
-    "radarPlace": "NOUHANT",
+    "radarInstallDate": "2016-10-03T16:05:42",
+    "radarPlace": [],
     "radarRoad": "RN145",
     "radarTronconKm": [],
     "radarType": [

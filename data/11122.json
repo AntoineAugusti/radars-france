@@ -1,14 +1,14 @@
 {
-    "nid": "20530",
-    "uuid": "c36a9cbd-6a40-483c-84a9-b18f5bf461f3",
-    "vid": "20530",
+    "nid": "24362",
+    "uuid": "18d83279-d6d0-41f2-a91f-6c2108197e08",
+    "vid": "24362",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11122",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORTAGNE AU PERCHE vers MOULINS LA MARCHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.4816 48.632)",
-    "radarInstallDate": "2012-06-29T16:21:18",
-    "radarPlace": "ST MARTIN DES PEZERITS",
+    "radarInstallDate": "2012-06-29T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD932",
     "radarTronconKm": [],
     "radarType": [

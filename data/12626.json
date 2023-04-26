@@ -1,14 +1,14 @@
 {
-    "nid": "21851",
-    "uuid": "8baa07e1-483c-4da0-ba15-92c32a371191",
-    "vid": "21851",
+    "nid": "23529",
+    "uuid": "f97b8039-6daf-4165-a40c-699d4a4d8dd9",
+    "vid": "23529",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12626",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "STRASBOURG vers COLMAR",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.40138 48.21071)",
-    "radarInstallDate": "2021-02-25T16:25:32",
-    "radarPlace": "BERGHEIM",
+    "radarInstallDate": "2021-02-25T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RN83",
     "radarTronconKm": [],
     "radarType": [

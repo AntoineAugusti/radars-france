@@ -1,14 +1,14 @@
 {
-    "nid": "21785",
-    "uuid": "81a72c12-6899-49cc-88a1-d6b4608bfca9",
-    "vid": "21785",
+    "nid": "23454",
+    "uuid": "c607b0ee-c347-4e17-b786-6400a52d7d06",
+    "vid": "23454",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12525",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOUAI vers ARRAS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.875154 50.328517)",
-    "radarInstallDate": "2018-03-08T16:25:17",
-    "radarPlace": "GAVRELLE",
+    "radarInstallDate": "2018-03-08T16:05:52",
+    "radarPlace": [],
     "radarRoad": "RD950",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22690",
-    "uuid": "e5130369-6be3-49b9-be42-c845624ff196",
-    "vid": "22690",
+    "nid": "26198",
+    "uuid": "1c37600d-a1a8-4eb5-b8fb-7e2c75cb0435",
+    "vid": "26198",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741031",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20210",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741031",
+    "changed": "1681741031",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "NIMES vers BEZIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.00735 43.667)",
-    "radarInstallDate": "2018-05-07T10:53:38",
+    "radarInstallDate": "2018-05-07T16:17:12",
     "radarPlace": "ST JEAN DE VEDAS",
-    "radarRoad": "-",
+    "radarRoad": "A9",
     "radarTronconKm": "18,1",
     "radarType": [
         {

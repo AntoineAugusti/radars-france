@@ -1,14 +1,14 @@
 {
-    "nid": "20537",
-    "uuid": "1492e394-8daa-43d5-b72d-c5c6266f5039",
-    "vid": "20537",
+    "nid": "24368",
+    "uuid": "7c0ef3be-0cc5-4bab-b94c-64d16c41fd2a",
+    "vid": "24368",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11147",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SABLE SUR SARTHE vers LAVAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.582 47.965)",
-    "radarInstallDate": "2012-08-16T16:21:19",
-    "radarPlace": "ARQUENAY",
+    "radarInstallDate": "2012-08-16T16:07:37",
+    "radarPlace": [],
     "radarRoad": "RD21",
     "radarTronconKm": [],
     "radarType": [

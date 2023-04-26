@@ -1,14 +1,14 @@
 {
-    "nid": "20156",
-    "uuid": "a2e9a63c-e689-46de-b633-541cc7ec12cc",
-    "vid": "20156",
+    "nid": "24034",
+    "uuid": "d9467363-72cc-49fb-8a35-53c8f853bf54",
+    "vid": "24034",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6586",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FIGEAC vers BAGNAC SUR CELE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.07925 44.64139)",
-    "radarInstallDate": "2007-02-01T16:20:32",
-    "radarPlace": "VIAZAC",
+    "radarInstallDate": "2007-02-01T16:06:51",
+    "radarPlace": [],
     "radarRoad": "RN122",
     "radarTronconKm": [],
     "radarType": [

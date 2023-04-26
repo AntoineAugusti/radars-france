@@ -1,14 +1,14 @@
 {
-    "nid": "20324",
-    "uuid": "e461701c-884e-4fee-a052-33189a93ade9",
-    "vid": "20324",
+    "nid": "24182",
+    "uuid": "0ae959e2-3e4f-44d6-b50d-1642dcea38ad",
+    "vid": "24182",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7439",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rouen vers Alen\u00e7on",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.17585 48.56124)",
-    "radarInstallDate": "2008-08-29T16:20:50",
-    "radarPlace": "NEAUPHE SOUS ESSAI",
+    "radarInstallDate": "2008-08-29T16:07:10",
+    "radarPlace": [],
     "radarRoad": "A28",
     "radarTronconKm": [],
     "radarType": [

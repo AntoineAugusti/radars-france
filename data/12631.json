@@ -1,14 +1,14 @@
 {
-    "nid": "21856",
-    "uuid": "07e99183-2889-4e11-a3ef-c4c2fa5ada37",
-    "vid": "21856",
+    "nid": "23534",
+    "uuid": "01ce2490-4788-439e-9466-503e24ea165a",
+    "vid": "23534",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12631",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "porte de St Malo  vers porte de Brest",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.70841 48.13248)",
-    "radarInstallDate": "2020-03-06T16:25:32",
-    "radarPlace": "RENNES",
+    "radarInstallDate": "2020-03-06T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RN136",
     "radarTronconKm": [],
     "radarType": [

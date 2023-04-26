@@ -1,14 +1,14 @@
 {
-    "nid": "20860",
-    "uuid": "fc91c817-f49b-4a05-bb0e-eb499238a29c",
-    "vid": "20860",
+    "nid": "24785",
+    "uuid": "68354923-cc4a-4cb9-a8a8-9e2933871dd4",
+    "vid": "24785",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51216",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ABLEIGES vers CONDECOURT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.9597 49.054215)",
-    "radarInstallDate": "2020-09-09T16:22:08",
-    "radarPlace": "SAGY",
+    "radarInstallDate": "2020-09-09T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RD28",
     "radarTronconKm": [],
     "radarType": [

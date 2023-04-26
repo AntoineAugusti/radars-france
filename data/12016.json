@@ -1,14 +1,14 @@
 {
-    "nid": "21437",
-    "uuid": "da5fe795-8f2b-4b55-a264-58890df81705",
-    "vid": "21437",
+    "nid": "23111",
+    "uuid": "21af7a0f-2478-43a8-8813-c71c2eaea256",
+    "vid": "23111",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12016",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EPINAL vers REMIREMONT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.587 48.054)",
-    "radarInstallDate": "2012-02-10T16:23:57",
-    "radarPlace": "ST NABORD",
+    "radarInstallDate": "2012-02-10T16:05:27",
+    "radarPlace": [],
     "radarRoad": "RN57",
     "radarTronconKm": [],
     "radarType": [

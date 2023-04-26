@@ -1,14 +1,14 @@
 {
-    "nid": "21720",
-    "uuid": "c12346ab-16a7-4742-9749-2733d3790d4c",
-    "vid": "21720",
+    "nid": "23388",
+    "uuid": "fbba3427-b62e-47fd-82c5-7fcf87fc18f4",
+    "vid": "23388",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12449",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DREUX vers ROUEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.193836 48.99326)",
-    "radarInstallDate": "2016-09-23T16:25:03",
-    "radarPlace": "LE VIEIL EVREUX",
+    "radarInstallDate": "2016-09-23T16:05:47",
+    "radarPlace": [],
     "radarRoad": "RN154",
     "radarTronconKm": [],
     "radarType": [

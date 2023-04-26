@@ -1,14 +1,14 @@
 {
-    "nid": "20299",
-    "uuid": "737088f9-f993-4547-87dd-34f9bb109a10",
-    "vid": "20299",
+    "nid": "24163",
+    "uuid": "c6f94e2b-e9a2-405c-8de6-1f572eae52bf",
+    "vid": "24163",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7327",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOUILLAC vers SARLAT LA CANEDA",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.24402 44.86983)",
-    "radarInstallDate": "2008-01-18T16:20:49",
-    "radarPlace": "SARLAT LA CANEDA",
+    "radarInstallDate": "2008-01-18T16:07:09",
+    "radarPlace": [],
     "radarRoad": "RD704",
     "radarTronconKm": [],
     "radarType": [

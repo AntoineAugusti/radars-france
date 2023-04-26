@@ -1,14 +1,14 @@
 {
-    "nid": "22555",
-    "uuid": "74560251-54f3-4bcf-9298-e07648c6a511",
-    "vid": "22555",
+    "nid": "26096",
+    "uuid": "551852ff-b1a7-4d6e-9401-c01f425b6b08",
+    "vid": "26096",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE368602",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Mulhouse vers Remiremont",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (7.10519 47.80885)",
-    "radarInstallDate": "2016-06-03T16:28:36",
-    "radarPlace": "THANN",
+    "radarInstallDate": "2016-06-03T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

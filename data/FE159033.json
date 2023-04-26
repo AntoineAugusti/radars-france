@@ -1,14 +1,14 @@
 {
-    "nid": "21998",
-    "uuid": "2133270b-7ff0-40d7-bdd4-acc338155326",
-    "vid": "21998",
+    "nid": "25634",
+    "uuid": "8b8e4ae4-1c4c-4cd1-8764-c90e44ec7115",
+    "vid": "25634",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159033",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.30118 50.33424)",
-    "radarInstallDate": "2011-06-15T16:26:07",
-    "radarPlace": "ABSCON",
+    "radarInstallDate": "2011-06-15T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

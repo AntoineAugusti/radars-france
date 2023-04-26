@@ -1,14 +1,14 @@
 {
-    "nid": "20285",
-    "uuid": "cfb0802f-7662-4858-850e-d23d6cce7799",
-    "vid": "20285",
+    "nid": "24149",
+    "uuid": "a874f09a-7b4f-4260-a935-a1871f9bc688",
+    "vid": "24149",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7265",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "La fert\u00e9 Bernard vers le Mans",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.53176 48.07047)",
-    "radarInstallDate": "2008-03-28T16:20:46",
-    "radarPlace": "DUNEAU",
+    "radarInstallDate": "2008-03-28T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RD323",
     "radarTronconKm": [],
     "radarType": [

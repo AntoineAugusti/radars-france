@@ -1,14 +1,14 @@
 {
-    "nid": "20771",
-    "uuid": "59b599de-ec47-43db-aefb-481577a0cf39",
-    "vid": "20771",
+    "nid": "24695",
+    "uuid": "3c7a08c6-f00e-483f-847d-475c4fd4e49a",
+    "vid": "24695",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51123",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EVREUX vers LISIEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.722231 49.154674)",
-    "radarInstallDate": "2019-11-28T16:21:53",
-    "radarPlace": "NASSANDRES SUR RISLE",
+    "radarInstallDate": "2019-11-28T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RD613",
     "radarTronconKm": [],
     "radarType": [

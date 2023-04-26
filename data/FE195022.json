@@ -1,14 +1,14 @@
 {
-    "nid": "22190",
-    "uuid": "980c80d6-3103-406a-b126-344da6467fb4",
-    "vid": "22190",
+    "nid": "25805",
+    "uuid": "2e2cfdc8-990f-487e-9c6a-b33a5e9e85e7",
+    "vid": "25805",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229186",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195022",
-    "created": "1637229186",
-    "changed": "1675870011",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Cergy vers Conflans",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.07395 49.01594)",
-    "radarInstallDate": "2010-12-13T16:26:57",
-    "radarPlace": "NEUVILLE SUR OISE",
+    "radarInstallDate": "2010-12-13T16:12:39",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

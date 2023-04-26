@@ -1,14 +1,14 @@
 {
-    "nid": "20167",
-    "uuid": "30b89927-482e-4e55-bea9-51a45dbbb0f7",
-    "vid": "20167",
+    "nid": "24044",
+    "uuid": "19c02343-12ea-40b5-a76a-99ecc7283149",
+    "vid": "24044",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6644",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RUEIL MALMAISON VERS ST GERMAIN EN LAYE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.1378 48.8676)",
-    "radarInstallDate": "2007-02-23T16:20:32",
-    "radarPlace": "BOUGIVAL",
+    "radarInstallDate": "2007-02-23T16:06:53",
+    "radarPlace": [],
     "radarRoad": "RD113",
     "radarTronconKm": [],
     "radarType": [

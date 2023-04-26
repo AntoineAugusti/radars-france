@@ -1,14 +1,14 @@
 {
-    "nid": "20568",
-    "uuid": "db47b2a3-60cb-4111-af24-6ec6056912e8",
-    "vid": "20568",
+    "nid": "24397",
+    "uuid": "c6a91d7a-03ce-4f80-8135-e20e1abfab18",
+    "vid": "24397",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11237",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Pontigny vers Auxerre",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.6523 47.854)",
-    "radarInstallDate": "2012-09-29T16:21:23",
-    "radarPlace": "VILLENEUVE ST SALVES",
+    "radarInstallDate": "2012-09-29T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RN 77",
     "radarTronconKm": [],
     "radarType": [

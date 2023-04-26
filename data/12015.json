@@ -1,14 +1,14 @@
 {
-    "nid": "21436",
-    "uuid": "f7a89c11-e1f8-47a5-9647-ae5d91f4b682",
-    "vid": "21436",
+    "nid": "23110",
+    "uuid": "26e2a5b7-40b0-4948-989c-3aa45fd8568c",
+    "vid": "23110",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12015",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIMOGES vers NANTES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.356 46.618)",
-    "radarInstallDate": "2012-03-28T16:23:57",
-    "radarPlace": "POITIERS",
+    "radarInstallDate": "2012-03-28T16:05:27",
+    "radarPlace": [],
     "radarRoad": "RN147",
     "radarTronconKm": [],
     "radarType": [

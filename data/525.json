@@ -1,14 +1,14 @@
 {
-    "nid": "19779",
-    "uuid": "c24316f1-a8f8-4fef-92e7-f860171a3bbc",
-    "vid": "19779",
+    "nid": "23704",
+    "uuid": "d6c2e743-2024-401c-bd3a-f52551046ff6",
+    "vid": "23704",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "525",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS PROVINCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.38791 48.93971)",
-    "radarInstallDate": "2005-02-25T16:19:53",
-    "radarPlace": "LA COURNEUVE",
+    "radarInstallDate": "2005-02-25T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RN301",
     "radarTronconKm": [],
     "radarType": [

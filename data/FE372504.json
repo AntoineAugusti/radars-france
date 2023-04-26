@@ -1,14 +1,14 @@
 {
-    "nid": "22565",
-    "uuid": "f2bcef19-82fa-4bed-b99d-4de4e581e695",
-    "vid": "22565",
+    "nid": "26106",
+    "uuid": "90c91a34-c29f-4991-b8cb-dd4eeb084a20",
+    "vid": "26106",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE372504",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.17135 48.03395)",
-    "radarInstallDate": "2013-08-29T16:28:36",
-    "radarPlace": "LA CHAPELLE ST AUBIN",
+    "radarInstallDate": "2013-08-29T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

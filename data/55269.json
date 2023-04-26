@@ -1,14 +1,14 @@
 {
-    "nid": "21301",
-    "uuid": "3d9e74b3-cb91-4e1b-8adb-19b9f1b84cc0",
-    "vid": "21301",
+    "nid": "25313",
+    "uuid": "39f2cb9b-997f-4614-8f5a-8de918eaaca8",
+    "vid": "25313",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55269",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BLANZAC vers BELLAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.063689 46.122684)",
-    "radarInstallDate": "2020-07-27T16:23:32",
-    "radarPlace": "BELLAC",
+    "radarInstallDate": "2020-07-27T16:10:33",
+    "radarPlace": [],
     "radarRoad": "RD945",
     "radarTronconKm": [],
     "radarType": [

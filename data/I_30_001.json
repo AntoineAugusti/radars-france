@@ -1,14 +1,14 @@
 {
-    "nid": "22755",
-    "uuid": "ebd436dd-a8f7-4646-9623-17c25dcf6c57",
-    "vid": "22755",
+    "nid": "26283",
+    "uuid": "6628de89-6f45-47cc-8dc9-67c4385d9db5",
+    "vid": "26283",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229219",
+    "revisionTimestamp": "1681741042",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_30_001",
-    "created": "1637229219",
-    "changed": "1637229219",
+    "created": "1681741042",
+    "changed": "1681741042",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "30 - Gard",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (44.130222 4.125738)",
-    "radarInstallDate": "2017-10-09T10:53:40",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.865366 47.018055)",
+    "radarInstallDate": "2017-10-05T16:17:23",
     "radarPlace": "-",
     "radarRoad": "D979, D143, D166, D7, D144, D115, D406, D216A, D274, D747, D23, D6D, D6A, D9, D6C, D6, D356, D131",
-    "radarTronconKm": "43.91",
+    "radarTronconKm": "43,9",
     "radarType": [
         {
             "tid": "19",

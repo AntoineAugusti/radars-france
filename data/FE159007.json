@@ -1,14 +1,14 @@
 {
-    "nid": "21979",
-    "uuid": "f0fd9ab4-8c86-4cb2-8042-9a99534cb279",
-    "vid": "21979",
+    "nid": "25616",
+    "uuid": "932ea67b-f3a9-4f17-a6e4-12e64457e6c4",
+    "vid": "25616",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159007",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud Ouest vers Nord Est",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.1699 50.70538)",
-    "radarInstallDate": "2010-06-09T16:26:07",
-    "radarPlace": "ROUBAIX",
+    "radarInstallDate": "2010-06-09T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

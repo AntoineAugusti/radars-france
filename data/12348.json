@@ -1,14 +1,14 @@
 {
-    "nid": "21635",
-    "uuid": "0620e96d-9f39-4599-a79f-2b2cca95d85f",
-    "vid": "21635",
+    "nid": "23303",
+    "uuid": "b9c30b3c-43c7-48da-b5ec-8b0c42a05e00",
+    "vid": "23303",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12348",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MENTON vers CANNES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.201861 43.710541)",
-    "radarInstallDate": "2017-04-03T16:24:42",
-    "radarPlace": "NICE",
+    "radarInstallDate": "2017-04-03T16:05:40",
+    "radarPlace": [],
     "radarRoad": "A8",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22617",
-    "uuid": "bc773d8b-16d8-4b6a-ae2c-3117b3a978f3",
-    "vid": "22617",
+    "nid": "26142",
+    "uuid": "8924de6d-f9c1-4eac-993d-0d82ed58002a",
+    "vid": "26142",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20055",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -33,13 +33,13 @@
             "langcode": "fr"
         }
     ],
-    "department": "42-LOIRE",
+    "department": "69-RHONE",
     "itineraireEntree": [],
     "itineraireSortie": [],
     "radarDirection": "CLERMONT FERRAND vers LYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.49004 45.87074)",
-    "radarInstallDate": "2014-12-29T10:53:35",
+    "radarInstallDate": "2014-12-29T16:17:06",
     "radarPlace": "PONTCHARRA SUR TURDINE",
     "radarRoad": "A89",
     "radarTronconKm": "15,8",

@@ -1,14 +1,14 @@
 {
-    "nid": "22433",
-    "uuid": "00805f48-7bc0-401b-bcdb-99c6ad5adc21",
-    "vid": "22433",
+    "nid": "25952",
+    "uuid": "cc21041f-df95-4b4b-8200-9865c4e998ab",
+    "vid": "25952",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE331011",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Montauban vers Toulouse",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.41858 43.65913)",
-    "radarInstallDate": "2011-04-04T16:28:02",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2011-04-04T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

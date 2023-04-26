@@ -1,14 +1,14 @@
 {
-    "nid": "22891",
-    "uuid": "0f452231-4737-4375-9402-12a5a333ab16",
-    "vid": "22891",
+    "nid": "26451",
+    "uuid": "72f00058-6b74-4bb5-be71-c9e2b6cf1fde",
+    "vid": "26451",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741082",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_87_002",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741082",
+    "changed": "1681741082",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "87 - Haute-Vienne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (45.739116 1.280903)",
-    "radarInstallDate": "2017-10-06T10:53:49",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.673098 49.104879)",
+    "radarInstallDate": "2017-10-09T16:18:03",
     "radarPlace": "-",
     "radarRoad": "D53G, D59, D11A3, D704, D17, D15, D31, D901, D19, D118, D18, D17A2",
-    "radarTronconKm": "31.24",
+    "radarTronconKm": "31,2",
     "radarType": [
         {
             "tid": "19",

@@ -1,14 +1,14 @@
 {
-    "nid": "21094",
-    "uuid": "6b1f3a01-f400-4ea4-b321-22e40d32d93e",
-    "vid": "21094",
+    "nid": "25107",
+    "uuid": "55de037c-7820-485c-b4c4-f87aba74727a",
+    "vid": "25107",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55057",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FITOU vers LA PALME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.000034 42.906332)",
-    "radarInstallDate": "2019-08-08T16:22:49",
-    "radarPlace": "FITOU",
+    "radarInstallDate": "2019-08-08T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD6009",
     "radarTronconKm": [],
     "radarType": [

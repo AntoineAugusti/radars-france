@@ -1,14 +1,14 @@
 {
-    "nid": "21704",
-    "uuid": "b9826f03-7f1a-4b56-8e07-39a1e23d8b6a",
-    "vid": "21704",
+    "nid": "23372",
+    "uuid": "78c26bf5-e5bf-42d5-b01e-641fd7a7f4c4",
+    "vid": "23372",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12429",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers AGEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.872815 44.057823)",
-    "radarInstallDate": "2017-02-20T16:24:57",
-    "radarPlace": "AUVILLAR",
+    "radarInstallDate": "2017-02-20T16:05:45",
+    "radarPlace": [],
     "radarRoad": "A62",
     "radarTronconKm": [],
     "radarType": [

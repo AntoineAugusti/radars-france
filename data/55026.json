@@ -1,14 +1,14 @@
 {
-    "nid": "21063",
-    "uuid": "7a2e1025-8df7-40f3-9f29-00549be08a50",
-    "vid": "21063",
+    "nid": "25076",
+    "uuid": "ec43c1e9-5431-4952-976c-689b9ab78e5a",
+    "vid": "25076",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55026",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTMELIAN vers CHATEAUNEUF",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.123925 45.533508)",
-    "radarInstallDate": "2020-08-11T16:22:43",
-    "radarPlace": "COISE ST JEAN PIED GAUTHIER",
+    "radarInstallDate": "2020-08-11T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD1006",
     "radarTronconKm": [],
     "radarType": [

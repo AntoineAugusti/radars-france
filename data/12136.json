@@ -1,14 +1,14 @@
 {
-    "nid": "21510",
-    "uuid": "7aca93c2-ff2f-4636-921e-79be4d7b5d91",
-    "vid": "21510",
+    "nid": "23183",
+    "uuid": "ea86cfa7-86f7-427c-96d0-ea0eba962ff2",
+    "vid": "23183",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12136",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRETIGNY SUR ORGE vers EVRY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.3333 48.609)",
-    "radarInstallDate": "2013-08-05T16:24:16",
-    "radarPlace": "LE PLESSIS PATE",
+    "radarInstallDate": "2013-08-05T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RD19",
     "radarTronconKm": [],
     "radarType": [

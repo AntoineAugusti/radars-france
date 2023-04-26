@@ -1,14 +1,14 @@
 {
-    "nid": "19806",
-    "uuid": "599a963c-505d-43ef-898b-7c61f0032257",
-    "vid": "19806",
+    "nid": "23727",
+    "uuid": "410b0a11-cf3e-486f-8949-3c54749bf58b",
+    "vid": "23727",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "613",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BERGERAC VERS PERIGUEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.71006 45.15894)",
-    "radarInstallDate": "2005-11-26T16:19:55",
-    "radarPlace": "COULOUNIEIX CHAMIERS",
+    "radarInstallDate": "2005-11-26T16:06:18",
+    "radarPlace": [],
     "radarRoad": "RD6021",
     "radarTronconKm": [],
     "radarType": [

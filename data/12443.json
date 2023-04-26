@@ -1,14 +1,14 @@
 {
-    "nid": "21716",
-    "uuid": "289bf47c-3de5-4018-9e3c-48e26f8b9e50",
-    "vid": "21716",
+    "nid": "23384",
+    "uuid": "c69c252a-478e-496d-ac99-1f967a3bd45e",
+    "vid": "23384",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12443",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON vers CLERMONT FERRAND",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.64095 45.8752)",
-    "radarInstallDate": "2016-11-28T16:25:03",
-    "radarPlace": "CELLES SUR DUROLLE",
+    "radarInstallDate": "2016-11-28T16:05:46",
+    "radarPlace": [],
     "radarRoad": "A89",
     "radarTronconKm": [],
     "radarType": [

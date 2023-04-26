@@ -1,14 +1,14 @@
 {
-    "nid": "20258",
-    "uuid": "d731685a-65d6-459c-b528-3c5143558a5b",
-    "vid": "20258",
+    "nid": "24126",
+    "uuid": "d99f445d-7d55-43c0-9c93-c831daf608af",
+    "vid": "24126",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7165",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NEVERS  vers FOURCHAMBAULT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.1326 46.99529)",
-    "radarInstallDate": "2008-04-11T16:20:41",
-    "radarPlace": "NEVERS",
+    "radarInstallDate": "2008-04-11T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RD40",
     "radarTronconKm": [],
     "radarType": [

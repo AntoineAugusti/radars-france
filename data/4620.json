@@ -1,14 +1,14 @@
 {
-    "nid": "20051",
-    "uuid": "ae785e18-11cb-4456-a6f5-1740655f71d1",
-    "vid": "20051",
+    "nid": "23936",
+    "uuid": "c6b5322e-246a-4416-ba47-5d2003cacc22",
+    "vid": "23936",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4620",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "APT vers AVIGNON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.05967 43.87427)",
-    "radarInstallDate": "2009-09-04T16:20:20",
-    "radarPlace": "L ISLE SUR LA SORGUE",
+    "radarInstallDate": "2009-09-04T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD900",
     "radarTronconKm": [],
     "radarType": [

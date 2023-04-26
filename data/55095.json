@@ -1,14 +1,14 @@
 {
-    "nid": "21132",
-    "uuid": "6f763894-9dd6-4e8f-9f30-256ec5f6dc7c",
-    "vid": "21132",
+    "nid": "25143",
+    "uuid": "b8a9d0e8-3ff0-4f0e-bfc1-ab74a6a8d3aa",
+    "vid": "25143",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55095",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIBOURNE vers COUTRAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.154871 45.023593)",
-    "radarInstallDate": "2020-12-21T16:22:56",
-    "radarPlace": "ABZAC",
+    "radarInstallDate": "2020-12-21T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD674",
     "radarTronconKm": [],
     "radarType": [

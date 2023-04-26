@@ -1,14 +1,14 @@
 {
-    "nid": "20760",
-    "uuid": "cb5dbd60-00aa-4da5-a254-7b45cd642e8f",
-    "vid": "20760",
+    "nid": "24684",
+    "uuid": "464875e6-2d1a-40f8-8bb9-b133f5984794",
+    "vid": "24684",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51112",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARON vers GRON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.2612 48.171336)",
-    "radarInstallDate": "2020-01-22T16:21:52",
-    "radarPlace": "GRON",
+    "radarInstallDate": "2020-01-22T16:08:26",
+    "radarPlace": [],
     "radarRoad": "RD72",
     "radarTronconKm": [],
     "radarType": [

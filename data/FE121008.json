@@ -1,14 +1,14 @@
 {
-    "nid": "21896",
-    "uuid": "5e533737-8815-493e-a365-1c2ca92f4fb9",
-    "vid": "21896",
+    "nid": "25535",
+    "uuid": "5fb732f3-b8c7-4017-bfe1-10a1bf1fd971",
+    "vid": "25535",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE121008",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Corcelles les Monts vers le centre ville",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (5.01435 47.3135)",
-    "radarInstallDate": "2011-12-05T16:25:46",
-    "radarPlace": "DIJON",
+    "radarInstallDate": "2011-12-05T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21214",
-    "uuid": "a9b7a9b2-bdb0-4bca-b31b-744b42d532ff",
-    "vid": "21214",
+    "nid": "25225",
+    "uuid": "61e0e2cb-3fb6-4365-97d6-af5a35a4bd77",
+    "vid": "25225",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55178",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRISOLLES vers ONDES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.2919 43.803)",
-    "radarInstallDate": "2020-01-31T16:23:13",
-    "radarPlace": "GRISOLLES",
+    "radarInstallDate": "2020-01-31T16:10:12",
+    "radarPlace": [],
     "radarRoad": "RD49",
     "radarTronconKm": [],
     "radarType": [

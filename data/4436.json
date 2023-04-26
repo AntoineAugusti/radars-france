@@ -1,14 +1,14 @@
 {
-    "nid": "20009",
-    "uuid": "9a5e5ceb-5ef8-49e0-a26e-5bf88a78b272",
-    "vid": "20009",
+    "nid": "23896",
+    "uuid": "225e0c7d-9c89-416d-90dd-bcff724e01fd",
+    "vid": "23896",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4436",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURG ST ANDEOL VERS PONT ST ESPRIT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.61321 44.30601)",
-    "radarInstallDate": "2009-07-01T16:20:17",
-    "radarPlace": "ST JUST D ARDECHE",
+    "radarInstallDate": "2009-07-01T16:06:35",
+    "radarPlace": [],
     "radarRoad": "RD86",
     "radarTronconKm": [],
     "radarType": [

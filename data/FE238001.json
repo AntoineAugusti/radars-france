@@ -1,14 +1,14 @@
 {
-    "nid": "22266",
-    "uuid": "a82b48c0-6565-48c8-a2fd-62748b55dd78",
-    "vid": "22266",
+    "nid": "25843",
+    "uuid": "187de273-94fc-47f6-8064-84e0dda766b0",
+    "vid": "25843",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229189",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE238001",
-    "created": "1637229189",
-    "changed": "1675870026",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SEYSSINET-PARISET vers GRENOBLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.70476 45.1799)",
-    "radarInstallDate": "2010-04-21T16:27:12",
-    "radarPlace": "GRENOBLE",
+    "radarInstallDate": "2010-04-21T16:12:48",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

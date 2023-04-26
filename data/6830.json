@@ -1,14 +1,14 @@
 {
-    "nid": "20200",
-    "uuid": "6d630927-0c42-4a55-a8b8-e3b7e04a1b94",
-    "vid": "20200",
+    "nid": "24074",
+    "uuid": "f599cfeb-c720-4217-a685-ed532281967f",
+    "vid": "24074",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6830",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MALIJAI VERS DIGNE LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.10951 44.036)",
-    "radarInstallDate": "2007-03-19T16:20:35",
-    "radarPlace": "MALLEMOISSON",
+    "radarInstallDate": "2007-03-19T16:06:57",
+    "radarPlace": [],
     "radarRoad": "RN85",
     "radarTronconKm": [],
     "radarType": [

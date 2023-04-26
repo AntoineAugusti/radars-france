@@ -1,14 +1,14 @@
 {
-    "nid": "20036",
-    "uuid": "c896c96d-636b-469f-80a7-8bafb62e6f3f",
-    "vid": "20036",
+    "nid": "23922",
+    "uuid": "91743c7d-2bc4-4a36-b812-81183a60f785",
+    "vid": "23922",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4533",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Auxerre vers Joigny",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.551 47.842)",
-    "radarInstallDate": "2008-12-16T16:20:19",
-    "radarPlace": "MONETEAU",
+    "radarInstallDate": "2008-12-16T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RN6",
     "radarTronconKm": [],
     "radarType": [

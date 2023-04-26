@@ -1,14 +1,14 @@
 {
-    "nid": "20704",
-    "uuid": "114ee4b7-710f-468c-ac62-343556b0bded",
-    "vid": "20704",
+    "nid": "24630",
+    "uuid": "5104aff7-bb0e-473b-a2f4-47ca08ff3d68",
+    "vid": "24630",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51056",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GISORS vers GOURNAY EN BRAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.768839 49.360707)",
-    "radarInstallDate": "2019-10-21T16:21:42",
-    "radarPlace": "SERIFONTAINE",
+    "radarInstallDate": "2019-10-21T16:08:19",
+    "radarPlace": [],
     "radarRoad": "RD915",
     "radarTronconKm": [],
     "radarType": [

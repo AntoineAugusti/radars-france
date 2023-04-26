@@ -1,14 +1,14 @@
 {
-    "nid": "22106",
-    "uuid": "0847e37e-99c9-477a-966f-e98fe86f2891",
-    "vid": "22106",
+    "nid": "25722",
+    "uuid": "97e74e15-80bc-4d08-a86b-65ce70227dbe",
+    "vid": "25722",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE176015",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Yerville vers Veules les Roses",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (0.88116 49.75099)",
-    "radarInstallDate": "2011-04-28T16:26:35",
-    "radarPlace": "ST LAURENT EN CAUX",
+    "radarInstallDate": "2011-04-28T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

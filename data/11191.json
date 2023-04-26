@@ -1,14 +1,14 @@
 {
-    "nid": "20554",
-    "uuid": "b5f6e0f4-ded7-4ae3-9b35-439879616b20",
-    "vid": "20554",
+    "nid": "24383",
+    "uuid": "a4a2f27a-3f60-461f-be06-02b6692f952c",
+    "vid": "24383",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11191",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Province vers Paris",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2633 48.89787)",
-    "radarInstallDate": "2014-07-01T16:21:22",
-    "radarPlace": "COURBEVOIE",
+    "radarInstallDate": "2014-07-01T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RD908-boulevard de Verdun",
     "radarTronconKm": [],
     "radarType": [

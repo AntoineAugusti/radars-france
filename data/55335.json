@@ -1,14 +1,14 @@
 {
-    "nid": "21362",
-    "uuid": "a61e9cd4-ab23-40b1-ba16-31c49306f87c",
-    "vid": "21362",
+    "nid": "25376",
+    "uuid": "8ef8ca3d-04e1-4ad8-baea-82e2fc9cacea",
+    "vid": "25376",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55335",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BIARRITZ vers BAYONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.534239 43.489878)",
-    "radarInstallDate": "2021-04-29T16:23:44",
-    "radarPlace": "ANGLET",
+    "radarInstallDate": "2021-04-29T16:10:47",
+    "radarPlace": [],
     "radarRoad": "Boulevard du BAB (hauteur 4 rue Marie BLANQUE)",
     "radarTronconKm": [],
     "radarType": [

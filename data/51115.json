@@ -1,14 +1,14 @@
 {
-    "nid": "20763",
-    "uuid": "434abfa3-5114-424e-89bb-8e682eca4315",
-    "vid": "20763",
+    "nid": "24687",
+    "uuid": "3c037d68-5346-446e-bc0f-0fb1a9756674",
+    "vid": "24687",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51115",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROSNY SUR SEINE vers BONNIERES SUR SEINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.610821 49.019351)",
-    "radarInstallDate": "2019-12-03T16:21:53",
-    "radarPlace": "ROLLEBOISE",
+    "radarInstallDate": "2019-12-03T16:08:26",
+    "radarPlace": [],
     "radarRoad": "RD113",
     "radarTronconKm": [],
     "radarType": [

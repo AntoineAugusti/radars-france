@@ -1,14 +1,14 @@
 {
-    "nid": "21580",
-    "uuid": "e7786da1-9fb4-4455-9597-c3b06d719eed",
-    "vid": "21580",
+    "nid": "23250",
+    "uuid": "5e6da6c9-6011-4b1e-86c5-ba53ffe690f6",
+    "vid": "23250",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12260",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers MARSEILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.90727 45.76502)",
-    "radarInstallDate": "2014-05-05T16:24:29",
-    "radarPlace": "VILLEURBANNE",
+    "radarInstallDate": "2014-05-05T16:05:36",
+    "radarPlace": [],
     "radarRoad": "RD383",
     "radarTronconKm": [],
     "radarType": [

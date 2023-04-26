@@ -1,14 +1,14 @@
 {
-    "nid": "22607",
-    "uuid": "76cbd356-0892-4cad-805c-3669a099bf95",
-    "vid": "22607",
+    "nid": "26132",
+    "uuid": "99656d65-d800-4cb1-8668-e341942bfd35",
+    "vid": "26132",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20026",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "PROVINCE vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.20355 48.83963)",
-    "radarInstallDate": "2016-06-27T10:53:35",
+    "radarInstallDate": "2016-06-27T16:17:05",
     "radarPlace": "ST CLOUD",
     "radarRoad": "A13",
     "radarTronconKm": "1,1",

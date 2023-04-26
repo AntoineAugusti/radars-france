@@ -1,14 +1,14 @@
 {
-    "nid": "19981",
-    "uuid": "b0f221ca-b9c4-485f-b420-f2263f696c42",
-    "vid": "19981",
+    "nid": "23870",
+    "uuid": "1f330b73-cef3-4344-923c-5cfe8aba3d63",
+    "vid": "23870",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4312",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHERBOURG OCTEVILLE VERS LES PIEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.71302 49.57561)",
-    "radarInstallDate": "2008-12-04T16:20:13",
-    "radarPlace": "VIRANDEVILLE",
+    "radarInstallDate": "2008-12-04T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD650",
     "radarTronconKm": [],
     "radarType": [

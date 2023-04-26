@@ -1,14 +1,14 @@
 {
-    "nid": "22070",
-    "uuid": "5e8c16f4-31ef-4057-9842-3bd53c99e0ea",
-    "vid": "22070",
+    "nid": "25687",
+    "uuid": "4d547d23-4f86-435c-aa77-b3f4f2d032bc",
+    "vid": "25687",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168017",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vers l'ext\u00e9rieur du centre ville",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.35 47.75552)",
-    "radarInstallDate": "2011-07-06T16:26:28",
-    "radarPlace": "MULHOUSE",
+    "radarInstallDate": "2011-07-06T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

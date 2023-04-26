@@ -1,14 +1,14 @@
 {
-    "nid": "20118",
-    "uuid": "3b17b816-ce28-45f2-ae61-ca98b8ed1be5",
-    "vid": "20118",
+    "nid": "24001",
+    "uuid": "772edd2c-db42-4363-9011-728bc6398fec",
+    "vid": "24001",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6028",
-    "created": "1637229118",
-    "changed": "1675869624",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "L HOSPITALET PRES L ANDORRE VERS AX LES THERMES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.83432 42.64977)",
-    "radarInstallDate": "2006-09-09T16:20:27",
-    "radarPlace": "MERENS LES VALS",
+    "radarInstallDate": "2006-09-09T16:06:47",
+    "radarPlace": [],
     "radarRoad": "RN20",
     "radarTronconKm": [],
     "radarType": [

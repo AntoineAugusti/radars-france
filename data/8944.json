@@ -1,14 +1,14 @@
 {
-    "nid": "20470",
-    "uuid": "2abaaec8-7f6b-4afe-98b5-4b3c824852c1",
-    "vid": "20470",
+    "nid": "24313",
+    "uuid": "aa700de0-e26a-4d74-bf4d-38b7da076447",
+    "vid": "24313",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8944",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Orcines vers Royat",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.038 45.765)",
-    "radarInstallDate": "2012-03-05T16:21:10",
-    "radarPlace": "ROYAT",
+    "radarInstallDate": "2012-03-05T16:07:28",
+    "radarPlace": [],
     "radarRoad": "RD68",
     "radarTronconKm": [],
     "radarType": [

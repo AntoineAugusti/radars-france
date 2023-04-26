@@ -1,14 +1,14 @@
 {
-    "nid": "21383",
-    "uuid": "6b5c029b-803c-4a94-8953-18b0ca2b8bf7",
-    "vid": "21383",
+    "nid": "25397",
+    "uuid": "d83ed4e1-cf71-446c-9a53-08586f2d3a13",
+    "vid": "25397",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55358",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ENVEITG vers BOURG MADAME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.942436 42.45543)",
-    "radarInstallDate": "2020-10-09T16:23:50",
-    "radarPlace": "UR",
+    "radarInstallDate": "2020-10-09T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RN20",
     "radarTronconKm": [],
     "radarType": [

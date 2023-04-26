@@ -1,14 +1,14 @@
 {
-    "nid": "22321",
-    "uuid": "35505831-edc4-4e37-86ec-613ea11f31b5",
-    "vid": "22321",
+    "nid": "25878",
+    "uuid": "82a21759-d73c-414e-9410-efbb19d6bd4c",
+    "vid": "25878",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE283032",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "nord-ouest vers sud-est",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.4825 43.505)",
-    "radarInstallDate": "2012-12-20T16:27:30",
-    "radarPlace": "TRANS EN PROVENCE",
+    "radarInstallDate": "2012-12-20T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

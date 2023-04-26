@@ -1,14 +1,14 @@
 {
-    "nid": "22667",
-    "uuid": "f39bbc64-91f4-4cd0-85cd-81a0bb9d8852",
-    "vid": "22667",
+    "nid": "26183",
+    "uuid": "1404e787-6fe6-4e22-ad86-aa26d60860c3",
+    "vid": "26183",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741029",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20161",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741029",
+    "changed": "1681741029",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "IDRON VERS LESCAR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.34774 43.3289)",
-    "radarInstallDate": "2014-08-25T10:53:37",
+    "radarInstallDate": "2014-08-25T16:17:10",
     "radarPlace": "PAU",
     "radarRoad": "RD817",
     "radarTronconKm": "1,7",

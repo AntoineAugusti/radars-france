@@ -1,14 +1,14 @@
 {
-    "nid": "21833",
-    "uuid": "fea9b885-e6c0-4ed2-ba2b-293e3672681c",
-    "vid": "21833",
+    "nid": "23508",
+    "uuid": "28761b88-0ee9-4885-8488-425bc0c8efc0",
+    "vid": "23508",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12597",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUROUX vers VIERZON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.86836 47.09909)",
-    "radarInstallDate": "2020-04-17T16:25:31",
-    "radarPlace": "MEUNET SUR VATAN",
+    "radarInstallDate": "2020-04-17T16:05:56",
+    "radarPlace": [],
     "radarRoad": "A20",
     "radarTronconKm": [],
     "radarType": [

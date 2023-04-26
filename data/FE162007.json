@@ -1,14 +1,14 @@
 {
-    "nid": "22034",
-    "uuid": "d5a349d0-85b3-4bc7-81be-d788ac2d3304",
-    "vid": "22034",
+    "nid": "25651",
+    "uuid": "f4a03c09-3b0f-475c-abe5-76582e4e3d68",
+    "vid": "25651",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162007",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord-Est vers Sud-Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.78034 50.2882)",
-    "radarInstallDate": "2011-02-11T16:26:15",
-    "radarPlace": "ARRAS",
+    "radarInstallDate": "2011-02-11T16:11:59",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

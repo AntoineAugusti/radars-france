@@ -1,14 +1,14 @@
 {
-    "nid": "21857",
-    "uuid": "0fca057c-afad-42c3-bb44-8f3ecf6db98b",
-    "vid": "21857",
+    "nid": "23535",
+    "uuid": "381f025f-55b3-44b3-b1d7-87e13cf268f4",
+    "vid": "23535",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12632",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Escaudain vers Douchy les Mines",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.36847 50.31764)",
-    "radarInstallDate": "2021-01-22T16:25:32",
-    "radarPlace": "DENAIN",
+    "radarInstallDate": "2021-01-22T16:05:58",
+    "radarPlace": [],
     "radarRoad": "A21",
     "radarTronconKm": [],
     "radarType": [

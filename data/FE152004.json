@@ -1,14 +1,14 @@
 {
-    "nid": "21950",
-    "uuid": "d86de194-4bfb-4f3d-a55b-7f47dfea775e",
-    "vid": "21950",
+    "nid": "25588",
+    "uuid": "871cb14d-fd32-451d-91a4-e9043e8add66",
+    "vid": "25588",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE152004",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (4.94341 48.63713)",
-    "radarInstallDate": "2010-09-29T16:26:00",
-    "radarPlace": "ST DIZIER",
+    "radarInstallDate": "2010-09-29T16:11:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

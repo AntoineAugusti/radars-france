@@ -1,14 +1,14 @@
 {
-    "nid": "22282",
-    "uuid": "199a4794-159c-4285-950b-2c9ae762fc11",
-    "vid": "22282",
+    "nid": "25853",
+    "uuid": "dadd144d-1db3-432e-aaf1-f0798e2ddf6c",
+    "vid": "25853",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE263006",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Billom vers Cournon d'Auvergne",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.20065 45.73871)",
-    "radarInstallDate": "2011-08-22T16:27:19",
-    "radarPlace": "COURNON D AUVERGNE",
+    "radarInstallDate": "2011-08-22T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

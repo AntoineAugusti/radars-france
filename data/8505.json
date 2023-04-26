@@ -1,14 +1,14 @@
 {
-    "nid": "20340",
-    "uuid": "1cbf2b56-ace1-4f40-b3ca-3cfce93741ef",
-    "vid": "20340",
+    "nid": "24195",
+    "uuid": "0db55879-6b86-4e6f-9527-49146d21beb3",
+    "vid": "24195",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8505",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GENEVE vers THONON LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.2728 46.292)",
-    "radarInstallDate": "2010-06-17T16:20:53",
-    "radarPlace": "CHENS SUR LEMAN",
+    "radarInstallDate": "2010-06-17T16:07:13",
+    "radarPlace": [],
     "radarRoad": "RD1005",
     "radarTronconKm": [],
     "radarType": [

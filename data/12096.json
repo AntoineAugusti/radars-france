@@ -1,14 +1,14 @@
 {
-    "nid": "21489",
-    "uuid": "3edcab78-941a-40cc-8078-d071ab9185df",
-    "vid": "21489",
+    "nid": "23162",
+    "uuid": "42c23cb3-6e81-46e4-a349-22f45d74fd43",
+    "vid": "23162",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12096",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DREUX vers ORLEANS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.4482 48.454)",
-    "radarInstallDate": "2012-03-28T16:24:10",
-    "radarPlace": "MAINVILLIERS",
+    "radarInstallDate": "2012-03-28T16:05:31",
+    "radarPlace": [],
     "radarRoad": "RN1154",
     "radarTronconKm": [],
     "radarType": [

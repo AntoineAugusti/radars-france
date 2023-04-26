@@ -1,14 +1,14 @@
 {
-    "nid": "22663",
-    "uuid": "bc67f664-85e6-4298-a827-c26f691f35dc",
-    "vid": "22663",
+    "nid": "26180",
+    "uuid": "016c3fdf-c55b-47f7-9bc3-c66806eee2cd",
+    "vid": "26180",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741029",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20149",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741029",
+    "changed": "1681741029",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "MARSEILLE vers AUBAGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.49962 43.2881)",
-    "radarInstallDate": "2015-01-30T10:53:37",
+    "radarInstallDate": "2015-01-30T16:17:10",
     "radarPlace": "MARSEILLE",
     "radarRoad": "A50",
     "radarTronconKm": "1,2",

@@ -1,14 +1,14 @@
 {
-    "nid": "21366",
-    "uuid": "52706034-c0b0-4d1b-b56a-45619db606c0",
-    "vid": "21366",
+    "nid": "25380",
+    "uuid": "9c5d7909-829f-4a7d-8419-c26507e53b02",
+    "vid": "25380",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55339",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAU vers TARBES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.006538 43.242879)",
-    "radarInstallDate": "2020-11-04T16:23:44",
-    "radarPlace": "IBOS",
+    "radarInstallDate": "2020-11-04T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD817",
     "radarTronconKm": [],
     "radarType": [

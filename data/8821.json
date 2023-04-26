@@ -1,14 +1,14 @@
 {
-    "nid": "20429",
-    "uuid": "e2cfd130-20cd-4803-80a2-3bdb048bea36",
-    "vid": "20429",
+    "nid": "24275",
+    "uuid": "dbc8f4a3-f511-4ffb-8b8f-0a400d583bf3",
+    "vid": "24275",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8821",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARPAJON SUR CERE vers MONTSALVY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.4786 44.842)",
-    "radarInstallDate": "2011-03-04T16:21:05",
-    "radarPlace": "ARPAJON SUR CERE",
+    "radarInstallDate": "2011-03-04T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RD920",
     "radarTronconKm": [],
     "radarType": [

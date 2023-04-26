@@ -1,14 +1,14 @@
 {
-    "nid": "21029",
-    "uuid": "c64160a0-b32a-475d-9a27-a0921a35823e",
-    "vid": "21029",
+    "nid": "24976",
+    "uuid": "e1c13b3b-b0ad-4e15-815b-0e0d067b0985",
+    "vid": "24976",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51417",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOL DE BRETAGNE vers COMBOURG",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.737007 48.489933)",
-    "radarInstallDate": "2021-06-17T16:22:37",
-    "radarPlace": "BONNEMAIN",
+    "radarInstallDate": "2021-06-17T16:09:22",
+    "radarPlace": [],
     "radarRoad": "RD795",
     "radarTronconKm": [],
     "radarType": [

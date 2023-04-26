@@ -1,14 +1,14 @@
 {
-    "nid": "22399",
-    "uuid": "c0c3f6f9-c6e8-4ea2-bad3-0aa85f793646",
-    "vid": "22399",
+    "nid": "25923",
+    "uuid": "edfcba59-4972-4cf6-ac4a-11c0d7cd368f",
+    "vid": "25923",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE319002",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bld Anatole France vers Bld de Koenig",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.53328 45.16086)",
-    "radarInstallDate": "2011-01-03T16:27:54",
-    "radarPlace": "BRIVE LA GAILLARDE",
+    "radarInstallDate": "2011-01-03T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20086",
-    "uuid": "af92eb24-a8c4-46a6-9e9b-a9ea529816db",
-    "vid": "20086",
+    "nid": "23970",
+    "uuid": "f915f5c7-dd29-4c2a-ab0f-2b8bbdbf16c0",
+    "vid": "23970",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "5111",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Versailles vers Rueil",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.14523 48.83959)",
-    "radarInstallDate": "2009-07-01T16:20:23",
-    "radarPlace": "LA CELLE ST CLOUD",
+    "radarInstallDate": "2009-07-01T16:06:43",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

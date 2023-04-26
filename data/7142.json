@@ -1,14 +1,14 @@
 {
-    "nid": "20248",
-    "uuid": "4c609a22-d8c9-4f26-893c-1395b2144237",
-    "vid": "20248",
+    "nid": "24116",
+    "uuid": "c611c83b-a233-4260-be53-d1f40127f7b2",
+    "vid": "24116",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7142",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AUBUSSON vers GUERET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.13442 46.02538)",
-    "radarInstallDate": "2008-05-20T16:20:41",
-    "radarPlace": "ST MEDARD LA ROCHETTE",
+    "radarInstallDate": "2008-05-20T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RD942",
     "radarTronconKm": [],
     "radarType": [

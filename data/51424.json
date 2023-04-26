@@ -1,14 +1,14 @@
 {
-    "nid": "21033",
-    "uuid": "f55aaafe-94bc-46ab-9b88-8229984f4bc9",
-    "vid": "21033",
+    "nid": "24983",
+    "uuid": "5c7ef560-ed93-4568-89e3-6b1d93d0fcd6",
+    "vid": "24983",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51424",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BLAISY vers CHAUMONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.050104 48.138589)",
-    "radarInstallDate": "2021-07-29T16:22:38",
-    "radarPlace": "EUFFIGNEIX",
+    "radarInstallDate": "2021-07-29T16:09:22",
+    "radarPlace": [],
     "radarRoad": "RD619",
     "radarTronconKm": [],
     "radarType": [

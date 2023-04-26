@@ -1,14 +1,14 @@
 {
-    "nid": "22270",
-    "uuid": "28993732-7109-4865-b5c4-dbb8c9e657fa",
-    "vid": "22270",
+    "nid": "25846",
+    "uuid": "44cea7f6-95b7-40dc-9e82-1e6217e65e83",
+    "vid": "25846",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229189",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE242002",
-    "created": "1637229189",
-    "changed": "1675870026",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.36654 45.4039)",
-    "radarInstallDate": "2011-05-20T16:27:13",
-    "radarPlace": "LA RICAMARIE",
+    "radarInstallDate": "2011-05-20T16:12:48",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

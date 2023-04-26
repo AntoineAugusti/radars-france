@@ -1,14 +1,14 @@
 {
-    "nid": "20679",
-    "uuid": "ba79513f-542d-46c6-a14c-4e56df037800",
-    "vid": "20679",
+    "nid": "24604",
+    "uuid": "ad666226-a40c-407a-8eaf-86b6eabd1543",
+    "vid": "24604",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51029",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.187243 48.692508)",
-    "radarInstallDate": "2019-10-09T16:21:38",
-    "radarPlace": "BANNOST VILLEGAGNON",
+    "radarInstallDate": "2019-10-09T16:08:14",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [
@@ -115,9 +115,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "7",
-            "uuid": "c447707a-c428-4166-ac14-c667a8cdcb41",
-            "revisionId": "7",
+            "tid": "6",
+            "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab",
+            "revisionId": "6",
             "langcode": "fr",
             "vid": [
                 {
@@ -128,7 +128,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 80",
+            "name": "Vitesse VL 70",
             "description": [
                 {
                     "value": null,
@@ -141,7 +141,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154470",
+            "changed": "1515154422",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -153,30 +153,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-80.png?itok=TcuP772z",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=MwLJaTo3",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-80.png?itok=TK2yJ19C",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=Ysf5V2xf",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-80.png?itok=thPluA0X",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=g4VQHCOS",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-80.png",
-                        "fileCreated": "1515154465",
-                        "fileSize": "4045",
+                        "fileName": "vitesse-70.png",
+                        "fileCreated": "1515154374",
+                        "fileSize": "3375",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_80",
+            "macineName": "vitesse_vl_70",
             "ruleLabel": "Vitesse"
         }
     ],

@@ -1,14 +1,14 @@
 {
-    "nid": "21697",
-    "uuid": "bba4767a-34b4-4d4f-854c-7effd0cc05e1",
-    "vid": "21697",
+    "nid": "23365",
+    "uuid": "f7ef1d2a-8b8b-4acf-b202-48b80183e25a",
+    "vid": "23365",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12421",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers PROVINCE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.44358 48.7037)",
-    "radarInstallDate": "2016-07-25T16:24:57",
-    "radarPlace": "MONTGERON",
+    "radarInstallDate": "2016-07-25T16:05:45",
+    "radarPlace": [],
     "radarRoad": "RN6",
     "radarTronconKm": [],
     "radarType": [

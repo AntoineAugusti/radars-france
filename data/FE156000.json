@@ -1,14 +1,14 @@
 {
-    "nid": "21970",
-    "uuid": "c5f76d61-dd17-4ac5-a5f5-7584a3edff90",
-    "vid": "21970",
+    "nid": "25607",
+    "uuid": "718ec7eb-6625-43ce-a7b1-c44c4a3bd104",
+    "vid": "25607",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE156000",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vannes vers Nantes",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-2.73536 47.65372)",
-    "radarInstallDate": "2010-11-15T16:26:00",
-    "radarPlace": "SENE",
+    "radarInstallDate": "2010-11-15T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

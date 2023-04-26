@@ -1,14 +1,14 @@
 {
-    "nid": "21797",
-    "uuid": "6641db09-2514-48fe-bf2d-2bd3a0456731",
-    "vid": "21797",
+    "nid": "23467",
+    "uuid": "a71118bc-c1e7-464d-9610-b5b3dcc8c667",
+    "vid": "23467",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12545",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGERS vers CHOLET",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.51692 47.4634)",
-    "radarInstallDate": "2019-12-23T16:25:18",
-    "radarPlace": "ST BARTHELEMY D ANJOU",
+    "radarInstallDate": "2019-12-23T16:05:53",
+    "radarPlace": [],
     "radarRoad": "A87Nord",
     "radarTronconKm": [],
     "radarType": [

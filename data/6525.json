@@ -1,14 +1,14 @@
 {
-    "nid": "20145",
-    "uuid": "3768d238-06ae-4cda-94be-bfb16ffdecdb",
-    "vid": "20145",
+    "nid": "24025",
+    "uuid": "5dcf99f8-0d54-401f-9725-6acf1b9f5386",
+    "vid": "24025",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6525",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PERIGUEUX vers ANGOULEME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.2701 45.59394)",
-    "radarInstallDate": "2007-03-26T16:20:30",
-    "radarPlace": "DIRAC",
+    "radarInstallDate": "2007-03-26T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RD939",
     "radarTronconKm": [],
     "radarType": [

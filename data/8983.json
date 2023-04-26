@@ -1,14 +1,14 @@
 {
-    "nid": "20478",
-    "uuid": "794b8511-260b-4f55-bb8a-d8686a4c4f5f",
-    "vid": "20478",
+    "nid": "24320",
+    "uuid": "fadc31eb-af88-4121-8e7a-b809cd26cab0",
+    "vid": "24320",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8983",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SARCELLES vers LE BLANC MESNIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.40478 48.969329)",
-    "radarInstallDate": "2011-09-29T16:21:11",
-    "radarPlace": "GARGES LES GONESSE",
+    "radarInstallDate": "2011-09-29T16:07:31",
+    "radarPlace": [],
     "radarRoad": "RD125",
     "radarTronconKm": [],
     "radarType": [

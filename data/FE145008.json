@@ -1,14 +1,14 @@
 {
-    "nid": "21933",
-    "uuid": "f8c4580b-e8ea-4f4a-9ebf-834e392d21b6",
-    "vid": "21933",
+    "nid": "25572",
+    "uuid": "2e29336c-5401-43f7-a489-e6b61e2bbb6d",
+    "vid": "25572",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE145008",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Amilly vers Montargis",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.73244 47.99369)",
-    "radarInstallDate": "2011-04-04T16:25:53",
-    "radarPlace": "MONTARGIS",
+    "radarInstallDate": "2011-04-04T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

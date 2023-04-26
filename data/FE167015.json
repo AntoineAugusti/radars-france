@@ -1,14 +1,14 @@
 {
-    "nid": "22055",
-    "uuid": "b055f988-a592-4ba4-88a4-fd624f2f40e6",
-    "vid": "22055",
+    "nid": "25672",
+    "uuid": "ea48d99f-ba8a-4661-9d92-6f4879f6fcd3",
+    "vid": "25672",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE167015",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Boulevard du Mar\u00e9chal Foch vers boulevard du Mar\u00e9chal Joffre",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.45031 48.25858)",
-    "radarInstallDate": "2011-04-18T16:26:21",
-    "radarPlace": "SELESTAT",
+    "radarInstallDate": "2011-04-18T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

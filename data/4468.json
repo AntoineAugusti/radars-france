@@ -1,14 +1,14 @@
 {
-    "nid": "20014",
-    "uuid": "3609336a-bd74-4f25-b070-30db172d72eb",
-    "vid": "20014",
+    "nid": "23901",
+    "uuid": "886148ce-c2c5-433a-a180-f427597851dc",
+    "vid": "23901",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4468",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST GEORGES SUR LOIRE vers CHALONNES SUR LOIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.75353 47.37975)",
-    "radarInstallDate": "2009-01-09T16:20:17",
-    "radarPlace": "ST GEORGES SUR LOIRE",
+    "radarInstallDate": "2009-01-09T16:06:36",
+    "radarPlace": [],
     "radarRoad": "RD961",
     "radarTronconKm": [],
     "radarType": [

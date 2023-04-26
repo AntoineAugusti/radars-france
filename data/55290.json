@@ -1,14 +1,14 @@
 {
-    "nid": "21322",
-    "uuid": "6a987f6a-9d6b-40f5-8429-6a12a595a333",
-    "vid": "21322",
+    "nid": "25334",
+    "uuid": "16d260ea-76b7-4b2e-bb3e-bee2490153ff",
+    "vid": "25334",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55290",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EMBRUN vers GAP",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.15396 44.57728)",
-    "radarInstallDate": "2020-06-12T16:23:37",
-    "radarPlace": "LA ROCHETTE",
+    "radarInstallDate": "2020-06-12T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RN94",
     "radarTronconKm": [],
     "radarType": [

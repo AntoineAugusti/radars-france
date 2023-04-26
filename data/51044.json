@@ -1,14 +1,14 @@
 {
-    "nid": "20692",
-    "uuid": "630d240e-1d54-4628-b292-4d34613fee2b",
-    "vid": "20692",
+    "nid": "24618",
+    "uuid": "73034c04-262e-4d8a-a090-1e26e9a83c9a",
+    "vid": "24618",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51044",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SANCOINS vers BOURGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.508743 46.996099)",
-    "radarInstallDate": "2019-09-24T16:21:42",
-    "radarPlace": "ST JUST",
+    "radarInstallDate": "2019-09-24T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD2076",
     "radarTronconKm": [],
     "radarType": [

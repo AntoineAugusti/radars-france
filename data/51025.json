@@ -1,14 +1,14 @@
 {
-    "nid": "20675",
-    "uuid": "99584452-8f0a-41a3-ac6a-a3f981d58bc2",
-    "vid": "20675",
+    "nid": "24600",
+    "uuid": "39d42480-1b2f-4893-b4bb-72411227f94c",
+    "vid": "24600",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51025",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "70-HAUTE-SAONE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "VESOUL vers LURE",
+    "radarDirection": "LURE vers VESOUL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.205723 47.62455)",
-    "radarInstallDate": "2019-09-16T16:21:38",
-    "radarPlace": "FROTEY LES VESOUL",
+    "radarInstallDate": "2019-09-16T16:08:14",
+    "radarPlace": [],
     "radarRoad": "RN19",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20431",
-    "uuid": "e8b9f127-1930-45b9-98ae-6173c599c5cf",
-    "vid": "20431",
+    "nid": "24277",
+    "uuid": "2c77fd17-ab01-4827-835e-1192006583cd",
+    "vid": "24277",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8824",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AURILLAC vers MAURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.201 44.728)",
-    "radarInstallDate": "2011-05-19T16:21:06",
-    "radarPlace": "ST ETIENNE DE MAURS",
+    "radarInstallDate": "2011-05-19T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RN122",
     "radarTronconKm": [],
     "radarType": [

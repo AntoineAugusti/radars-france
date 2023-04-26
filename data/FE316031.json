@@ -1,14 +1,14 @@
 {
-    "nid": "22382",
-    "uuid": "019fb286-ca66-4634-8447-619418fddc1c",
-    "vid": "22382",
+    "nid": "25907",
+    "uuid": "aaa3aaf8-2a28-462a-8da6-ec1123f58113",
+    "vid": "25907",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316031",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Angoul\u00eame vers Limoges",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.38625 45.7362)",
-    "radarInstallDate": "2010-11-12T16:27:47",
-    "radarPlace": "LA ROCHEFOUCAULD",
+    "radarInstallDate": "2010-11-12T16:13:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

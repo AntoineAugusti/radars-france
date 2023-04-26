@@ -1,14 +1,14 @@
 {
-    "nid": "20990",
-    "uuid": "6a6382f3-0553-49b4-be0f-fe0a5375a7dd",
-    "vid": "20990",
+    "nid": "24928",
+    "uuid": "4ff39ab1-b7db-443c-ad2a-bc2387ff1c34",
+    "vid": "24928",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51368",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BLERE vers TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.767416 47.381252)",
-    "radarInstallDate": "2020-11-16T16:22:32",
-    "radarPlace": "LA VILLE AUX DAMES",
+    "radarInstallDate": "2020-11-16T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD140",
     "radarTronconKm": [],
     "radarType": [

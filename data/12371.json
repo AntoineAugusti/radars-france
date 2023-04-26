@@ -1,14 +1,14 @@
 {
-    "nid": "21652",
-    "uuid": "6fc61fd7-2c61-4086-bbbe-c05e827497cd",
-    "vid": "21652",
+    "nid": "23320",
+    "uuid": "b06a81ea-4fa8-4b15-9d6d-f564c6a19b9c",
+    "vid": "23320",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12371",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "JAVRON LES CHAPELLES vers ST CYR EN PAIL",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.299788 48.425255)",
-    "radarInstallDate": "2016-09-08T16:24:49",
-    "radarPlace": "JAVRON LES CHAPELLES",
+    "radarInstallDate": "2016-09-08T16:05:41",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

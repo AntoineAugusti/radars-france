@@ -1,14 +1,14 @@
 {
-    "nid": "20302",
-    "uuid": "9ff06376-e373-4d18-800d-b807ff9009d7",
-    "vid": "20302",
+    "nid": "24165",
+    "uuid": "fa7b98fb-a111-484e-bb55-3281daff031d",
+    "vid": "24165",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7334",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PONTARLIER vers MONTBELIARD",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.78399 47.32595)",
-    "radarInstallDate": "2008-09-17T16:20:49",
-    "radarPlace": "LIEBVILLERS",
+    "radarInstallDate": "2008-09-17T16:07:09",
+    "radarPlace": [],
     "radarRoad": "RD437",
     "radarTronconKm": [],
     "radarType": [

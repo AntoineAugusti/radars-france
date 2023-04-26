@@ -1,14 +1,14 @@
 {
-    "nid": "20008",
-    "uuid": "1690ace6-454b-4a66-8393-44a548f9977f",
-    "vid": "20008",
+    "nid": "23895",
+    "uuid": "190b36ac-abea-4ad8-89a3-ad8aba23a8e7",
+    "vid": "23895",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4432",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST BREVIN LES PINS VERS ST PERE EN RETZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.10975 47.21964)",
-    "radarInstallDate": "2009-02-27T16:20:17",
-    "radarPlace": "ST PERE EN RETZ",
+    "radarInstallDate": "2009-02-27T16:06:35",
+    "radarPlace": [],
     "radarRoad": "RD5",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20305",
-    "uuid": "d749d018-023f-4317-8baf-e461b7face56",
-    "vid": "20305",
+    "nid": "24168",
+    "uuid": "afec830b-7527-45db-ad33-b389b7fa9a5f",
+    "vid": "24168",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7355",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Laon vers Reims",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.9876 49.30696)",
-    "radarInstallDate": "2008-01-07T16:20:49",
-    "radarPlace": "ST THIERRY",
+    "radarInstallDate": "2008-01-07T16:07:09",
+    "radarPlace": [],
     "radarRoad": "RD944",
     "radarTronconKm": [],
     "radarType": [

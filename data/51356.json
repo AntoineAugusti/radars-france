@@ -1,14 +1,14 @@
 {
-    "nid": "20982",
-    "uuid": "2bf9bd41-b112-4001-a922-66323f73bd53",
-    "vid": "20982",
+    "nid": "24919",
+    "uuid": "9ccd1418-3145-4510-9c80-abfffa0d7f85",
+    "vid": "24919",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51356",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUVAIS vers COMPIEGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.669548 49.403242)",
-    "radarInstallDate": "2021-01-15T16:22:28",
-    "radarPlace": "ARSY",
+    "radarInstallDate": "2021-01-15T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RN31",
     "radarTronconKm": [],
     "radarType": [

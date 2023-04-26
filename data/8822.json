@@ -1,14 +1,14 @@
 {
-    "nid": "20430",
-    "uuid": "d2a2e4a8-2d40-4cea-8b1b-6ee86919fe2f",
-    "vid": "20430",
+    "nid": "24276",
+    "uuid": "d3b18854-91d3-4c4a-8a7a-ccce810687d3",
+    "vid": "24276",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8822",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MAURS vers AURILLAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.309 44.881)",
-    "radarInstallDate": "2011-03-01T16:21:06",
-    "radarPlace": "ST MAMET LA SALVETAT",
+    "radarInstallDate": "2011-03-01T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RN122",
     "radarTronconKm": [],
     "radarType": [

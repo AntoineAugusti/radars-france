@@ -1,14 +1,14 @@
 {
-    "nid": "22579",
-    "uuid": "68374eeb-6761-42da-beda-5ea47a6d4b1f",
-    "vid": "22579",
+    "nid": "26043",
+    "uuid": "9724e28b-bbb5-4d64-8ae2-0bb06aa8d38a",
+    "vid": "26043",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE382005",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "nord vers Sud",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.34843 44.02291)",
-    "radarInstallDate": "2012-05-25T16:28:44",
-    "radarPlace": "MONTAUBAN",
+    "radarInstallDate": "2012-05-25T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

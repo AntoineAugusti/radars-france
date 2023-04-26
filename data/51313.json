@@ -1,14 +1,14 @@
 {
-    "nid": "20951",
-    "uuid": "ea3a7cca-021e-4c9c-9b6f-8bd842d51815",
-    "vid": "20951",
+    "nid": "24878",
+    "uuid": "c4b31c69-00df-491d-84dc-6ed102dce814",
+    "vid": "24878",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51313",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LORIENT vers GUIDEL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.453169 47.787705)",
-    "radarInstallDate": "2020-10-30T16:22:23",
-    "radarPlace": "QUEVEN",
+    "radarInstallDate": "2020-10-30T16:09:04",
+    "radarPlace": [],
     "radarRoad": "RD765",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21183",
-    "uuid": "bfd3a1c4-13c8-4467-8c8e-c30e86c8b7fa",
-    "vid": "21183",
+    "nid": "25194",
+    "uuid": "972d5256-7c34-4aa2-809b-f65e18368313",
+    "vid": "25194",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55147",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "QUISSAC vers NIMES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.031201 43.88736)",
-    "radarInstallDate": "2019-12-19T16:23:07",
-    "radarPlace": "ORTHOUX SERIGNAC QUILHAN",
+    "radarInstallDate": "2019-12-19T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22158",
-    "uuid": "0d798e7f-1019-4950-9caf-862d4a2f20c3",
-    "vid": "22158",
+    "nid": "25774",
+    "uuid": "d451abb3-1d61-4375-9bb0-6d29df6d4565",
+    "vid": "25774",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE192004",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.25377 48.83198)",
-    "radarInstallDate": "2011-10-24T16:26:43",
-    "radarPlace": "BOULOGNE BILLANCOURT",
+    "radarInstallDate": "2011-10-24T16:12:30",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

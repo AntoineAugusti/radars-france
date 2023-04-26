@@ -1,14 +1,14 @@
 {
-    "nid": "21181",
-    "uuid": "6fc350db-97e8-449c-98c2-a29baefb721c",
-    "vid": "21181",
+    "nid": "25192",
+    "uuid": "bd96de32-07a6-44cc-9b93-0d2ffa86630d",
+    "vid": "25192",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55145",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ESPAGNE vers MONTREJEAU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.63 42.99)",
-    "radarInstallDate": "2021-01-18T16:23:07",
-    "radarPlace": "GALIE",
+    "radarInstallDate": "2021-01-18T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RN125",
     "radarTronconKm": [],
     "radarType": [

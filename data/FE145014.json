@@ -1,14 +1,14 @@
 {
-    "nid": "21937",
-    "uuid": "2b3b396f-a7e3-421a-8910-1971fc2e4b76",
-    "vid": "21937",
+    "nid": "25576",
+    "uuid": "a586b6d1-20e7-4b1b-989d-f1e340714c8c",
+    "vid": "25576",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE145014",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Orl\u00e9ans vers Saran",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.89952 47.91459)",
-    "radarInstallDate": "2011-09-09T16:25:53",
-    "radarPlace": "ORLEANS",
+    "radarInstallDate": "2011-09-09T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

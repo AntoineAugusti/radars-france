@@ -1,14 +1,14 @@
 {
-    "nid": "21581",
-    "uuid": "79c14b92-5f1b-4380-ad45-b66b96642dfd",
-    "vid": "21581",
+    "nid": "23251",
+    "uuid": "6ee30c12-c672-469c-948f-98b22386a8ac",
+    "vid": "23251",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12262",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EPINAL vers NANCY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.3143 48.341)",
-    "radarInstallDate": "2014-01-31T16:24:29",
-    "radarPlace": "VINCEY",
+    "radarInstallDate": "2014-01-31T16:05:36",
+    "radarPlace": [],
     "radarRoad": "RN57",
     "radarTronconKm": [],
     "radarType": [

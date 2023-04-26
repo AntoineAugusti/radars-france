@@ -1,14 +1,14 @@
 {
-    "nid": "20343",
-    "uuid": "a3da8f3e-173e-4824-88b3-f7158b542f79",
-    "vid": "20343",
+    "nid": "24198",
+    "uuid": "2312f896-7ccf-4546-8552-6f373db2ab31",
+    "vid": "24198",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8530",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Grenoble vers Gap",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.0384 44.708)",
-    "radarInstallDate": "2010-05-10T16:20:53",
-    "radarPlace": "POLIGNY",
+    "radarInstallDate": "2010-05-10T16:07:13",
+    "radarPlace": [],
     "radarRoad": "RN85",
     "radarTronconKm": [],
     "radarType": [

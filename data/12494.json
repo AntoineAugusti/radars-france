@@ -1,14 +1,14 @@
 {
-    "nid": "21756",
-    "uuid": "4de3f8fe-5458-4045-ab1f-ee9fa45152bd",
-    "vid": "21756",
+    "nid": "23425",
+    "uuid": "b674c252-55e9-4400-8326-c600ae800b83",
+    "vid": "23425",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12494",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURG EN BRESSE vers DIJON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.4204 47.086)",
-    "radarInstallDate": "2017-08-07T16:25:11",
-    "radarPlace": "FOUCHERANS",
+    "radarInstallDate": "2017-08-07T16:05:50",
+    "radarPlace": [],
     "radarRoad": "A39",
     "radarTronconKm": [],
     "radarType": [

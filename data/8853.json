@@ -1,14 +1,14 @@
 {
-    "nid": "20442",
-    "uuid": "efe66258-f81f-443a-ab64-80742a10b632",
-    "vid": "20442",
+    "nid": "24288",
+    "uuid": "ed160cd6-44e4-4a33-9316-78c10902c6d9",
+    "vid": "24288",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8853",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "La Fl\u00e8che vers Le Mans",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.062468 47.813242)",
-    "radarInstallDate": "2011-02-24T16:21:06",
-    "radarPlace": "CERANS FOULLETOURTE",
+    "radarInstallDate": "2011-02-24T16:07:26",
+    "radarPlace": [],
     "radarRoad": "RD323",
     "radarTronconKm": [],
     "radarType": [

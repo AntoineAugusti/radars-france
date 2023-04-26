@@ -1,14 +1,14 @@
 {
-    "nid": "20839",
-    "uuid": "f1d56010-0784-4c67-9669-a7927b94c77e",
-    "vid": "20839",
+    "nid": "24762",
+    "uuid": "0038d3ae-75f2-49e8-8906-204ad5e88986",
+    "vid": "24762",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51191",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VESOUL vers LANGRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.497677 47.816397)",
-    "radarInstallDate": "2020-09-01T16:22:07",
-    "radarPlace": "CHAUDENAY",
+    "radarInstallDate": "2020-09-01T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RN19",
     "radarTronconKm": [],
     "radarType": [

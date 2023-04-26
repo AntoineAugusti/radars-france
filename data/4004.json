@@ -1,14 +1,14 @@
 {
-    "nid": "19922",
-    "uuid": "5ce03b7c-5f58-4eba-84bf-997bdbb86fde",
-    "vid": "19922",
+    "nid": "23814",
+    "uuid": "80ebc7be-0103-4a60-9ba1-f72b0704717b",
+    "vid": "23814",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4004",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Chaumont vers St Dizier",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.11446 48.27245)",
-    "radarInstallDate": "2008-07-04T16:20:08",
-    "radarPlace": "VIGNORY",
+    "radarInstallDate": "2008-07-04T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RN67",
     "radarTronconKm": [],
     "radarType": [

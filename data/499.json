@@ -1,14 +1,14 @@
 {
-    "nid": "19775",
-    "uuid": "397aa235-aaf4-4dd1-a02c-6c938709b316",
-    "vid": "19775",
+    "nid": "23700",
+    "uuid": "ec759281-8c4a-40d3-9eb0-b8a5082dad3f",
+    "vid": "23700",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "499",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARTHENAY VERS NIORT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.29703 46.57141)",
-    "radarInstallDate": "2005-04-13T16:19:53",
-    "radarPlace": "ST PARDOUX",
+    "radarInstallDate": "2005-04-13T16:06:15",
+    "radarPlace": [],
     "radarRoad": "RD743",
     "radarTronconKm": [],
     "radarType": [

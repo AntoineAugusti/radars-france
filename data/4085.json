@@ -1,14 +1,14 @@
 {
-    "nid": "19940",
-    "uuid": "6983cfd4-9dc7-4ab4-bb2a-853a5b5e6213",
-    "vid": "19940",
+    "nid": "23832",
+    "uuid": "c0001ac3-48b2-401f-8256-544634812670",
+    "vid": "23832",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4085",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "S\u00e9LESTAT VERS ST DI\u00e9",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.17282 48.26081)",
-    "radarInstallDate": "2009-03-09T16:20:10",
-    "radarPlace": "STE MARIE AUX MINES",
+    "radarInstallDate": "2009-03-09T16:06:29",
+    "radarPlace": [],
     "radarRoad": "RN159",
     "radarTronconKm": [],
     "radarType": [

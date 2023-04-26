@@ -1,14 +1,14 @@
 {
-    "nid": "19698",
-    "uuid": "3c517ade-2e97-430e-9e26-ecbd1f2db63c",
-    "vid": "19698",
+    "nid": "23629",
+    "uuid": "eded90ea-6513-431c-806f-f80c9088d3f3",
+    "vid": "23629",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "248",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOISSONS vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.03571 49.24496)",
-    "radarInstallDate": "2004-10-21T16:19:48",
-    "radarPlace": "LARGNY SUR AUTOMNE",
+    "radarInstallDate": "2004-10-21T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

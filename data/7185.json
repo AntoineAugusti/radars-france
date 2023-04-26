@@ -1,14 +1,14 @@
 {
-    "nid": "20264",
-    "uuid": "dff01f8f-6e6b-4cd3-a412-821b75004836",
-    "vid": "20264",
+    "nid": "24132",
+    "uuid": "3b31d00b-00db-46ac-b296-a1b554b8a0ac",
+    "vid": "24132",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7185",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROISSY EN FRANCE vers CERGY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.14312 49.05014)",
-    "radarInstallDate": "2008-06-09T16:20:42",
-    "radarPlace": "ST OUEN L AUMONE",
+    "radarInstallDate": "2008-06-09T16:07:05",
+    "radarPlace": [],
     "radarRoad": "RN184",
     "radarTronconKm": [],
     "radarType": [

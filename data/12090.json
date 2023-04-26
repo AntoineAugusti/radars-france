@@ -1,14 +1,14 @@
 {
-    "nid": "21485",
-    "uuid": "e751b6f8-cf82-49f5-96c5-0134c9bb0be6",
-    "vid": "21485",
+    "nid": "23158",
+    "uuid": "ad0b5de1-71d6-4f13-9661-8a0e9de53aa3",
+    "vid": "23158",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12090",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MULHOUSE vers BESANCON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.83185 47.50655)",
-    "radarInstallDate": "2013-08-05T16:24:10",
-    "radarPlace": "EXINCOURT",
+    "radarInstallDate": "2013-08-05T16:05:30",
+    "radarPlace": [],
     "radarRoad": "A36",
     "radarTronconKm": [],
     "radarType": [

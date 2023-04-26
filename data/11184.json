@@ -1,14 +1,14 @@
 {
-    "nid": "20550",
-    "uuid": "036ffab8-8b2e-4c87-894a-0d2b21d3fd5a",
-    "vid": "20550",
+    "nid": "24379",
+    "uuid": "e02ff8fa-687a-4e46-a52d-5dbb5d551d04",
+    "vid": "24379",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11184",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Olonne sur Mer vers Vaire",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.758629 46.592041)",
-    "radarInstallDate": "2012-12-06T16:21:22",
-    "radarPlace": "VAIRE",
+    "radarInstallDate": "2012-12-06T16:07:40",
+    "radarPlace": [],
     "radarRoad": "RD32",
     "radarTronconKm": [],
     "radarType": [

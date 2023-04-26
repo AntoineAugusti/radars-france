@@ -1,14 +1,14 @@
 {
-    "nid": "20010",
-    "uuid": "46f500e7-1f69-4e03-9039-895441314199",
-    "vid": "20010",
+    "nid": "23897",
+    "uuid": "d79f9621-3f14-41d1-8b99-5ade330292e8",
+    "vid": "23897",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4447",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Carrefour de Verdun vers Place Rabelais",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.39121 47.08928)",
-    "radarInstallDate": "2009-04-02T16:20:17",
-    "radarPlace": "BOURGES",
+    "radarInstallDate": "2009-04-02T16:06:35",
+    "radarPlace": [],
     "radarRoad": "Boulevard Gambetta, face au n\u00b020",
     "radarTronconKm": [],
     "radarType": [

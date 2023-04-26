@@ -1,14 +1,14 @@
 {
-    "nid": "19905",
-    "uuid": "4c9b9d47-c9e6-4a05-aaf2-f630fba03655",
-    "vid": "19905",
+    "nid": "23802",
+    "uuid": "81b6ef71-0176-4140-a976-8976c8ba530d",
+    "vid": "23802",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3163",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RECQUES SUR COURSE vers MONTREUIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.76615 50.50315)",
-    "radarInstallDate": "2006-01-15T16:20:05",
-    "radarPlace": "ATTIN",
+    "radarInstallDate": "2006-01-15T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RD901",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20266",
-    "uuid": "2cc0b7fb-3abf-4bde-b919-5ac84b080024",
-    "vid": "20266",
+    "nid": "24134",
+    "uuid": "3605f159-3371-457c-bfe3-aff42a40d7a2",
+    "vid": "24134",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7193",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHEVAGNES vers MOULINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.47675 46.59105)",
-    "radarInstallDate": "2008-02-22T16:20:42",
-    "radarPlace": "LUSIGNY",
+    "radarInstallDate": "2008-02-22T16:07:05",
+    "radarPlace": [],
     "radarRoad": "RD779",
     "radarTronconKm": [],
     "radarType": [

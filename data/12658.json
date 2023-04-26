@@ -1,14 +1,14 @@
 {
-    "nid": "21875",
-    "uuid": "e8f7ec5d-7dfe-4e6d-8cef-60dc5163875b",
-    "vid": "21875",
+    "nid": "23556",
+    "uuid": "c1a69766-1099-4edc-858c-04916f1c4927",
+    "vid": "23556",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740359",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12658",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740359",
+    "changed": "1681740359",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "REMOMEIX vers BACCARAT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.94475 48.27466)",
-    "radarInstallDate": "2021-02-08T16:25:39",
-    "radarPlace": "SAINT DIE DES VOSGES",
+    "radarInstallDate": "2021-02-08T16:06:01",
+    "radarPlace": [],
     "radarRoad": "RN59",
     "radarTronconKm": [],
     "radarType": [

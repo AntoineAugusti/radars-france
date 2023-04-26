@@ -1,14 +1,14 @@
 {
-    "nid": "20022",
-    "uuid": "334e3493-77fc-4707-b871-f3c6746cb47f",
-    "vid": "20022",
+    "nid": "23908",
+    "uuid": "71ee04f4-aa01-44ef-b6d1-6d761b2ed421",
+    "vid": "23908",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4487",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Dunkerque vers Lille",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.74688 50.72103)",
-    "radarInstallDate": "2008-12-04T16:20:18",
-    "radarPlace": "BAILLEUL",
+    "radarInstallDate": "2008-12-04T16:06:36",
+    "radarPlace": [],
     "radarRoad": "A25",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21129",
-    "uuid": "0e3a6418-4604-43ba-accf-ffb78cd63770",
-    "vid": "21129",
+    "nid": "25140",
+    "uuid": "26907ad8-3e2c-4590-8c28-ad38ff9a7223",
+    "vid": "25140",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55092",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX vers LANGON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.329954 44.624462)",
-    "radarInstallDate": "2020-06-11T16:22:55",
-    "radarPlace": "CERONS",
+    "radarInstallDate": "2020-06-11T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD1113",
     "radarTronconKm": [],
     "radarType": [

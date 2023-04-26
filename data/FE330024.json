@@ -1,14 +1,14 @@
 {
-    "nid": "22424",
-    "uuid": "450f6847-a891-48b0-a055-615ee3c6fc7c",
-    "vid": "22424",
+    "nid": "25943",
+    "uuid": "7ed877a9-3f02-4591-b0a4-ee45ab2d003a",
+    "vid": "25943",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE330024",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "N\u00eemes vers Avignon",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (4.56413 43.93885)",
-    "radarInstallDate": "2011-05-10T16:27:55",
-    "radarPlace": "REMOULINS",
+    "radarInstallDate": "2011-05-10T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

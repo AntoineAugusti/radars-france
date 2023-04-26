@@ -1,14 +1,14 @@
 {
-    "nid": "20873",
-    "uuid": "7803e832-a4d3-465a-9a21-d759fb3b8601",
-    "vid": "20873",
+    "nid": "24800",
+    "uuid": "f7655d65-2344-4335-b748-4e53caf461d5",
+    "vid": "24800",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51231",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROSPORDEN vers QUIMPER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.959823 47.969834)",
-    "radarInstallDate": "2020-03-05T16:22:12",
-    "radarPlace": "ST YVI",
+    "radarInstallDate": "2020-03-05T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD 765",
     "radarTronconKm": [],
     "radarType": [

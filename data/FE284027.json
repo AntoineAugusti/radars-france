@@ -1,14 +1,14 @@
 {
-    "nid": "22355",
-    "uuid": "bc1fa5f8-3b17-41c3-b362-3f8404eb0e5b",
-    "vid": "22355",
+    "nid": "25889",
+    "uuid": "0b226f1c-0b5b-4930-bef0-99faff385b50",
+    "vid": "25889",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229194",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE284027",
-    "created": "1637229194",
-    "changed": "1675870051",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Cheval-Blanc vers Caumont",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.04889 43.83845)",
-    "radarInstallDate": "2011-05-20T16:27:38",
-    "radarPlace": "CAVAILLON",
+    "radarInstallDate": "2011-05-20T16:12:58",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

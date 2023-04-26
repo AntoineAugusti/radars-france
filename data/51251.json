@@ -1,14 +1,14 @@
 {
-    "nid": "20892",
-    "uuid": "70c95a3f-c5b8-498f-97d8-52e5b7fcf49e",
-    "vid": "20892",
+    "nid": "24819",
+    "uuid": "126623ee-2622-4d90-910c-a2519dfcad50",
+    "vid": "24819",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51251",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTAIGU VENDEE vers CHAVAGNES EN PAILLERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.261893 46.928604)",
-    "radarInstallDate": "2020-03-06T16:22:13",
-    "radarPlace": "ST GEORGES DE MONTAIGU",
+    "radarInstallDate": "2020-03-06T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD 137",
     "radarTronconKm": [],
     "radarType": [

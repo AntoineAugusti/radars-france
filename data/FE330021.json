@@ -1,14 +1,14 @@
 {
-    "nid": "22421",
-    "uuid": "edb09933-2a7c-4408-a00f-bd0c9f8e3ce2",
-    "vid": "22421",
+    "nid": "25940",
+    "uuid": "0cb0dccd-b11b-48a5-a5bb-2d6a850a608c",
+    "vid": "25940",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE330021",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "St Ambroix vers Al\u00e8s centre ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (4.08315 44.13382)",
-    "radarInstallDate": "2011-05-06T16:27:55",
-    "radarPlace": "ALES",
+    "radarInstallDate": "2011-05-06T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

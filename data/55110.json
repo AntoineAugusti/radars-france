@@ -1,14 +1,14 @@
 {
-    "nid": "21146",
-    "uuid": "fe70737d-4bf4-490d-8dd0-0b9aa81b2a0c",
-    "vid": "21146",
+    "nid": "25157",
+    "uuid": "34ab4608-6e57-405e-978d-759b0ad65328",
+    "vid": "25157",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55110",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE CAYLAR vers LODEVE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.315718 43.827277)",
-    "radarInstallDate": "2019-11-25T16:23:01",
-    "radarPlace": "PEGAIROLLES DE L ESCALETTE",
+    "radarInstallDate": "2019-11-25T16:10:00",
+    "radarPlace": [],
     "radarRoad": "A75",
     "radarTronconKm": [],
     "radarType": [

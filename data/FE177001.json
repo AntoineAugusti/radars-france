@@ -1,14 +1,14 @@
 {
-    "nid": "22109",
-    "uuid": "a9e92ffc-32bd-4d58-8090-c0cb91b1f2e2",
-    "vid": "22109",
+    "nid": "25725",
+    "uuid": "913a2ae0-d206-4ff2-9560-f0855dbfb481",
+    "vid": "25725",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE177001",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Province vers Paris",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.73246 48.18572)",
-    "radarInstallDate": "2012-12-18T16:26:35",
-    "radarPlace": "SOUPPES SUR LOING",
+    "radarInstallDate": "2012-12-18T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

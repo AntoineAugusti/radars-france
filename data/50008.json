@@ -1,14 +1,14 @@
 {
-    "nid": "20595",
-    "uuid": "ef9456a7-7b79-43bc-9928-e71c12b37e8b",
-    "vid": "20595",
+    "nid": "24511",
+    "uuid": "d82ba7ea-14e4-40eb-86f4-64c2902f8912",
+    "vid": "24511",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50008",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BASSE TERRE vers BAILLIF",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.74695 16.01857)",
-    "radarInstallDate": "2021-01-18T16:21:27",
-    "radarPlace": "BAILLIF",
+    "radarInstallDate": "2021-01-18T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

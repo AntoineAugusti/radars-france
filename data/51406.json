@@ -1,14 +1,14 @@
 {
-    "nid": "21020",
-    "uuid": "2b8f0ae6-b374-472c-97be-03358e63b54f",
-    "vid": "21020",
+    "nid": "24966",
+    "uuid": "14087eaf-1b05-48dc-83c2-086644d3e028",
+    "vid": "24966",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51406",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORTEAU vers VALDAHON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.569194 47.129494)",
-    "radarInstallDate": "2021-07-12T16:22:37",
-    "radarPlace": "FUANS",
+    "radarInstallDate": "2021-07-12T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD461",
     "radarTronconKm": [],
     "radarType": [

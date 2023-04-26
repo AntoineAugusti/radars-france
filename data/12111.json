@@ -1,14 +1,14 @@
 {
-    "nid": "21498",
-    "uuid": "d4627af8-c30a-407d-89d3-5eb2d917ea3d",
-    "vid": "21498",
+    "nid": "23171",
+    "uuid": "2445cfd6-8493-4159-ba81-db7aa620b7c0",
+    "vid": "23171",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12111",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROUEN vers ALENCON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.318 48.783)",
-    "radarInstallDate": "2012-06-19T16:24:11",
-    "radarPlace": "GACE",
+    "radarInstallDate": "2012-06-19T16:05:31",
+    "radarPlace": [],
     "radarRoad": "A28",
     "radarTronconKm": [],
     "radarType": [

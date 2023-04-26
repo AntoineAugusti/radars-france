@@ -1,14 +1,14 @@
 {
-    "nid": "20879",
-    "uuid": "bbe33c3b-2bee-4cc6-9c28-403ea49f7557",
-    "vid": "20879",
+    "nid": "24806",
+    "uuid": "f587fad8-d9d2-42f4-8a9e-50c74a5bcd95",
+    "vid": "24806",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51237",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NEVERS vers DECIZE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.418052 46.844838)",
-    "radarInstallDate": "2020-01-21T16:22:13",
-    "radarPlace": "SOUGY SUR LOIRE",
+    "radarInstallDate": "2020-01-21T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD981",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19846",
-    "uuid": "f2289a65-039e-432a-9701-0233f7d48bd6",
-    "vid": "19846",
+    "nid": "23757",
+    "uuid": "7a2152e0-ae4b-47b3-9729-bc5f547c6eca",
+    "vid": "23757",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "757",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "THONON LES BAINS vers DOUVAINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.3561 46.32624)",
-    "radarInstallDate": "2006-03-09T16:19:59",
-    "radarPlace": "SCIEZ",
+    "radarInstallDate": "2006-03-09T16:06:20",
+    "radarPlace": [],
     "radarRoad": "RD1005",
     "radarTronconKm": [],
     "radarType": [

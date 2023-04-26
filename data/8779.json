@@ -1,14 +1,14 @@
 {
-    "nid": "20419",
-    "uuid": "647f5caf-e53c-4e30-87e0-26af18a8c551",
-    "vid": "20419",
+    "nid": "24266",
+    "uuid": "4b5f0a98-ce1b-45de-9478-5ce415da1774",
+    "vid": "24266",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8779",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLE D AVRAY vers VERSAILLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.1479 48.809)",
-    "radarInstallDate": "2011-04-29T16:21:05",
-    "radarPlace": "VERSAILLES",
+    "radarInstallDate": "2011-04-29T16:07:22",
+    "radarPlace": [],
     "radarRoad": "RD185",
     "radarTronconKm": [],
     "radarType": [

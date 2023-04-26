@@ -1,14 +1,14 @@
 {
-    "nid": "19715",
-    "uuid": "2f5f5437-84f4-4e2a-83fa-5b0f351b251a",
-    "vid": "19715",
+    "nid": "23643",
+    "uuid": "57c5dd1d-12b8-429d-9129-f3fa2b92ef9c",
+    "vid": "23643",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "305",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LIMOGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.68372 46.78682)",
-    "radarInstallDate": "2005-01-20T16:19:49",
-    "radarPlace": "CHATEAUROUX",
+    "radarInstallDate": "2005-01-20T16:06:09",
+    "radarPlace": [],
     "radarRoad": "RD920",
     "radarTronconKm": [],
     "radarType": [

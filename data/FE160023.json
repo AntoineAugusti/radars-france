@@ -1,14 +1,14 @@
 {
-    "nid": "22024",
-    "uuid": "8289a18f-e10f-4d59-bfa2-15470c0f0d81",
-    "vid": "22024",
+    "nid": "25646",
+    "uuid": "3527f50d-b460-4779-aa5a-9829631424ee",
+    "vid": "25646",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE160023",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue de la R\u00e9publique vers le Sud",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.475 49.26013)",
-    "radarInstallDate": "2011-04-28T16:26:15",
-    "radarPlace": "CREIL",
+    "radarInstallDate": "2011-04-28T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

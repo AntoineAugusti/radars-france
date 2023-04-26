@@ -1,14 +1,14 @@
 {
-    "nid": "21390",
-    "uuid": "178bddd5-5141-463a-a7dd-d20857e10c35",
-    "vid": "21390",
+    "nid": "25405",
+    "uuid": "af046747-ee79-4485-b49a-33991b7dc9b1",
+    "vid": "25405",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55366",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AMBRONAY vers LAGNIEU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.327278 45.957949)",
-    "radarInstallDate": "2020-12-24T16:23:51",
-    "radarPlace": "CHATEAU GAILLARD",
+    "radarInstallDate": "2020-12-24T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD1075",
     "radarTronconKm": [],
     "radarType": [

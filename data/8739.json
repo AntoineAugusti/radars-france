@@ -1,14 +1,14 @@
 {
-    "nid": "20405",
-    "uuid": "57831aeb-55e6-4c85-9605-44813ddf0cfa",
-    "vid": "20405",
+    "nid": "24254",
+    "uuid": "91b93e87-e7e4-4332-9321-ec6e362c39a3",
+    "vid": "24254",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8739",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Porte d'Italie vers Quai d'Ivry",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.3688 48.818)",
-    "radarInstallDate": "2013-11-04T16:21:02",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-11-04T16:07:22",
+    "radarPlace": [],
     "radarRoad": "Porte d'Ivry - BP ext\u00e9rieur (13i\u00e8me)",
     "radarTronconKm": [],
     "radarType": [

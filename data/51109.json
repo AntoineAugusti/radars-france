@@ -1,14 +1,14 @@
 {
-    "nid": "20757",
-    "uuid": "4214c29e-53ef-41d9-be3c-2aefa83d9b00",
-    "vid": "20757",
+    "nid": "24681",
+    "uuid": "6e564995-bf0b-42ff-adff-589789ba9211",
+    "vid": "24681",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51109",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SENLIS vers ERMENONVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.679875 49.145559)",
-    "radarInstallDate": "2019-11-29T16:21:52",
-    "radarPlace": "FONTAINE CHAALIS",
+    "radarInstallDate": "2019-11-29T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RN 330",
     "radarTronconKm": [],
     "radarType": [

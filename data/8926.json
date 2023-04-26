@@ -1,14 +1,14 @@
 {
-    "nid": "20460",
-    "uuid": "5f5d35e4-c7a4-4ad3-b995-de52f639c982",
-    "vid": "20460",
+    "nid": "24304",
+    "uuid": "2d627ef7-d185-4e17-a986-6c5c6bc60b7b",
+    "vid": "24304",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8926",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAULGE L HOPITAL vers BRISSAC QUINCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.402958 47.313826)",
-    "radarInstallDate": "2011-05-05T16:21:10",
-    "radarPlace": "BRISSAC LOIRE AUBANCE",
+    "radarInstallDate": "2011-05-05T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD761",
     "radarTronconKm": [],
     "radarType": [

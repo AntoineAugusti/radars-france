@@ -1,14 +1,14 @@
 {
-    "nid": "20992",
-    "uuid": "de149b03-d1bc-4080-8246-436815bd27a3",
-    "vid": "20992",
+    "nid": "24930",
+    "uuid": "d3cf2f2f-c393-45d7-8f1d-2d2e22d9451e",
+    "vid": "24930",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51370",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "YFFINIAC vers MONCONTOUR DE BRETAGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.648904 48.454849)",
-    "radarInstallDate": "2021-05-08T16:22:32",
-    "radarPlace": "POMMERET",
+    "radarInstallDate": "2021-05-08T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD765",
     "radarTronconKm": [],
     "radarType": [

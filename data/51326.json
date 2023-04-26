@@ -1,14 +1,14 @@
 {
-    "nid": "20960",
-    "uuid": "ac511a73-1432-4e7b-a1df-38a5ef44621c",
-    "vid": "20960",
+    "nid": "24890",
+    "uuid": "081eaf12-9bc7-4415-82fc-d54d5b724e69",
+    "vid": "24890",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51326",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SENLIS vers MEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.630713 49.204642)",
-    "radarInstallDate": "2021-05-10T16:22:28",
-    "radarPlace": "MONT L EVEQUE",
+    "radarInstallDate": "2021-05-10T16:09:04",
+    "radarPlace": [],
     "radarRoad": "RN330",
     "radarTronconKm": [],
     "radarType": [

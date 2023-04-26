@@ -1,14 +1,14 @@
 {
-    "nid": "20569",
-    "uuid": "166c6e28-8066-491d-9c7f-0d9258f958de",
-    "vid": "20569",
+    "nid": "24398",
+    "uuid": "b57a1839-52ec-4076-9361-2268802ead50",
+    "vid": "24398",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11242",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Lamballe vers La Malhoure",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.5088 48.43)",
-    "radarInstallDate": "2013-08-09T16:21:25",
-    "radarPlace": "LAMBALLE",
+    "radarInstallDate": "2013-08-09T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RD14",
     "radarTronconKm": [],
     "radarType": [

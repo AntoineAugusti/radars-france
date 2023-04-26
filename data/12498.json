@@ -1,14 +1,14 @@
 {
-    "nid": "21760",
-    "uuid": "3df59358-a009-4089-bd8e-8b5d23fd67a4",
-    "vid": "21760",
+    "nid": "23429",
+    "uuid": "8a0a1403-cc3b-456b-b0d7-ccacf195f720",
+    "vid": "23429",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12498",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "USTARITZ vers BAYONNE",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (-1.492198 43.45083)",
-    "radarInstallDate": "2017-02-16T16:25:11",
-    "radarPlace": "BASSUSSARRY",
+    "radarGeolocalisation": "POINT (-1.48914 43.434178)",
+    "radarInstallDate": "2017-02-16T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RD932",
     "radarTronconKm": [],
     "radarType": [

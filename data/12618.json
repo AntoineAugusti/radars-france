@@ -1,14 +1,14 @@
 {
-    "nid": "21845",
-    "uuid": "adf2d4f3-fe5e-4c53-9d89-7cb2179b6e99",
-    "vid": "21845",
+    "nid": "23523",
+    "uuid": "dc624fda-0a27-48ab-8d6f-9ccedf3daa21",
+    "vid": "23523",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12618",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "OUISTREHAM vers CAEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.32943 49.19715)",
-    "radarInstallDate": "2020-10-26T16:25:32",
-    "radarPlace": "HEROUVILLE ST CLAIR",
+    "radarInstallDate": "2020-10-26T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RD515",
     "radarTronconKm": [],
     "radarType": [

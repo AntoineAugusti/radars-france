@@ -1,14 +1,14 @@
 {
-    "nid": "21151",
-    "uuid": "b54b1396-7f16-4644-9e70-b0d5cd548a1d",
-    "vid": "21151",
+    "nid": "25162",
+    "uuid": "d37e0515-7dc9-4b47-b95e-148dc7d9dd8c",
+    "vid": "25162",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55115",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLENEUVE SUR LOT vers AGEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.715947 44.310262)",
-    "radarInstallDate": "2020-06-17T16:23:01",
-    "radarPlace": "MONBALEN",
+    "radarInstallDate": "2020-06-17T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RN21",
     "radarTronconKm": [],
     "radarType": [

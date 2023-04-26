@@ -1,14 +1,14 @@
 {
-    "nid": "22154",
-    "uuid": "dee3a3c3-022f-4162-9901-bdee66642a43",
-    "vid": "22154",
+    "nid": "25770",
+    "uuid": "4aafa711-8792-415b-86d5-a1957c3c67e2",
+    "vid": "25770",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE191013",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RN20 vers Arpajon",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.26618 48.63533)",
-    "radarInstallDate": "2011-08-08T16:26:43",
-    "radarPlace": "LINAS",
+    "radarInstallDate": "2011-08-08T16:12:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

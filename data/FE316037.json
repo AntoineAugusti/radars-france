@@ -1,14 +1,14 @@
 {
-    "nid": "22387",
-    "uuid": "07df6b15-2b8a-428a-b5e0-26130b530f63",
-    "vid": "22387",
+    "nid": "25912",
+    "uuid": "c9d892f1-8d9c-4c90-988a-2cfe386f434a",
+    "vid": "25912",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316037",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avenue de la Gare vers la rue des Paleines",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.58245 45.88595)",
-    "radarInstallDate": "2011-03-30T16:27:47",
-    "radarPlace": "ROUMAZIERES LOUBERT",
+    "radarInstallDate": "2011-03-30T16:13:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

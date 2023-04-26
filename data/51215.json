@@ -1,14 +1,14 @@
 {
-    "nid": "20859",
-    "uuid": "d0a736c1-1327-4082-8314-fda4c1597c98",
-    "vid": "20859",
+    "nid": "24784",
+    "uuid": "ece29a9f-b58d-4976-8e7e-1176f6fc9612",
+    "vid": "24784",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51215",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RENNES vers ALENCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.221384 48.343074)",
-    "radarInstallDate": "2020-01-23T16:22:08",
-    "radarPlace": "LECOUSSE",
+    "radarInstallDate": "2020-01-23T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

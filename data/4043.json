@@ -1,14 +1,14 @@
 {
-    "nid": "19928",
-    "uuid": "c669556a-0929-4755-9217-d4f296423789",
-    "vid": "19928",
+    "nid": "23820",
+    "uuid": "fa0f7be8-715b-4c2d-bebc-c48c2f4abf0a",
+    "vid": "23820",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4043",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BREAL SOUS MONTFORT VERS TALENSAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.9094 48.08399)",
-    "radarInstallDate": "2008-11-19T16:20:08",
-    "radarPlace": "TALENSAC",
+    "radarInstallDate": "2008-11-19T16:06:28",
+    "radarPlace": [],
     "radarRoad": "RD62",
     "radarTronconKm": [],
     "radarType": [

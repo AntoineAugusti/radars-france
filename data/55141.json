@@ -1,14 +1,14 @@
 {
-    "nid": "21177",
-    "uuid": "1139d522-32e1-4d7d-814d-6119fdf1548a",
-    "vid": "21177",
+    "nid": "25188",
+    "uuid": "755166ef-1297-4505-8544-ee5d72b2694c",
+    "vid": "25188",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55141",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RUOMS vers AUBENAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.35969 44.47492)",
-    "radarInstallDate": "2020-02-05T16:23:07",
-    "radarPlace": "PRADONS",
+    "radarInstallDate": "2020-02-05T16:10:05",
+    "radarPlace": [],
     "radarRoad": "RD579",
     "radarTronconKm": [],
     "radarType": [

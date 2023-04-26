@@ -1,14 +1,14 @@
 {
-    "nid": "20296",
-    "uuid": "e07debdd-bfc0-4874-bd59-a7b89a4d0ee4",
-    "vid": "20296",
+    "nid": "24160",
+    "uuid": "7b0debe1-b6bf-4fad-91d8-a998872b50f7",
+    "vid": "24160",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7305",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Cannes vers Nice",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.13355 43.64319)",
-    "radarInstallDate": "2008-05-22T16:20:46",
-    "radarPlace": "VILLENEUVE LOUBET",
+    "radarInstallDate": "2008-05-22T16:07:06",
+    "radarPlace": [],
     "radarRoad": "A8",
     "radarTronconKm": [],
     "radarType": [

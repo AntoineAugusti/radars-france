@@ -1,14 +1,14 @@
 {
-    "nid": "21722",
-    "uuid": "d35f0718-c557-4ce6-999d-1e2b417db530",
-    "vid": "21722",
+    "nid": "23390",
+    "uuid": "6453960b-5539-45ea-a8b5-9261604a2914",
+    "vid": "23390",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12452",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers ORLEANS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.85251 48.26498)",
-    "radarInstallDate": "2016-12-19T16:25:03",
-    "radarPlace": "FRESNAY L EVEQUE",
+    "radarInstallDate": "2016-12-19T16:05:47",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

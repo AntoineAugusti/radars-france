@@ -1,14 +1,14 @@
 {
-    "nid": "22089",
-    "uuid": "a4faa75a-c848-4b9c-8160-0cf360712a91",
-    "vid": "22089",
+    "nid": "25706",
+    "uuid": "5cc46a15-0715-4f5d-b6d8-d1b9cc083607",
+    "vid": "25706",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE175014",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Place Franz Liszt vers rue du Faubourg Saint-Denis",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.3536 48.87832)",
-    "radarInstallDate": "2013-02-05T16:26:28",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-02-05T16:12:08",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

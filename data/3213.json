@@ -1,14 +1,14 @@
 {
-    "nid": "19913",
-    "uuid": "6b5320e5-89a8-4cb9-a26f-aeb064a933e2",
-    "vid": "19913",
+    "nid": "23808",
+    "uuid": "f5a8eab5-5d20-4ef6-9999-09230260be53",
+    "vid": "23808",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3213",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANTIBES vers VALBONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.06149 43.60445)",
-    "radarInstallDate": "2006-07-06T16:20:07",
-    "radarPlace": "VALBONNE",
+    "radarInstallDate": "2006-07-06T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RD35",
     "radarTronconKm": [],
     "radarType": [

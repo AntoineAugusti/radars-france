@@ -1,14 +1,14 @@
 {
-    "nid": "20809",
-    "uuid": "eeeb2fcc-313a-46fe-8a65-63779aad4af0",
-    "vid": "20809",
+    "nid": "24733",
+    "uuid": "33528753-de04-4248-8422-873c49829e6b",
+    "vid": "24733",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51161",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAEN vers CABOURG",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.188739 49.239631)",
-    "radarInstallDate": "2020-07-15T16:22:02",
-    "radarPlace": "BAVENT",
+    "radarInstallDate": "2020-07-15T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD513",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20640",
-    "uuid": "f9cdb591-be0c-46ce-bd93-6aa8b54703f2",
-    "vid": "20640",
+    "nid": "24558",
+    "uuid": "cb0e4893-82a0-40c7-a67c-dfab28db2c26",
+    "vid": "24558",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50404",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT DENIS vers SAINTE MARIE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (55.463564 -20.882277)",
-    "radarInstallDate": "2020-12-28T16:21:34",
-    "radarPlace": "SAINT DENIS",
+    "radarInstallDate": "2020-12-28T16:08:05",
+    "radarPlace": [],
     "radarRoad": "RN2 - (Boulevard Lancastel)",
     "radarTronconKm": [],
     "radarType": [

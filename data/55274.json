@@ -1,14 +1,14 @@
 {
-    "nid": "21306",
-    "uuid": "eff7d36d-5566-4b39-a819-d3edb09702be",
-    "vid": "21306",
+    "nid": "25318",
+    "uuid": "66a020ed-67cd-4950-a3cf-f0d88b192bc6",
+    "vid": "25318",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55274",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE DONJON vers LAPALISSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.696531 46.248606)",
-    "radarInstallDate": "2020-07-28T16:23:32",
-    "radarPlace": "DROITURIER",
+    "radarInstallDate": "2020-07-28T16:10:33",
+    "radarPlace": [],
     "radarRoad": "RD990",
     "radarTronconKm": [],
     "radarType": [

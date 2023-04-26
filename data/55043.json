@@ -1,14 +1,14 @@
 {
-    "nid": "21080",
-    "uuid": "cff97bc9-7660-4e5d-a9f3-ea6b5e331a5a",
-    "vid": "21080",
+    "nid": "25093",
+    "uuid": "2ffa6e67-9b19-4773-9824-a2265c1fdf7c",
+    "vid": "25093",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55043",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIMOGES vers BELLAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.118455 46.051692)",
-    "radarInstallDate": "2019-10-25T16:22:49",
-    "radarPlace": "BREUILAUFA",
+    "radarInstallDate": "2019-10-25T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RN147",
     "radarTronconKm": [],
     "radarType": [

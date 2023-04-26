@@ -1,14 +1,14 @@
 {
-    "nid": "19967",
-    "uuid": "6dc38148-8a17-4b96-b45e-c4c8c91eaef4",
-    "vid": "19967",
+    "nid": "23858",
+    "uuid": "0912cdaa-0e79-4175-8604-7f2dabe7b9f6",
+    "vid": "23858",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4223",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUROUX vers BUZANCAIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.45739 46.87908)",
-    "radarInstallDate": "2008-11-28T16:20:11",
-    "radarPlace": "ST LACTENCIN",
+    "radarInstallDate": "2008-11-28T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD943",
     "radarTronconKm": [],
     "radarType": [

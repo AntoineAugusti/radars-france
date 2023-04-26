@@ -1,14 +1,14 @@
 {
-    "nid": "19644",
-    "uuid": "92a830ca-1470-499d-acda-9ee325a95249",
-    "vid": "19644",
+    "nid": "23585",
+    "uuid": "7c5a51ac-140d-469a-b95f-833dd4a34ead",
+    "vid": "23585",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "108",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "STRASBOURG VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.73904 48.57066)",
-    "radarInstallDate": "2003-10-31T16:19:45",
-    "radarPlace": "STRASBOURG",
+    "radarInstallDate": "2003-10-31T16:06:03",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

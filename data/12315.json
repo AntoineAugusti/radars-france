@@ -1,14 +1,14 @@
 {
-    "nid": "21611",
-    "uuid": "167e92b9-3f91-4dbd-a077-20e8a8895ecc",
-    "vid": "21611",
+    "nid": "23280",
+    "uuid": "2ea22dbe-8ff0-4acd-a06e-efa7bed9ec04",
+    "vid": "23280",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12315",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BARENTIN vers ROUEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.02779 49.47274)",
-    "radarInstallDate": "2015-01-28T16:24:36",
-    "radarPlace": "MAROMME",
+    "radarInstallDate": "2015-01-28T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A150",
     "radarTronconKm": [],
     "radarType": [

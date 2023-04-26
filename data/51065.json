@@ -1,14 +1,14 @@
 {
-    "nid": "20713",
-    "uuid": "cfb5521b-106d-4435-8a71-670319cc2077",
-    "vid": "20713",
+    "nid": "24639",
+    "uuid": "9e844b18-c624-41f3-b0bc-13ac7d0cf655",
+    "vid": "24639",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51065",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AMIENS vers ARRAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.323364 50.06921)",
-    "radarInstallDate": "2019-10-07T16:21:43",
-    "radarPlace": "LA VICOGNE",
+    "radarInstallDate": "2019-10-07T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RN25",
     "radarTronconKm": [],
     "radarType": [

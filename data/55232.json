@@ -1,14 +1,14 @@
 {
-    "nid": "21267",
-    "uuid": "af612b21-2c8a-4a6f-87ec-34425fb8e69f",
-    "vid": "21267",
+    "nid": "25278",
+    "uuid": "06fa68f6-f5a7-43f3-aa2d-a4946ee91b0f",
+    "vid": "25278",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55232",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTAUBAN vers MONCLAR DE QUERCY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.467901 43.976563)",
-    "radarInstallDate": "2020-02-10T16:23:26",
-    "radarPlace": "SAINT NAUPHARY",
+    "radarInstallDate": "2020-02-10T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD8",
     "radarTronconKm": [],
     "radarType": [

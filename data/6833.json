@@ -1,14 +1,14 @@
 {
-    "nid": "20201",
-    "uuid": "44756f72-e2aa-4e54-93ef-68d1d8c2eff4",
-    "vid": "20201",
+    "nid": "24075",
+    "uuid": "8ce2c936-f23d-427e-8b08-dc074b0792b4",
+    "vid": "24075",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6833",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FORCALQUIER vers CERESTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.60383 43.857)",
-    "radarInstallDate": "2008-11-17T16:20:35",
-    "radarPlace": "CERESTE",
+    "radarInstallDate": "2008-11-17T16:06:57",
+    "radarPlace": [],
     "radarRoad": "RD4100",
     "radarTronconKm": [],
     "radarType": [

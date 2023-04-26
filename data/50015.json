@@ -1,14 +1,14 @@
 {
-    "nid": "20599",
-    "uuid": "4b09eed3-6d61-4454-a929-0ab453583760",
-    "vid": "20599",
+    "nid": "24515",
+    "uuid": "e5031d6d-e0b0-4b5b-aa26-fee9226c6653",
+    "vid": "24515",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50015",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POINTE A PITRE PRINCIPAL vers BAIE MAHAULT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.5397 16.24913)",
-    "radarInstallDate": "2021-01-21T16:21:29",
-    "radarPlace": "LES ABYMES",
+    "radarInstallDate": "2021-01-21T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RD126 - Boulevard Gerty Archimede",
     "radarTronconKm": [],
     "radarType": [

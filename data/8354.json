@@ -1,14 +1,14 @@
 {
-    "nid": "20335",
-    "uuid": "69f054b1-25da-4544-89e8-3b9c222d1f91",
-    "vid": "20335",
+    "nid": "24191",
+    "uuid": "9ce220fe-a146-4f60-b94d-2e54a2b7cfac",
+    "vid": "24191",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8354",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAU GONTIER vers LE LION D ANGERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.70863 47.78205)",
-    "radarInstallDate": "2017-04-28T16:20:53",
-    "radarPlace": "ST FORT",
+    "radarInstallDate": "2017-04-28T16:07:10",
+    "radarPlace": [],
     "radarRoad": "RN162",
     "radarTronconKm": [],
     "radarType": [

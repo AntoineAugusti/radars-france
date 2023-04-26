@@ -1,14 +1,14 @@
 {
-    "nid": "19971",
-    "uuid": "4da2d606-618a-439c-af2b-c21205d8cb7b",
-    "vid": "19971",
+    "nid": "23862",
+    "uuid": "4cfd5500-d174-4d4b-af9f-15d5613916e1",
+    "vid": "23862",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4253",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIMOGES vers POITIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.79308 46.34625)",
-    "radarInstallDate": "2008-11-13T16:20:13",
-    "radarPlace": "MOULISMES",
+    "radarInstallDate": "2008-11-13T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RN147",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22495",
-    "uuid": "49b09839-8989-4c7d-bf63-506b4889baac",
-    "vid": "22495",
+    "nid": "26077",
+    "uuid": "1d6e83a9-75b6-4ea9-bb21-a139dd58a5ae",
+    "vid": "26077",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE344506",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud Ouest vers Nord Est",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.79026 47.10554)",
-    "radarInstallDate": "2013-08-19T16:28:19",
-    "radarPlace": "STE PAZANNE",
+    "radarInstallDate": "2013-08-19T16:13:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22035",
-    "uuid": "47dc8e30-33bd-485e-bdc9-745b28b4bf54",
-    "vid": "22035",
+    "nid": "25652",
+    "uuid": "6baea707-6957-4b30-9ab0-5c358146a9a6",
+    "vid": "25652",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162008",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "carvin vers Lens",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.85474 50.4431)",
-    "radarInstallDate": "2011-04-28T16:26:15",
-    "radarPlace": "LOISON SOUS LENS",
+    "radarInstallDate": "2011-04-28T16:11:59",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

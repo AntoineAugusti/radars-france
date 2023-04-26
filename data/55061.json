@@ -1,14 +1,14 @@
 {
-    "nid": "21098",
-    "uuid": "6289b8a1-4015-4dd8-a88d-c8364b3a130c",
-    "vid": "21098",
+    "nid": "25111",
+    "uuid": "fefc90aa-78e2-4d5d-ae39-7ea80dd286e2",
+    "vid": "25111",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55061",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SALON DE PROVENCE vers SENAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.092602 43.675504)",
-    "radarInstallDate": "2019-11-27T16:22:50",
-    "radarPlace": "SALON DE PROVENCE",
+    "radarInstallDate": "2019-11-27T16:09:48",
+    "radarPlace": [],
     "radarRoad": "RD538",
     "radarTronconKm": [],
     "radarType": [

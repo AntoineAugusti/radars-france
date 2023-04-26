@@ -1,14 +1,14 @@
 {
-    "nid": "21919",
-    "uuid": "9c1f0191-ae01-4724-a8c0-71de8f2b7e7a",
-    "vid": "21919",
+    "nid": "25558",
+    "uuid": "81dd88d3-94a0-4643-a9b9-19611cc9637e",
+    "vid": "25558",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE137006",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Beaumont la Ronce vers Ch\u00e2teau la Valli\u00e8re",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (0.55181 47.54783)",
-    "radarInstallDate": "2011-08-08T16:25:52",
-    "radarPlace": "NEUILLE PONT PIERRE",
+    "radarInstallDate": "2011-08-08T16:11:35",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

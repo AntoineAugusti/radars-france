@@ -1,14 +1,14 @@
 {
-    "nid": "21143",
-    "uuid": "1238c527-a1d8-4783-ab18-81876db68769",
-    "vid": "21143",
+    "nid": "25154",
+    "uuid": "9bfb62da-011c-4432-8067-10220487605d",
+    "vid": "25154",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55106",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT PONS DE THOMIERES vers ST CHINIAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.860783 43.473122)",
-    "radarInstallDate": "2019-12-20T16:23:01",
-    "radarPlace": "PARDAILHAN",
+    "radarInstallDate": "2019-12-20T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD612",
     "radarTronconKm": [],
     "radarType": [

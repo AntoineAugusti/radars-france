@@ -1,14 +1,14 @@
 {
-    "nid": "20354",
-    "uuid": "aa2a5604-7ef4-46cf-a97a-6b23f37bfa43",
-    "vid": "20354",
+    "nid": "24208",
+    "uuid": "01c54303-6742-44a6-9200-409a491a6df9",
+    "vid": "24208",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8575",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "REMIRE MONTJOLY vers CAYENNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-52.31493 4.94468)",
-    "radarInstallDate": "2013-01-25T16:20:54",
-    "radarPlace": "CAYENNE",
+    "radarInstallDate": "2013-01-25T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD1",
     "radarTronconKm": [],
     "radarType": [

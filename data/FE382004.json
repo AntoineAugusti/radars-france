@@ -1,14 +1,14 @@
 {
-    "nid": "22578",
-    "uuid": "486e9c8a-2a99-48b9-bdc3-418de1836c05",
-    "vid": "22578",
+    "nid": "26042",
+    "uuid": "2b7d93fb-c7b2-4b00-b843-5c7096dd73ad",
+    "vid": "26042",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE382004",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AVENUE CHAMIER vers PONT DE SAPIAC",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.34584 44.01274)",
-    "radarInstallDate": "2012-05-25T16:28:44",
-    "radarPlace": "MONTAUBAN",
+    "radarInstallDate": "2012-05-25T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

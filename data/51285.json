@@ -1,14 +1,14 @@
 {
-    "nid": "20924",
-    "uuid": "ae345923-ed08-4e1e-869f-6e0eec6de2d9",
-    "vid": "20924",
+    "nid": "24851",
+    "uuid": "07f87da7-f70e-4ef4-89b2-699735d0cbf8",
+    "vid": "24851",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51285",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "L AIGLE vers VERNEUIL D AVRE ET D ITON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.85396 48.743296)",
-    "radarInstallDate": "2020-08-19T16:22:18",
-    "radarPlace": "MANDRES",
+    "radarInstallDate": "2020-08-19T16:08:58",
+    "radarPlace": [],
     "radarRoad": "RD926",
     "radarTronconKm": [],
     "radarType": [

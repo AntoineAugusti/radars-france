@@ -1,14 +1,14 @@
 {
-    "nid": "20189",
-    "uuid": "effcc198-3d1a-4c99-95fe-b54ff09d1d1e",
-    "vid": "20189",
+    "nid": "24065",
+    "uuid": "e6eadaf7-df6a-4a49-9971-3d7e3017ce2d",
+    "vid": "24065",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6757",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS NEMOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.68374 48.41031)",
-    "radarInstallDate": "2007-04-23T16:20:35",
-    "radarPlace": "FONTAINEBLEAU",
+    "radarInstallDate": "2007-04-23T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD607",
     "radarTronconKm": [],
     "radarType": [

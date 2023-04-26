@@ -1,14 +1,14 @@
 {
-    "nid": "21238",
-    "uuid": "e9ff8b9d-1574-4180-b279-cf659d724727",
-    "vid": "21238",
+    "nid": "25249",
+    "uuid": "62dcdb80-a3b2-4923-9eaf-6efdf0f33b2c",
+    "vid": "25249",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55202",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "HAUTERIVES vers PEYRINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.04594 45.13142)",
-    "radarInstallDate": "2020-01-30T16:23:19",
-    "radarPlace": "MARGES",
+    "radarInstallDate": "2020-01-30T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD538",
     "radarTronconKm": [],
     "radarType": [

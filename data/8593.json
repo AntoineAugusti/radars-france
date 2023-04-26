@@ -1,14 +1,14 @@
 {
-    "nid": "20359",
-    "uuid": "dd1bc799-e2c8-41fd-94c0-62520cfef1d7",
-    "vid": "20359",
+    "nid": "24213",
+    "uuid": "44fdbed2-78b8-4f6d-8d9e-088e69864992",
+    "vid": "24213",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8593",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NICE vers LA TRINITE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.2824 43.716)",
-    "radarInstallDate": "2011-10-21T16:20:57",
-    "radarPlace": "NICE",
+    "radarInstallDate": "2011-10-21T16:07:14",
+    "radarPlace": [],
     "radarRoad": "266m\u00e8tres avant la sortie du tunnel Andr\u00e9 Liautaud",
     "radarTronconKm": [],
     "radarType": [

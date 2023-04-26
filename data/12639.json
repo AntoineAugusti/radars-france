@@ -1,14 +1,14 @@
 {
-    "nid": "21860",
-    "uuid": "902b1f95-64ae-485d-b052-feca0da541a1",
-    "vid": "21860",
+    "nid": "23540",
+    "uuid": "a709ff08-a226-459d-8834-3322a9e5aac1",
+    "vid": "23540",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12639",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COGNAC vers ANGOULEME",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.25415 45.66998)",
-    "radarInstallDate": "2020-10-28T16:25:38",
-    "radarPlace": "GENSAC LA PALLUE",
+    "radarInstallDate": "2020-10-28T16:05:59",
+    "radarPlace": [],
     "radarRoad": "RN141",
     "radarTronconKm": [],
     "radarType": [

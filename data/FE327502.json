@@ -1,14 +1,14 @@
 {
-    "nid": "22409",
-    "uuid": "8a861646-771a-43ba-8524-64531f1b9add",
-    "vid": "22409",
+    "nid": "26058",
+    "uuid": "65f3e73c-b969-4d5e-a6b7-c750bb7b4849",
+    "vid": "26058",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE327502",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord Est vers Sud Ouest",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.92705 48.74316)",
-    "radarInstallDate": "2014-10-27T16:27:54",
-    "radarPlace": "VERNEUIL SUR AVRE",
+    "radarInstallDate": "2014-10-27T16:13:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

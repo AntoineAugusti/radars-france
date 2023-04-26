@@ -1,14 +1,14 @@
 {
-    "nid": "22850",
-    "uuid": "8a329c8b-b1c9-44ea-9ae7-c9870f4b468a",
-    "vid": "22850",
+    "nid": "26399",
+    "uuid": "26d3c8f0-e1ec-4e7c-a810-1d6f09f33603",
+    "vid": "26399",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229224",
+    "revisionTimestamp": "1681741067",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_68_007",
-    "created": "1637229224",
-    "changed": "1637229224",
+    "created": "1681741067",
+    "changed": "1681741067",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "68 - Haut-Rhin",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "7.330986, 48.271568",
-    "radarEquipment": "-",
+    "radarDirection": "45.521340, 4.211979",
+    "radarEquipment": "AXIMUM",
     "radarGeolocalisation": [],
-    "radarInstallDate": "2017-10-09T10:53:45",
+    "radarInstallDate": "2017-10-05T16:17:48",
     "radarPlace": "N59\"",
     "radarRoad": "\"300",
-    "radarTronconKm": "-",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

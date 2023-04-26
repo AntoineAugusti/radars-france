@@ -1,14 +1,14 @@
 {
-    "nid": "20385",
-    "uuid": "3d73cbb4-6157-4f9b-94b8-c4788c163c48",
-    "vid": "20385",
+    "nid": "24236",
+    "uuid": "e120c8a6-e854-4a73-b6dc-76dc780be3cf",
+    "vid": "24236",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8677",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Porte Maillot vers route de la Muette \u00e0 Neuilly",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.26748 48.87363)",
-    "radarInstallDate": "2013-01-14T16:20:58",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-01-14T16:07:18",
+    "radarPlace": [],
     "radarRoad": "All\u00e9e de Longchamp au niveau cand\u00e9labre n\u00b0XVI 9089",
     "radarTronconKm": [],
     "radarType": [

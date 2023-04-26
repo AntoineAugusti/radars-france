@@ -1,14 +1,14 @@
 {
-    "nid": "20166",
-    "uuid": "40a20bcf-99cc-4e96-ba79-95a41ff30999",
-    "vid": "20166",
+    "nid": "24043",
+    "uuid": "3b1d460d-bdd0-4af7-bd5a-cd1a7ceb0d15",
+    "vid": "24043",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6628",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MACON VERS LYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.75631 45.82676)",
-    "radarInstallDate": "2007-03-19T16:20:32",
-    "radarPlace": "DARDILLY",
+    "radarInstallDate": "2007-03-19T16:06:53",
+    "radarPlace": [],
     "radarRoad": "RN6",
     "radarTronconKm": [],
     "radarType": [

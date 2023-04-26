@@ -1,14 +1,14 @@
 {
-    "nid": "21171",
-    "uuid": "1bf036d9-b339-4eec-bb66-4e2cb44f2cbd",
-    "vid": "21171",
+    "nid": "25182",
+    "uuid": "2a7e9e4b-c63c-4fa3-8e1b-24f8954353ce",
+    "vid": "25182",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55135",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CUERS vers BRIGNOLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.08662 43.33468)",
-    "radarInstallDate": "2020-05-26T16:23:07",
-    "radarPlace": "FORCALQUEIRET",
+    "radarInstallDate": "2020-05-26T16:10:01",
+    "radarPlace": [],
     "radarRoad": "RD43",
     "radarTronconKm": [],
     "radarType": [

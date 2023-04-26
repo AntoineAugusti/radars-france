@@ -1,14 +1,14 @@
 {
-    "nid": "21648",
-    "uuid": "5d9131c2-0de2-414c-bcb3-efeee17366a8",
-    "vid": "21648",
+    "nid": "23316",
+    "uuid": "e2c20acb-c869-46ae-a987-a95b1f25e23c",
+    "vid": "23316",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12367",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LYON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.50281 47.302985)",
-    "radarInstallDate": "2016-12-23T16:24:43",
-    "radarPlace": "EGUILLY",
+    "radarInstallDate": "2016-12-23T16:05:41",
+    "radarPlace": [],
     "radarRoad": "A6",
     "radarTronconKm": [],
     "radarType": [

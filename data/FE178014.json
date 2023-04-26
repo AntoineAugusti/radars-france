@@ -1,14 +1,14 @@
 {
-    "nid": "22120",
-    "uuid": "73213c0c-7143-45da-86e8-ff2e5a2af0d2",
-    "vid": "22120",
+    "nid": "25736",
+    "uuid": "be381ea6-4519-4f19-9a60-32638507b3bf",
+    "vid": "25736",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178014",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.12496 48.80679)",
-    "radarInstallDate": "2011-04-04T16:26:36",
-    "radarPlace": "VERSAILLES",
+    "radarInstallDate": "2011-04-04T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

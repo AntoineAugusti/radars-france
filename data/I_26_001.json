@@ -1,14 +1,14 @@
 {
-    "nid": "22740",
-    "uuid": "0739ec22-70da-4269-8cda-d961c8ad2f58",
-    "vid": "22740",
+    "nid": "26263",
+    "uuid": "43e65d6a-8843-4fcd-8c85-e726894f3197",
+    "vid": "26263",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229219",
+    "revisionTimestamp": "1681741039",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_26_001",
-    "created": "1637229219",
-    "changed": "1637229219",
+    "created": "1681741039",
+    "changed": "1681741039",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "26 - Dr\u00f4me",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (44.902234 4.884735)",
-    "radarInstallDate": "2017-10-06T10:53:39",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.002747 43.514607)",
+    "radarInstallDate": "2018-04-17T16:17:20",
     "radarPlace": "-",
     "radarRoad": "D61, D444, D752, D747, D93, D104, D150, D238, D514, D539, D135, D174, D617, D357, D156, D125, D993, D129, D61A, D70, D407, D565, D888, D175, D465, D555, D157, D111, D464, D69, D164B, D211, D538, D591, D340, D493, D512, D306, D518, D164, D145, D244, D140",
-    "radarTronconKm": "106.18",
+    "radarTronconKm": "106,2",
     "radarType": [
         {
             "tid": "19",

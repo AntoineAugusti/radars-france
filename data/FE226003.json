@@ -1,14 +1,14 @@
 {
-    "nid": "22264",
-    "uuid": "a3b00fcf-ee68-41e9-97b4-ec2aa5d05692",
-    "vid": "22264",
+    "nid": "25841",
+    "uuid": "eec92df4-82d6-4a2a-aaec-40327147e5b6",
+    "vid": "25841",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229189",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE226003",
-    "created": "1637229189",
-    "changed": "1675870026",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Romans sur is\u00e8re vers St Marcellin",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.06501 45.04504)",
-    "radarInstallDate": "2010-08-18T16:27:12",
-    "radarPlace": "ROMANS SUR ISERE",
+    "radarInstallDate": "2010-08-18T16:12:48",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

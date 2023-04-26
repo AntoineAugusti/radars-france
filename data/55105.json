@@ -1,14 +1,14 @@
 {
-    "nid": "21142",
-    "uuid": "3ca097df-55d8-4210-89fb-4c1b0d2a1c02",
-    "vid": "21142",
+    "nid": "25153",
+    "uuid": "ab0a037d-cb07-4362-8d92-23a5b521be71",
+    "vid": "25153",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55105",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AVIGNON vers ARLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.65024 43.72219)",
-    "radarInstallDate": "2020-12-16T16:23:01",
-    "radarPlace": "ARLES",
+    "radarInstallDate": "2020-12-16T16:09:59",
+    "radarPlace": [],
     "radarRoad": "RD570N",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21456",
-    "uuid": "7560bea9-30a0-4ed6-9b45-0e3d7e6e0efe",
-    "vid": "21456",
+    "nid": "23129",
+    "uuid": "196245ca-ca3b-4a9c-8547-81b6427efcac",
+    "vid": "23129",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12047",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NIMES vers ARLES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.4634 43.736)",
-    "radarInstallDate": "2013-06-07T16:24:03",
-    "radarPlace": "BELLEGARDE",
+    "radarInstallDate": "2013-06-07T16:05:28",
+    "radarPlace": [],
     "radarRoad": "A54",
     "radarTronconKm": [],
     "radarType": [

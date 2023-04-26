@@ -1,14 +1,14 @@
 {
-    "nid": "22712",
-    "uuid": "6d72ca01-1766-4a7d-aee0-4f12f3c432c0",
-    "vid": "22712",
+    "nid": "26226",
+    "uuid": "f5399f64-824e-45dd-92ad-471f3256074e",
+    "vid": "26226",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741035",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_09_003",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741035",
+    "changed": "1681741035",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "09 - Ari\u00e8ge",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (42.91145 1.987275)",
-    "radarInstallDate": "2017-10-05T10:53:39",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (2.733132 46.223141)",
+    "radarInstallDate": "2017-10-05T16:17:15",
     "radarPlace": "-",
     "radarRoad": "D625, D209, D9, D210, D117A, D205, D16, D63, D117, D10, D9A, D809, D509, D709",
-    "radarTronconKm": "31.75",
+    "radarTronconKm": "31,8",
     "radarType": [
         {
             "tid": "19",

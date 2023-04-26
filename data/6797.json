@@ -1,14 +1,14 @@
 {
-    "nid": "20196",
-    "uuid": "cb524662-ce1a-42f8-9d8d-750c63917cb5",
-    "vid": "20196",
+    "nid": "24070",
+    "uuid": "b4b54c3d-6bcf-4041-98c8-dcdb5b9146de",
+    "vid": "24070",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6797",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "province vers paris",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.1536 48.6399)",
-    "radarInstallDate": "2007-09-07T16:20:35",
-    "radarPlace": "JANVRY",
+    "radarInstallDate": "2007-09-07T16:06:57",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

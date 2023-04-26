@@ -1,14 +1,14 @@
 {
-    "nid": "21650",
-    "uuid": "3fbeb637-7efa-43af-a7f1-7f544bbb42bc",
-    "vid": "21650",
+    "nid": "23318",
+    "uuid": "ceff4c7b-fb82-4580-96b7-a4d125574c80",
+    "vid": "23318",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12369",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RENNES vers CAEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.3671 48.66478)",
-    "radarInstallDate": "2016-05-02T16:24:49",
-    "radarPlace": "LE VAL ST PERE",
+    "radarInstallDate": "2016-05-02T16:05:41",
+    "radarPlace": [],
     "radarRoad": "RN175",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21786",
-    "uuid": "971beb19-d734-4acb-95a2-05012e07d4cf",
-    "vid": "21786",
+    "nid": "23455",
+    "uuid": "0414d98e-3fc1-4595-8207-0f1b1b9f6505",
+    "vid": "23455",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12527",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRIVE LA GAILLARDE vers CAHORS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.51206 44.570861)",
-    "radarInstallDate": "2019-05-14T16:25:17",
-    "radarPlace": "NADILLAC",
+    "radarInstallDate": "2019-05-14T16:05:52",
+    "radarPlace": [],
     "radarRoad": "A20",
     "radarTronconKm": [],
     "radarType": [

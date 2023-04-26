@@ -1,14 +1,14 @@
 {
-    "nid": "20382",
-    "uuid": "1397dd00-da2f-450b-a7ff-62c62ac3ac56",
-    "vid": "20382",
+    "nid": "24234",
+    "uuid": "76a613db-584b-4e4f-9830-ffd7a15f2edd",
+    "vid": "24234",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8667",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FLERE LA RIVIERE vers LOCHES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.097518 47.030514)",
-    "radarInstallDate": "2010-10-07T16:20:58",
-    "radarPlace": "BRIDORE",
+    "radarInstallDate": "2010-10-07T16:07:18",
+    "radarPlace": [],
     "radarRoad": "RD943",
     "radarTronconKm": [],
     "radarType": [

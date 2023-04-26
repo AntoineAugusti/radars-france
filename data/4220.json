@@ -1,14 +1,14 @@
 {
-    "nid": "19965",
-    "uuid": "03a0be74-ccb8-41e8-ac03-546eaffdfce2",
-    "vid": "19965",
+    "nid": "23856",
+    "uuid": "9136c0a2-2e47-49c1-9086-c766131117de",
+    "vid": "23856",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4220",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARDENTES vers MERS SUR INDRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.87214 46.70937)",
-    "radarInstallDate": "2008-11-07T16:20:11",
-    "radarPlace": "ARDENTES",
+    "radarInstallDate": "2008-11-07T16:06:31",
+    "radarPlace": [],
     "radarRoad": "RD943",
     "radarTronconKm": [],
     "radarType": [

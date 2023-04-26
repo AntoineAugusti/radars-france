@@ -1,14 +1,14 @@
 {
-    "nid": "21808",
-    "uuid": "7da30e9f-bfa1-4028-a2cb-e369e659a54c",
-    "vid": "21808",
+    "nid": "23478",
+    "uuid": "c09d5e9c-1071-454e-adcd-6bcb142d1455",
+    "vid": "23478",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12558",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTES vers RENNES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.64297 47.40608)",
-    "radarInstallDate": "2019-08-06T16:25:24",
-    "radarPlace": "HERIC",
+    "radarInstallDate": "2019-08-06T16:05:53",
+    "radarPlace": [],
     "radarRoad": "RN137",
     "radarTronconKm": [],
     "radarType": [

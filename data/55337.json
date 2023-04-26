@@ -1,14 +1,14 @@
 {
-    "nid": "21364",
-    "uuid": "ace6ce84-777f-4ce2-bee7-e26b05812ccb",
-    "vid": "21364",
+    "nid": "25378",
+    "uuid": "aece2e4c-56e5-4d3d-bccd-3ea9d342f564",
+    "vid": "25378",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55337",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST JEAN D ANGELY vers ANGOULEME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.134971 45.801777)",
-    "radarInstallDate": "2021-01-28T16:23:44",
-    "radarPlace": "ROUILLAC",
+    "radarInstallDate": "2021-01-28T16:10:47",
+    "radarPlace": [],
     "radarRoad": "RD939",
     "radarTronconKm": [],
     "radarType": [

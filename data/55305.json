@@ -1,14 +1,14 @@
 {
-    "nid": "21333",
-    "uuid": "d88514a1-e3cb-4b59-88da-2bec59707a5d",
-    "vid": "21333",
+    "nid": "25347",
+    "uuid": "69c613b4-e731-43ca-991c-55bd75a2b183",
+    "vid": "25347",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55305",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MEXIMIEUX vers BELIGNEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.168779 45.884252)",
-    "radarInstallDate": "2020-10-09T16:23:38",
-    "radarPlace": "PEROUGES",
+    "radarInstallDate": "2020-10-09T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD1084",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20752",
-    "uuid": "a4416093-b3fa-4a63-81bc-b3033426f4c6",
-    "vid": "20752",
+    "nid": "24676",
+    "uuid": "56b6f522-5863-4d4a-af53-92a865e7b835",
+    "vid": "24676",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51104",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "27-EURE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "ALENCON vers BALINES",
+    "radarDirection": "BALINES vers ALENCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.8037 48.682256)",
-    "radarInstallDate": "2019-11-20T16:21:52",
-    "radarPlace": "ARMENTIERES SUR AVRE",
+    "radarInstallDate": "2019-11-20T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22556",
-    "uuid": "cb3c5481-fb83-47e6-8b0b-fc13c047531c",
-    "vid": "22556",
+    "nid": "26097",
+    "uuid": "12a0c964-3984-4094-b8e9-be3660e5a7fa",
+    "vid": "26097",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE369501",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (4.70118 45.8568)",
-    "radarInstallDate": "2013-03-18T16:28:36",
-    "radarPlace": "CIVRIEUX D AZERGUES",
+    "radarInstallDate": "2013-03-18T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

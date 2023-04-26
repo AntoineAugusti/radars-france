@@ -1,14 +1,14 @@
 {
-    "nid": "20603",
-    "uuid": "efff4521-8114-4c1e-bc31-18db1961ab19",
-    "vid": "20603",
+    "nid": "24519",
+    "uuid": "81633bb6-7a7b-47f8-ba5d-52d259a27513",
+    "vid": "24519",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50023",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORNE A L EAU vers LES ABYMES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.48647 16.31154)",
-    "radarInstallDate": "2021-01-21T16:21:30",
-    "radarPlace": "MORNE A L EAU",
+    "radarInstallDate": "2021-01-21T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN5",
     "radarTronconKm": [],
     "radarType": [

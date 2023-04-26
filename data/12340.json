@@ -1,14 +1,14 @@
 {
-    "nid": "21627",
-    "uuid": "a5178baa-d5df-4bc5-b428-3f148f4c25b1",
-    "vid": "21627",
+    "nid": "23295",
+    "uuid": "5ffcb814-8e3c-484f-b8df-1d375a26bb5b",
+    "vid": "23295",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12340",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LOON PLAGE vers DUNKERQUE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.287027 50.997972)",
-    "radarInstallDate": "2016-03-14T16:24:42",
-    "radarPlace": "GRANDE SYNTHE",
+    "radarInstallDate": "2016-03-14T16:05:40",
+    "radarPlace": [],
     "radarRoad": "A16",
     "radarTronconKm": [],
     "radarType": [

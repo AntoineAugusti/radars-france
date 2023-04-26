@@ -1,14 +1,14 @@
 {
-    "nid": "21000",
-    "uuid": "4c73f7f5-7ac8-44b7-b91b-177fd3b04816",
-    "vid": "21000",
+    "nid": "24939",
+    "uuid": "e7472015-3608-4408-8c7b-be8e87b2fbbf",
+    "vid": "24939",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51379",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POLIGNY vers ARBOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.716326 46.86836)",
-    "radarInstallDate": "2021-03-10T16:22:33",
-    "radarPlace": "BUVILLY",
+    "radarInstallDate": "2021-03-10T16:09:16",
+    "radarPlace": [],
     "radarRoad": "RN83",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21613",
-    "uuid": "6213d816-ed68-400e-b080-4749147abd4a",
-    "vid": "21613",
+    "nid": "23282",
+    "uuid": "245a74f4-0dbe-427e-86af-58bcd0f0e7c9",
+    "vid": "23282",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12321",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "UZERCHE vers BRIVE LA GAILLARDE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.5126 45.235)",
-    "radarInstallDate": "2015-07-27T16:24:36",
-    "radarPlace": "DONZENAC",
+    "radarInstallDate": "2015-07-27T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A20",
     "radarTronconKm": [],
     "radarType": [

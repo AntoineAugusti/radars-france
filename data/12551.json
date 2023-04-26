@@ -1,14 +1,14 @@
 {
-    "nid": "21803",
-    "uuid": "7b7e61e2-6f1f-40f7-a9a9-1c65e4b28120",
-    "vid": "21803",
+    "nid": "23473",
+    "uuid": "1cf632ea-181f-4d03-b2bb-4b7efa024f08",
+    "vid": "23473",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12551",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CARNON PLAGE vers MONTPELLIER",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.96186 43.56071)",
-    "radarInstallDate": "2020-07-30T16:25:24",
-    "radarPlace": "PEROLS",
+    "radarInstallDate": "2020-07-30T16:05:53",
+    "radarPlace": [],
     "radarRoad": "RD66",
     "radarTronconKm": [],
     "radarType": [

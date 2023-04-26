@@ -1,14 +1,14 @@
 {
-    "nid": "21644",
-    "uuid": "4a2cab1b-4a33-4e37-94d9-f31d06e7d979",
-    "vid": "21644",
+    "nid": "23312",
+    "uuid": "176fd384-602e-41a6-941c-49ad82eea3fd",
+    "vid": "23312",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12362",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers STRASBOURG",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.2326 49.091)",
-    "radarInstallDate": "2016-10-31T16:24:43",
-    "radarPlace": "LES SOUHESMES RAMPONT",
+    "radarInstallDate": "2016-10-31T16:05:40",
+    "radarPlace": [],
     "radarRoad": "A4",
     "radarTronconKm": [],
     "radarType": [

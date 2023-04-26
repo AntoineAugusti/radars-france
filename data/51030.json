@@ -1,14 +1,14 @@
 {
-    "nid": "20680",
-    "uuid": "ed52980b-6fc5-4583-bd88-511e3227fbcb",
-    "vid": "20680",
+    "nid": "24605",
+    "uuid": "c9076429-4e35-4f39-a5fa-122d94dd54a5",
+    "vid": "24605",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51030",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers PROVINCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.985089 48.770279)",
-    "radarInstallDate": "2019-07-29T16:21:38",
-    "radarPlace": "TRAPPES",
+    "radarInstallDate": "2019-07-29T16:08:14",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

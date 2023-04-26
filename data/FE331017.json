@@ -1,14 +1,14 @@
 {
-    "nid": "22436",
-    "uuid": "2b866d07-c535-4c34-aef0-42d5c97111d3",
-    "vid": "22436",
+    "nid": "25955",
+    "uuid": "f5790185-922a-417c-9dd5-2140015d75e0",
+    "vid": "25955",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE331017",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Toulouse vers l'Union",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.46687 43.64143)",
-    "radarInstallDate": "2011-03-21T16:28:02",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2011-03-21T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

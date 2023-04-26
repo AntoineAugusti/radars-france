@@ -1,14 +1,14 @@
 {
-    "nid": "21846",
-    "uuid": "606ec623-1ab1-4492-b985-c3ac8202569a",
-    "vid": "21846",
+    "nid": "23524",
+    "uuid": "8cd0e58e-60b7-4c5d-b398-f55de20c31cb",
+    "vid": "23524",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12619",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PONT L ABBE vers QUIMPER",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-4.141026 47.971793)",
-    "radarInstallDate": "2020-11-10T16:25:32",
-    "radarPlace": "PLUGUFFAN",
+    "radarInstallDate": "2020-11-10T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RD785",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21790",
-    "uuid": "b9d408c5-a589-45aa-8225-618db9b74198",
-    "vid": "21790",
+    "nid": "23459",
+    "uuid": "dd2ae9b7-8cde-401a-b8d8-d41716741225",
+    "vid": "23459",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12532",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST OMER vers BOULOGNE SUR MER",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.708429 50.734976)",
-    "radarInstallDate": "2019-05-17T16:25:18",
-    "radarPlace": "LA CAPELLE LES BOULOGNE",
+    "radarInstallDate": "2019-05-17T16:05:52",
+    "radarPlace": [],
     "radarRoad": "RN42",
     "radarTronconKm": [],
     "radarType": [

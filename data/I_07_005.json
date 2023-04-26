@@ -1,14 +1,14 @@
 {
-    "nid": "22706",
-    "uuid": "d460b02d-bb81-47d8-892a-3891738cc815",
-    "vid": "22706",
+    "nid": "26219",
+    "uuid": "3087ee3f-3509-497d-91ea-6580581da5d4",
+    "vid": "26219",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741033",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_07_005",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741033",
+    "changed": "1681741033",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "07 - Ard\u00e8che",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (45.262051 4.707339)",
-    "radarInstallDate": "2017-10-05T10:53:38",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.124479 49.596003)",
+    "radarInstallDate": "2017-10-05T16:17:14",
     "radarPlace": "-",
     "radarRoad": "D878, D182, D291, D821, D86, D370, D2082, D82, D820, D382",
-    "radarTronconKm": "9.27",
+    "radarTronconKm": "9,3",
     "radarType": [
         {
             "tid": "19",

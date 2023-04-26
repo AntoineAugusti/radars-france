@@ -1,14 +1,14 @@
 {
-    "nid": "21943",
-    "uuid": "bb793d89-d6e2-494f-af65-8c226b932d83",
-    "vid": "21943",
+    "nid": "25581",
+    "uuid": "bd122090-e118-4c39-bf57-f9f3be725c93",
+    "vid": "25581",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE150003",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Granville vers St L\u00f4",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-1.44385 49.05185)",
-    "radarInstallDate": "2010-06-02T16:25:53",
-    "radarPlace": "COUTANCES",
+    "radarInstallDate": "2010-06-02T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

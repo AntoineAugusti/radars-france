@@ -1,14 +1,14 @@
 {
-    "nid": "22269",
-    "uuid": "78480695-cae1-4e38-8a05-ca15509ed0fe",
-    "vid": "22269",
+    "nid": "25845",
+    "uuid": "41b9c9cf-6dbe-4344-9bb8-2c4a4b555465",
+    "vid": "25845",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229189",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE242000",
-    "created": "1637229189",
-    "changed": "1675870026",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.37915 45.44229)",
-    "radarInstallDate": "2011-04-28T16:27:13",
-    "radarPlace": "ST ETIENNE",
+    "radarInstallDate": "2011-04-28T16:12:48",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

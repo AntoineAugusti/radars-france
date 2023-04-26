@@ -1,14 +1,14 @@
 {
-    "nid": "21479",
-    "uuid": "f2fba75f-2a70-46b3-955e-da1c197e8524",
-    "vid": "21479",
+    "nid": "23152",
+    "uuid": "9ec13f49-ec34-4e49-9723-1008d4c1d5fc",
+    "vid": "23152",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12081",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARLES vers ST MARTIN DE CRAU",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.6519 43.656)",
-    "radarInstallDate": "2013-02-21T16:24:10",
-    "radarPlace": "ARLES",
+    "radarInstallDate": "2013-02-21T16:05:30",
+    "radarPlace": [],
     "radarRoad": "RN113",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20477",
-    "uuid": "f50c7bfb-aac1-4cdd-9e70-e80ac0400a97",
-    "vid": "20477",
+    "nid": "24319",
+    "uuid": "70ed4eca-2bba-4091-aed3-79271980fbb9",
+    "vid": "24319",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8982",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers PROVINCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.45639 48.88246)",
-    "radarInstallDate": "2015-02-23T16:21:10",
-    "radarPlace": "NOISY LE SEC",
+    "radarInstallDate": "2015-02-23T16:07:31",
+    "radarPlace": [],
     "radarRoad": "A3",
     "radarTronconKm": [],
     "radarType": [

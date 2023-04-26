@@ -1,14 +1,14 @@
 {
-    "nid": "20047",
-    "uuid": "1dc09649-abb4-4965-ac7b-a131e9631b92",
-    "vid": "20047",
+    "nid": "23932",
+    "uuid": "426afe0a-276d-444c-aff8-cd41ae52fe5f",
+    "vid": "23932",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4594",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VEDENE vers CAUMONT SUR DURANCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.94792 43.93515)",
-    "radarInstallDate": "2009-09-15T16:20:20",
-    "radarPlace": "CHATEAUNEUF DE GADAGNE",
+    "radarInstallDate": "2009-09-15T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD6",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19760",
-    "uuid": "fbc77492-71c4-4b3d-acd7-da6c21cec1ee",
-    "vid": "19760",
+    "nid": "23688",
+    "uuid": "aec5e82e-9fb9-4626-a6a6-6ec86ec07a47",
+    "vid": "23688",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740370",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "451",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740370",
+    "changed": "1681740370",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FIRMINY VERS LYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.43 45.43425)",
-    "radarInstallDate": "2005-06-07T16:19:52",
-    "radarPlace": "ST ETIENNE",
+    "radarInstallDate": "2005-06-07T16:06:13",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

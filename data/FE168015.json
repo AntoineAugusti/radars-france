@@ -1,14 +1,14 @@
 {
-    "nid": "22068",
-    "uuid": "a907c288-061f-4199-b07c-b7fe131470f8",
-    "vid": "22068",
+    "nid": "25685",
+    "uuid": "b91e3003-be65-41b0-832e-7656949d45c8",
+    "vid": "25685",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168015",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bd L\u00e9on Gambetta vers le pont d'Alkirch",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.3439 47.7411)",
-    "radarInstallDate": "2012-06-21T16:26:22",
-    "radarPlace": "MULHOUSE",
+    "radarInstallDate": "2012-06-21T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

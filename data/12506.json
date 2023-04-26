@@ -1,14 +1,14 @@
 {
-    "nid": "21768",
-    "uuid": "b250d301-71c0-4714-9b1f-dc995fca3c2a",
-    "vid": "21768",
+    "nid": "23437",
+    "uuid": "025a9a55-20e1-46ab-a094-ede6b83776d3",
+    "vid": "23437",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12506",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DINAN vers LAMBALLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-2.308 48.416)",
-    "radarInstallDate": "2017-05-18T16:25:12",
-    "radarPlace": "JUGON LES LACS COMMUNE NOUVELL",
+    "radarInstallDate": "2017-05-18T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RN176",
     "radarTronconKm": [],
     "radarType": [

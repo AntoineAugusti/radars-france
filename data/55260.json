@@ -1,14 +1,14 @@
 {
-    "nid": "21292",
-    "uuid": "df10df71-4307-4f20-a3c9-ae8ef1709c4b",
-    "vid": "21292",
+    "nid": "25304",
+    "uuid": "1463e1e4-90b9-4ae9-9575-a5ed178d4e49",
+    "vid": "25304",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55260",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NERSAC vers MAGNAC SUR TOUVRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.210116 45.643195)",
-    "radarInstallDate": "2021-01-19T16:23:31",
-    "radarPlace": "SOYAUX",
+    "radarInstallDate": "2021-01-19T16:10:28",
+    "radarPlace": [],
     "radarRoad": "RD1000",
     "radarTronconKm": [],
     "radarType": [

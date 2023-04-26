@@ -1,14 +1,14 @@
 {
-    "nid": "19799",
-    "uuid": "e3047638-7f93-46dd-a57f-838ba42238a2",
-    "vid": "19799",
+    "nid": "23720",
+    "uuid": "9c6bd4d7-21a8-4564-aa43-3e4bdb7b2b3c",
+    "vid": "23720",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "595",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VALENCE VERS BOLLENE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.79397 44.6051)",
-    "radarInstallDate": "2005-09-08T16:19:55",
-    "radarPlace": "ST MARCEL LES SAUZET",
+    "radarInstallDate": "2005-09-08T16:06:16",
+    "radarPlace": [],
     "radarRoad": "A7",
     "radarTronconKm": [],
     "radarType": [

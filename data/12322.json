@@ -1,14 +1,14 @@
 {
-    "nid": "21614",
-    "uuid": "88bbc5bf-e99c-4c3b-8aa9-f8e0b6b8115f",
-    "vid": "21614",
+    "nid": "23283",
+    "uuid": "98a9fee9-9fa9-4c87-b316-5fc1e9d4f9d6",
+    "vid": "23283",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12322",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST MAIXANT vers AUBUSSON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.1899 45.971)",
-    "radarInstallDate": "2015-08-21T16:24:36",
-    "radarPlace": "ST AMAND",
+    "radarInstallDate": "2015-08-21T16:05:38",
+    "radarPlace": [],
     "radarRoad": "RD990",
     "radarTronconKm": [],
     "radarType": [

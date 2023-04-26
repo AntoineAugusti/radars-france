@@ -1,14 +1,14 @@
 {
-    "nid": "20877",
-    "uuid": "a0e2cad6-c42d-45ab-9ac5-c0066d3a2d36",
-    "vid": "20877",
+    "nid": "24804",
+    "uuid": "fd8d3dab-4e0d-45f1-baa8-4aefc0bbd0eb",
+    "vid": "24804",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51235",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EPERNAY vers REIMS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.011483 49.162193)",
-    "radarInstallDate": "2020-03-18T16:22:13",
-    "radarPlace": "VILLERS ALLERAND",
+    "radarInstallDate": "2020-03-18T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD951",
     "radarTronconKm": [],
     "radarType": [

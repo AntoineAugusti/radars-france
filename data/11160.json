@@ -1,14 +1,14 @@
 {
-    "nid": "20540",
-    "uuid": "2ae4b27c-0bb6-4736-852a-691fa788c3c5",
-    "vid": "20540",
+    "nid": "24371",
+    "uuid": "b85bdc0c-7593-4fd2-8cd8-2085a419b515",
+    "vid": "24371",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11160",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MIONS VERS VENISSIEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.9507 45.684)",
-    "radarInstallDate": "2012-05-14T16:21:21",
-    "radarPlace": "ST PRIEST",
+    "radarInstallDate": "2012-05-14T16:07:37",
+    "radarPlace": [],
     "radarRoad": "RD318 (route d'Heyrieux)",
     "radarTronconKm": [],
     "radarType": [

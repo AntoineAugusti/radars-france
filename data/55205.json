@@ -1,14 +1,14 @@
 {
-    "nid": "21241",
-    "uuid": "7f60f953-40c7-4174-bf6f-600e0eae4d79",
-    "vid": "21241",
+    "nid": "25252",
+    "uuid": "2da872b1-4c95-4d7e-895b-2a43a96ab2cd",
+    "vid": "25252",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55205",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TAIN L HERMITAGE vers ROMANS SUR ISERE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.99104 45.04868)",
-    "radarInstallDate": "2020-02-06T16:23:19",
-    "radarPlace": "GRANGES LES BEAUMONT",
+    "radarInstallDate": "2020-02-06T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD532",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20160",
-    "uuid": "2a95c6ac-5b49-4249-9a7a-34281da1906a",
-    "vid": "20160",
+    "nid": "24037",
+    "uuid": "db6663e9-ff72-4f5f-97ea-775824e7ca45",
+    "vid": "24037",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6612",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "L AIGLE vers NONANT LE PIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.32917 48.69887)",
-    "radarInstallDate": "2007-02-26T16:20:32",
-    "radarPlace": "LES AUTHIEUX DU PUITS",
+    "radarInstallDate": "2007-02-26T16:06:53",
+    "radarPlace": [],
     "radarRoad": "RD926",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21073",
-    "uuid": "0ecd6692-eaa7-417d-b497-29d07c30b045",
-    "vid": "21073",
+    "nid": "25086",
+    "uuid": "e1b6f2de-6d8d-4fc3-84e2-267b55b51bb4",
+    "vid": "25086",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55036",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers CASTRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.7993 43.587475)",
-    "radarInstallDate": "2019-08-12T16:22:44",
-    "radarPlace": "MAURENS SCOPONT",
+    "radarInstallDate": "2019-08-12T16:09:42",
+    "radarPlace": [],
     "radarRoad": "RN126",
     "radarTronconKm": [],
     "radarType": [

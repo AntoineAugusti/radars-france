@@ -1,14 +1,14 @@
 {
-    "nid": "22711",
-    "uuid": "1c88db63-33e6-4331-8d4b-e12bc318b3c1",
-    "vid": "22711",
+    "nid": "26225",
+    "uuid": "33a2ab28-dbf0-4ab2-a693-aa8a96531816",
+    "vid": "26225",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741035",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_09_002",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741035",
+    "changed": "1681741035",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "09 - Ari\u00e8ge",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (42.829518 1.612157)",
-    "radarInstallDate": "2017-10-05T10:53:38",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.362486 46.12385)",
+    "radarInstallDate": "2017-10-05T16:17:15",
     "radarPlace": "-",
     "radarRoad": "D220A, D102, D120, D222, D82, N2020, D220, N20, D719, D522, D420, D420A, D322, D2, D522A",
-    "radarTronconKm": "40.50",
+    "radarTronconKm": "40,5",
     "radarType": [
         {
             "tid": "19",

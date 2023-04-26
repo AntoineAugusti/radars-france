@@ -1,14 +1,14 @@
 {
-    "nid": "22406",
-    "uuid": "ba69d114-f6bd-42d1-ab39-dda6809abec8",
-    "vid": "22406",
+    "nid": "25927",
+    "uuid": "a01115c8-d886-4916-802a-c8bd0719be2b",
+    "vid": "25927",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE324009",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRIVE LA GAILLARDE vers PERIGUEUX",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.22694 45.12933)",
-    "radarInstallDate": "2010-06-09T16:27:54",
-    "radarPlace": "LE LARDIN ST LAZARE",
+    "radarInstallDate": "2010-06-09T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

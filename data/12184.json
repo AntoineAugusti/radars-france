@@ -1,14 +1,14 @@
 {
-    "nid": "21538",
-    "uuid": "90a46131-560b-43c8-a019-bfa73cecf7fe",
-    "vid": "21538",
+    "nid": "23209",
+    "uuid": "ddc4a595-2ee7-489d-9530-8151a16c5256",
+    "vid": "23209",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12184",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BELFORT vers LANGRES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.1594 47.633)",
-    "radarInstallDate": "2012-12-21T16:24:22",
-    "radarPlace": "VESOUL",
+    "radarInstallDate": "2012-12-21T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RN19",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20597",
-    "uuid": "66f661f4-9492-4f99-ae2e-2091ede241e1",
-    "vid": "20597",
+    "nid": "24513",
+    "uuid": "1b140bef-f821-48bc-a097-7559be32d9b8",
+    "vid": "24513",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50010",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LES ABYMES vers SAINT FRANCOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.50051 16.2616)",
-    "radarInstallDate": "2021-03-01T16:21:27",
-    "radarPlace": "LES ABYMES",
+    "radarInstallDate": "2021-03-01T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RD102",
     "radarTronconKm": [],
     "radarType": [

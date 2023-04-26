@@ -1,14 +1,14 @@
 {
-    "nid": "19884",
-    "uuid": "49e1f96e-dc0f-4328-82f5-f7df6d85f64d",
-    "vid": "19884",
+    "nid": "23784",
+    "uuid": "da8f8508-c7fc-4935-861c-a0121a7a7ca5",
+    "vid": "23784",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3007",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "STRASBOURG vers METZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.21497 49.11965)",
-    "radarInstallDate": "2006-02-01T16:20:04",
-    "radarPlace": "METZ",
+    "radarInstallDate": "2006-02-01T16:06:23",
+    "radarPlace": [],
     "radarRoad": "RN233",
     "radarTronconKm": [],
     "radarType": [

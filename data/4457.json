@@ -1,14 +1,14 @@
 {
-    "nid": "20011",
-    "uuid": "fd0a501f-1857-42d9-aa19-55e9b25a6544",
-    "vid": "20011",
+    "nid": "23898",
+    "uuid": "6e5ba109-4912-462b-95f1-f06d9b236719",
+    "vid": "23898",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4457",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORANGE vers VALENCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.7306 44.54021)",
-    "radarInstallDate": "2009-10-02T16:20:17",
-    "radarPlace": "MONTELIMAR",
+    "radarInstallDate": "2009-10-02T16:06:35",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

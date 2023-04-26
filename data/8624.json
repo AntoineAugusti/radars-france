@@ -1,14 +1,14 @@
 {
-    "nid": "20369",
-    "uuid": "a5d63ca5-e531-4a28-94ac-8a5a78f30fc7",
-    "vid": "20369",
+    "nid": "24223",
+    "uuid": "8e17ca79-887d-49ed-82f1-da07d55ce10e",
+    "vid": "24223",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8624",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTREUIL VERS ABBEVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.7503 50.32)",
-    "radarInstallDate": "2010-09-23T16:20:57",
-    "radarPlace": "VRON",
+    "radarInstallDate": "2010-09-23T16:07:17",
+    "radarPlace": [],
     "radarRoad": "RD1001",
     "radarTronconKm": [],
     "radarType": [

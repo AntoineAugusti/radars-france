@@ -1,14 +1,14 @@
 {
-    "nid": "20482",
-    "uuid": "3ece79bf-3b7e-40af-b1d4-680a47b328de",
-    "vid": "20482",
+    "nid": "24324",
+    "uuid": "2566d98b-da40-4df9-a6ab-da06634368e9",
+    "vid": "24324",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8989",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Province vers Paris",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2529 48.822)",
-    "radarInstallDate": "2011-11-14T16:21:14",
-    "radarPlace": "ISSY LES MOULINEAUX",
+    "radarInstallDate": "2011-11-14T16:07:31",
+    "radarPlace": [],
     "radarRoad": "QUAI DE STALINGRAD",
     "radarTronconKm": [],
     "radarType": [

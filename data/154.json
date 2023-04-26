@@ -1,14 +1,14 @@
 {
-    "nid": "19666",
-    "uuid": "9fc3079b-4b40-40fa-b03b-a7a518381b28",
-    "vid": "19666",
+    "nid": "23604",
+    "uuid": "da747bd8-0d80-4f66-98df-7c5ab1053531",
+    "vid": "23604",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "154",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLEURBANNE vers ECULLY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.8151 45.77449)",
-    "radarInstallDate": "2003-12-11T16:19:46",
-    "radarPlace": "LYON",
+    "radarInstallDate": "2003-12-11T16:06:06",
+    "radarPlace": [],
     "radarRoad": "Tunnel de la Croix Rousse - PM Tube Sud 90.00 M",
     "radarTronconKm": [],
     "radarType": [

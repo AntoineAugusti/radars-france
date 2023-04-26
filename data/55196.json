@@ -1,14 +1,14 @@
 {
-    "nid": "21232",
-    "uuid": "e3241402-9df3-43b4-b7c5-20a2854771e7",
-    "vid": "21232",
+    "nid": "25243",
+    "uuid": "8db453ad-a883-4b17-8068-2d7ede709c71",
+    "vid": "25243",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55196",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AURILLAC vers MASSIAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.97278 45.13225)",
-    "radarInstallDate": "2020-01-23T16:23:19",
-    "radarPlace": "NEUSSARGUES EN PINATELLE",
+    "radarInstallDate": "2020-01-23T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RN122",
     "radarTronconKm": [],
     "radarType": [

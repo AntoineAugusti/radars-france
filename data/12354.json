@@ -1,14 +1,14 @@
 {
-    "nid": "21638",
-    "uuid": "8555f4c9-abea-4014-af7c-98d4791bab5d",
-    "vid": "21638",
+    "nid": "23306",
+    "uuid": "f2cd5f4b-ce18-4bbb-8243-33fa95910f88",
+    "vid": "23306",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12354",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LYON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.7556 47.0883)",
-    "radarInstallDate": "2017-10-09T16:24:43",
-    "radarPlace": "BESSEY EN CHAUME",
+    "radarInstallDate": "2017-10-09T16:05:40",
+    "radarPlace": [],
     "radarRoad": "A6",
     "radarTronconKm": [],
     "radarType": [

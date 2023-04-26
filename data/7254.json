@@ -1,14 +1,14 @@
 {
-    "nid": "20280",
-    "uuid": "81b27969-ec4f-431a-8c80-5d63cb70f2f5",
-    "vid": "20280",
+    "nid": "24145",
+    "uuid": "096975c4-12d8-4b35-8b44-de6024197b0b",
+    "vid": "24145",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7254",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Pontivy vers Baud",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.95799 48.0257)",
-    "radarInstallDate": "2008-04-18T16:20:45",
-    "radarPlace": "ST THURIAU",
+    "radarInstallDate": "2008-04-18T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RD768",
     "radarTronconKm": [],
     "radarType": [

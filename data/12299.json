@@ -1,14 +1,14 @@
 {
-    "nid": "21600",
-    "uuid": "802b91df-dcbf-4875-a6af-c713ad3aa8eb",
-    "vid": "21600",
+    "nid": "23269",
+    "uuid": "2537d75b-6883-43b9-af81-f384e9f5ce59",
+    "vid": "23269",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12299",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTPELLIER vers BEZIERS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.4582 43.389)",
-    "radarInstallDate": "2014-05-12T16:24:35",
-    "radarPlace": "FLORENSAC",
+    "radarInstallDate": "2014-05-12T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A9",
     "radarTronconKm": [],
     "radarType": [

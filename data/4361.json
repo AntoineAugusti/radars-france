@@ -1,14 +1,14 @@
 {
-    "nid": "19988",
-    "uuid": "bee87e9e-619f-4220-a340-59dc587857dd",
-    "vid": "19988",
+    "nid": "23876",
+    "uuid": "55035d47-7e10-4d9a-9438-ef78a9aea668",
+    "vid": "23876",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4361",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Langogne vers Mende",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.52577 44.53152)",
-    "radarInstallDate": "2008-12-30T16:20:14",
-    "radarPlace": "MENDE",
+    "radarInstallDate": "2008-12-30T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

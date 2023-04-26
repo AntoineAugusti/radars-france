@@ -1,14 +1,14 @@
 {
-    "nid": "19642",
-    "uuid": "bd33db2f-1aa8-41a5-91a9-ead7506278f6",
-    "vid": "19642",
+    "nid": "23583",
+    "uuid": "4a955521-9db7-444c-b9f4-9af20a6d0bc3",
+    "vid": "23583",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "106",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TRAPPES VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.08501 48.83313)",
-    "radarInstallDate": "2003-10-30T16:19:45",
-    "radarPlace": "BAILLY",
+    "radarInstallDate": "2003-10-30T16:06:03",
+    "radarPlace": [],
     "radarRoad": "A12",
     "radarTronconKm": [],
     "radarType": [

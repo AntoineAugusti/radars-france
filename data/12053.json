@@ -1,14 +1,14 @@
 {
-    "nid": "21461",
-    "uuid": "5a10bcca-1864-4c8c-8d67-0b43fe5aca41",
-    "vid": "21461",
+    "nid": "23134",
+    "uuid": "3ab605f8-0641-49e3-9053-92b9567415a0",
+    "vid": "23134",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12053",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRENOBLE vers CHAMBERY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.8603 45.243)",
-    "radarInstallDate": "2012-06-15T16:24:04",
-    "radarPlace": "ST NAZAIRE LES EYMES",
+    "radarInstallDate": "2012-06-15T16:05:29",
+    "radarPlace": [],
     "radarRoad": "A41",
     "radarTronconKm": [],
     "radarType": [

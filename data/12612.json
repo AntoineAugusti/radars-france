@@ -1,14 +1,14 @@
 {
-    "nid": "21842",
-    "uuid": "8a40d018-53a4-4293-ab00-677b1c88de03",
-    "vid": "21842",
+    "nid": "23520",
+    "uuid": "bcb82540-7a5f-4532-b5ec-fbf0d25b30a6",
+    "vid": "23520",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12612",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST GREGOIRE vers CHANTEPIE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.69679 48.08149)",
-    "radarInstallDate": "2019-12-17T16:25:32",
-    "radarPlace": "RENNES",
+    "radarInstallDate": "2019-12-17T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RN136",
     "radarTronconKm": [],
     "radarType": [

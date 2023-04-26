@@ -1,14 +1,14 @@
 {
-    "nid": "22657",
-    "uuid": "c424718a-00b6-4a67-add4-7360754ae67a",
-    "vid": "22657",
+    "nid": "26174",
+    "uuid": "cbb48e20-8b20-4e49-b39c-686870453492",
+    "vid": "26174",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20138",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "ST MALO vers RENNES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.7373 48.20972)",
-    "radarInstallDate": "2014-04-28T10:53:37",
+    "radarInstallDate": "2014-04-28T16:17:09",
     "radarPlace": "LA MEZIERE",
     "radarRoad": "RD137",
     "radarTronconKm": "4,1",

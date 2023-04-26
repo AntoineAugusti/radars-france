@@ -1,14 +1,14 @@
 {
-    "nid": "22197",
-    "uuid": "eab2dfd2-3d7f-4a94-a337-54c35e66b6c4",
-    "vid": "22197",
+    "nid": "25812",
+    "uuid": "ebd33877-f721-4be0-94cd-f2d5f8e7bfdb",
+    "vid": "25812",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229186",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195032",
-    "created": "1637229186",
-    "changed": "1675870011",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Centre ville vers vieux Vaur\u00e9al",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.03056 49.03508)",
-    "radarInstallDate": "2011-10-25T16:26:57",
-    "radarPlace": "VAUREAL",
+    "radarInstallDate": "2011-10-25T16:12:39",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

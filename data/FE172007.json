@@ -1,14 +1,14 @@
 {
-    "nid": "22081",
-    "uuid": "c8adc443-34b9-449e-893a-779d6c1958e2",
-    "vid": "22081",
+    "nid": "25698",
+    "uuid": "cf893313-00aa-422e-bb01-36c9c55f3444",
+    "vid": "25698",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE172007",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Le Mans vers Arnage",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (0.17686 47.96291)",
-    "radarInstallDate": "2011-04-18T16:26:28",
-    "radarPlace": "LE MANS",
+    "radarInstallDate": "2011-04-18T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

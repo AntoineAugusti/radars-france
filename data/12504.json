@@ -1,14 +1,14 @@
 {
-    "nid": "21766",
-    "uuid": "a07cbb86-3b63-4736-9bc9-384dba87a271",
-    "vid": "21766",
+    "nid": "23435",
+    "uuid": "3d2abb82-489b-4b53-b81a-c36cca6b256f",
+    "vid": "23435",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12504",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CLERMONT vers CREIL",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.45288 49.30515)",
-    "radarInstallDate": "2016-12-05T16:25:11",
-    "radarPlace": "LAIGNEVILLE",
+    "radarInstallDate": "2016-12-05T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RD1016",
     "radarTronconKm": [],
     "radarType": [

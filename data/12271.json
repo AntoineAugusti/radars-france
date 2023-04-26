@@ -1,14 +1,14 @@
 {
-    "nid": "21588",
-    "uuid": "e3dcec2b-8aff-456b-b82f-357e8dba8937",
-    "vid": "21588",
+    "nid": "23257",
+    "uuid": "84b138ac-6e04-48aa-89ca-54ed8f43c733",
+    "vid": "23257",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12271",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOURS vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.0742 47.796)",
-    "radarInstallDate": "2013-11-22T16:24:30",
-    "radarPlace": "VENDOME",
+    "radarInstallDate": "2013-11-22T16:05:37",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

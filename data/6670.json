@@ -1,14 +1,14 @@
 {
-    "nid": "20173",
-    "uuid": "bb406e3c-f95f-4fc5-83a7-21f96f031356",
-    "vid": "20173",
+    "nid": "24050",
+    "uuid": "1e0c2b36-bef7-4852-9b2f-3f61faef90f1",
+    "vid": "24050",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6670",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PUTEAUX vers ASNIERES SUR SEINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.25972 48.89299)",
-    "radarInstallDate": "2007-02-23T16:20:33",
-    "radarPlace": "COURBEVOIE",
+    "radarInstallDate": "2007-02-23T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD7",
     "radarTronconKm": [],
     "radarType": [

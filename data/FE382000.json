@@ -1,14 +1,14 @@
 {
-    "nid": "22575",
-    "uuid": "e32fa446-2327-4e67-b4bc-f4cdf7827a21",
-    "vid": "22575",
+    "nid": "26039",
+    "uuid": "b7285bf0-081f-427f-9d29-e95238620ed7",
+    "vid": "26039",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE382000",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "St Porquier vers le centre ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.11765 44.03451)",
-    "radarInstallDate": "2010-02-05T16:28:37",
-    "radarPlace": "Castelsarrasin",
+    "radarInstallDate": "2010-02-05T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

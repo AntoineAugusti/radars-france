@@ -1,14 +1,14 @@
 {
-    "nid": "20399",
-    "uuid": "8b96d16e-3431-46cc-a289-a3f10e891bee",
-    "vid": "20399",
+    "nid": "24248",
+    "uuid": "4ae10e77-727f-4f67-a6a8-5b4491beb99c",
+    "vid": "24248",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8722",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Venzolasca vers Castellare di Casinca",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (9.4809 42.48)",
-    "radarInstallDate": "2012-11-22T16:21:02",
-    "radarPlace": "SORBO OCAGNANO",
+    "radarInstallDate": "2012-11-22T16:07:19",
+    "radarPlace": [],
     "radarRoad": "RT10",
     "radarTronconKm": [],
     "radarType": [

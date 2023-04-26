@@ -1,14 +1,14 @@
 {
-    "nid": "21448",
-    "uuid": "1ed22c80-4e8e-4064-902a-1ff880288591",
-    "vid": "21448",
+    "nid": "23122",
+    "uuid": "1f5135a6-cba7-4bec-ad92-0c4637736b5a",
+    "vid": "23122",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12034",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "A1 vers GONESSE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.4732 48.977)",
-    "radarInstallDate": "2013-02-18T16:24:03",
-    "radarPlace": "GONESSE",
+    "radarInstallDate": "2013-02-18T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RD170",
     "radarTronconKm": [],
     "radarType": [

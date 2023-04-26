@@ -1,14 +1,14 @@
 {
-    "nid": "21265",
-    "uuid": "8a9aac72-846e-4e0f-b275-486c00d0c094",
-    "vid": "21265",
+    "nid": "25276",
+    "uuid": "f7c1437e-a8c4-49ab-89b3-351f6972175d",
+    "vid": "25276",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55230",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AGEN vers TOULOUSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.21917 43.93981)",
-    "radarInstallDate": "2020-02-03T16:23:26",
-    "radarPlace": "MONTECH",
+    "radarInstallDate": "2020-02-03T16:10:20",
+    "radarPlace": [],
     "radarRoad": "RD813",
     "radarTronconKm": [],
     "radarType": [

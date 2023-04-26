@@ -1,14 +1,14 @@
 {
-    "nid": "21705",
-    "uuid": "bc21b340-e105-4668-a698-3c8639d2885f",
-    "vid": "21705",
+    "nid": "23373",
+    "uuid": "4403a48e-8b21-4193-9df1-f9ed187cc5b8",
+    "vid": "23373",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12431",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "15-CANTAL",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "MASSIAC vers ST FLOUR",
+    "radarDirection": "MASSIAC vers SAINT FLOUR",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.13624 45.11091)",
-    "radarInstallDate": "2016-10-07T16:24:57",
-    "radarPlace": "VIEILLESPESSE",
+    "radarInstallDate": "2016-10-07T16:05:45",
+    "radarPlace": [],
     "radarRoad": "A75",
     "radarTronconKm": [],
     "radarType": [

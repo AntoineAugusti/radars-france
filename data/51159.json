@@ -1,14 +1,14 @@
 {
-    "nid": "20807",
-    "uuid": "8eaf63cc-bf9b-424b-8e46-73d8ebba235a",
-    "vid": "20807",
+    "nid": "24731",
+    "uuid": "38adb157-4a2b-4942-9ab4-95a9d3a2ab7b",
+    "vid": "24731",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51159",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "JARGEAU vers ORLEANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.971511 47.86329)",
-    "radarInstallDate": "2020-10-07T16:21:59",
-    "radarPlace": "ST DENIS EN VAL",
+    "radarInstallDate": "2020-10-07T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD951",
     "radarTronconKm": [],
     "radarType": [

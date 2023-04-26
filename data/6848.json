@@ -1,14 +1,14 @@
 {
-    "nid": "20206",
-    "uuid": "8cf7b7d0-15bf-4e37-bd49-e64d63841ab8",
-    "vid": "20206",
+    "nid": "24080",
+    "uuid": "aa29a29a-a14c-4833-8f7d-f46866dbe63a",
+    "vid": "24080",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6848",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Tours vers Chinon",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.29608 47.19126)",
-    "radarInstallDate": "2008-02-22T16:20:36",
-    "radarPlace": "ST BENOIT LA FORET",
+    "radarInstallDate": "2008-02-22T16:06:58",
+    "radarPlace": [],
     "radarRoad": "RD751",
     "radarTronconKm": [],
     "radarType": [

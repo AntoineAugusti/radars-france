@@ -1,14 +1,14 @@
 {
-    "nid": "20068",
-    "uuid": "130df201-47ac-406a-a189-a36d2cd87a75",
-    "vid": "20068",
+    "nid": "23952",
+    "uuid": "8f89d7eb-d4fb-4243-bd8b-71fe514b8120",
+    "vid": "23952",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4744",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUMONT LA RONCE vers CHEMILLE SUR DEME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.65914 47.61531)",
-    "radarInstallDate": "2009-09-11T16:20:23",
-    "radarPlace": "BEAUMONT LOUESTAULT",
+    "radarInstallDate": "2009-09-11T16:06:42",
+    "radarPlace": [],
     "radarRoad": "RD29",
     "radarTronconKm": [],
     "radarType": [

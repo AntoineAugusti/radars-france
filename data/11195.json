@@ -1,14 +1,14 @@
 {
-    "nid": "20556",
-    "uuid": "6ac12102-d48b-4a71-befd-22f75b25169d",
-    "vid": "20556",
+    "nid": "24385",
+    "uuid": "34b9baa0-3fa5-4dce-87f2-ba49bd2ce8cc",
+    "vid": "24385",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11195",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Chartres vers Orl\u00e9ans",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.5321 48.416)",
-    "radarInstallDate": "2012-05-21T16:21:22",
-    "radarPlace": "GELLAINVILLE",
+    "radarInstallDate": "2012-05-21T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RN154",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22829",
-    "uuid": "e0ce5700-3aad-4b98-a962-fc75fab3909a",
-    "vid": "22829",
+    "nid": "26376",
+    "uuid": "74461465-1b63-47f3-962c-c6883a1e4afc",
+    "vid": "26376",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229224",
+    "revisionTimestamp": "1681741062",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_61_012",
-    "created": "1637229224",
-    "changed": "1637229224",
+    "created": "1681741062",
+    "changed": "1681741062",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "61 - Orne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.758941 0.67986)",
-    "radarInstallDate": "2017-10-06T10:53:44",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.85747 45.575614)",
+    "radarInstallDate": "2018-09-13T16:17:42",
     "radarPlace": "-",
     "radarRoad": "D664, D926, D926, D28, D293",
-    "radarTronconKm": "6.15",
+    "radarTronconKm": "6,2",
     "radarType": [
         {
             "tid": "19",

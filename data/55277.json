@@ -1,14 +1,14 @@
 {
-    "nid": "21309",
-    "uuid": "5a280449-135b-4150-b821-8ef94c3609a4",
-    "vid": "21309",
+    "nid": "25321",
+    "uuid": "9c769d95-8094-4f20-afbb-3815ed213d62",
+    "vid": "25321",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55277",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTLUCON vers BOURGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.616991 46.58836)",
-    "radarInstallDate": "2020-07-23T16:23:32",
-    "radarPlace": "MEAULNE VITRAY",
+    "radarInstallDate": "2020-07-23T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD2144",
     "radarTronconKm": [],
     "radarType": [

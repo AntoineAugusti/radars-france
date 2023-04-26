@@ -1,14 +1,14 @@
 {
-    "nid": "21211",
-    "uuid": "52754f46-6410-4126-8407-4655ed1bb015",
-    "vid": "21211",
+    "nid": "25222",
+    "uuid": "14b43b86-efb8-41a6-b206-8e4aaa9573c1",
+    "vid": "25222",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55175",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RABASTENS vers GAILLAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.83694 43.87278)",
-    "radarInstallDate": "2020-02-05T16:23:13",
-    "radarPlace": "LISLE SUR TARN",
+    "radarInstallDate": "2020-02-05T16:10:12",
+    "radarPlace": [],
     "radarRoad": "RD988",
     "radarTronconKm": [],
     "radarType": [

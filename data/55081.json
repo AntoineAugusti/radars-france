@@ -1,14 +1,14 @@
 {
-    "nid": "21118",
-    "uuid": "4541731c-2ff1-4700-aa03-e8886d79f30b",
-    "vid": "21118",
+    "nid": "25131",
+    "uuid": "691bb6c1-cafb-4638-9b78-ff04998d193f",
+    "vid": "25131",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55081",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VOLX vers MANOSQUE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.832163 43.857556)",
-    "radarInstallDate": "2019-11-25T16:22:55",
-    "radarPlace": "VOLX",
+    "radarInstallDate": "2019-11-25T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD4096",
     "radarTronconKm": [],
     "radarType": [

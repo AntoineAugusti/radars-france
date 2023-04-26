@@ -1,14 +1,14 @@
 {
-    "nid": "22397",
-    "uuid": "5c81d19e-8a80-44b5-9654-5b44fd74704a",
-    "vid": "22397",
+    "nid": "26054",
+    "uuid": "ae09c91c-3b55-471f-9e74-6305535e5ccd",
+    "vid": "26054",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE318501",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VIERZON vers THENIOUX",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.03026 47.23838)",
-    "radarInstallDate": "2013-05-06T16:27:47",
-    "radarPlace": "VIERZON",
+    "radarInstallDate": "2013-05-06T16:13:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

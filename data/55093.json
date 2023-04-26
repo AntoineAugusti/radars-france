@@ -1,14 +1,14 @@
 {
-    "nid": "21130",
-    "uuid": "bca1d9f0-de62-482b-8176-cdb5c7494f48",
-    "vid": "21130",
+    "nid": "25141",
+    "uuid": "190936ca-7aed-46de-b15f-6c512c9c2000",
+    "vid": "25141",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55093",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARES vers BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.866622 44.793916)",
-    "radarInstallDate": "2020-03-17T16:22:56",
-    "radarPlace": "ST JEAN D ILLAC",
+    "radarInstallDate": "2020-03-17T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD106",
     "radarTronconKm": [],
     "radarType": [

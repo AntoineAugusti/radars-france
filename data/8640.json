@@ -1,14 +1,14 @@
 {
-    "nid": "20376",
-    "uuid": "22e2198d-db43-4a8d-8d50-576e3d50cde2",
-    "vid": "20376",
+    "nid": "24229",
+    "uuid": "a8cb3110-0096-4ba3-aa3e-9c39a9b4a973",
+    "vid": "24229",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8640",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "KOUROU vers ST LAURENT DU MARONI",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-53.99413 5.48704)",
-    "radarInstallDate": "2014-05-15T16:20:58",
-    "radarPlace": "ST LAURENT DU MARONI",
+    "radarInstallDate": "2014-05-15T16:07:18",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

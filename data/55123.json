@@ -1,14 +1,14 @@
 {
-    "nid": "21159",
-    "uuid": "ba43695b-3df9-45a6-891a-04e0ce3e6ed9",
-    "vid": "21159",
+    "nid": "25170",
+    "uuid": "2d1a06b9-cd38-42d7-b9d7-c9ca2e85bdad",
+    "vid": "25170",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55123",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LES ARCS vers TRANS EN PROVENCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.48663 43.49302)",
-    "radarInstallDate": "2020-05-27T16:23:02",
-    "radarPlace": "TRANS EN PROVENCE",
+    "radarInstallDate": "2020-05-27T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD555",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21942",
-    "uuid": "35f741c1-d1d3-4664-a49a-ef02d17fe3f3",
-    "vid": "21942",
+    "nid": "25580",
+    "uuid": "0553523b-c387-4e4a-84d0-77e95e6a617d",
+    "vid": "25580",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE150002",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PLACE HIPPOLYTE MARS vers RUE PASTEUR",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-1.6512 49.64775)",
-    "radarInstallDate": "2010-07-02T16:25:53",
-    "radarPlace": "CHERBOURG EN COTENTIN",
+    "radarInstallDate": "2010-07-02T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

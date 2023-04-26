@@ -1,14 +1,14 @@
 {
-    "nid": "20102",
-    "uuid": "6945808f-b999-492e-9840-b3793c6d4656",
-    "vid": "20102",
+    "nid": "23986",
+    "uuid": "48247f70-b4c8-40fd-806e-3d6f3052c5f9",
+    "vid": "23986",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "5127",
-    "created": "1637229118",
-    "changed": "1675869624",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CRETEIL vers NANTERRE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.16321 48.79863)",
-    "radarInstallDate": "2011-01-09T16:20:26",
-    "radarPlace": "VIROFLAY",
+    "radarInstallDate": "2011-01-09T16:06:46",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

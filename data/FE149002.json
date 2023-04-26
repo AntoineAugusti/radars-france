@@ -1,14 +1,14 @@
 {
-    "nid": "21940",
-    "uuid": "a112aec5-0fe3-4203-b7ff-57cef4686369",
-    "vid": "21940",
+    "nid": "25579",
+    "uuid": "2929e620-db53-4e0c-ae32-7f8bd7571eb8",
+    "vid": "25579",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE149002",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGERS vers BOUCHEMAINE",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-0.54293 47.44782)",
-    "radarInstallDate": "2010-04-12T16:25:53",
-    "radarPlace": "ANGERS",
+    "radarInstallDate": "2010-04-12T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

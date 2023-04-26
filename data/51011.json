@@ -1,14 +1,14 @@
 {
-    "nid": "20661",
-    "uuid": "3c53c708-233a-49bf-81d3-af44fe2e9974",
-    "vid": "20661",
+    "nid": "24586",
+    "uuid": "3002b5b7-d78c-4aca-8f82-1d775cecb8d5",
+    "vid": "24586",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51011",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOURS vers MONNAIE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.765248 47.481523)",
-    "radarInstallDate": "2019-07-11T16:21:37",
-    "radarPlace": "MONNAIE",
+    "radarInstallDate": "2019-07-11T16:08:10",
+    "radarPlace": [],
     "radarRoad": "RD910",
     "radarTronconKm": [],
     "radarType": [

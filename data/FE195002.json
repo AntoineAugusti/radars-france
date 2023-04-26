@@ -1,14 +1,14 @@
 {
-    "nid": "22176",
-    "uuid": "8d410223-9229-4ef6-b2b9-c9ff72496953",
-    "vid": "22176",
+    "nid": "25791",
+    "uuid": "b14b95a2-42d1-4f07-99a6-9ede5ce5fd59",
+    "vid": "25791",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195002",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Le Mesnil-Aubry vers Villiers-le-Bel",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.3865 49.02346)",
-    "radarInstallDate": "2010-02-05T16:26:50",
-    "radarPlace": "ECOUEN",
+    "radarInstallDate": "2010-02-05T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

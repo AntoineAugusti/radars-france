@@ -1,14 +1,14 @@
 {
-    "nid": "20329",
-    "uuid": "c8acc508-8701-465e-9fb3-3ddf155606bb",
-    "vid": "20329",
+    "nid": "24186",
+    "uuid": "dfed3992-acc8-4d7e-a183-f5b238d96ff1",
+    "vid": "24186",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7468",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BASTIA vers CORTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (9.38193 42.51095)",
-    "radarInstallDate": "2008-07-09T16:20:53",
-    "radarPlace": "VOLPAJOLA",
+    "radarInstallDate": "2008-07-09T16:07:10",
+    "radarPlace": [],
     "radarRoad": "RT20",
     "radarTronconKm": [],
     "radarType": [

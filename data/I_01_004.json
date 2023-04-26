@@ -1,14 +1,14 @@
 {
-    "nid": "22696",
-    "uuid": "ae6638f7-9073-4ac2-a972-324ce5f3b085",
-    "vid": "22696",
+    "nid": "26204",
+    "uuid": "1f670295-9c68-4575-9414-d3262c3fa9b8",
+    "vid": "26204",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741032",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_01_004",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741032",
+    "changed": "1681741032",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "01 - Ain",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (46.105321 5.835937)",
-    "radarInstallDate": "2017-10-05T10:53:38",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.835937 46.105321)",
+    "radarInstallDate": "2017-10-05T16:17:12",
     "radarPlace": "-",
     "radarRoad": "D884A, D884D, D16A, D984, D884E, D89, D89K, D884C, D16, D984B, D884B, D1206, D906, D76, D884, D89H",
-    "radarTronconKm": "27.67",
+    "radarTronconKm": "27,7",
     "radarType": [
         {
             "tid": "19",

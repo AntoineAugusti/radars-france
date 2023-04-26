@@ -1,14 +1,14 @@
 {
-    "nid": "21817",
-    "uuid": "d36a12f0-de87-4df1-ac3c-de30ae33d56f",
-    "vid": "21817",
+    "nid": "23490",
+    "uuid": "826a0370-9ed6-49da-84e5-e44e434f642e",
+    "vid": "23490",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12572",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Aix en Provence vers Vitrolles",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.301697 43.451754)",
-    "radarInstallDate": "2021-01-04T16:25:25",
-    "radarPlace": "AIX EN PROVENCE",
+    "radarInstallDate": "2021-01-04T16:05:55",
+    "radarPlace": [],
     "radarRoad": "RD9",
     "radarTronconKm": [],
     "radarType": [

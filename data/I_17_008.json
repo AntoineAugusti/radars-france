@@ -1,14 +1,14 @@
 {
-    "nid": "22725",
-    "uuid": "0602843d-5397-4b7a-84f8-dff0cb7dac0f",
-    "vid": "22725",
+    "nid": "26245",
+    "uuid": "095e0809-354b-49ad-846c-0491ddfa9eb5",
+    "vid": "26245",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741037",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_17_008",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741037",
+    "changed": "1681741037",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "17 - Charente-Maritime",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (45.337405 -0.576627)",
-    "radarInstallDate": "2017-10-05T10:53:39",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.900841 49.692778)",
+    "radarInstallDate": "2017-10-05T16:17:18",
     "radarPlace": "-",
     "radarRoad": "A10, D137",
-    "radarTronconKm": "1.83",
+    "radarTronconKm": "1,8",
     "radarType": [
         {
             "tid": "19",

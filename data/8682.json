@@ -1,14 +1,14 @@
 {
-    "nid": "20389",
-    "uuid": "f0743e3d-b0e5-497c-a02e-7ea55976b48b",
-    "vid": "20389",
+    "nid": "24240",
+    "uuid": "40f66b22-fa97-4e7f-86f7-3aba0b0c45cf",
+    "vid": "24240",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8682",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Porte de la Villette vers la Porte de la Chapelle",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.374834 48.900368)",
-    "radarInstallDate": "2013-12-16T16:21:01",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-12-16T16:07:18",
+    "radarPlace": [],
     "radarRoad": "Porte d'Aubervilliers - BP ext\u00e9rieur (19i\u00e8me)",
     "radarTronconKm": [],
     "radarType": [

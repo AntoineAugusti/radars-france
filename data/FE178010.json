@@ -1,14 +1,14 @@
 {
-    "nid": "22117",
-    "uuid": "f5b9ee80-9a07-4612-b105-b12e6eb3aa2a",
-    "vid": "22117",
+    "nid": "25733",
+    "uuid": "630a2cd1-50b0-49b9-b656-3e9de49c9b76",
+    "vid": "25733",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178010",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord-Est vers Sud-Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.94105 48.8238)",
-    "radarInstallDate": "2011-04-28T16:26:35",
-    "radarPlace": "PLAISIR",
+    "radarInstallDate": "2011-04-28T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20709",
-    "uuid": "37b56baa-c447-456c-a0e2-782ab9ceeaa2",
-    "vid": "20709",
+    "nid": "24635",
+    "uuid": "49a70f13-a19b-4959-8f61-0046943d4319",
+    "vid": "24635",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51061",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BLOIS vers ORLEANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.444083 47.649487)",
-    "radarInstallDate": "2020-02-14T16:21:43",
-    "radarPlace": "MONTLIVAULT",
+    "radarInstallDate": "2020-02-14T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD951",
     "radarTronconKm": [],
     "radarType": [

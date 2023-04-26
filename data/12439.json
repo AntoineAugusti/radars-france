@@ -1,14 +1,14 @@
 {
-    "nid": "21713",
-    "uuid": "9929c428-e4a5-44ea-8732-605f3bf02433",
-    "vid": "21713",
+    "nid": "23381",
+    "uuid": "acb736a5-2ac6-49db-a905-ac1982380cc7",
+    "vid": "23381",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12439",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NIORT vers NANTES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.472823 47.100058)",
-    "radarInstallDate": "2016-11-28T16:25:03",
-    "radarPlace": "LE BIGNON",
+    "radarInstallDate": "2016-11-28T16:05:46",
+    "radarPlace": [],
     "radarRoad": "A83",
     "radarTronconKm": [],
     "radarType": [

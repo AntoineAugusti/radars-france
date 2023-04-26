@@ -1,14 +1,14 @@
 {
-    "nid": "22553",
-    "uuid": "81702956-70ac-40ee-8e20-5c5eb1a73896",
-    "vid": "22553",
+    "nid": "26033",
+    "uuid": "74fac54e-c02e-4e40-80ae-428ba1cfed01",
+    "vid": "26033",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE366018",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Av. de la C\u00f4te Vermeille vers le Sud-Ouest",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.90664 42.68945)",
-    "radarInstallDate": "2012-01-03T16:28:36",
-    "radarPlace": "PERPIGNAN",
+    "radarInstallDate": "2012-01-03T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

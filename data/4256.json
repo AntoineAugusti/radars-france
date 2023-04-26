@@ -1,14 +1,14 @@
 {
-    "nid": "19973",
-    "uuid": "737523f8-1877-4400-a0b8-0d926ebad147",
-    "vid": "19973",
+    "nid": "23864",
+    "uuid": "cfcef612-530a-4ecd-932c-f6038204380c",
+    "vid": "23864",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4256",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIMOGES vers BELLAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.15898 45.98402)",
-    "radarInstallDate": "2009-02-03T16:20:13",
-    "radarPlace": "PEYRILHAC",
+    "radarInstallDate": "2009-02-03T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RN147",
     "radarTronconKm": [],
     "radarType": [

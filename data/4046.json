@@ -1,14 +1,14 @@
 {
-    "nid": "19929",
-    "uuid": "29775031-63d5-449b-b606-daa705c2f3ca",
-    "vid": "19929",
+    "nid": "23821",
+    "uuid": "67787777-4e8b-4353-8818-2b38ba5a322f",
+    "vid": "23821",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4046",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHALON SUR SAONE vers BESANCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.45915 47.07487)",
-    "radarInstallDate": "2008-11-07T16:20:08",
-    "radarPlace": "DOLE",
+    "radarInstallDate": "2008-11-07T16:06:28",
+    "radarPlace": [],
     "radarRoad": "RD905",
     "radarTronconKm": [],
     "radarType": [

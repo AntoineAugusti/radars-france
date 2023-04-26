@@ -1,14 +1,14 @@
 {
-    "nid": "19688",
-    "uuid": "5210a34a-37a8-4c99-ae17-18844be19594",
-    "vid": "19688",
+    "nid": "23623",
+    "uuid": "fea2a386-230f-41ab-99d6-af9c24295f97",
+    "vid": "23623",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "205",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AVIGNON VERS ORANGE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.84069 43.94887)",
-    "radarInstallDate": "2006-02-20T16:19:47",
-    "radarPlace": "AVIGNON",
+    "radarInstallDate": "2006-02-20T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RD907",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20831",
-    "uuid": "0fab7971-b630-483d-8777-ad997d0d4d8a",
-    "vid": "20831",
+    "nid": "24755",
+    "uuid": "a7865e7e-edc9-4918-bac2-ffb6a366b692",
+    "vid": "24755",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51183",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTJEAN vers ST BERTHEVIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.86747 48.050064)",
-    "radarInstallDate": "2019-11-04T16:22:03",
-    "radarPlace": "AHUILLE",
+    "radarInstallDate": "2019-11-04T16:08:41",
+    "radarPlace": [],
     "radarRoad": "RD32",
     "radarTronconKm": [],
     "radarType": [

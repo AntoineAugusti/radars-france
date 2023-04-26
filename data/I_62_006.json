@@ -1,14 +1,14 @@
 {
-    "nid": "22833",
-    "uuid": "c6eb1d8f-421f-4e4e-8275-85b86ceaa56c",
-    "vid": "22833",
+    "nid": "26380",
+    "uuid": "184af24a-0956-4f5e-a87f-df75594cc731",
+    "vid": "26380",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229224",
+    "revisionTimestamp": "1681741062",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_62_006",
-    "created": "1637229224",
-    "changed": "1637229224",
+    "created": "1681741062",
+    "changed": "1681741062",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "62 - Pas-de-Calais",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "2.494718, 50.464253",
-    "radarEquipment": "-",
+    "radarDirection": "45.470547, 5.990463",
+    "radarEquipment": "AXIMUM",
     "radarGeolocalisation": [],
-    "radarInstallDate": "2017-10-06T10:53:44",
+    "radarInstallDate": "2018-10-02T16:17:43",
     "radarPlace": "D941\"",
     "radarRoad": "\"300",
-    "radarTronconKm": "-",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

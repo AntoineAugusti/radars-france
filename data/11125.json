@@ -1,14 +1,14 @@
 {
-    "nid": "20531",
-    "uuid": "8ea96b28-cb9a-402f-8fc8-26e074dd5cf3",
-    "vid": "20531",
+    "nid": "24363",
+    "uuid": "b59bda8e-ed17-45e6-933f-3244273bf4d2",
+    "vid": "24363",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11125",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vence vers Cagnes sur Mer",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.128745 43.680891)",
-    "radarInstallDate": "2012-11-23T16:21:18",
-    "radarPlace": "ST PAUL DE VENCE",
+    "radarInstallDate": "2012-11-23T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD336",
     "radarTronconKm": [],
     "radarType": [

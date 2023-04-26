@@ -1,14 +1,14 @@
 {
-    "nid": "19829",
-    "uuid": "04a1478d-fa8d-49b7-9fa4-6fec0db65810",
-    "vid": "19829",
+    "nid": "23745",
+    "uuid": "47216ab6-481e-49d3-bc74-711f5cc61d08",
+    "vid": "23745",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "689",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAU VERS BAYONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.49054 43.35347)",
-    "radarInstallDate": "2005-09-01T16:19:58",
-    "radarPlace": "AUSSEVIELLE",
+    "radarInstallDate": "2005-09-01T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RD817",
     "radarTronconKm": [],
     "radarType": [

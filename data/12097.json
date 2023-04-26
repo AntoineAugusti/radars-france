@@ -1,14 +1,14 @@
 {
-    "nid": "21490",
-    "uuid": "fd2ad767-36d8-47af-9a22-c794524ae9cb",
-    "vid": "21490",
+    "nid": "23163",
+    "uuid": "15a791c8-0904-4417-a2c2-0ed2af5400e5",
+    "vid": "23163",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12097",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUROUX vers LIMOGES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.5017 46.605)",
-    "radarInstallDate": "2013-01-23T16:24:10",
-    "radarPlace": "ST MARCEL",
+    "radarInstallDate": "2013-01-23T16:05:31",
+    "radarPlace": [],
     "radarRoad": "A20",
     "radarTronconKm": [],
     "radarType": [

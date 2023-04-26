@@ -1,14 +1,14 @@
 {
-    "nid": "21663",
-    "uuid": "4d17a525-1147-4884-896c-25c7636757d8",
-    "vid": "21663",
+    "nid": "23331",
+    "uuid": "4a2faacf-7f91-4bf6-98d8-e8fdc8d647bd",
+    "vid": "23331",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12384",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VALENCIENNES vers MAUBEUGE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.85408 50.29578)",
-    "radarInstallDate": "2016-10-06T16:24:50",
-    "radarPlace": "LA LONGUEVILLE",
+    "radarInstallDate": "2016-10-06T16:05:42",
+    "radarPlace": [],
     "radarRoad": "RD649",
     "radarTronconKm": [],
     "radarType": [

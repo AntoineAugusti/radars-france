@@ -1,14 +1,14 @@
 {
-    "nid": "21058",
-    "uuid": "11da7452-eb43-4c30-a527-f029c1f656c6",
-    "vid": "21058",
+    "nid": "25071",
+    "uuid": "5ad3d7ee-a15b-43f3-8cbd-5aa01ea0ac0d",
+    "vid": "25071",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55021",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COMBRONDE vers SAINT PARDOUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.07987 46.031722)",
-    "radarInstallDate": "2020-03-04T16:22:43",
-    "radarPlace": "JOZERAND",
+    "radarInstallDate": "2020-03-04T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD2144",
     "radarTronconKm": [],
     "radarType": [

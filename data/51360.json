@@ -1,14 +1,14 @@
 {
-    "nid": "20986",
-    "uuid": "e77c6d5c-23c8-4dcc-bf5f-cd5b369f492c",
-    "vid": "20986",
+    "nid": "24923",
+    "uuid": "5155ca05-3a0b-4a13-b46b-3fbd64910a88",
+    "vid": "24923",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51360",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUNEUF D' ILLE ET V. vers LA GOUESNIERE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.90817 48.586077)",
-    "radarInstallDate": "2021-01-20T16:22:29",
-    "radarPlace": "SAINT GUINOUX",
+    "radarInstallDate": "2021-01-20T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD76",
     "radarTronconKm": [],
     "radarType": [

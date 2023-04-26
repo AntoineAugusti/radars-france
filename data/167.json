@@ -1,14 +1,14 @@
 {
-    "nid": "19674",
-    "uuid": "126bdefd-2be9-4e71-bb2f-38bdbf1bcf09",
-    "vid": "19674",
+    "nid": "23610",
+    "uuid": "e4d65f20-9e5b-43c0-8006-c94b2f7a0e3b",
+    "vid": "23610",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "167",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MARSEILLE VERS MENTON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.25137 43.73442)",
-    "radarInstallDate": "2004-05-10T16:19:47",
-    "radarPlace": "NICE",
+    "radarInstallDate": "2004-05-10T16:06:06",
+    "radarPlace": [],
     "radarRoad": "A8",
     "radarTronconKm": [],
     "radarType": [

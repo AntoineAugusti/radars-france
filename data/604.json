@@ -1,14 +1,14 @@
 {
-    "nid": "19801",
-    "uuid": "60b25af5-edb2-44bd-9828-ba5d74438197",
-    "vid": "19801",
+    "nid": "23722",
+    "uuid": "2ec4f688-5cc3-47c3-a20c-e42aae42b714",
+    "vid": "23722",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "604",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINTES vers LA CLISSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.75166 45.73516)",
-    "radarInstallDate": "2005-08-06T16:19:55",
-    "radarPlace": "LA CLISSE",
+    "radarInstallDate": "2005-08-06T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RD728",
     "radarTronconKm": [],
     "radarType": [

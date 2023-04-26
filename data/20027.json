@@ -1,14 +1,14 @@
 {
-    "nid": "22608",
-    "uuid": "847ea902-62e9-4fce-81f3-ac4a8ea0516c",
-    "vid": "22608",
+    "nid": "26133",
+    "uuid": "cd888f1a-a55e-470b-9385-f021cf422b78",
+    "vid": "26133",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20027",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "LE PUY EN VELAY vers PRADELLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.88568 44.7838)",
-    "radarInstallDate": "2013-09-13T10:53:35",
+    "radarInstallDate": "2013-09-13T16:17:05",
     "radarPlace": "PRADELLES",
     "radarRoad": "RN88",
     "radarTronconKm": "7,9",

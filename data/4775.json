@@ -1,14 +1,14 @@
 {
-    "nid": "20072",
-    "uuid": "78c37d1b-7134-43c4-bff8-446af4d4a56e",
-    "vid": "20072",
+    "nid": "23956",
+    "uuid": "66d08bee-7986-4d66-9227-f2b857165449",
+    "vid": "23956",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4775",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LISIEUX vers EVREUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.36219 49.1436)",
-    "radarInstallDate": "2009-12-04T16:20:23",
-    "radarPlace": "MAROLLES",
+    "radarInstallDate": "2009-12-04T16:06:42",
+    "radarPlace": [],
     "radarRoad": "RD613",
     "radarTronconKm": [],
     "radarType": [

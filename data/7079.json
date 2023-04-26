@@ -1,14 +1,14 @@
 {
-    "nid": "20235",
-    "uuid": "21665d26-79e8-419c-8741-64a075604ba2",
-    "vid": "20235",
+    "nid": "24106",
+    "uuid": "cc6ccfdc-b4f0-462b-81c3-254cd3da8765",
+    "vid": "24106",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7079",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BONNEVILLE VERS CLUSES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.44769 46.0686)",
-    "radarInstallDate": "2010-01-08T16:20:39",
-    "radarPlace": "BONNEVILLE",
+    "radarInstallDate": "2010-01-08T16:07:01",
+    "radarPlace": [],
     "radarRoad": "RD19",
     "radarTronconKm": [],
     "radarType": [

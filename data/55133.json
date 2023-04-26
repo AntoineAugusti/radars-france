@@ -1,14 +1,14 @@
 {
-    "nid": "21169",
-    "uuid": "518b4b15-970e-4aeb-bddc-111e449f832d",
-    "vid": "21169",
+    "nid": "25180",
+    "uuid": "9e5b3075-080d-4178-ba41-1aa42ae0eaf7",
+    "vid": "25180",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55133",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BARJOLS vers ROQUEVAIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.868703 43.472033)",
-    "radarInstallDate": "2020-03-10T16:23:07",
-    "radarPlace": "ST MAXIMIN LA STE BAUME",
+    "radarInstallDate": "2020-03-10T16:10:01",
+    "radarPlace": [],
     "radarRoad": "RD560",
     "radarTronconKm": [],
     "radarType": [

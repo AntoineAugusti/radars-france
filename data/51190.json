@@ -1,14 +1,14 @@
 {
-    "nid": "20838",
-    "uuid": "7d135257-db09-4ec3-ab47-cdb36acf46a1",
-    "vid": "20838",
+    "nid": "24761",
+    "uuid": "778f50a3-3b9b-422f-8620-1c7c5edfb3c4",
+    "vid": "24761",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51190",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NEVERS vers CHATEAU CHINON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.258549 46.989348)",
-    "radarInstallDate": "2019-12-10T16:22:03",
-    "radarPlace": "SAUVIGNY LES BOIS",
+    "radarInstallDate": "2019-12-10T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD978",
     "radarTronconKm": [],
     "radarType": [

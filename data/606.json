@@ -1,14 +1,14 @@
 {
-    "nid": "19802",
-    "uuid": "665169d7-414c-46f4-b98e-7ea61584ec7f",
-    "vid": "19802",
+    "nid": "23723",
+    "uuid": "389ee18c-080e-44cc-a6ed-ca5c5bcc622e",
+    "vid": "23723",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "606",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST JEAN DE MONTS VERS CHALLANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.9746 46.82249)",
-    "radarInstallDate": "2005-07-19T16:19:55",
-    "radarPlace": "LE PERRIER",
+    "radarInstallDate": "2005-07-19T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RD753",
     "radarTronconKm": [],
     "radarType": [

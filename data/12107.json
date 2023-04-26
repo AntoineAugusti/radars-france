@@ -1,14 +1,14 @@
 {
-    "nid": "21496",
-    "uuid": "dc8fa5d0-0d2f-4ca0-8f9c-f7374dd5c5f9",
-    "vid": "21496",
+    "nid": "23169",
+    "uuid": "71858c4a-4969-4841-bd8a-293a8a4cd8c1",
+    "vid": "23169",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12107",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAEN vers RENNES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.29568 48.73475)",
-    "radarInstallDate": "2012-09-17T16:24:10",
-    "radarPlace": "LE PARC",
+    "radarInstallDate": "2012-09-17T16:05:31",
+    "radarPlace": [],
     "radarRoad": "A84",
     "radarTronconKm": [],
     "radarType": [

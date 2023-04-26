@@ -1,14 +1,14 @@
 {
-    "nid": "20375",
-    "uuid": "514d7dc6-d18d-406d-9906-3556e914e9ea",
-    "vid": "20375",
+    "nid": "24228",
+    "uuid": "81af1751-d355-4253-99c7-0cf19a468715",
+    "vid": "24228",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8637",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MACOURIA TONATE vers MATOURY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-52.37054 4.90992)",
-    "radarInstallDate": "2013-01-23T16:20:58",
-    "radarPlace": "MACOURIA TONATE",
+    "radarInstallDate": "2013-01-23T16:07:18",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

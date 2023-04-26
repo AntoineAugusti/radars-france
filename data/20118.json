@@ -1,14 +1,14 @@
 {
-    "nid": "22650",
-    "uuid": "3fa8a098-4ecc-48e7-9a47-57a38a321507",
-    "vid": "22650",
+    "nid": "26169",
+    "uuid": "61888d05-5468-4f9e-b9ac-5c0768d74b61",
+    "vid": "26169",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20118",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "PLOERMEL vers CAMPENEAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.3229 47.93048)",
-    "radarInstallDate": "2013-07-15T10:53:36",
+    "radarInstallDate": "2013-07-15T16:17:09",
     "radarPlace": "CAMPENEAC",
     "radarRoad": "RN24",
     "radarTronconKm": "3",

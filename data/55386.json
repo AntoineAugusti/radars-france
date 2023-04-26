@@ -1,14 +1,14 @@
 {
-    "nid": "21405",
-    "uuid": "20a5346c-2824-435d-a3f9-43186ed99362",
-    "vid": "21405",
+    "nid": "25422",
+    "uuid": "5245ced9-570d-44f4-98b8-d1db1663645a",
+    "vid": "25422",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55386",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AIX LES BAINS vers ANNECY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.92658 45.749892)",
-    "radarInstallDate": "2021-06-03T16:23:51",
-    "radarPlace": "LA BIOLLE",
+    "radarInstallDate": "2021-06-03T16:10:56",
+    "radarPlace": [],
     "radarRoad": "RD1201",
     "radarTronconKm": [],
     "radarType": [

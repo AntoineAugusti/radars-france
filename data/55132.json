@@ -1,14 +1,14 @@
 {
-    "nid": "21168",
-    "uuid": "daab84eb-d22e-4b12-a0a1-70d57850b6dd",
-    "vid": "21168",
+    "nid": "25179",
+    "uuid": "c0de9ea2-d29a-4fe9-816c-58c50097763f",
+    "vid": "25179",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55132",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRIGNOLES vers CUERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.04887 43.38478)",
-    "radarInstallDate": "2020-03-04T16:23:02",
-    "radarPlace": "BRIGNOLES",
+    "radarInstallDate": "2020-03-04T16:10:01",
+    "radarPlace": [],
     "radarRoad": "RD43",
     "radarTronconKm": [],
     "radarType": [

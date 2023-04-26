@@ -1,14 +1,14 @@
 {
-    "nid": "20889",
-    "uuid": "474f3500-f7fb-458a-8a21-57de313d25bb",
-    "vid": "20889",
+    "nid": "24816",
+    "uuid": "8ffc0edd-663d-4754-b958-6ccc28ca84d5",
+    "vid": "24816",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51248",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SALBRIS vers BOURGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.319611 47.204714)",
-    "radarInstallDate": "2020-06-12T16:22:13",
-    "radarPlace": "ALLOGNY",
+    "radarInstallDate": "2020-06-12T16:08:52",
+    "radarPlace": [],
     "radarRoad": "RD944",
     "radarTronconKm": [],
     "radarType": [

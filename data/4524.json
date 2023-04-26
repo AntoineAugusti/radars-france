@@ -1,14 +1,14 @@
 {
-    "nid": "20031",
-    "uuid": "57331dff-b047-4880-8b9e-126fdbecb698",
-    "vid": "20031",
+    "nid": "23917",
+    "uuid": "e47a85b1-87c7-45c1-aba1-294a19bd18b5",
+    "vid": "23917",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4524",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Epinal vers G\u00e9rardmer",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.78879 48.07847)",
-    "radarInstallDate": "2009-07-27T16:20:19",
-    "radarPlace": "GERARDMER",
+    "radarInstallDate": "2009-07-27T16:06:38",
+    "radarPlace": [],
     "radarRoad": "RD417",
     "radarTronconKm": [],
     "radarType": [

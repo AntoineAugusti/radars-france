@@ -1,14 +1,14 @@
 {
-    "nid": "20526",
-    "uuid": "7768f2a4-bec4-45e3-8cc9-77f7ea40efd1",
-    "vid": "20526",
+    "nid": "24358",
+    "uuid": "3f97937d-0ef8-40a1-95aa-0cbdf3519a58",
+    "vid": "24358",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11104",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bossendorf vers Lixhausen",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.55887 48.7867)",
-    "radarInstallDate": "2012-09-21T16:21:18",
-    "radarPlace": "BOSSENDORF",
+    "radarInstallDate": "2012-09-21T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD7",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20849",
-    "uuid": "219c5f7f-6e9d-45db-b757-4016c4075ee2",
-    "vid": "20849",
+    "nid": "24773",
+    "uuid": "574c70c0-56f6-4044-b6da-56e61cf3e82a",
+    "vid": "24773",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51202",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHENIMENIL vers EPINAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.564044 48.152362)",
-    "radarInstallDate": "2020-08-07T16:22:08",
-    "radarPlace": "LA BAFFE",
+    "radarInstallDate": "2020-08-07T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD11",
     "radarTronconKm": [],
     "radarType": [

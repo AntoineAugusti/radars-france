@@ -1,14 +1,14 @@
 {
-    "nid": "20441",
-    "uuid": "0dca734a-076c-40c4-8ffa-82beed47d6da",
-    "vid": "20441",
+    "nid": "24287",
+    "uuid": "b4f46497-3b19-469f-8fab-2a1290dc08c3",
+    "vid": "24287",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8851",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA FLECHE vers SABLE SUR SARTHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.27798 47.80844)",
-    "radarInstallDate": "2011-04-07T16:21:06",
-    "radarPlace": "VION",
+    "radarInstallDate": "2011-04-07T16:07:26",
+    "radarPlace": [],
     "radarRoad": "RD306",
     "radarTronconKm": [],
     "radarType": [

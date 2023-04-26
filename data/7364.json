@@ -1,14 +1,14 @@
 {
-    "nid": "20309",
-    "uuid": "28ff3ee2-4ea4-4929-b004-80bcf9ac13aa",
-    "vid": "20309",
+    "nid": "24172",
+    "uuid": "b3f98ae8-4ea8-46f7-994c-f65d422986a9",
+    "vid": "24172",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7364",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "METZ vers TOUL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.16654 48.7198)",
-    "radarInstallDate": "2008-07-24T16:20:49",
-    "radarPlace": "MAXEVILLE",
+    "radarInstallDate": "2008-07-24T16:07:10",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

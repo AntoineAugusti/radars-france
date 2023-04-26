@@ -1,14 +1,14 @@
 {
-    "nid": "20298",
-    "uuid": "6e95a80a-750e-48de-a17f-20362e5064ac",
-    "vid": "20298",
+    "nid": "24162",
+    "uuid": "876d8a68-f57c-4ee1-8892-3d8adcc42fb3",
+    "vid": "24162",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7308",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAR SUR AUBE vers VILLE SOUS LA FERTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.76694 48.1988)",
-    "radarInstallDate": "2008-04-02T16:20:46",
-    "radarPlace": "BAYEL",
+    "radarInstallDate": "2008-04-02T16:07:09",
+    "radarPlace": [],
     "radarRoad": "RD396",
     "radarTronconKm": [],
     "radarType": [

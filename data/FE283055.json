@@ -1,14 +1,14 @@
 {
-    "nid": "22327",
-    "uuid": "a5df1c3f-3cdb-484b-8d10-9a6e43e295e5",
-    "vid": "22327",
+    "nid": "25883",
+    "uuid": "bbcbb5a3-eac3-4204-a94b-546f582b468b",
+    "vid": "25883",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE283055",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vers l'Avenue L\u00e9opold Ritondale",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.13148 43.11838)",
-    "radarInstallDate": "2012-10-03T16:27:30",
-    "radarPlace": "HYERES",
+    "radarInstallDate": "2012-10-03T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21584",
-    "uuid": "5ed51696-f393-42a5-b5cf-0199ac04edfc",
-    "vid": "21584",
+    "nid": "23254",
+    "uuid": "e3efdcd5-17dc-40b8-834d-996f6a77e570",
+    "vid": "23254",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12266",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERNEUIL SUR AVRE vers NONANCOURT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.96123 48.74226)",
-    "radarInstallDate": "2014-02-14T16:24:29",
-    "radarPlace": "VERNEUIL D AVRE ET D ITON",
+    "radarInstallDate": "2014-02-14T16:05:36",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

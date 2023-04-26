@@ -1,14 +1,14 @@
 {
-    "nid": "20509",
-    "uuid": "98390d84-31c4-40e8-b9d9-f645a7cd48de",
-    "vid": "20509",
+    "nid": "24346",
+    "uuid": "ac2500de-b534-413f-a62d-dce3a3fdea03",
+    "vid": "24346",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11052",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST CYR vers BANDOL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.7408 43.156)",
-    "radarInstallDate": "2012-01-19T16:21:17",
-    "radarPlace": "BANDOL",
+    "radarInstallDate": "2012-01-19T16:07:32",
+    "radarPlace": [],
     "radarRoad": "RD559",
     "radarTronconKm": [],
     "radarType": [

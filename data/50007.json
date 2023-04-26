@@ -1,14 +1,14 @@
 {
-    "nid": "20594",
-    "uuid": "d3eb7c73-a7ed-45ee-a87e-b01813bc8880",
-    "vid": "20594",
+    "nid": "24510",
+    "uuid": "42c9ace2-d3b0-44c5-8436-d0e91ec7fd36",
+    "vid": "24510",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50007",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE GOSIER vers BAIE MAHAULT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.535 16.25361)",
-    "radarInstallDate": "2021-05-11T16:21:27",
-    "radarPlace": "LES ABYMES",
+    "radarInstallDate": "2021-05-11T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

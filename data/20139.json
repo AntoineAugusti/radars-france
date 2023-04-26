@@ -1,14 +1,14 @@
 {
-    "nid": "22658",
-    "uuid": "5798f698-5bf1-46dc-8169-973f64459338",
-    "vid": "22658",
+    "nid": "26175",
+    "uuid": "f926649a-ec5f-4785-84ac-dc1e4b4a8dd4",
+    "vid": "26175",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20139",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "Tours vers Blois",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.86989 47.40195)",
-    "radarInstallDate": "2014-10-27T10:53:37",
+    "radarInstallDate": "2014-10-27T16:17:09",
     "radarPlace": "NOIZAY",
-    "radarRoad": "RD952",
+    "radarRoad": "RD 952",
     "radarTronconKm": "3,1",
     "radarType": [
         {

@@ -1,14 +1,14 @@
 {
-    "nid": "22852",
-    "uuid": "ddb891bc-3a2d-425f-b89f-4f80d0991c97",
-    "vid": "22852",
+    "nid": "26402",
+    "uuid": "f32a3c3e-03c6-4490-86df-d084589c9c5b",
+    "vid": "26402",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229226",
+    "revisionTimestamp": "1681741067",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_69_002",
-    "created": "1637229226",
-    "changed": "1637229226",
+    "created": "1681741067",
+    "changed": "1681741067",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "69 - Rh\u00f4ne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (45.968284 4.67188)",
-    "radarInstallDate": "2017-10-09T10:53:46",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.228408 45.686301)",
+    "radarInstallDate": "2017-10-05T16:17:49",
     "radarPlace": "-",
     "radarRoad": "D656, D338, D38E, D76, D38E3, D660, D39, D607, D19",
-    "radarTronconKm": "11.27",
+    "radarTronconKm": "11,3",
     "radarType": [
         {
             "tid": "19",

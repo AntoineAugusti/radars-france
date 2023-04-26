@@ -1,14 +1,14 @@
 {
-    "nid": "21671",
-    "uuid": "d6a235db-fd34-4e0d-ac2e-916aa4b95bf1",
-    "vid": "21671",
+    "nid": "23339",
+    "uuid": "679ce995-41ad-45c6-bec3-8189d36cc24e",
+    "vid": "23339",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12392",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RENNES vers LORIENT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.91588 48.0532)",
-    "radarInstallDate": "2016-10-17T16:24:50",
-    "radarPlace": "BREAL SOUS MONTFORT",
+    "radarInstallDate": "2016-10-17T16:05:43",
+    "radarPlace": [],
     "radarRoad": "RN24",
     "radarTronconKm": [],
     "radarType": [

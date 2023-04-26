@@ -1,14 +1,14 @@
 {
-    "nid": "20625",
-    "uuid": "a176dc7c-edf2-4a8e-9c5a-b189f1d746bd",
-    "vid": "20625",
+    "nid": "24543",
+    "uuid": "3f1d769a-c6dc-4207-82c2-030b0ca325a5",
+    "vid": "24543",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50247",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE LORRAIN vers STE MARIE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.020923 14.809403)",
-    "radarInstallDate": "2021-04-29T16:21:31",
-    "radarPlace": "LE MARIGOT",
+    "radarInstallDate": "2021-04-29T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

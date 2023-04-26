@@ -1,14 +1,14 @@
 {
-    "nid": "20683",
-    "uuid": "68566ee6-e8f6-4927-bc95-d56249450e1b",
-    "vid": "20683",
+    "nid": "24608",
+    "uuid": "a28f9dc0-4964-4e1b-8cbc-559726fe6e7a",
+    "vid": "24608",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51034",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AMIENS vers ALBERT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.544932 49.9715)",
-    "radarInstallDate": "2019-08-26T16:21:38",
-    "radarPlace": "RIBEMONT SUR ANCRE",
+    "radarInstallDate": "2019-08-26T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD929",
     "radarTronconKm": [],
     "radarType": [

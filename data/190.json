@@ -1,14 +1,14 @@
 {
-    "nid": "19684",
-    "uuid": "b245a3d7-9114-4fa7-869a-7472634fb74b",
-    "vid": "19684",
+    "nid": "23619",
+    "uuid": "c6e3fdbb-faf8-4eda-8de8-4cc140a07736",
+    "vid": "23619",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "190",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MARTIGUES vers MARSEILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.34679 43.34427)",
-    "radarInstallDate": "2004-09-23T16:19:47",
-    "radarPlace": "MARSEILLE",
+    "radarInstallDate": "2004-09-23T16:06:06",
+    "radarPlace": [],
     "radarRoad": "A55",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21736",
-    "uuid": "1411c737-f136-4919-9ae3-6511ab32f7b3",
-    "vid": "21736",
+    "nid": "23404",
+    "uuid": "e17c3dfd-74fd-4aef-989e-312e8bbcaa3c",
+    "vid": "23404",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12470",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PERPIGNAN vers CANET EN ROUSSILLON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.987414 42.706584)",
-    "radarInstallDate": "2016-11-14T16:25:04",
-    "radarPlace": "CANET EN ROUSSILLON",
+    "radarInstallDate": "2016-11-14T16:05:48",
+    "radarPlace": [],
     "radarRoad": "RD617",
     "radarTronconKm": [],
     "radarType": [

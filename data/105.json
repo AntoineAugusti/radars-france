@@ -1,14 +1,14 @@
 {
-    "nid": "19641",
-    "uuid": "59d2a811-f1fa-480d-a196-5d4b347f879d",
-    "vid": "19641",
+    "nid": "23582",
+    "uuid": "f5f4f6bb-cb06-461e-9790-910ba654c1a9",
+    "vid": "23582",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "105",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS CORBEIL ESSONNES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.4065 48.63212)",
-    "radarInstallDate": "2003-10-31T16:19:45",
-    "radarPlace": "COURCOURONNES",
+    "radarInstallDate": "2003-10-31T16:06:03",
+    "radarPlace": [],
     "radarRoad": "A6",
     "radarTronconKm": [],
     "radarType": [

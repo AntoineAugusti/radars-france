@@ -1,14 +1,14 @@
 {
-    "nid": "22114",
-    "uuid": "565ded69-c8df-463d-b52c-84b4f91d4464",
-    "vid": "22114",
+    "nid": "25730",
+    "uuid": "ae8a8bfa-b98f-46a4-b4a3-e42fa3256dd7",
+    "vid": "25730",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178005",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Versailles vers St Germain en Laye",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.10732 48.85559)",
-    "radarInstallDate": "2011-02-21T16:26:35",
-    "radarPlace": "LOUVECIENNES",
+    "radarInstallDate": "2011-02-21T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

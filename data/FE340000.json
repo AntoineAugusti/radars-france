@@ -1,14 +1,14 @@
 {
-    "nid": "22486",
-    "uuid": "ca016bc2-2321-4a4b-ae88-4fdaea490921",
-    "vid": "22486",
+    "nid": "25990",
+    "uuid": "e79580a3-bf74-4c0e-b418-ea305fba68c6",
+    "vid": "25990",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE340000",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Dax vers Tercis",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.0693 43.69448)",
-    "radarInstallDate": "2010-01-18T16:28:11",
-    "radarPlace": "DAX",
+    "radarInstallDate": "2010-01-18T16:13:33",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

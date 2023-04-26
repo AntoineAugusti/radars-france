@@ -1,14 +1,14 @@
 {
-    "nid": "19741",
-    "uuid": "764b2b5d-21e6-48ad-b836-b4b88f4e4159",
-    "vid": "19741",
+    "nid": "23669",
+    "uuid": "7c214f16-afca-461b-8bdb-42a5ad4e23f5",
+    "vid": "23669",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740370",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "390",
-    "created": "1637229109",
-    "changed": "1675869590",
+    "created": "1681740370",
+    "changed": "1681740370",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VOLX vers LA BRILLANNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.86389 43.88555)",
-    "radarInstallDate": "2004-11-27T16:19:51",
-    "radarPlace": "VILLENEUVE",
+    "radarInstallDate": "2004-11-27T16:06:12",
+    "radarPlace": [],
     "radarRoad": "RD4096",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22047",
-    "uuid": "e6cfb175-88ff-4973-938c-cc4f32c5db27",
-    "vid": "22047",
+    "nid": "25664",
+    "uuid": "59b740dd-7c6d-4b50-94e3-81900c666ec6",
+    "vid": "25664",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE167002",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Quai des Alpes vers la Place de l'\u00e9toile",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.75624 48.5754)",
-    "radarInstallDate": "2010-01-08T16:26:21",
-    "radarPlace": "STRASBOURG",
+    "radarInstallDate": "2010-01-08T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

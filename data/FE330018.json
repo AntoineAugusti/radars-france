@@ -1,14 +1,14 @@
 {
-    "nid": "22420",
-    "uuid": "3ed09b97-beca-4b23-b436-c83a78a01740",
-    "vid": "22420",
+    "nid": "25939",
+    "uuid": "36f773c0-91b0-493e-ab84-5268d88217fd",
+    "vid": "25939",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE330018",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Uz\u00e8s vers N\u00eemes centre ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (4.37393 43.84966)",
-    "radarInstallDate": "2011-04-01T16:27:55",
-    "radarPlace": "NIMES",
+    "radarInstallDate": "2011-04-01T16:13:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

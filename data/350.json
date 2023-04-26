@@ -1,14 +1,14 @@
 {
-    "nid": "19729",
-    "uuid": "3738b97e-099e-4027-9bac-c183b1e278e9",
-    "vid": "19729",
+    "nid": "23657",
+    "uuid": "c37837f5-2c13-4bba-9342-0fb7b2e75b51",
+    "vid": "23657",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "350",
-    "created": "1637229109",
-    "changed": "1675869590",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE MANS VERS RENNES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.75272 48.06907)",
-    "radarInstallDate": "2005-12-29T16:19:50",
-    "radarPlace": "LAVAL",
+    "radarInstallDate": "2005-12-29T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RD57",
     "radarTronconKm": [],
     "radarType": [

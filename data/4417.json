@@ -1,14 +1,14 @@
 {
-    "nid": "20004",
-    "uuid": "29d5179c-2f3e-4c48-8a11-cdb0f17ee336",
-    "vid": "20004",
+    "nid": "23891",
+    "uuid": "9d84fc82-64b9-4861-ac52-e7f2f4e4ba67",
+    "vid": "23891",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4417",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLECRESNES vers CRETEIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.5088 48.749)",
-    "radarInstallDate": "2009-05-20T16:20:17",
-    "radarPlace": "BOISSY ST LEGER",
+    "radarInstallDate": "2009-05-20T16:06:35",
+    "radarPlace": [],
     "radarRoad": "RN19",
     "radarTronconKm": [],
     "radarType": [

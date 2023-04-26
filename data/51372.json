@@ -1,14 +1,14 @@
 {
-    "nid": "20994",
-    "uuid": "a2337bb7-6563-4804-8ead-feac1e5a2f72",
-    "vid": "20994",
+    "nid": "24932",
+    "uuid": "d15e385f-afb8-4655-ab25-05efd58adc32",
+    "vid": "24932",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51372",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AUXERRE vers AVALLON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.840141 47.512258)",
-    "radarInstallDate": "2020-12-03T16:22:32",
-    "radarPlace": "VAULT DE LUGNY",
+    "radarInstallDate": "2020-12-03T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD606",
     "radarTronconKm": [],
     "radarType": [

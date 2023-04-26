@@ -1,14 +1,14 @@
 {
-    "nid": "22659",
-    "uuid": "80503714-323d-4d6a-a0e4-3bbd74435073",
-    "vid": "22659",
+    "nid": "26176",
+    "uuid": "771e4252-d84b-4dc4-bf70-db342986aecb",
+    "vid": "26176",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20141",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "Arras vers Doullens",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.61717 50.22812)",
-    "radarInstallDate": "2014-03-03T10:53:37",
+    "radarInstallDate": "2014-03-03T16:17:09",
     "radarPlace": "BAILLEULVAL",
     "radarRoad": "RN25",
     "radarTronconKm": "2,4",

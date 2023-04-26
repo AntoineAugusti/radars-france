@@ -1,14 +1,14 @@
 {
-    "nid": "20620",
-    "uuid": "87a87708-9b39-47e1-9699-69abbd9a4a04",
-    "vid": "20620",
+    "nid": "24537",
+    "uuid": "cec14c6d-9204-435b-aac3-b57a74af4c63",
+    "vid": "24537",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50239",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE VAUCLIN vers LE FRANCOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-60.872771 14.59521)",
-    "radarInstallDate": "2021-06-30T16:21:30",
-    "radarPlace": "LE FRANCOIS",
+    "radarInstallDate": "2021-06-30T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RN6",
     "radarTronconKm": [],
     "radarType": [

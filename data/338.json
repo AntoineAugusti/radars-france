@@ -1,14 +1,14 @@
 {
-    "nid": "19724",
-    "uuid": "45112a4e-b952-4e25-a68e-124067510dce",
-    "vid": "19724",
+    "nid": "23652",
+    "uuid": "cb0e98ea-6772-4d53-8eeb-f8db7ca768c1",
+    "vid": "23652",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "338",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BUSSANG vers REMIREMONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.72747 47.89996)",
-    "radarInstallDate": "2005-01-07T16:19:49",
-    "radarPlace": "FERDRUPT",
+    "radarInstallDate": "2005-01-07T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RN66",
     "radarTronconKm": [],
     "radarType": [

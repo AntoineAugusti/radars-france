@@ -1,14 +1,14 @@
 {
-    "nid": "20494",
-    "uuid": "aaa50c8d-9e4c-4f56-a02f-add017b2f71c",
-    "vid": "20494",
+    "nid": "24336",
+    "uuid": "a639604f-504c-4b9e-8715-a2d7642a3075",
+    "vid": "24336",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11004",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NIMES vers BEAUCAIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.402 43.8356)",
-    "radarInstallDate": "2013-04-26T16:21:14",
-    "radarPlace": "NIMES",
+    "radarInstallDate": "2013-04-26T16:07:32",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

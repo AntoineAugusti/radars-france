@@ -1,14 +1,14 @@
 {
-    "nid": "22479",
-    "uuid": "6ecec188-13eb-49c0-8c9d-aa006eb034a9",
-    "vid": "22479",
+    "nid": "26065",
+    "uuid": "99a5b9e1-f408-4846-881e-20cab3fbd02a",
+    "vid": "26065",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE334509",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud (Marseillan vers Agde)",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.47559 43.31902)",
-    "radarInstallDate": "2016-06-30T16:28:11",
-    "radarPlace": "AGDE",
+    "radarInstallDate": "2016-06-30T16:13:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

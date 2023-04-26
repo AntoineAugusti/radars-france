@@ -1,14 +1,14 @@
 {
-    "nid": "20630",
-    "uuid": "0b5d5823-b057-42b0-b889-6090358674a8",
-    "vid": "20630",
+    "nid": "24548",
+    "uuid": "5095c1ee-4b21-455c-9702-0501b183edf4",
+    "vid": "24548",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50280",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE FRANCOIS vers LE ROBERT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-60.935182 14.656741)",
-    "radarInstallDate": "2021-03-31T16:21:34",
-    "radarPlace": "LE ROBERT",
+    "radarInstallDate": "2021-03-31T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RD1",
     "radarTronconKm": [],
     "radarType": [

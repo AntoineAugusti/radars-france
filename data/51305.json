@@ -1,14 +1,14 @@
 {
-    "nid": "20944",
-    "uuid": "5caa4dc0-3632-49f0-b157-e8ec50e924b3",
-    "vid": "20944",
+    "nid": "24871",
+    "uuid": "53fa2363-ee3a-495e-ba12-0cd40b227c62",
+    "vid": "24871",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51305",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SANCERRE vers BOURGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.78398 47.295995)",
-    "radarInstallDate": "2020-07-17T16:22:22",
-    "radarPlace": "VEAUGUES",
+    "radarInstallDate": "2020-07-17T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD955",
     "radarTronconKm": [],
     "radarType": [

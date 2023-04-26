@@ -1,14 +1,14 @@
 {
-    "nid": "20316",
-    "uuid": "2c0110dd-bcd1-4058-94a4-121d089c7f51",
-    "vid": "20316",
+    "nid": "24176",
+    "uuid": "b94b8ff3-d978-4603-85f3-63f696bebe8f",
+    "vid": "24176",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7397",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RAMBOUILLET VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.89152 48.72478)",
-    "radarInstallDate": "2008-03-21T16:20:50",
-    "radarPlace": "LES ESSARTS LE ROI",
+    "radarInstallDate": "2008-03-21T16:07:10",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

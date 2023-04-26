@@ -1,14 +1,14 @@
 {
-    "nid": "21062",
-    "uuid": "206abd24-5ef7-4de7-bb05-0302e6e5ade7",
-    "vid": "21062",
+    "nid": "25075",
+    "uuid": "13ef1098-ce62-4d9f-a3e0-c8617691b27b",
+    "vid": "25075",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55025",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGNEUF vers VILLARD LEGER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.18964 45.52602)",
-    "radarInstallDate": "2020-02-03T16:22:43",
-    "radarPlace": "CHAMOUX SUR GELON",
+    "radarInstallDate": "2020-02-03T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD925",
     "radarTronconKm": [],
     "radarType": [

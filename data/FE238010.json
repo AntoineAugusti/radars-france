@@ -1,14 +1,14 @@
 {
-    "nid": "22268",
-    "uuid": "8feb2f49-b519-48eb-b14e-78470b6e93d6",
-    "vid": "22268",
+    "nid": "25844",
+    "uuid": "82b7dd6f-cff4-434a-9640-736b9e866f44",
+    "vid": "25844",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229189",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE238010",
-    "created": "1637229189",
-    "changed": "1675870026",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Grenoble vers Valence",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.67736 45.19493)",
-    "radarInstallDate": "2011-06-15T16:27:13",
-    "radarPlace": "FONTAINE",
+    "radarInstallDate": "2011-06-15T16:12:48",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

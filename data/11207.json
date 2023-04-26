@@ -1,14 +1,14 @@
 {
-    "nid": "20560",
-    "uuid": "0406e275-cdf1-4e40-b67c-51c802174ae9",
-    "vid": "20560",
+    "nid": "24389",
+    "uuid": "a9d714a3-ec3e-4c86-9f9a-99de02bf5e0f",
+    "vid": "24389",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11207",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOUSBECQUE vers HALLUIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.101 50.777)",
-    "radarInstallDate": "2012-07-06T16:21:22",
-    "radarPlace": "HALLUIN",
+    "radarInstallDate": "2012-07-06T16:07:41",
+    "radarPlace": [],
     "radarRoad": "face au n\u00b0248 de la rue de la Lys",
     "radarTronconKm": [],
     "radarType": [

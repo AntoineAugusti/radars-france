@@ -1,14 +1,14 @@
 {
-    "nid": "21359",
-    "uuid": "682917b6-267e-42ec-82be-a545d93ef935",
-    "vid": "21359",
+    "nid": "25373",
+    "uuid": "f77ee9ef-87af-40f7-aea0-98069dc760c7",
+    "vid": "25373",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55332",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TULLE vers UZERCHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.671364 45.381657)",
-    "radarInstallDate": "2020-12-28T16:23:44",
-    "radarPlace": "SAINT JAL",
+    "radarInstallDate": "2020-12-28T16:10:47",
+    "radarPlace": [],
     "radarRoad": "RD1120",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22281",
-    "uuid": "c87ade45-7862-48ea-be6b-a446ad06526e",
-    "vid": "22281",
+    "nid": "25852",
+    "uuid": "03f2e7ee-5413-49c7-b670-3b198e06f1d5",
+    "vid": "25852",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE263003",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUMONT vers CEBAZAT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.0935 45.77158)",
-    "radarInstallDate": "2009-10-05T16:27:19",
-    "radarPlace": "CLERMONT FERRAND",
+    "radarInstallDate": "2009-10-05T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

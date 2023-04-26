@@ -1,14 +1,14 @@
 {
-    "nid": "19710",
-    "uuid": "09b455a3-3102-4c58-a5a5-2b694d3acb49",
-    "vid": "19710",
+    "nid": "23639",
+    "uuid": "b169dca3-9eeb-44ea-99bb-d13805e44b04",
+    "vid": "23639",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "288",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BESANCON vers LONS LE SAUNIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.72928 46.88885)",
-    "radarInstallDate": "2005-04-08T16:19:49",
-    "radarPlace": "ARBOIS",
+    "radarInstallDate": "2005-04-08T16:06:09",
+    "radarPlace": [],
     "radarRoad": "RN83",
     "radarTronconKm": [],
     "radarType": [

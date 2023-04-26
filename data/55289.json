@@ -1,14 +1,14 @@
 {
-    "nid": "21321",
-    "uuid": "a12d6cb9-793c-4f8f-b337-22fde4f674cf",
-    "vid": "21321",
+    "nid": "25333",
+    "uuid": "2d9a6b26-46d1-4d85-816d-a6fc167389b7",
+    "vid": "25333",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55289",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRENOBLE vers SISTERON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.7988 44.32319)",
-    "radarInstallDate": "2020-07-24T16:23:37",
-    "radarPlace": "LARAGNE MONTEGLIN",
+    "radarInstallDate": "2020-07-24T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD1075",
     "radarTronconKm": [],
     "radarType": [

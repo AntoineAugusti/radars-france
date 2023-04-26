@@ -1,14 +1,14 @@
 {
-    "nid": "20059",
-    "uuid": "6ccab11e-82e5-40dd-8a11-1391cf2b5346",
-    "vid": "20059",
+    "nid": "23943",
+    "uuid": "c1b5bb8a-f238-4fa7-ac9d-cda143ad1d69",
+    "vid": "23943",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4672",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FLERS vers LA FERT\u00c9 MAC\u00c9",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.51992 48.67568)",
-    "radarInstallDate": "2009-07-29T16:20:22",
-    "radarPlace": "ST ANDRE DE MESSEI",
+    "radarInstallDate": "2009-07-29T16:06:40",
+    "radarPlace": [],
     "radarRoad": "RD18",
     "radarTronconKm": [],
     "radarType": [

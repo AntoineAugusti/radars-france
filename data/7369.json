@@ -1,14 +1,14 @@
 {
-    "nid": "20310",
-    "uuid": "ec49a9f1-d486-4213-9b7f-315c84213dfe",
-    "vid": "20310",
+    "nid": "24173",
+    "uuid": "76d4cb84-40f9-489a-a2d5-8996b47d0600",
+    "vid": "24173",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7369",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LILLE VERS NEUVILLE EN FERRAIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.12333 50.71186)",
-    "radarInstallDate": "2008-04-18T16:20:49",
-    "radarPlace": "BONDUES",
+    "radarInstallDate": "2008-04-18T16:07:10",
+    "radarPlace": [],
     "radarRoad": "A22",
     "radarTronconKm": [],
     "radarType": [

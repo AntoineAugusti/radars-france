@@ -1,14 +1,14 @@
 {
-    "nid": "20444",
-    "uuid": "1a5de4ae-fadf-492c-8be1-fba445302c6a",
-    "vid": "20444",
+    "nid": "24290",
+    "uuid": "530f4828-0ba5-48bc-8199-3135475dedb0",
+    "vid": "24290",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8855",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CLAIREFONTAINE EN YVELINES vers RAMBOUILLET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.858657 48.642804)",
-    "radarInstallDate": "2011-04-08T16:21:06",
-    "radarPlace": "RAMBOUILLET",
+    "radarInstallDate": "2011-04-08T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD27",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22645",
-    "uuid": "7c7b337f-5821-4c1f-a4a6-4265ca3813f3",
-    "vid": "22645",
+    "nid": "26164",
+    "uuid": "2b6ebbf0-b084-4dbd-a236-e293781c287f",
+    "vid": "26164",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741027",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20104",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741027",
+    "changed": "1681741027",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "PARIS vers PROVINCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.20352 48.83954)",
-    "radarInstallDate": "2016-11-28T10:53:36",
+    "radarInstallDate": "2016-11-28T16:17:08",
     "radarPlace": "BOULOGNE BILLANCOURT",
     "radarRoad": "A13",
     "radarTronconKm": "1",

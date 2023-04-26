@@ -1,14 +1,14 @@
 {
-    "nid": "21261",
-    "uuid": "c1483956-eb62-45d1-838c-81bfd6743a6b",
-    "vid": "21261",
+    "nid": "25272",
+    "uuid": "e381f5bc-4242-4d5d-a773-5c6ab8e5df4d",
+    "vid": "25272",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55226",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "82-TARN-ET-GARONNE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "CAHORS vers CAUSSADE",
+    "radarDirection": "CAUSSADE vers CAHORS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.51663 44.218558)",
-    "radarInstallDate": "2020-06-10T16:23:25",
-    "radarPlace": "MONTALZAT",
+    "radarInstallDate": "2020-06-10T16:10:20",
+    "radarPlace": [],
     "radarRoad": "RD820",
     "radarTronconKm": [],
     "radarType": [

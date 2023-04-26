@@ -1,14 +1,14 @@
 {
-    "nid": "20395",
-    "uuid": "cbc0990e-b2e0-4926-bbc7-944278ff8f1c",
-    "vid": "20395",
+    "nid": "24246",
+    "uuid": "37338e04-6947-4a13-9203-c6721b3bd4cf",
+    "vid": "24246",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8707",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST DENIS vers NANTERRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2345 48.926)",
-    "radarInstallDate": "2013-10-31T16:21:02",
-    "radarPlace": "COLOMBES",
+    "radarInstallDate": "2013-10-31T16:07:18",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

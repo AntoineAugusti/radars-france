@@ -1,14 +1,14 @@
 {
-    "nid": "22592",
-    "uuid": "d27e7ebb-f5f4-4030-9bf9-42fa691c3fcc",
-    "vid": "22592",
+    "nid": "26117",
+    "uuid": "ce33a0f7-7d5f-4a63-85b8-67f6854d09f0",
+    "vid": "26117",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740842",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE391503",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740842",
+    "changed": "1681740842",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BREUX JOUY vers ST YON",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.17145 48.56515)",
-    "radarInstallDate": "2016-03-11T16:28:44",
-    "radarPlace": "BREUILLET",
+    "radarInstallDate": "2016-03-11T16:14:09",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

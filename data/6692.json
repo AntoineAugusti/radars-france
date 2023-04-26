@@ -1,14 +1,14 @@
 {
-    "nid": "20180",
-    "uuid": "64847ebc-4133-4532-a928-ae38a3c8890e",
-    "vid": "20180",
+    "nid": "24057",
+    "uuid": "2356a8b5-fcf4-4556-8dbf-6977b6c69c20",
+    "vid": "24057",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6692",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHALONS EN CHAMPAGNE VERS TROYES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.10435 48.35836)",
-    "radarInstallDate": "2007-03-19T16:20:34",
-    "radarPlace": "STE MAURE",
+    "radarInstallDate": "2007-03-19T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD677",
     "radarTronconKm": [],
     "radarType": [

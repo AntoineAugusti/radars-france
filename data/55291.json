@@ -1,14 +1,14 @@
 {
-    "nid": "21323",
-    "uuid": "876e996d-21dd-4c15-9eac-20831ddd50bb",
-    "vid": "21323",
+    "nid": "25335",
+    "uuid": "770802aa-fe9b-4d11-93c1-084ba1b0dfb0",
+    "vid": "25335",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55291",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GAP vers BRIANCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.3634 44.52951)",
-    "radarInstallDate": "2020-06-23T16:23:37",
-    "radarPlace": "PRUNIERES",
+    "radarInstallDate": "2020-06-23T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RN94",
     "radarTronconKm": [],
     "radarType": [

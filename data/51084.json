@@ -1,14 +1,14 @@
 {
-    "nid": "20732",
-    "uuid": "60a29e2e-e570-4ed4-a927-8eb8b2aca24f",
-    "vid": "20732",
+    "nid": "24657",
+    "uuid": "a7bf53f8-c1be-4784-93fc-60407bc11b64",
+    "vid": "24657",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51084",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "L AIGLE vers RUGLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.664265 48.785428)",
-    "radarInstallDate": "2019-09-30T16:21:47",
-    "radarPlace": "ST SULPICE SUR RISLE",
+    "radarInstallDate": "2019-09-30T16:08:24",
+    "radarPlace": [],
     "radarRoad": "RD930",
     "radarTronconKm": [],
     "radarType": [

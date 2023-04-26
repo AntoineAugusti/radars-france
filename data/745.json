@@ -1,14 +1,14 @@
 {
-    "nid": "19842",
-    "uuid": "e2192b2f-6956-40fb-99d9-919bc47f1f17",
-    "vid": "19842",
+    "nid": "23754",
+    "uuid": "b630bd6b-7e0e-4a85-8d63-e639f217588e",
+    "vid": "23754",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "745",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGERS VERS NANTES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.71574 47.43021)",
-    "radarInstallDate": "2005-06-15T16:19:59",
-    "radarPlace": "ST MARTIN DU FOUILLOUX",
+    "radarInstallDate": "2005-06-15T16:06:20",
+    "radarPlace": [],
     "radarRoad": "RD723",
     "radarTronconKm": [],
     "radarType": [

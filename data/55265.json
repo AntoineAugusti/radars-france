@@ -1,14 +1,14 @@
 {
-    "nid": "21297",
-    "uuid": "341b276a-8ca8-401e-8e8f-ddbed16ec030",
-    "vid": "21297",
+    "nid": "25309",
+    "uuid": "c05d8968-d4d5-444e-b351-1e20bcbd4f2e",
+    "vid": "25309",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55265",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARTHENAY vers POITIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.09421 46.65387)",
-    "radarInstallDate": "2020-08-21T16:23:31",
-    "radarPlace": "LA FERRIERE EN PARTHENAY",
+    "radarInstallDate": "2020-08-21T16:10:33",
+    "radarPlace": [],
     "radarRoad": "RN149",
     "radarTronconKm": [],
     "radarType": [

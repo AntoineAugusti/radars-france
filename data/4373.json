@@ -1,14 +1,14 @@
 {
-    "nid": "19992",
-    "uuid": "89e3977e-219e-4dae-be17-fcd1c974d070",
-    "vid": "19992",
+    "nid": "23880",
+    "uuid": "1a06e818-9267-47b2-adb3-c0c5ebe8d2b5",
+    "vid": "23880",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4373",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ETAPLES VERS BOULOGNE SUR MER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.61793 50.5513)",
-    "radarInstallDate": "2009-01-14T16:20:14",
-    "radarPlace": "CAMIERS",
+    "radarInstallDate": "2009-01-14T16:06:33",
+    "radarPlace": [],
     "radarRoad": "RD940",
     "radarTronconKm": [],
     "radarType": [

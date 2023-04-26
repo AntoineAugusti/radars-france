@@ -1,14 +1,14 @@
 {
-    "nid": "22491",
-    "uuid": "1be4ad76-4d32-4d17-b66d-2106f878355c",
-    "vid": "22491",
+    "nid": "26073",
+    "uuid": "0b0ae268-7961-4be3-8f83-ec5ad9bb175b",
+    "vid": "26073",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE343502",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LEMPDES SUR ALLAGNON vers BRIOUDE",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.30968 45.36421)",
-    "radarInstallDate": "2013-05-06T16:28:19",
-    "radarPlace": "BOURNONCLE ST PIERRE",
+    "radarInstallDate": "2013-05-06T16:13:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

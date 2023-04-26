@@ -1,14 +1,14 @@
 {
-    "nid": "21258",
-    "uuid": "414c38b3-85bb-4c90-a430-5ee6baed74dd",
-    "vid": "21258",
+    "nid": "25269",
+    "uuid": "e7fcc823-e0bb-4c96-b7c3-1d865e9aadd3",
+    "vid": "25269",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55223",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "YSSINGEAUX vers RETOURNAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.07776 45.16322)",
-    "radarInstallDate": "2020-02-25T16:23:20",
-    "radarPlace": "YSSINGEAUX",
+    "radarInstallDate": "2020-02-25T16:10:20",
+    "radarPlace": [],
     "radarRoad": "RD103",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22698",
-    "uuid": "20153988-2709-4477-9ad7-cd753628b329",
-    "vid": "22698",
+    "nid": "26209",
+    "uuid": "e8eba910-4218-4e82-a811-74c6e55f4c96",
+    "vid": "26209",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741032",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_03_001",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741032",
+    "changed": "1681741032",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "03 - Allier",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (46.12385 3.362486)",
-    "radarInstallDate": "2017-10-05T10:53:38",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (6.031241 46.264823)",
+    "radarInstallDate": "2017-10-05T16:17:13",
     "radarPlace": "-",
     "radarRoad": "D984, D117, D131E, D276, D417, D906, D221, D275, D1093",
-    "radarTronconKm": "14.33",
+    "radarTronconKm": "14,3",
     "radarType": [
         {
             "tid": "19",

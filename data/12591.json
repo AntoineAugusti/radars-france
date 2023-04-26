@@ -1,14 +1,14 @@
 {
-    "nid": "21828",
-    "uuid": "efc87fcd-55e9-4e80-b8a1-be5be4d3ecaa",
-    "vid": "21828",
+    "nid": "23503",
+    "uuid": "5db52d58-2e41-4a2b-9e38-10dc9550f27b",
+    "vid": "23503",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12591",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BELFORT vers MONTBELIARD",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.861885 47.624023)",
-    "radarInstallDate": "2021-02-04T16:25:25",
-    "radarPlace": "BELFORT",
+    "radarInstallDate": "2021-02-04T16:05:56",
+    "radarPlace": [],
     "radarRoad": "A36",
     "radarTronconKm": [],
     "radarType": [

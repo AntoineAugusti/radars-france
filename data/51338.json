@@ -1,14 +1,14 @@
 {
-    "nid": "20968",
-    "uuid": "050156bb-8a64-4474-adaf-abde80d09b71",
-    "vid": "20968",
+    "nid": "24901",
+    "uuid": "08a00e93-b6c9-4bff-95df-3708792bc69a",
+    "vid": "24901",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51338",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTEUIL LE HAUDOUIN vers CREPY EN VALOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.846526 49.198061)",
-    "radarInstallDate": "2021-01-28T16:22:28",
-    "radarPlace": "ORMOY VILLERS",
+    "radarInstallDate": "2021-01-28T16:09:05",
+    "radarPlace": [],
     "radarRoad": "RD136",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22150",
-    "uuid": "126f76ab-7ede-4801-92e4-a0096b59f9c1",
-    "vid": "22150",
+    "nid": "25766",
+    "uuid": "e33722b1-deea-4b05-b23e-fb7e01983628",
+    "vid": "25766",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE191009",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Jouy en josas vers Igny",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.20435 48.75244)",
-    "radarInstallDate": "2011-01-10T16:26:43",
-    "radarPlace": "BIEVRES",
+    "radarInstallDate": "2011-01-10T16:12:23",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20265",
-    "uuid": "220c64ab-99fa-428b-81ad-25311eb22c53",
-    "vid": "20265",
+    "nid": "24133",
+    "uuid": "2f0e7041-2eea-45dc-bc83-8f391b648cea",
+    "vid": "24133",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7188",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "OSNY vers CERGY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.08489 49.06125)",
-    "radarInstallDate": "2008-04-18T16:20:42",
-    "radarPlace": "OSNY",
+    "radarInstallDate": "2008-04-18T16:07:05",
+    "radarPlace": [],
     "radarRoad": "RD915",
     "radarTronconKm": [],
     "radarType": [

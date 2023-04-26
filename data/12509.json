@@ -1,14 +1,14 @@
 {
-    "nid": "21771",
-    "uuid": "572c6456-192e-461f-8e35-f011971e01dd",
-    "vid": "21771",
+    "nid": "23440",
+    "uuid": "472a367e-37c2-45ac-9d5a-9705464bb569",
+    "vid": "23440",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12509",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONT DE MARSAN vers DAX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.722169 43.857986)",
-    "radarInstallDate": "2017-02-16T16:25:17",
-    "radarPlace": "MEILHAN",
+    "radarInstallDate": "2017-02-16T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RD824",
     "radarTronconKm": [],
     "radarType": [

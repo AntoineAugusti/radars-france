@@ -1,14 +1,14 @@
 {
-    "nid": "20896",
-    "uuid": "3e2f925c-c9bf-4f8e-b97d-2e20283accbe",
-    "vid": "20896",
+    "nid": "24823",
+    "uuid": "3554da40-a307-4044-939a-827f3ccda46c",
+    "vid": "24823",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51256",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROUGEGOUTTE vers ETUEFFONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.877833 47.722508)",
-    "radarInstallDate": "2020-06-18T16:22:13",
-    "radarPlace": "GROSMAGNY",
+    "radarInstallDate": "2020-06-18T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD12",
     "radarTronconKm": [],
     "radarType": [
@@ -115,9 +115,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "7",
-            "uuid": "c447707a-c428-4166-ac14-c667a8cdcb41",
-            "revisionId": "7",
+            "tid": "5",
+            "uuid": "45e527ec-7c1f-4fd3-ad4e-fdf43bd3c688",
+            "revisionId": "5",
             "langcode": "fr",
             "vid": [
                 {
@@ -128,7 +128,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 80",
+            "name": "Vitesse VL 50",
             "description": [
                 {
                     "value": null,
@@ -141,7 +141,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154470",
+            "changed": "1515154429",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -153,30 +153,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-80.png?itok=TcuP772z",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-50.png?itok=Tq7k-JhP",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-80.png?itok=TK2yJ19C",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-50.png?itok=WnbSkqJL",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-80.png?itok=thPluA0X",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-50.png?itok=E16zFtv9",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-80.png",
-                        "fileCreated": "1515154465",
-                        "fileSize": "4045",
+                        "fileName": "vitesse-50.png",
+                        "fileCreated": "1515154342",
+                        "fileSize": "3506",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_80",
+            "macineName": "vitesse_vl_50",
             "ruleLabel": "Vitesse"
         }
     ],

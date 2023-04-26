@@ -1,14 +1,14 @@
 {
-    "nid": "22087",
-    "uuid": "2092afa3-4c75-4cb9-a595-ae280ca3cb89",
-    "vid": "22087",
+    "nid": "25704",
+    "uuid": "ec46ebe0-5754-4b63-b0ce-d2cfe41aab06",
+    "vid": "25704",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE175012",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "rue du quatre septembre, Place de l'Op\u00e9ra vers  place de la Bourse",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.33831 48.86931)",
-    "radarInstallDate": "2013-02-05T16:26:28",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-02-05T16:12:08",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

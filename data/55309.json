@@ -1,14 +1,14 @@
 {
-    "nid": "21337",
-    "uuid": "2478dc91-d3ec-4b3f-91a8-9a96ac1c16ea",
-    "vid": "21337",
+    "nid": "25351",
+    "uuid": "f2f471b1-3874-4539-abd9-8d3458eddb8b",
+    "vid": "25351",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55309",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AVIGNON vers APT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.215975 43.860749)",
-    "radarInstallDate": "2020-08-20T16:23:38",
-    "radarPlace": "GOULT",
+    "radarInstallDate": "2020-08-20T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD900",
     "radarTronconKm": [],
     "radarType": [

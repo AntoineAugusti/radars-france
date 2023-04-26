@@ -1,14 +1,14 @@
 {
-    "nid": "22439",
-    "uuid": "8d36b9f1-c010-4847-903f-14877dbef952",
-    "vid": "22439",
+    "nid": "25958",
+    "uuid": "1b87fa53-6107-4d60-9e9c-38abd65c527c",
+    "vid": "25958",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE331022",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue des Arcs St Cyprien vers Bd D\u00e9odat de S\u00e9verac",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.4287 43.59323)",
-    "radarInstallDate": "2011-01-28T16:28:02",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2011-01-28T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

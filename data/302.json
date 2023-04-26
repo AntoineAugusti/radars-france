@@ -1,14 +1,14 @@
 {
-    "nid": "19714",
-    "uuid": "f3169286-6501-4857-959a-08e39270ebeb",
-    "vid": "19714",
+    "nid": "23642",
+    "uuid": "2d054153-a9bc-482f-afee-2b5eff450b90",
+    "vid": "23642",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "302",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINTES VERS ROYAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.97539 45.6354)",
-    "radarInstallDate": "2005-01-13T16:19:49",
-    "radarPlace": "MEDIS",
+    "radarInstallDate": "2005-01-13T16:06:09",
+    "radarPlace": [],
     "radarRoad": "RN150",
     "radarTronconKm": [],
     "radarType": [

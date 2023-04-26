@@ -1,14 +1,14 @@
 {
-    "nid": "22259",
-    "uuid": "186117ea-f0ed-42d4-aa2f-6c7feb05ff2f",
-    "vid": "22259",
+    "nid": "25837",
+    "uuid": "5fcc7bf0-e699-434b-ba78-f2747d1b2f0c",
+    "vid": "25837",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229189",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE215000",
-    "created": "1637229189",
-    "changed": "1675870026",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Centre Ville vers la p\u00e9riph\u00e9rie",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.43986 44.92177)",
-    "radarInstallDate": "2010-01-18T16:27:12",
-    "radarPlace": "AURILLAC",
+    "radarInstallDate": "2010-01-18T16:12:48",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

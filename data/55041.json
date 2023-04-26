@@ -1,14 +1,14 @@
 {
-    "nid": "21078",
-    "uuid": "2123ddac-9f99-4f8a-8ae5-7a691fc58d35",
-    "vid": "21078",
+    "nid": "25091",
+    "uuid": "77a6a681-b77d-4b99-b418-8ad09e9de5d0",
+    "vid": "25091",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55041",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "82-TARN-ET-GARONNE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "MONTAUBAN vers CANALS",
+    "radarDirection": "CANALS vers MONTAUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.305459 43.894251)",
-    "radarInstallDate": "2019-08-19T16:22:44",
-    "radarPlace": "CAMPSAS",
+    "radarInstallDate": "2019-08-19T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD820",
     "radarTronconKm": [],
     "radarType": [

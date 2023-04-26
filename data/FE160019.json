@@ -1,14 +1,14 @@
 {
-    "nid": "22022",
-    "uuid": "cd679c26-41e7-4541-bb56-895e36c047f1",
-    "vid": "22022",
+    "nid": "25645",
+    "uuid": "74c202bf-8437-48ba-b451-61c78ff3e4b1",
+    "vid": "25645",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE160019",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Route de Gisors (RD 105) vers l'Est",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.23774 49.16911)",
-    "radarInstallDate": "2010-12-20T16:26:14",
-    "radarPlace": "CHAMBLY",
+    "radarInstallDate": "2010-12-20T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

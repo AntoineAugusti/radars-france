@@ -1,14 +1,14 @@
 {
-    "nid": "21958",
-    "uuid": "22eafda4-89bc-4787-8115-b4823b17fdd1",
-    "vid": "21958",
+    "nid": "25596",
+    "uuid": "89f55a49-747f-4648-8971-b9b0003cc8e5",
+    "vid": "25596",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE154002",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Laxou vers Toul",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (6.12486 48.69504)",
-    "radarInstallDate": "2010-05-03T16:26:00",
-    "radarPlace": "LAXOU",
+    "radarInstallDate": "2010-05-03T16:11:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

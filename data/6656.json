@@ -1,14 +1,14 @@
 {
-    "nid": "20171",
-    "uuid": "ae1c14bd-239b-4ca8-998c-63209695c286",
-    "vid": "20171",
+    "nid": "24048",
+    "uuid": "6b26a865-cf39-4879-8ddd-e3be8be54c2f",
+    "vid": "24048",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6656",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORANGE vers SALON DE PROVENCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.88956 44.01694)",
-    "radarInstallDate": "2007-02-09T16:20:32",
-    "radarPlace": "SORGUES",
+    "radarInstallDate": "2007-02-09T16:06:54",
+    "radarPlace": [],
     "radarRoad": "A7",
     "radarTronconKm": [],
     "radarType": [

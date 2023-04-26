@@ -1,14 +1,14 @@
 {
-    "nid": "19839",
-    "uuid": "a605582a-95a4-42c1-af62-6a428040e2a5",
-    "vid": "19839",
+    "nid": "23751",
+    "uuid": "2c82a44f-658c-4fcc-8a8b-eee2c4360131",
+    "vid": "23751",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "740",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VENDOME vers CHATEAU RENAULT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.97073 47.67022)",
-    "radarInstallDate": "2005-09-01T16:19:59",
-    "radarPlace": "ST AMAND LONGPRE",
+    "radarInstallDate": "2005-09-01T16:06:20",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

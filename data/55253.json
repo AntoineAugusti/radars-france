@@ -1,14 +1,14 @@
 {
-    "nid": "21286",
-    "uuid": "43a4010d-ffc3-4afd-b423-63426fd17a40",
-    "vid": "21286",
+    "nid": "25299",
+    "uuid": "04991725-6d7a-4c74-949c-f506e907938f",
+    "vid": "25299",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55253",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VIZILLE vers GRENOBLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.77781 45.12879)",
-    "radarInstallDate": "2021-01-21T16:23:26",
-    "radarPlace": "BRIE ET ANGONNES",
+    "radarInstallDate": "2021-01-21T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD5",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22435",
-    "uuid": "c2afe88a-b353-43b5-9a25-2fdfe625f1df",
-    "vid": "22435",
+    "nid": "25954",
+    "uuid": "098dfec8-b231-476d-afbd-9c33c56e12fd",
+    "vid": "25954",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE331014",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bd de Suisse vers la barri\u00e8re de Paris",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.42486 43.62142)",
-    "radarInstallDate": "2010-12-13T16:28:02",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2010-12-13T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21182",
-    "uuid": "d6f85c99-ab17-407e-ae79-645aab205317",
-    "vid": "21182",
+    "nid": "25193",
+    "uuid": "75a27502-99ab-4daa-8492-2987ab974c3a",
+    "vid": "25193",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55146",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LABASTIDETTE vers MURET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.2779 43.46536)",
-    "radarInstallDate": "2020-01-30T16:23:07",
-    "radarPlace": "MURET",
+    "radarInstallDate": "2020-01-30T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD3",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19902",
-    "uuid": "9b2cfc70-2216-4329-8052-d64092c0087a",
-    "vid": "19902",
+    "nid": "23801",
+    "uuid": "3aae9a8a-356d-4956-bf76-b7e1343f3682",
+    "vid": "23801",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3153",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BASSE TERRE VERS POINTE A PITRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.56124 16.25425)",
-    "radarInstallDate": "2005-09-29T16:20:05",
-    "radarPlace": "BAIE MAHAULT",
+    "radarInstallDate": "2005-09-29T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

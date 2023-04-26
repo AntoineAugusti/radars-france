@@ -1,14 +1,14 @@
 {
-    "nid": "20735",
-    "uuid": "6aee2a42-74d2-4df8-95d3-f036c41b4031",
-    "vid": "20735",
+    "nid": "24660",
+    "uuid": "45e92f2b-44f2-4a9e-b6c0-39613408d3e9",
+    "vid": "24660",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51087",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHALONS EN CHAMPAGNE vers REIMS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.199394 49.161935)",
-    "radarInstallDate": "2021-03-17T16:21:48",
-    "radarPlace": "VAL DE VESLE",
+    "radarInstallDate": "2021-03-17T16:08:24",
+    "radarPlace": [],
     "radarRoad": "RD944",
     "radarTronconKm": [],
     "radarType": [

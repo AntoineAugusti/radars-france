@@ -1,14 +1,14 @@
 {
-    "nid": "21282",
-    "uuid": "b5c7b9c4-b183-4183-a371-fcea75539072",
-    "vid": "21282",
+    "nid": "25295",
+    "uuid": "1a687271-7bb0-4499-8172-37c94de64026",
+    "vid": "25295",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55249",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "OLORON SAINTE MARIE vers PAU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.44131 43.16689)",
-    "radarInstallDate": "2020-12-23T16:23:26",
-    "radarPlace": "GAN",
+    "radarInstallDate": "2020-12-23T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RN134",
     "radarTronconKm": [],
     "radarType": [

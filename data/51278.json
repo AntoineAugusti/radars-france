@@ -1,14 +1,14 @@
 {
-    "nid": "20917",
-    "uuid": "7df8b84e-45c4-4398-8a5e-a464bc960ea6",
-    "vid": "20917",
+    "nid": "24844",
+    "uuid": "df0f53c8-943e-44c5-8928-214196488351",
+    "vid": "24844",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51278",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT CYR EN VAL vers MENESTREAU EN VILLETTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.014745 47.743056)",
-    "radarInstallDate": "2020-02-26T16:22:18",
-    "radarPlace": "MARCILLY EN VILLETTE",
+    "radarInstallDate": "2020-02-26T16:08:58",
+    "radarPlace": [],
     "radarRoad": "RD108",
     "radarTronconKm": [],
     "radarType": [

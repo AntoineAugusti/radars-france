@@ -1,14 +1,14 @@
 {
-    "nid": "20451",
-    "uuid": "0014f4be-ae1a-43ce-bd2b-e53038c08c2e",
-    "vid": "20451",
+    "nid": "24296",
+    "uuid": "7e70e498-f4e0-4184-a30f-c2fb69ed5368",
+    "vid": "24296",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8892",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AUXONNE vers DIJON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.2566 47.218)",
-    "radarInstallDate": "2011-06-08T16:21:09",
-    "radarPlace": "LONGEAULT",
+    "radarInstallDate": "2011-06-08T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD905",
     "radarTronconKm": [],
     "radarType": [

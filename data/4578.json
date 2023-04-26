@@ -1,14 +1,14 @@
 {
-    "nid": "20044",
-    "uuid": "db6f5b1f-1a0d-428a-b32c-6ae5b3106943",
-    "vid": "20044",
+    "nid": "23929",
+    "uuid": "a4266eb3-6800-4bd9-98dc-27904e938999",
+    "vid": "23929",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4578",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHEVAGNES VERS MALTAT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.74108 46.62812)",
-    "radarInstallDate": "2009-02-05T16:20:20",
-    "radarPlace": "BOURBON LANCY",
+    "radarInstallDate": "2009-02-05T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD973",
     "radarTronconKm": [],
     "radarType": [

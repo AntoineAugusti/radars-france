@@ -1,14 +1,14 @@
 {
-    "nid": "20487",
-    "uuid": "a73f9b35-5094-43af-ac34-0c427c6c6587",
-    "vid": "20487",
+    "nid": "24329",
+    "uuid": "ae016d8c-601a-449e-8b6f-aab0d51d77c1",
+    "vid": "24329",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8995",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROQUEFORT LES PINS vers VILLENEUVE LOUBET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.1026 43.66)",
-    "radarInstallDate": "2012-02-20T16:21:14",
-    "radarPlace": "VILLENEUVE LOUBET",
+    "radarInstallDate": "2012-02-20T16:07:32",
+    "radarPlace": [],
     "radarRoad": "RD2085",
     "radarTronconKm": [],
     "radarType": [

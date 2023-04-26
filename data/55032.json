@@ -1,14 +1,14 @@
 {
-    "nid": "21069",
-    "uuid": "88e25de3-c572-4762-9964-c8f6eff0e24f",
-    "vid": "21069",
+    "nid": "25082",
+    "uuid": "f742e7d7-54e0-4a3a-ada0-f5861bc37533",
+    "vid": "25082",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55032",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "UGINE vers ANNECY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.248274 45.766087)",
-    "radarInstallDate": "2019-11-22T16:22:44",
-    "radarPlace": "FAVERGES SEYTHENEX",
+    "radarInstallDate": "2019-11-22T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD1508",
     "radarTronconKm": [],
     "radarType": [

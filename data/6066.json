@@ -1,14 +1,14 @@
 {
-    "nid": "20126",
-    "uuid": "f39e1d4f-df8b-4835-8edb-ca473d502874",
-    "vid": "20126",
+    "nid": "24008",
+    "uuid": "36d32ca2-90ae-4993-8755-fb6d294330ae",
+    "vid": "24008",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6066",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE MANS vers SILLE LE GUILLAUME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.09736 48.16753)",
-    "radarInstallDate": "2006-08-02T16:20:29",
-    "radarPlace": "ST REMY DE SILLE",
+    "radarInstallDate": "2006-08-02T16:06:49",
+    "radarPlace": [],
     "radarRoad": "RD304",
     "radarTronconKm": [],
     "radarType": [

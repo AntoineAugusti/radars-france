@@ -1,14 +1,14 @@
 {
-    "nid": "21930",
-    "uuid": "446a5fd1-26a5-438e-ad82-7a43c20403ac",
-    "vid": "21930",
+    "nid": "25569",
+    "uuid": "76a7d55f-1eb0-401d-9b62-9adf0db662ba",
+    "vid": "25569",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE145003",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Orl\u00e9ans vers Fleury les Aubrais",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.91672 47.91488)",
-    "radarInstallDate": "2011-10-10T16:25:53",
-    "radarPlace": "ORLEANS",
+    "radarInstallDate": "2011-10-10T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

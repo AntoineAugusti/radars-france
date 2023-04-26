@@ -1,14 +1,14 @@
 {
-    "nid": "22031",
-    "uuid": "1a47edab-9d62-4a86-847e-7e6e8be28f2d",
-    "vid": "22031",
+    "nid": "25648",
+    "uuid": "862d8c1d-dca1-4007-9ac0-7a8b79731622",
+    "vid": "25648",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162001",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vers la cit\u00e9 St Paul",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.85414 50.44259)",
-    "radarInstallDate": "2011-04-04T16:26:15",
-    "radarPlace": "LOISON SOUS LENS",
+    "radarInstallDate": "2011-04-04T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

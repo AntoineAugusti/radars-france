@@ -1,14 +1,14 @@
 {
-    "nid": "20549",
-    "uuid": "fc7c716b-5c58-4528-a5ad-e1e8bb9cf4d9",
-    "vid": "20549",
+    "nid": "24378",
+    "uuid": "20173939-42cf-42de-b628-0279550f4fd7",
+    "vid": "24378",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11181",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHALLANS VERS LES SABLES D OLONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.8799 46.812)",
-    "radarInstallDate": "2012-10-26T16:21:22",
-    "radarPlace": "CHALLANS",
+    "radarInstallDate": "2012-10-26T16:07:40",
+    "radarPlace": [],
     "radarRoad": "RD32",
     "radarTronconKm": [],
     "radarType": [

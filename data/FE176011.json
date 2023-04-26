@@ -1,14 +1,14 @@
 {
-    "nid": "22102",
-    "uuid": "c1354d8b-1c10-453f-8420-de54ebb04786",
-    "vid": "22102",
+    "nid": "25719",
+    "uuid": "db9acf46-6517-4c04-abba-330537d19d34",
+    "vid": "25719",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE176011",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue d'Elbeuf vers le Boulevard de l'Europe",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.08262 49.4257)",
-    "radarInstallDate": "2011-04-28T16:26:35",
-    "radarPlace": "ROUEN",
+    "radarInstallDate": "2011-04-28T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

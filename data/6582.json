@@ -1,14 +1,14 @@
 {
-    "nid": "20155",
-    "uuid": "aacf7c94-03cc-45b2-b0ae-21f01d9681af",
-    "vid": "20155",
+    "nid": "24033",
+    "uuid": "402a86d0-024a-4e8e-b652-9d1b8bcfa415",
+    "vid": "24033",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6582",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PORNIC VERS NANTES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.74001 47.13053)",
-    "radarInstallDate": "2007-03-13T16:20:32",
-    "radarPlace": "PORT ST PERE",
+    "radarInstallDate": "2007-03-13T16:06:51",
+    "radarPlace": [],
     "radarRoad": "RD751",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21669",
-    "uuid": "3eb016a4-14af-458d-9aa3-87e05d7f7177",
-    "vid": "21669",
+    "nid": "23337",
+    "uuid": "97b746a9-4cd6-45df-9720-86f946f11f93",
+    "vid": "23337",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12390",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROUEN vers ORLEANS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.1882 49.08636)",
-    "radarInstallDate": "2016-06-24T16:24:50",
-    "radarPlace": "IRREVILLE",
+    "radarInstallDate": "2016-06-24T16:05:43",
+    "radarPlace": [],
     "radarRoad": "RN154",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20961",
-    "uuid": "0f4a4bda-5b6e-4b8b-9556-c2c4ade4f17a",
-    "vid": "20961",
+    "nid": "24892",
+    "uuid": "4a0ab1ea-deb7-4bf2-81ac-657f50f6aaeb",
+    "vid": "24892",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51328",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTDIDIER vers BRETEUIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.359971 49.630205)",
-    "radarInstallDate": "2021-03-26T16:22:28",
-    "radarPlace": "TARTIGNY",
+    "radarInstallDate": "2021-03-26T16:09:05",
+    "radarPlace": [],
     "radarRoad": "RD930",
     "radarTronconKm": [],
     "radarType": [

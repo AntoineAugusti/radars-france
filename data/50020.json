@@ -1,14 +1,14 @@
 {
-    "nid": "20601",
-    "uuid": "49626bcf-ce16-41fb-aa5a-be5ee959e33c",
-    "vid": "20601",
+    "nid": "24517",
+    "uuid": "38c6010a-0885-42c5-a9f7-affc065fe7f2",
+    "vid": "24517",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50020",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT FRANCOIS vers LE MOULE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.28784 16.28609)",
-    "radarInstallDate": "2021-03-01T16:21:30",
-    "radarPlace": "SAINT FRANCOIS",
+    "radarInstallDate": "2021-03-01T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN5",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20178",
-    "uuid": "c0b97f1d-988a-4ec8-b84c-c0d4f8d4517d",
-    "vid": "20178",
+    "nid": "24055",
+    "uuid": "79a4de6e-b5ee-4f74-a327-f6663a185f16",
+    "vid": "24055",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6684",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHINON vers TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.449324 47.249543)",
-    "radarInstallDate": "2007-02-13T16:20:33",
-    "radarPlace": "CHEILLE",
+    "radarInstallDate": "2007-02-13T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD751",
     "radarTronconKm": [],
     "radarType": [

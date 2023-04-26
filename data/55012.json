@@ -1,14 +1,14 @@
 {
-    "nid": "21049",
-    "uuid": "852fb2f5-66a1-4556-9671-9d1b3f14ab1f",
-    "vid": "21049",
+    "nid": "25062",
+    "uuid": "2915a12d-6429-4e4b-9591-6efd4d3203f4",
+    "vid": "25062",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55012",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAULHAGUET vers LANGEAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.503579 45.147426)",
-    "radarInstallDate": "2019-10-09T16:22:43",
-    "radarPlace": "MAZEYRAT D ALLIER",
+    "radarInstallDate": "2019-10-09T16:09:40",
+    "radarPlace": [],
     "radarRoad": "RD56",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21348",
-    "uuid": "0c0430ce-cc6a-43e7-9b1d-3784b3c1c85f",
-    "vid": "21348",
+    "nid": "25362",
+    "uuid": "a33542b0-15b1-4fd2-ba4b-d5134812721e",
+    "vid": "25362",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55320",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURG EN BRESSE vers LONS LE SAUNIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.304638 46.312861)",
-    "radarInstallDate": "2020-10-26T16:23:38",
-    "radarPlace": "BENY",
+    "radarInstallDate": "2020-10-26T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD1083",
     "radarTronconKm": [],
     "radarType": [

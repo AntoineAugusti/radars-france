@@ -1,14 +1,14 @@
 {
-    "nid": "22751",
-    "uuid": "2958bcd6-87eb-4209-8e4a-762004dc6279",
-    "vid": "22751",
+    "nid": "26279",
+    "uuid": "25ddb024-fdd9-40ef-a58c-3a31a1e2617e",
+    "vid": "26279",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229219",
+    "revisionTimestamp": "1681741042",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_28_009",
-    "created": "1637229219",
-    "changed": "1637229219",
+    "created": "1681741042",
+    "changed": "1681741042",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "28 - Eure-et-Loir",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.354944 0.866725)",
-    "radarInstallDate": "2017-10-18T10:53:40",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (2.13062 46.994203)",
+    "radarInstallDate": "2017-10-05T16:17:23",
     "radarPlace": "-",
     "radarRoad": "D918, D370.4, D370.1, D103, D9, D923, , D370, D955",
-    "radarTronconKm": "12.80",
+    "radarTronconKm": "12,8",
     "radarType": [
         {
             "tid": "19",

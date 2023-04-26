@@ -1,14 +1,14 @@
 {
-    "nid": "21108",
-    "uuid": "1f59456b-95b0-4518-9b10-04dedf39821d",
-    "vid": "21108",
+    "nid": "25121",
+    "uuid": "0f1d6945-eae9-405b-8c5d-c481e6d0ebbf",
+    "vid": "25121",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55071",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VAUVERT vers NIMES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.300589 43.745847)",
-    "radarInstallDate": "2019-11-20T16:22:50",
-    "radarPlace": "AUBORD",
+    "radarInstallDate": "2019-11-20T16:09:48",
+    "radarPlace": [],
     "radarRoad": "RD135",
     "radarTronconKm": [],
     "radarType": [

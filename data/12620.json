@@ -1,14 +1,14 @@
 {
-    "nid": "21847",
-    "uuid": "553a2863-6977-4446-a0e8-ccba7766958f",
-    "vid": "21847",
+    "nid": "23525",
+    "uuid": "183d89e5-8dcb-4ce2-92c4-d26f096cfaa3",
+    "vid": "23525",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12620",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GUEBWILLER vers MULHOUSE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.3084 47.79848)",
-    "radarInstallDate": "2020-10-14T16:25:32",
-    "radarPlace": "WITTENHEIM",
+    "radarInstallDate": "2020-10-14T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RD430",
     "radarTronconKm": [],
     "radarType": [

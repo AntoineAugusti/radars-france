@@ -1,14 +1,14 @@
 {
-    "nid": "21575",
-    "uuid": "dd32bdbc-bfff-49a0-92bd-ff79deb9565e",
-    "vid": "21575",
+    "nid": "23245",
+    "uuid": "7134e940-0f69-4cb8-af21-2a683a7e4ba8",
+    "vid": "23245",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12250",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Brest vers Rennes",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-2.745 48.517)",
-    "radarInstallDate": "2014-08-21T16:24:29",
-    "radarPlace": "ST BRIEUC",
+    "radarInstallDate": "2014-08-21T16:05:36",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21506",
-    "uuid": "769d7421-209a-4252-bca0-625b646dd5b8",
-    "vid": "21506",
+    "nid": "23179",
+    "uuid": "ed21629b-4d68-40a4-b815-5d130d85392a",
+    "vid": "23179",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12128",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ABBEVILLE vers ROUEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.7958 50.121)",
-    "radarInstallDate": "2012-10-26T16:24:16",
-    "radarPlace": "GRAND LAVIERS",
+    "radarInstallDate": "2012-10-26T16:05:32",
+    "radarPlace": [],
     "radarRoad": "A28",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19886",
-    "uuid": "f88e9df9-fbf4-462a-a7fd-15f56888ccdb",
-    "vid": "19886",
+    "nid": "23786",
+    "uuid": "2f9eb300-fdde-41df-bb9c-5431143aaac0",
+    "vid": "23786",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3018",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BLOIS vers ROMORANTIN LANTHENAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.41633 47.53431)",
-    "radarInstallDate": "2005-08-23T16:20:04",
-    "radarPlace": "CELLETTES",
+    "radarInstallDate": "2005-08-23T16:06:23",
+    "radarPlace": [],
     "radarRoad": "RD765",
     "radarTronconKm": [],
     "radarType": [

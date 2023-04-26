@@ -1,14 +1,14 @@
 {
-    "nid": "22101",
-    "uuid": "681bf641-cf18-4acf-bb93-94100a70aff9",
-    "vid": "22101",
+    "nid": "25718",
+    "uuid": "3cb11f98-2200-4e45-b20c-82424df0c528",
+    "vid": "25718",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE176007",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Yvetot vers Le Havre",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (0.35628 49.53334)",
-    "radarInstallDate": "2010-09-17T16:26:35",
-    "radarPlace": "ST ROMAIN DE COLBOSC",
+    "radarInstallDate": "2010-09-17T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

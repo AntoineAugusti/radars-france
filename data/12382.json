@@ -1,14 +1,14 @@
 {
-    "nid": "21661",
-    "uuid": "25d69bff-49f7-49eb-8efa-b7fa5b2b7064",
-    "vid": "21661",
+    "nid": "23329",
+    "uuid": "1ffcdca2-a5aa-4440-9042-e3436b4e5bd1",
+    "vid": "23329",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12382",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RENNES vers SAINT MALO",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.92671 48.56126)",
-    "radarInstallDate": "2016-10-17T16:24:50",
-    "radarPlace": "CHATEAUNEUF D ILLE ET VILAINE",
+    "radarInstallDate": "2016-10-17T16:05:42",
+    "radarPlace": [],
     "radarRoad": "RD137",
     "radarTronconKm": [],
     "radarType": [

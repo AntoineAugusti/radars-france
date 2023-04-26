@@ -1,14 +1,14 @@
 {
-    "nid": "20939",
-    "uuid": "c5b4b88b-407f-4d85-8191-7c970ea0e557",
-    "vid": "20939",
+    "nid": "24866",
+    "uuid": "09ad15f5-82b7-4ae9-8e5f-0d2141f2d27b",
+    "vid": "24866",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51300",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AMIENS vers ROYE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.677186 49.743353)",
-    "radarInstallDate": "2020-09-08T16:22:22",
-    "radarPlace": "BOUCHOIR",
+    "radarInstallDate": "2020-09-08T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD934",
     "radarTronconKm": [],
     "radarType": [

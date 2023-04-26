@@ -1,14 +1,14 @@
 {
-    "nid": "20396",
-    "uuid": "9f99c09f-c43f-45a8-b72f-d8c7b86fc889",
-    "vid": "20396",
+    "nid": "24247",
+    "uuid": "755b0ebe-c759-427c-a89f-1239173d01a7",
+    "vid": "24247",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8709",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Puteaux vers Issy les Moulineaux",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2267 48.845)",
-    "radarInstallDate": "2011-11-25T16:21:02",
-    "radarPlace": "BOULOGNE BILLANCOURT",
+    "radarInstallDate": "2011-11-25T16:07:19",
+    "radarPlace": [],
     "radarRoad": "RD1-QUAI DU 04 SEPTEMBRE",
     "radarTronconKm": [],
     "radarType": [

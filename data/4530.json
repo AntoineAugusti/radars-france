@@ -1,14 +1,14 @@
 {
-    "nid": "20034",
-    "uuid": "26e49ee9-c290-4093-a10c-892fd0a12266",
-    "vid": "20034",
+    "nid": "23920",
+    "uuid": "38a30d0e-a76c-474e-b15d-9987efd3060d",
+    "vid": "23920",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4530",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Tonnerre vers Auxerre",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.955 47.843)",
-    "radarInstallDate": "2009-01-22T16:20:19",
-    "radarPlace": "TONNERRE",
+    "radarInstallDate": "2009-01-22T16:06:38",
+    "radarPlace": [],
     "radarRoad": "RD965",
     "radarTronconKm": [],
     "radarType": [
@@ -115,9 +115,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "7",
-            "uuid": "c447707a-c428-4166-ac14-c667a8cdcb41",
-            "revisionId": "7",
+            "tid": "8",
+            "uuid": "9202ddc3-ba6a-450b-bdbf-86b3582f0107",
+            "revisionId": "8",
             "langcode": "fr",
             "vid": [
                 {
@@ -128,7 +128,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 80",
+            "name": "Vitesse VL 90",
             "description": [
                 {
                     "value": null,
@@ -141,7 +141,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154470",
+            "changed": "1515154485",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -153,30 +153,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-80.png?itok=TcuP772z",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-90.png?itok=W0JW7Fma",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-80.png?itok=TK2yJ19C",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-90.png?itok=NvEa8V-1",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-80.png?itok=thPluA0X",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-90.png?itok=b9OnBVQV",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-80.png",
-                        "fileCreated": "1515154465",
-                        "fileSize": "4045",
+                        "fileName": "vitesse-90.png",
+                        "fileCreated": "1515154481",
+                        "fileSize": "3523",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_80",
+            "macineName": "vitesse_vl_90",
             "ruleLabel": "Vitesse"
         }
     ],

@@ -1,14 +1,14 @@
 {
-    "nid": "20657",
-    "uuid": "e3bb8377-d09e-432f-b93f-1b587c334c7b",
-    "vid": "20657",
+    "nid": "24582",
+    "uuid": "1b483c28-54e3-4444-89bd-7e719ec1e060",
+    "vid": "24582",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51007",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE NEUBOURG vers BRETEUIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.933579 48.967693)",
-    "radarInstallDate": "2019-07-29T16:21:35",
-    "radarPlace": "CONCHES EN OUCHE",
+    "radarInstallDate": "2019-07-29T16:08:10",
+    "radarPlace": [],
     "radarRoad": "RD840",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21927",
-    "uuid": "725f6cff-b158-45e3-bb75-c2d11e4f8074",
-    "vid": "21927",
+    "nid": "25566",
+    "uuid": "df8cafd8-4612-4b15-bece-17bd91e9a8e7",
+    "vid": "25566",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE144004",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERTOU vers NANTES",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-1.50951 47.18919)",
-    "radarInstallDate": "2010-05-19T16:25:53",
-    "radarPlace": "ST SEBASTIEN SUR LOIRE",
+    "radarInstallDate": "2010-05-19T16:11:35",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

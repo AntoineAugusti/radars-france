@@ -1,14 +1,14 @@
 {
-    "nid": "20872",
-    "uuid": "045ef8b7-97c3-4305-90fc-085ce29afe9d",
-    "vid": "20872",
+    "nid": "24798",
+    "uuid": "06c2017f-d0d7-47f1-8c9e-8c0a981f5b2a",
+    "vid": "24798",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51229",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CONCARNEAU vers FOUESNANT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.996853 47.904858)",
-    "radarInstallDate": "2020-03-05T16:22:12",
-    "radarPlace": "FOUESNANT",
+    "radarInstallDate": "2020-03-05T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD 44",
     "radarTronconKm": [],
     "radarType": [

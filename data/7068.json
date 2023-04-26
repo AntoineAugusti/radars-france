@@ -1,14 +1,14 @@
 {
-    "nid": "20232",
-    "uuid": "a33bff8f-a7f4-41a5-90ba-895bb8057b3b",
-    "vid": "20232",
+    "nid": "24104",
+    "uuid": "662be4f7-083d-47d5-9b9b-96e5d305d0ee",
+    "vid": "24104",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7068",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nice vers Cannes",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.15837 43.66072)",
-    "radarInstallDate": "2008-06-04T16:20:39",
-    "radarPlace": "CAGNES SUR MER",
+    "radarInstallDate": "2008-06-04T16:07:01",
+    "radarPlace": [],
     "radarRoad": "A8",
     "radarTronconKm": [],
     "radarType": [

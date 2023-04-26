@@ -1,14 +1,14 @@
 {
-    "nid": "21103",
-    "uuid": "fde83445-0552-4c3a-9305-96ad575a1471",
-    "vid": "21103",
+    "nid": "25116",
+    "uuid": "97291b0e-4027-4767-afdf-fb3bd0c5a17a",
+    "vid": "25116",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55066",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALES vers ST AMBROIX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.133771 44.195577)",
-    "radarInstallDate": "2019-08-26T16:22:50",
-    "radarPlace": "ROUSSON",
+    "radarInstallDate": "2019-08-26T16:09:48",
+    "radarPlace": [],
     "radarRoad": "RD904",
     "radarTronconKm": [],
     "radarType": [

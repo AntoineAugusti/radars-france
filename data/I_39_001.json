@@ -1,14 +1,14 @@
 {
-    "nid": "22774",
-    "uuid": "cde6314e-15b1-4c3c-802d-85e77572c63b",
-    "vid": "22774",
+    "nid": "26311",
+    "uuid": "96b32071-2cf1-492e-a67a-e616e1868602",
+    "vid": "26311",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229221",
+    "revisionTimestamp": "1681741048",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_39_001",
-    "created": "1637229221",
-    "changed": "1637229221",
+    "created": "1681741048",
+    "changed": "1681741048",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "39 - Jura",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (46.960949 5.264097)",
-    "radarInstallDate": "2017-10-05T10:53:41",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (0.607198 49.331239)",
+    "radarInstallDate": "2017-10-06T16:17:28",
     "radarPlace": "-",
     "radarRoad": "D11, D6, D222, D12, D31, D468, A39, D973, D358, D76E1, D37, D221, D238, D10, D227, , D13, D405, D905, D220, D223, D673, D79, D36",
-    "radarTronconKm": "44.39",
+    "radarTronconKm": "44,4",
     "radarType": [
         {
             "tid": "19",

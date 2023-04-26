@@ -1,14 +1,14 @@
 {
-    "nid": "19977",
-    "uuid": "f72f1dda-43de-438a-8f12-a4b6d729d7eb",
-    "vid": "19977",
+    "nid": "23868",
+    "uuid": "9b6b40f4-7023-4227-a012-1e7c4b35d34f",
+    "vid": "23868",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4285",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST LO vers BAYEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.79759 49.21588)",
-    "radarInstallDate": "2008-11-25T16:20:13",
-    "radarPlace": "LE TRONQUAY",
+    "radarInstallDate": "2008-11-25T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD572",
     "radarTronconKm": [],
     "radarType": [

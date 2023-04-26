@@ -1,14 +1,14 @@
 {
-    "nid": "20790",
-    "uuid": "1dac20b7-afc4-4c1f-aa3b-84e8368d7b49",
-    "vid": "20790",
+    "nid": "24714",
+    "uuid": "cade190e-9dbb-47f5-9767-fec6954433c9",
+    "vid": "24714",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51142",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "INGWILLER vers BOUXWILLER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.462815 48.861017)",
-    "radarInstallDate": "2020-01-08T16:21:58",
-    "radarPlace": "INGWILLER",
+    "radarInstallDate": "2020-01-08T16:08:31",
+    "radarPlace": [],
     "radarRoad": "RD6",
     "radarTronconKm": [],
     "radarType": [

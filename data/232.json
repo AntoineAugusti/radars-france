@@ -1,14 +1,14 @@
 {
-    "nid": "19696",
-    "uuid": "23609bb7-54fd-4399-a9b0-d70ae3b400dc",
-    "vid": "19696",
+    "nid": "23627",
+    "uuid": "45ad469f-038e-4c15-b1b2-d2c36b213504",
+    "vid": "23627",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "232",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLEPARISIS VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.56774 48.93387)",
-    "radarInstallDate": "2004-12-08T16:19:48",
-    "radarPlace": "VAUJOURS",
+    "radarInstallDate": "2004-12-08T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RN3",
     "radarTronconKm": [],
     "radarType": [

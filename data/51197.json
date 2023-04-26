@@ -1,14 +1,14 @@
 {
-    "nid": "20844",
-    "uuid": "3078998d-0726-4c73-bb51-6d84eea46f0a",
-    "vid": "20844",
+    "nid": "24768",
+    "uuid": "bf51e5ca-f58a-4939-b93c-aa543a098225",
+    "vid": "24768",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51197",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "ST CALAIS vers ORLEANS",
     "radarEquipment": "MORPHO",
-    "radarGeolocalisation": "POINT (0.824828 47.916159)",
-    "radarInstallDate": "2020-07-17T16:22:07",
-    "radarPlace": "SARGE SUR BRAYE",
+    "radarGeolocalisation": "POINT (0.82506 47.91627)",
+    "radarInstallDate": "2020-07-17T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD357",
     "radarTronconKm": [],
     "radarType": [

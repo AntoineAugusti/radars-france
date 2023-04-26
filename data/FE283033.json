@@ -1,14 +1,14 @@
 {
-    "nid": "22322",
-    "uuid": "3da5bb4a-2394-4801-b26f-e7bfa62bc928",
-    "vid": "22322",
+    "nid": "25879",
+    "uuid": "2bc907bd-1f60-48a0-9a18-0f357cad25d4",
+    "vid": "25879",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE283033",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Trans en Provence vers Draguignan",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.48352 43.50357)",
-    "radarInstallDate": "2012-12-20T16:27:30",
-    "radarPlace": "TRANS EN PROVENCE",
+    "radarInstallDate": "2012-12-20T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

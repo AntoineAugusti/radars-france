@@ -1,14 +1,14 @@
 {
-    "nid": "19640",
-    "uuid": "dc9bc9c2-fdd1-4bbc-9bf4-9a3c6fc40939",
-    "vid": "19640",
+    "nid": "23581",
+    "uuid": "a6431f9d-43b6-407d-afc4-f630005da8a7",
+    "vid": "23581",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "103",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS MONTLHERY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.27976 48.67029)",
-    "radarInstallDate": "2003-10-31T16:19:45",
-    "radarPlace": "LA VILLE DU BOIS",
+    "radarInstallDate": "2003-10-31T16:06:03",
+    "radarPlace": [],
     "radarRoad": "RN20",
     "radarTronconKm": [],
     "radarType": [

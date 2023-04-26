@@ -1,14 +1,14 @@
 {
-    "nid": "22105",
-    "uuid": "9f2793ee-5e96-4092-b505-d1dbe0012fb3",
-    "vid": "22105",
+    "nid": "25721",
+    "uuid": "bc34497a-f6a9-49d7-ac60-ea9d8808884c",
+    "vid": "25721",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE176014",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (0.15095 49.48864)",
-    "radarInstallDate": "2011-06-15T16:26:35",
-    "radarPlace": "LE HAVRE",
+    "radarInstallDate": "2011-06-15T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

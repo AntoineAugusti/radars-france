@@ -1,14 +1,14 @@
 {
-    "nid": "22305",
-    "uuid": "8b7f61d9-c1d4-416a-b716-dd160544337f",
-    "vid": "22305",
+    "nid": "25864",
+    "uuid": "d35670ac-9089-4511-9182-a0437aa5856d",
+    "vid": "25864",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE273008",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Gilly sur Is\u00e8re vers Albertville",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.36369 45.6636)",
-    "radarInstallDate": "2010-02-17T16:27:20",
-    "radarPlace": "ALBERTVILLE",
+    "radarInstallDate": "2010-02-17T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20361",
-    "uuid": "ec96f58f-7b94-4d93-a0d3-3a79fb8445eb",
-    "vid": "20361",
+    "nid": "24215",
+    "uuid": "30ced91b-4990-48cb-810a-f770ead5060a",
+    "vid": "24215",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8597",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "HIRSON vers CHARLEVILLE MEZIERES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.5857 49.817)",
-    "radarInstallDate": "2010-10-26T16:20:57",
-    "radarPlace": "LONNY",
+    "radarInstallDate": "2010-10-26T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RN43",
     "radarTronconKm": [],
     "radarType": [

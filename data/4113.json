@@ -1,14 +1,14 @@
 {
-    "nid": "19946",
-    "uuid": "f03bdc0e-5294-4768-91dc-333acd26fc81",
-    "vid": "19946",
+    "nid": "23838",
+    "uuid": "238d90a7-be05-4b06-93aa-b9f24e60fed0",
+    "vid": "23838",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4113",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTEREAU FAULT YONNE vers TIGERY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.55419 48.61832)",
-    "radarInstallDate": "2009-08-12T16:20:10",
-    "radarPlace": "LIEUSAINT",
+    "radarInstallDate": "2009-08-12T16:06:29",
+    "radarPlace": [],
     "radarRoad": "A5a",
     "radarTronconKm": [],
     "radarType": [

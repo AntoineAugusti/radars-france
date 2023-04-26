@@ -1,14 +1,14 @@
 {
-    "nid": "21104",
-    "uuid": "db142534-b5c8-4c7f-ae10-3ee8fa7fdb89",
-    "vid": "21104",
+    "nid": "25117",
+    "uuid": "96695461-1ae0-4c90-bf2e-a01ef2ddd0eb",
+    "vid": "25117",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55067",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARLES vers NIMES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.560633 43.706106)",
-    "radarInstallDate": "2019-08-26T16:22:50",
-    "radarPlace": "FOURQUES",
+    "radarInstallDate": "2019-08-26T16:09:48",
+    "radarPlace": [],
     "radarRoad": "RD6113",
     "radarTronconKm": [],
     "radarType": [

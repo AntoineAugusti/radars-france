@@ -1,14 +1,14 @@
 {
-    "nid": "21737",
-    "uuid": "99581f99-e301-46ca-9a8f-3fcff87b1fa5",
-    "vid": "21737",
+    "nid": "23405",
+    "uuid": "e6788d40-50ad-4e19-970a-781482e9a03a",
+    "vid": "23405",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12471",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST QUENTIN vers AMIENS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.41556 49.85744)",
-    "radarInstallDate": "2016-10-10T16:25:04",
-    "radarPlace": "BLANGY TRONVILLE",
+    "radarInstallDate": "2016-10-10T16:05:48",
+    "radarPlace": [],
     "radarRoad": "A29",
     "radarTronconKm": [],
     "radarType": [

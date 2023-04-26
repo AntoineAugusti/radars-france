@@ -1,14 +1,14 @@
 {
-    "nid": "21556",
-    "uuid": "9379d17f-f1ba-46ec-99e9-e3435a40a8f5",
-    "vid": "21556",
+    "nid": "23227",
+    "uuid": "540fdb93-6ada-4a62-8477-09131f4e9510",
+    "vid": "23227",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12217",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RIVESALTES vers PERPIGNAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.8873 42.739)",
-    "radarInstallDate": "2013-10-24T16:24:23",
-    "radarPlace": "PERPIGNAN",
+    "radarInstallDate": "2013-10-24T16:05:35",
+    "radarPlace": [],
     "radarRoad": "RD900",
     "radarTronconKm": [],
     "radarType": [

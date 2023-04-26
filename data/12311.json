@@ -1,14 +1,14 @@
 {
-    "nid": "21607",
-    "uuid": "58e8e30f-d939-4f92-a0f7-c79be617ea0c",
-    "vid": "21607",
+    "nid": "23276",
+    "uuid": "9f54718a-ff9e-46eb-85fe-35d61331b621",
+    "vid": "23276",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12311",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TARBES vers BORDEAUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.4101 43.608)",
-    "radarInstallDate": "2015-02-23T16:24:36",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2015-02-23T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A620",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20652",
-    "uuid": "31204570-3490-4ad3-b86c-763c3bb7ca05",
-    "vid": "20652",
+    "nid": "24577",
+    "uuid": "1e868969-8743-420a-8397-bd3a231e3cc2",
+    "vid": "24577",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51002",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SUIPPES vers VOUZIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.57778 49.38231)",
-    "radarInstallDate": "2019-07-22T16:21:35",
-    "radarPlace": "LEFFINCOURT",
+    "radarInstallDate": "2019-07-22T16:08:09",
+    "radarPlace": [],
     "radarRoad": "D977",
     "radarTronconKm": [],
     "radarType": [

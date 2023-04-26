@@ -1,14 +1,14 @@
 {
-    "nid": "19948",
-    "uuid": "b5988648-592e-4ebd-999e-8a8892dc4994",
-    "vid": "19948",
+    "nid": "23839",
+    "uuid": "362fa049-d9ca-496e-b9b6-f3fea57bcaff",
+    "vid": "23839",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4120",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Toulouse vers Carmaux",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.16487 43.94343)",
-    "radarInstallDate": "2008-11-17T16:20:10",
-    "radarPlace": "ALBI",
+    "radarInstallDate": "2008-11-17T16:06:29",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

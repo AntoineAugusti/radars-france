@@ -1,14 +1,14 @@
 {
-    "nid": "21178",
-    "uuid": "afc3d78f-8ba4-407e-8dec-8f1eb51de6ab",
-    "vid": "21178",
+    "nid": "25189",
+    "uuid": "f2ee1f6f-6aeb-4fee-bc2e-7136ae765a45",
+    "vid": "25189",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55142",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRAULHET vers GAILLAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.92803 43.85732)",
-    "radarInstallDate": "2020-02-05T16:23:07",
-    "radarPlace": "TECOU",
+    "radarInstallDate": "2020-02-05T16:10:05",
+    "radarPlace": [],
     "radarRoad": "RD964",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19793",
-    "uuid": "994f5551-9598-484d-b6c6-693e4c0f7b38",
-    "vid": "19793",
+    "nid": "23716",
+    "uuid": "c1aea10c-9c97-4c9a-bd84-7eadd129744a",
+    "vid": "23716",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "586",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "QUINCY vers ST GERMAIN LES CORBEIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.50417 48.64528)",
-    "radarInstallDate": "2005-04-06T16:19:55",
-    "radarPlace": "TIGERY",
+    "radarInstallDate": "2005-04-06T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RD33",
     "radarTronconKm": [],
     "radarType": [

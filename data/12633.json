@@ -1,14 +1,14 @@
 {
-    "nid": "21858",
-    "uuid": "7d288a00-dd63-449f-b9dd-acb36503205c",
-    "vid": "21858",
+    "nid": "23536",
+    "uuid": "0ddace9a-fc5e-49ae-981b-e9c3fd87113a",
+    "vid": "23536",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12633",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TREMBLAY EN FRANCE vers GONESSE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.54522 48.96191)",
-    "radarInstallDate": "2020-04-02T16:25:32",
-    "radarPlace": "VILLEPINTE",
+    "radarInstallDate": "2020-04-02T16:05:58",
+    "radarPlace": [],
     "radarRoad": "A104",
     "radarTronconKm": [],
     "radarType": [

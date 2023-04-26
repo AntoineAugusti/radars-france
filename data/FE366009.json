@@ -1,14 +1,14 @@
 {
-    "nid": "22547",
-    "uuid": "660059c4-105d-49e0-8ddd-c14325f14493",
-    "vid": "22547",
+    "nid": "26027",
+    "uuid": "335d1c2b-36b2-48f2-945e-7b6cdb1b1ccc",
+    "vid": "26027",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE366009",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bd Cayrol vers le Nord",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.90577 42.69569)",
-    "radarInstallDate": "2012-01-03T16:28:29",
-    "radarPlace": "PERPIGNAN",
+    "radarInstallDate": "2012-01-03T16:13:42",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22315",
-    "uuid": "98ceffbf-9af5-4a01-91d0-0032b3489cc6",
-    "vid": "22315",
+    "nid": "25872",
+    "uuid": "8972b2f6-26ef-4595-a970-96b65a6bd2b5",
+    "vid": "25872",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE283009",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "La Seyne sur Mer vers Toulon",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.87689 43.10711)",
-    "radarInstallDate": "2010-01-26T16:27:29",
-    "radarPlace": "LA SEYNE SUR MER",
+    "radarInstallDate": "2010-01-26T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

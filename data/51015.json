@@ -1,14 +1,14 @@
 {
-    "nid": "20665",
-    "uuid": "28f1c28b-db4c-4808-af00-b74f48d5a337",
-    "vid": "20665",
+    "nid": "24590",
+    "uuid": "5b816179-06c7-4f1e-a339-a2abbaf6a11d",
+    "vid": "24590",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51015",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUBRIANT vers REDON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.985132 47.638267)",
-    "radarInstallDate": "2020-06-19T16:21:38",
-    "radarPlace": "AVESSAC",
+    "radarInstallDate": "2020-06-19T16:08:10",
+    "radarPlace": [],
     "radarRoad": "RD775",
     "radarTronconKm": [],
     "radarType": [

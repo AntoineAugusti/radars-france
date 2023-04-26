@@ -1,14 +1,14 @@
 {
-    "nid": "20362",
-    "uuid": "d5e4a9f5-417e-4eee-b90c-dcc8063b78f8",
-    "vid": "20362",
+    "nid": "24216",
+    "uuid": "618f63a0-73c8-4cd2-b132-af9a9f8bd840",
+    "vid": "24216",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8600",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHARTRES vers DREUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.4669 48.485)",
-    "radarInstallDate": "2011-01-20T16:20:57",
-    "radarPlace": "LEVES",
+    "radarInstallDate": "2011-01-20T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RN1154",
     "radarTronconKm": [],
     "radarType": [

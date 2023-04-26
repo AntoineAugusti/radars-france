@@ -1,14 +1,14 @@
 {
-    "nid": "21242",
-    "uuid": "4cc54b07-df4d-401e-af10-12b584bd0aba",
-    "vid": "21242",
+    "nid": "25253",
+    "uuid": "5911bf9c-ce20-4dd1-adbf-b13490bf7b3e",
+    "vid": "25253",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55206",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST HIPPOLYTE DU FORT vers GANGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.796 43.951)",
-    "radarInstallDate": "2020-02-05T16:23:19",
-    "radarPlace": "LA CADIERE ET CAMBO",
+    "radarInstallDate": "2020-02-05T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

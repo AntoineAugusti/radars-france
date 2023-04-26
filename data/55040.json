@@ -1,14 +1,14 @@
 {
-    "nid": "21077",
-    "uuid": "a0ae37f9-c893-4ed9-8887-0c10a4d923cd",
-    "vid": "21077",
+    "nid": "25090",
+    "uuid": "fc42ddfb-9df9-4066-a8f8-d65ecef45598",
+    "vid": "25090",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55040",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LARRAZET vers MONTAUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.205954 43.954595)",
-    "radarInstallDate": "2019-08-12T16:22:44",
-    "radarPlace": "MONTECH",
+    "radarInstallDate": "2019-08-12T16:09:42",
+    "radarPlace": [],
     "radarRoad": "RD928",
     "radarTronconKm": [],
     "radarType": [

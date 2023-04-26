@@ -1,14 +1,14 @@
 {
-    "nid": "21276",
-    "uuid": "b3d67026-4f04-4da5-a0cf-a5e722115bf7",
-    "vid": "21276",
+    "nid": "25289",
+    "uuid": "eb20921b-4955-4c24-999e-3458cbc9856d",
+    "vid": "25289",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55243",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TULLINS vers VOIRON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.51358 45.31475)",
-    "radarInstallDate": "2021-02-04T16:23:26",
-    "radarPlace": "VOUREY",
+    "radarInstallDate": "2021-02-04T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD1092",
     "radarTronconKm": [],
     "radarType": [

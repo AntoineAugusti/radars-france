@@ -1,14 +1,14 @@
 {
-    "nid": "20797",
-    "uuid": "fe58a558-0aec-494e-b2d3-cd3ac92bbf6e",
-    "vid": "20797",
+    "nid": "24721",
+    "uuid": "8be2bbdc-b70b-49c1-aed7-c22f67868e66",
+    "vid": "24721",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51149",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOTES vers ROUEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.994715 49.51505)",
-    "radarInstallDate": "2021-02-02T16:21:58",
-    "radarPlace": "PISSY POVILLE",
+    "radarInstallDate": "2021-02-02T16:08:36",
+    "radarPlace": [],
     "radarRoad": "A151",
     "radarTronconKm": [],
     "radarType": [

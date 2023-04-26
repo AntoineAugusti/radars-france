@@ -1,14 +1,14 @@
 {
-    "nid": "22867",
-    "uuid": "cd520dd8-93df-4611-9d3e-d1dc302e9e96",
-    "vid": "22867",
+    "nid": "26422",
+    "uuid": "0bd99f3c-0ab5-4874-b2f6-ff948efbaec7",
+    "vid": "26422",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229226",
+    "revisionTimestamp": "1681741072",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_77_001",
-    "created": "1637229226",
-    "changed": "1637229226",
+    "created": "1681741072",
+    "changed": "1681741072",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "77 - Seine-et-Marne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.589126 2.72202)",
-    "radarInstallDate": "2017-10-09T10:53:47",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (0.742516 44.408471)",
+    "radarInstallDate": "2017-10-06T16:17:54",
     "radarPlace": "-",
     "radarRoad": "D144, D436, D216, D130, N4, D130B, D32, D143, D319, D619, D48, D235, D231, D57, , N36, D636, D21",
-    "radarTronconKm": "33.22",
+    "radarTronconKm": "33,2",
     "radarType": [
         {
             "tid": "19",

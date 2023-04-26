@@ -1,14 +1,14 @@
 {
-    "nid": "21370",
-    "uuid": "c9356827-6316-479a-8bf5-f50b4e32dd55",
-    "vid": "21370",
+    "nid": "25384",
+    "uuid": "22ff2e24-e87b-4ae4-9950-966118aac08a",
+    "vid": "25384",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55343",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NICE vers CAGNES SUR MER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.18506 43.65796)",
-    "radarInstallDate": "2021-02-26T16:23:45",
-    "radarPlace": "SAINT LAURENT DU VAR",
+    "radarInstallDate": "2021-02-26T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RM6098",
     "radarTronconKm": [],
     "radarType": [

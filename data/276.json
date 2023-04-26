@@ -1,14 +1,14 @@
 {
-    "nid": "19707",
-    "uuid": "ab3b96a6-aecd-4a1e-a40b-ffcb7f27be4d",
-    "vid": "19707",
+    "nid": "23637",
+    "uuid": "863e59a6-8cc6-4a4b-8496-9c3d4c7348ae",
+    "vid": "23637",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "276",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTELIMAR vers VALENCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.80003 44.70534)",
-    "radarInstallDate": "2004-10-19T16:19:49",
-    "radarPlace": "SAULCE SUR RHONE",
+    "radarInstallDate": "2004-10-19T16:06:09",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

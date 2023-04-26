@@ -1,14 +1,14 @@
 {
-    "nid": "22665",
-    "uuid": "d74f021c-8d33-4453-ac81-dffe27773f6d",
-    "vid": "22665",
+    "nid": "26182",
+    "uuid": "a4c9fe72-5e69-4efd-b00a-f32396de468e",
+    "vid": "26182",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741029",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20152",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741029",
+    "changed": "1681741029",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -33,15 +33,15 @@
             "langcode": "fr"
         }
     ],
-    "department": "56-MORBIHAN",
+    "department": "29-FINISTERE",
     "itineraireEntree": [],
     "itineraireSortie": [],
     "radarDirection": "GUIDEL vers QUIMPERLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.56 47.8626)",
-    "radarInstallDate": "2014-11-27T10:53:37",
+    "radarInstallDate": "2014-11-27T16:17:10",
     "radarPlace": "QUIMPERLE",
-    "radarRoad": "RN165",
+    "radarRoad": "RN 165",
     "radarTronconKm": "8,4",
     "radarType": [
         {

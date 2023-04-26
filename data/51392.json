@@ -1,14 +1,14 @@
 {
-    "nid": "21008",
-    "uuid": "6ba9550b-5b35-4fc4-b114-9b35d91302d9",
-    "vid": "21008",
+    "nid": "24952",
+    "uuid": "3e2dc8c1-bba9-4463-9b40-6a8fe438ce68",
+    "vid": "24952",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51392",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOYON vers COMPIEGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.947051 49.535375)",
-    "radarInstallDate": "2021-07-09T16:22:33",
-    "radarPlace": "CHIRY OURSCAMP",
+    "radarInstallDate": "2021-07-09T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD932",
     "radarTronconKm": [],
     "radarType": [

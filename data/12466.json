@@ -1,14 +1,14 @@
 {
-    "nid": "21733",
-    "uuid": "e0230ef0-ff14-4f15-a3a5-4f6ed28efc25",
-    "vid": "21733",
+    "nid": "23401",
+    "uuid": "9bd7e006-9108-441a-af06-bc9b9334ffae",
+    "vid": "23401",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12466",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers TROYES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.89477 48.27307)",
-    "radarInstallDate": "2016-12-02T16:25:04",
-    "radarPlace": "MESSON",
+    "radarInstallDate": "2016-12-02T16:05:48",
+    "radarPlace": [],
     "radarRoad": "A5",
     "radarTronconKm": [],
     "radarType": [

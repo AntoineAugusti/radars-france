@@ -1,14 +1,14 @@
 {
-    "nid": "22042",
-    "uuid": "98a1fd05-118b-4dfd-b1c9-f93f38b4d95e",
-    "vid": "22042",
+    "nid": "25659",
+    "uuid": "2bdb8413-49dc-4957-b164-e198c95371d3",
+    "vid": "25659",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162019",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DROCOURT vers  COURRIERES",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.94691 50.41682)",
-    "radarInstallDate": "2012-03-09T16:26:21",
-    "radarPlace": "HENIN BEAUMONT",
+    "radarInstallDate": "2012-03-09T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

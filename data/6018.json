@@ -1,14 +1,14 @@
 {
-    "nid": "20115",
-    "uuid": "e55aea2a-1978-4e08-8021-84755badfe8b",
-    "vid": "20115",
+    "nid": "23999",
+    "uuid": "4367cff0-efa2-4107-a350-9a28c87edd04",
+    "vid": "23999",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6018",
-    "created": "1637229118",
-    "changed": "1675869624",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE FAYET VERS MACON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.6332 46.1463)",
-    "radarInstallDate": "2006-06-26T16:20:26",
-    "radarPlace": "LES NEYROLLES",
+    "radarInstallDate": "2006-06-26T16:06:47",
+    "radarPlace": [],
     "radarRoad": "A40",
     "radarTronconKm": [],
     "radarType": [

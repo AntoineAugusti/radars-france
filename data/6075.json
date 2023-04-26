@@ -1,14 +1,14 @@
 {
-    "nid": "20130",
-    "uuid": "2220da75-2637-462f-a73b-b4930626a4f1",
-    "vid": "20130",
+    "nid": "24012",
+    "uuid": "bb17e21b-252e-4ca5-98d7-a5dfdf464c22",
+    "vid": "24012",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6075",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST CLAUD vers CONFOLENS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.53397 45.93421)",
-    "radarInstallDate": "2006-07-27T16:20:29",
-    "radarPlace": "ST LAURENT DE CERIS",
+    "radarInstallDate": "2006-07-27T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RD951",
     "radarTronconKm": [],
     "radarType": [

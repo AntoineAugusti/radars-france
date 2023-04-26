@@ -1,14 +1,14 @@
 {
-    "nid": "19671",
-    "uuid": "c350f55d-caeb-465b-a074-158be2a77070",
-    "vid": "19671",
+    "nid": "23608",
+    "uuid": "5ca5872e-8bcf-4efe-957a-301196d2f742",
+    "vid": "23608",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "163",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ABBEVILLE VERS LONGUEAU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.32861 49.92349)",
-    "radarInstallDate": "2004-03-30T16:19:47",
-    "radarPlace": "AMIENS",
+    "radarInstallDate": "2004-03-30T16:06:06",
+    "radarPlace": [],
     "radarRoad": "RN25",
     "radarTronconKm": [],
     "radarType": [

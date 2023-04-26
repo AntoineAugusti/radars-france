@@ -1,14 +1,14 @@
 {
-    "nid": "21690",
-    "uuid": "f4d184f6-9a43-44cd-88a1-696da3aec26c",
-    "vid": "21690",
+    "nid": "23358",
+    "uuid": "c40a3562-934c-43e0-bfd7-f29248b8f107",
+    "vid": "23358",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12413",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORLEANS vers BLOIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.53901 47.74799)",
-    "radarInstallDate": "2016-07-06T16:24:56",
-    "radarPlace": "SERIS",
+    "radarInstallDate": "2016-07-06T16:05:45",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

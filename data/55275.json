@@ -1,14 +1,14 @@
 {
-    "nid": "21307",
-    "uuid": "00d8f6b4-d549-4a93-ba6d-68ade5ef33d1",
-    "vid": "21307",
+    "nid": "25319",
+    "uuid": "ff522def-caff-4c3f-9d4c-f4372b178b33",
+    "vid": "25319",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55275",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VALREAS vers TULETTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.947196 44.335018)",
-    "radarInstallDate": "2020-06-19T16:23:32",
-    "radarPlace": "VISAN",
+    "radarInstallDate": "2020-06-19T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD976",
     "radarTronconKm": [],
     "radarType": [

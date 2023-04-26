@@ -1,14 +1,14 @@
 {
-    "nid": "20654",
-    "uuid": "41bfec30-2420-4f35-8c5c-def2cf9f61f1",
-    "vid": "20654",
+    "nid": "24579",
+    "uuid": "01c63e82-f353-484a-8c28-2a3821d07238",
+    "vid": "24579",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51004",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURCQ vers LA CROIX AUX BOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.71808 49.39828)",
-    "radarInstallDate": "2020-01-27T16:21:35",
-    "radarPlace": "VOUZIERS",
+    "radarInstallDate": "2020-01-27T16:08:09",
+    "radarPlace": [],
     "radarRoad": "RD946",
     "radarTronconKm": [],
     "radarType": [

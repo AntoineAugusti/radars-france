@@ -1,14 +1,14 @@
 {
-    "nid": "21629",
-    "uuid": "efda1b53-3672-4ea0-8a06-9f9450009940",
-    "vid": "21629",
+    "nid": "23297",
+    "uuid": "37f4ee6d-14d4-47f6-9cc8-dcd3a06c3253",
+    "vid": "23297",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12342",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROUEN vers CAEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.05613 49.42835)",
-    "radarInstallDate": "2016-06-20T16:24:42",
-    "radarPlace": "LE PETIT QUEVILLY",
+    "radarInstallDate": "2016-06-20T16:05:40",
+    "radarPlace": [],
     "radarRoad": "RN338",
     "radarTronconKm": [],
     "radarType": [

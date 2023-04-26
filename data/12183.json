@@ -1,14 +1,14 @@
 {
-    "nid": "21537",
-    "uuid": "42419781-9a6d-4163-8d24-a0f757e69ff0",
-    "vid": "21537",
+    "nid": "23208",
+    "uuid": "9721402d-d2fd-45e9-b26b-18ff8975a34e",
+    "vid": "23208",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12183",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BONDOUFLE vers STE GENEVIEVE DES BOIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.3604 48.625)",
-    "radarInstallDate": "2013-10-14T16:24:22",
-    "radarPlace": "FLEURY MEROGIS",
+    "radarInstallDate": "2013-10-14T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RN104",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20204",
-    "uuid": "a5d5c6af-b619-426c-8b30-9a875f4e9f8d",
-    "vid": "20204",
+    "nid": "24078",
+    "uuid": "913c2fd3-7a96-4405-88e1-2a482746f9dc",
+    "vid": "24078",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6845",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA CAPELLE VERS LAON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.87774 49.81874)",
-    "radarInstallDate": "2007-07-05T16:20:35",
-    "radarPlace": "GERCY",
+    "radarInstallDate": "2007-07-05T16:06:57",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

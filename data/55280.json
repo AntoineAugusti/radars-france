@@ -1,14 +1,14 @@
 {
-    "nid": "21312",
-    "uuid": "d145b924-92a6-415e-9058-26f80c4f4fde",
-    "vid": "21312",
+    "nid": "25324",
+    "uuid": "fc281454-acf7-4d55-af7c-28296b952200",
+    "vid": "25324",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55280",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TARARE vers LYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.544748 45.867697)",
-    "radarInstallDate": "2020-12-21T16:23:32",
-    "radarPlace": "SAINT ROMAIN DE POPEY",
+    "radarInstallDate": "2020-12-21T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

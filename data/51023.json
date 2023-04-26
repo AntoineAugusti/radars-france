@@ -1,14 +1,14 @@
 {
-    "nid": "20673",
-    "uuid": "4ebc16f6-d3bd-4dbd-b7a7-b73f4c4f8d4c",
-    "vid": "20673",
+    "nid": "24598",
+    "uuid": "6fdd4595-0b88-4202-b9c3-b15e7696c824",
+    "vid": "24598",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51023",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LUXEUIL LES BAINS vers VESOUL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.305224 47.721241)",
-    "radarInstallDate": "2019-09-16T16:21:38",
-    "radarPlace": "SERVIGNEY",
+    "radarInstallDate": "2019-09-16T16:08:14",
+    "radarPlace": [],
     "radarRoad": "RN57",
     "radarTronconKm": [],
     "radarType": [

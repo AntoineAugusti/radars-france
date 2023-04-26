@@ -1,14 +1,14 @@
 {
-    "nid": "21714",
-    "uuid": "37b4bd7b-ad79-450e-8eb3-cb09849a7536",
-    "vid": "21714",
+    "nid": "23382",
+    "uuid": "35b010b0-4d13-4f35-91bc-c474b41569d8",
+    "vid": "23382",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12440",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FOS SUR MER vers ARLES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.860097 43.507483)",
-    "radarInstallDate": "2017-01-27T16:25:03",
-    "radarPlace": "ST MARTIN DE CRAU",
+    "radarInstallDate": "2017-01-27T16:05:46",
+    "radarPlace": [],
     "radarRoad": "RN568",
     "radarTronconKm": [],
     "radarType": [

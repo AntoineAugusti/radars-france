@@ -1,14 +1,14 @@
 {
-    "nid": "20878",
-    "uuid": "af726c4f-94fb-4db3-8a61-26a27e3e43ab",
-    "vid": "20878",
+    "nid": "24805",
+    "uuid": "066f4ef7-3385-44bc-a46c-381857312388",
+    "vid": "24805",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51236",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERN D ANJOU vers THORIGNE D ANJOU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.766068 47.614278)",
-    "radarInstallDate": "2020-03-19T16:22:13",
-    "radarPlace": "LE LION D ANGERS",
+    "radarInstallDate": "2020-03-19T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD770",
     "radarTronconKm": [],
     "radarType": [

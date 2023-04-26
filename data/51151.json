@@ -1,14 +1,14 @@
 {
-    "nid": "20799",
-    "uuid": "abf56e82-88c5-4434-8cb4-5477b5f0614d",
-    "vid": "20799",
+    "nid": "24723",
+    "uuid": "c2618792-6e69-4d3e-9931-83c3ef4b9f4f",
+    "vid": "24723",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51151",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FONTENAY LE COMTE vers POUILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.898579 46.487656)",
-    "radarInstallDate": "2020-01-24T16:21:58",
-    "radarPlace": "PETOSSE",
+    "radarInstallDate": "2020-01-24T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD148",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22088",
-    "uuid": "68a4ff7b-ddfd-45b8-a8bf-b3de45d3eff1",
-    "vid": "22088",
+    "nid": "25705",
+    "uuid": "9c096eca-f4f8-4849-b0fc-34e2ff6e1124",
+    "vid": "25705",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE175013",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vers Boulevard de la Villette",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.36107 48.8843)",
-    "radarInstallDate": "2012-12-20T16:26:28",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2012-12-20T16:12:08",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

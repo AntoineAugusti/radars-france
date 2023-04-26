@@ -1,14 +1,14 @@
 {
-    "nid": "20440",
-    "uuid": "8d4d83f9-34e3-4ddb-807b-24ce4cd7072c",
-    "vid": "20440",
+    "nid": "24286",
+    "uuid": "839322e8-8edc-4aa0-a2b7-1ec2d39b9809",
+    "vid": "24286",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8850",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SILLE LE GUILLAUME vers FRESNAY SUR SARTHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.04168 48.241)",
-    "radarInstallDate": "2011-01-26T16:21:06",
-    "radarPlace": "MONTREUIL LE CHETIF",
+    "radarInstallDate": "2011-01-26T16:07:26",
+    "radarPlace": [],
     "radarRoad": "RD310",
     "radarTronconKm": [],
     "radarType": [

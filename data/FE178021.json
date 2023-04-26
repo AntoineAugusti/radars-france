@@ -1,14 +1,14 @@
 {
-    "nid": "22127",
-    "uuid": "6ce6b2f6-9ed2-4bb1-b053-6c2be95516c8",
-    "vid": "22127",
+    "nid": "25743",
+    "uuid": "9d801c23-422d-4509-bd7a-bf9662e3842a",
+    "vid": "25743",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178021",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Marly-le-Roi vers Le Pecq",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.10422 48.88902)",
-    "radarInstallDate": "2013-02-05T16:26:36",
-    "radarPlace": "LE PECQ",
+    "radarInstallDate": "2013-02-05T16:12:22",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

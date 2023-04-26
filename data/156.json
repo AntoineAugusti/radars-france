@@ -1,14 +1,14 @@
 {
-    "nid": "19668",
-    "uuid": "d07f7374-dfd1-4220-929f-706e7d4333c7",
-    "vid": "19668",
+    "nid": "23606",
+    "uuid": "8475de02-6bfa-4266-91fd-6ea1300b4859",
+    "vid": "23606",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "156",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MOUTIERS vers ALBERTVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.51932 45.4932)",
-    "radarInstallDate": "2004-01-20T16:19:46",
-    "radarPlace": "AIGUEBLANCHE",
+    "radarInstallDate": "2004-01-20T16:06:06",
+    "radarPlace": [],
     "radarRoad": "RN90",
     "radarTronconKm": [],
     "radarType": [

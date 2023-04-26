@@ -1,14 +1,14 @@
 {
-    "nid": "21308",
-    "uuid": "e4366ef6-2366-42ac-a23d-aafd25c96575",
-    "vid": "21308",
+    "nid": "25320",
+    "uuid": "eb6185e0-6ce1-48f3-ab00-b41b178bac43",
+    "vid": "25320",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55276",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TONNAY CHARENTE vers VERGEROUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.942167 45.958132)",
-    "radarInstallDate": "2020-06-23T16:23:32",
-    "radarPlace": "ROCHEFORT",
+    "radarInstallDate": "2020-06-23T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD137",
     "radarTronconKm": [],
     "radarType": [

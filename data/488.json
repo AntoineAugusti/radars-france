@@ -1,14 +1,14 @@
 {
-    "nid": "19769",
-    "uuid": "7504ce26-e024-4aa6-9266-cd1edd26e4e5",
-    "vid": "19769",
+    "nid": "23697",
+    "uuid": "4d7be887-16ac-4c07-af5a-26569c9f35db",
+    "vid": "23697",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "488",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AUXERRE VERS TROYES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.00415 48.20367)",
-    "radarInstallDate": "2005-10-17T16:19:52",
-    "radarPlace": "SOULIGNY",
+    "radarInstallDate": "2005-10-17T16:06:15",
+    "radarPlace": [],
     "radarRoad": "RN77",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21373",
-    "uuid": "7ccb78f2-3c0b-4142-8b7d-a54ec6bbfcd1",
-    "vid": "21373",
+    "nid": "25387",
+    "uuid": "7f8d2e0e-7242-49a0-b084-1b6943828f69",
+    "vid": "25387",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55346",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARBIGNY vers OZAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.926931 46.412154)",
-    "radarInstallDate": "2020-10-15T16:23:45",
-    "radarPlace": "REYSSOUZE",
+    "radarInstallDate": "2020-10-15T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD933",
     "radarTronconKm": [],
     "radarType": [

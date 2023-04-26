@@ -1,14 +1,14 @@
 {
-    "nid": "21835",
-    "uuid": "8001db7c-76d0-4f86-a687-2f4c5cb82c22",
-    "vid": "21835",
+    "nid": "23511",
+    "uuid": "5c6c2158-9eff-4ca7-b7ed-7cccaf235e54",
+    "vid": "23511",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12601",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MOUTIERS vers CHAMBERY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.393159 45.663127)",
-    "radarInstallDate": "2020-10-01T16:25:31",
-    "radarPlace": "ALBERTVILLE",
+    "radarInstallDate": "2020-10-01T16:05:57",
+    "radarPlace": [],
     "radarRoad": "RN90",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20112",
-    "uuid": "02d177e8-beb9-451e-8be6-0e57b2f99eb5",
-    "vid": "20112",
+    "nid": "23996",
+    "uuid": "97678678-ab98-4c74-a767-157e49c34c76",
+    "vid": "23996",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6003",
-    "created": "1637229118",
-    "changed": "1675869624",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE MANS VERS TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.54927 47.56488)",
-    "radarInstallDate": "2006-03-27T16:20:26",
-    "radarPlace": "NEUILLE PONT PIERRE",
+    "radarInstallDate": "2006-03-27T16:06:47",
+    "radarPlace": [],
     "radarRoad": "RD938",
     "radarTronconKm": [],
     "radarType": [

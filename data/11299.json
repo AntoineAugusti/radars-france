@@ -1,14 +1,14 @@
 {
-    "nid": "20588",
-    "uuid": "51f9402c-668c-446e-a0c7-8eeab320de89",
-    "vid": "20588",
+    "nid": "24415",
+    "uuid": "a223ae7d-38fd-4539-a0f4-d745b8ec56f9",
+    "vid": "24415",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740462",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11299",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740462",
+    "changed": "1681740462",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST SEBASTIEN SUR LOIRE vers ST HERBLAIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.60916 47.180606)",
-    "radarInstallDate": "2016-03-18T16:21:26",
-    "radarPlace": "BOUGUENAIS",
+    "radarInstallDate": "2016-03-18T16:07:46",
+    "radarPlace": [],
     "radarRoad": "RN 844",
     "radarTronconKm": [],
     "radarType": [

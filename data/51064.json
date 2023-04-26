@@ -1,14 +1,14 @@
 {
-    "nid": "20712",
-    "uuid": "421846d8-ee06-4814-a58f-222ed0c19520",
-    "vid": "20712",
+    "nid": "24638",
+    "uuid": "872c5d31-0d14-4d8c-98bc-5ff03baf9997",
+    "vid": "24638",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51064",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGES vers SAINTE THORETTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.298532 47.079121)",
-    "radarInstallDate": "2019-08-07T16:21:43",
-    "radarPlace": "MARMAGNE",
+    "radarInstallDate": "2019-08-07T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD23",
     "radarTronconKm": [],
     "radarType": [

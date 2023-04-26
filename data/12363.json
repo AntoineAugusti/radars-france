@@ -1,14 +1,14 @@
 {
-    "nid": "21645",
-    "uuid": "1f8fa817-8126-40e9-bb4e-7ce2edd30e9e",
-    "vid": "21645",
+    "nid": "23313",
+    "uuid": "4fc1b578-9308-4be9-98ea-1f3ebdc50398",
+    "vid": "23313",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12363",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY vers BEAUNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.180054 47.645962)",
-    "radarInstallDate": "2017-11-13T16:24:43",
-    "radarPlace": "SELONGEY",
+    "radarInstallDate": "2017-11-13T16:05:41",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

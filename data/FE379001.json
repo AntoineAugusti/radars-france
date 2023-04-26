@@ -1,14 +1,14 @@
 {
-    "nid": "22571",
-    "uuid": "52dd4ee9-a0bd-463b-bacb-0dfaf31b3c5a",
-    "vid": "22571",
+    "nid": "26035",
+    "uuid": "82c52923-aa3e-45e8-b23e-4c90d9e58b76",
+    "vid": "26035",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE379001",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.21773 46.99237)",
-    "radarInstallDate": "2010-12-28T16:28:37",
-    "radarPlace": "THOUARS",
+    "radarInstallDate": "2010-12-28T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

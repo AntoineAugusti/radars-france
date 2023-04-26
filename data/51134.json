@@ -1,14 +1,14 @@
 {
-    "nid": "20782",
-    "uuid": "70c5f94e-b3e1-4bdb-813d-39068dec3b8a",
-    "vid": "20782",
+    "nid": "24706",
+    "uuid": "6d7c99c2-4d0d-4c29-8736-3d85fd52af83",
+    "vid": "24706",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51134",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MEULAN EN YVELINES vers MANTES LA JOLIE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.846032 48.989768)",
-    "radarInstallDate": "2019-11-29T16:21:57",
-    "radarPlace": "JUZIERS",
+    "radarInstallDate": "2019-11-29T16:08:31",
+    "radarPlace": [],
     "radarRoad": "RD 190",
     "radarTronconKm": [],
     "radarType": [

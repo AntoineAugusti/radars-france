@@ -1,14 +1,14 @@
 {
-    "nid": "20658",
-    "uuid": "9fc1a3ad-eab2-4f34-b107-5e0b161245b4",
-    "vid": "20658",
+    "nid": "24583",
+    "uuid": "cc5032c5-408e-471a-94a8-9689854678b9",
+    "vid": "24583",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51008",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LISIEUX vers EVREUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.929737 49.10432)",
-    "radarInstallDate": "2020-01-30T16:21:35",
-    "radarPlace": "STE COLOMBE LA COMMANDERIE",
+    "radarInstallDate": "2020-01-30T16:08:10",
+    "radarPlace": [],
     "radarRoad": "D613",
     "radarTronconKm": [],
     "radarType": [

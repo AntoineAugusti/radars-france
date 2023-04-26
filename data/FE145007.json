@@ -1,14 +1,14 @@
 {
-    "nid": "21932",
-    "uuid": "35e71dce-c872-46c8-8a05-abccd1ac6e81",
-    "vid": "21932",
+    "nid": "25571",
+    "uuid": "142b3411-b100-4c69-8d80-105447fcd631",
+    "vid": "25571",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE145007",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "Orl\u00e9ans vers St Jean le blanc",
     "radarEquipment": "FARECO",
-    "radarGeolocalisation": "POINT (1.90882 47.90655)",
-    "radarInstallDate": "2011-10-10T16:25:53",
-    "radarPlace": "ORLEANS",
+    "radarGeolocalisation": "POINT (1.90916 47.901435)",
+    "radarInstallDate": "2011-10-10T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

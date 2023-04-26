@@ -1,14 +1,14 @@
 {
-    "nid": "22611",
-    "uuid": "f431c8e1-c51e-48e7-8bd8-1a665020fa64",
-    "vid": "22611",
+    "nid": "26136",
+    "uuid": "7bc398b9-06e8-47f3-83c8-b740f3aa1f68",
+    "vid": "26136",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20037",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "VISAN vers VALREAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.97359 44.36246)",
-    "radarInstallDate": "2013-07-08T10:53:35",
+    "radarInstallDate": "2013-07-08T16:17:05",
     "radarPlace": "VALREAS",
-    "radarRoad": "RD 976",
+    "radarRoad": "RD976",
     "radarTronconKm": "4,4",
     "radarType": [
         {

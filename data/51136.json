@@ -1,14 +1,14 @@
 {
-    "nid": "20784",
-    "uuid": "2ce2dc3e-f0ff-4526-8f6b-2cda8ba90b1b",
-    "vid": "20784",
+    "nid": "24708",
+    "uuid": "1509418e-d8a2-4818-b4ab-2f2aea9ec305",
+    "vid": "24708",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51136",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "THIONVILLE vers SIERCK LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.283412 49.402008)",
-    "radarInstallDate": "2020-01-22T16:21:58",
-    "radarPlace": "KOENIGSMACKER",
+    "radarInstallDate": "2020-01-22T16:08:31",
+    "radarPlace": [],
     "radarRoad": "RD654",
     "radarTronconKm": [],
     "radarType": [

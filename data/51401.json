@@ -1,14 +1,14 @@
 {
-    "nid": "21016",
-    "uuid": "fc161e64-40a4-4bda-8de9-1b93636a8108",
-    "vid": "21016",
+    "nid": "24961",
+    "uuid": "4fbc740b-97cd-47c6-af6a-68edabf82bda",
+    "vid": "24961",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51401",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLE EN VERMOIS vers LANEUVEVILLE DEVANT NANCY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.253813 48.640497)",
-    "radarInstallDate": "2021-07-28T16:22:33",
-    "radarPlace": "LANEUVEVILLE DEVANT NANCY",
+    "radarInstallDate": "2021-07-28T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD112",
     "radarTronconKm": [],
     "radarType": [

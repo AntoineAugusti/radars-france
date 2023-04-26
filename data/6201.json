@@ -1,14 +1,14 @@
 {
-    "nid": "20140",
-    "uuid": "65e5682d-f52f-4dd9-ac15-6fce3d720a40",
-    "vid": "20140",
+    "nid": "24020",
+    "uuid": "8163eee4-ff4a-44ca-aea5-f0d7b09d430f",
+    "vid": "24020",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6201",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRIOUDE vers le PUY EN VELAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.8643 45.05524)",
-    "radarInstallDate": "2008-04-24T16:20:29",
-    "radarPlace": "ESPALY ST MARCEL",
+    "radarInstallDate": "2008-04-24T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RD902",
     "radarTronconKm": [],
     "radarType": [

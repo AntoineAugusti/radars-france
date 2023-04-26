@@ -1,14 +1,14 @@
 {
-    "nid": "20997",
-    "uuid": "327d3df3-531a-4833-a68c-368ebca5e0cb",
-    "vid": "20997",
+    "nid": "24936",
+    "uuid": "4e80abe1-1d20-4a3e-a92b-cb5b18d786a5",
+    "vid": "24936",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51376",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MOISSELLES vers SAINT DENIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.362558 48.983066)",
-    "radarInstallDate": "2021-09-14T16:22:33",
-    "radarPlace": "GROSLAY",
+    "radarInstallDate": "2021-09-14T16:09:16",
+    "radarPlace": [],
     "radarRoad": "D301",
     "radarTronconKm": [],
     "radarType": [

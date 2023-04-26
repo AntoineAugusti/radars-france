@@ -1,14 +1,14 @@
 {
-    "nid": "21353",
-    "uuid": "fb1f1219-832a-4122-be8a-cc970e0f8602",
-    "vid": "21353",
+    "nid": "25367",
+    "uuid": "eb5a8d6b-b65d-41a4-9ad3-1de004c0596d",
+    "vid": "25367",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55325",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FONTENAY LE COMTE vers LA ROCHELLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.99235 46.3188)",
-    "radarInstallDate": "2021-01-12T16:23:44",
-    "radarPlace": "MARANS",
+    "radarInstallDate": "2021-01-12T16:10:42",
+    "radarPlace": [],
     "radarRoad": "RD137",
     "radarTronconKm": [],
     "radarType": [

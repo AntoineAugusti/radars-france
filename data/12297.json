@@ -1,14 +1,14 @@
 {
-    "nid": "21598",
-    "uuid": "ce3bfab5-3a42-4144-a9f4-c887bfdf6b29",
-    "vid": "21598",
+    "nid": "23267",
+    "uuid": "af0aa535-16dd-495a-a4e3-3808e46a2f8b",
+    "vid": "23267",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12297",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers PROVINCE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.4492 48.95)",
-    "radarInstallDate": "2014-05-23T16:24:35",
-    "radarPlace": "LE BLANC MESNIL",
+    "radarInstallDate": "2014-05-23T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A1",
     "radarTronconKm": [],
     "radarType": [

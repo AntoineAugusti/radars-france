@@ -1,14 +1,14 @@
 {
-    "nid": "20230",
-    "uuid": "c44cf9a1-a4c0-41ef-8dd5-117b3bd6ab5b",
-    "vid": "20230",
+    "nid": "24102",
+    "uuid": "cbfc0f0e-612b-427b-adfb-32fb14464f95",
+    "vid": "24102",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7063",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAU vers SAULT DE NAVAILLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.58559 43.50248)",
-    "radarInstallDate": "2008-06-17T16:20:39",
-    "radarPlace": "HAGETAUBIN",
+    "radarInstallDate": "2008-06-17T16:07:01",
+    "radarPlace": [],
     "radarRoad": "RD945",
     "radarTronconKm": [],
     "radarType": [

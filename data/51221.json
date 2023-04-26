@@ -1,14 +1,14 @@
 {
-    "nid": "20865",
-    "uuid": "8a5e6559-538a-45ff-bf24-9a34cb29afd9",
-    "vid": "20865",
+    "nid": "24790",
+    "uuid": "f010225c-3f0c-4e21-bbd2-f27449f24ca5",
+    "vid": "24790",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51221",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POMOY vers LURE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.375459 47.662669)",
-    "radarInstallDate": "2020-02-24T16:22:08",
-    "radarPlace": "GENEVREUILLE",
+    "radarInstallDate": "2020-02-24T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RN19",
     "radarTronconKm": [],
     "radarType": [

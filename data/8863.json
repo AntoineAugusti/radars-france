@@ -1,14 +1,14 @@
 {
-    "nid": "20445",
-    "uuid": "1c9a0417-073c-43bf-8fc3-4e50f978cf0f",
-    "vid": "20445",
+    "nid": "24291",
+    "uuid": "006d8239-27e5-4608-95e4-21d91e1f970a",
+    "vid": "24291",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8863",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers PROVINCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.364 48.942)",
-    "radarInstallDate": "2011-08-19T16:21:06",
-    "radarPlace": "ST DENIS",
+    "radarInstallDate": "2011-08-19T16:07:27",
+    "radarPlace": [],
     "radarRoad": "Ex-RN1, avenue L\u00e9nine",
     "radarTronconKm": [],
     "radarType": [

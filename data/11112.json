@@ -1,14 +1,14 @@
 {
-    "nid": "20528",
-    "uuid": "26eb87e1-9a74-483f-a83c-c1c23c13801c",
-    "vid": "20528",
+    "nid": "24360",
+    "uuid": "cfeb8718-922e-4165-b21b-80fb3a9518f1",
+    "vid": "24360",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11112",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EVIAN LES BAINS vers GENEVE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.4332 46.347)",
-    "radarInstallDate": "2012-05-31T16:21:18",
-    "radarPlace": "ANTHY SUR LEMAN",
+    "radarInstallDate": "2012-05-31T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD1005",
     "radarTronconKm": [],
     "radarType": [

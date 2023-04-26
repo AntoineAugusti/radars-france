@@ -1,14 +1,14 @@
 {
-    "nid": "20337",
-    "uuid": "7fb70bf0-efc8-48a2-98c5-bc8ca66ad928",
-    "vid": "20337",
+    "nid": "24193",
+    "uuid": "670ec198-f29d-4af8-91dc-7ed1860a4804",
+    "vid": "24193",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8358",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RIBERAC vers MUSSIDAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.38831 45.17523)",
-    "radarInstallDate": "2019-11-18T16:20:53",
-    "radarPlace": "ST SULPICE DE ROUMAGNAC",
+    "radarInstallDate": "2019-11-18T16:07:13",
+    "radarPlace": [],
     "radarRoad": "RD709",
     "radarTronconKm": [],
     "radarType": [

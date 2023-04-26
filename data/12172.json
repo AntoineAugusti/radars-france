@@ -1,14 +1,14 @@
 {
-    "nid": "21534",
-    "uuid": "5a16796a-a3c1-47ab-9efc-ab4c2fe27bb6",
-    "vid": "21534",
+    "nid": "23206",
+    "uuid": "00ae487b-87ef-4af0-9a7c-970e715f45dd",
+    "vid": "23206",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12172",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROANNE vers TARARE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.37018 45.8919)",
-    "radarInstallDate": "2013-02-11T16:24:22",
-    "radarPlace": "JOUX",
+    "radarInstallDate": "2013-02-11T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

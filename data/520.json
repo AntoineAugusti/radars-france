@@ -1,14 +1,14 @@
 {
-    "nid": "19777",
-    "uuid": "ced30eda-46cc-4bb2-aedc-37eb13f0d2e3",
-    "vid": "19777",
+    "nid": "23702",
+    "uuid": "2b81362e-aa1b-4c81-83a9-404f3a592513",
+    "vid": "23702",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "520",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHERBOURG OCTEVILLE VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.33271 49.18944)",
-    "radarInstallDate": "2005-05-04T16:19:53",
-    "radarPlace": "HEROUVILLE ST CLAIR",
+    "radarInstallDate": "2005-05-04T16:06:15",
+    "radarPlace": [],
     "radarRoad": "RN814",
     "radarTronconKm": [],
     "radarType": [
@@ -115,9 +115,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "5",
-            "uuid": "45e527ec-7c1f-4fd3-ad4e-fdf43bd3c688",
-            "revisionId": "5",
+            "tid": "6",
+            "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab",
+            "revisionId": "6",
             "langcode": "fr",
             "vid": [
                 {
@@ -128,7 +128,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 50",
+            "name": "Vitesse VL 70",
             "description": [
                 {
                     "value": null,
@@ -141,7 +141,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154429",
+            "changed": "1515154422",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -153,30 +153,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-50.png?itok=Tq7k-JhP",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=MwLJaTo3",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-50.png?itok=WnbSkqJL",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=Ysf5V2xf",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-50.png?itok=E16zFtv9",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=g4VQHCOS",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-50.png",
-                        "fileCreated": "1515154342",
-                        "fileSize": "3506",
+                        "fileName": "vitesse-70.png",
+                        "fileCreated": "1515154374",
+                        "fileSize": "3375",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_50",
+            "macineName": "vitesse_vl_70",
             "ruleLabel": "Vitesse"
         }
     ],

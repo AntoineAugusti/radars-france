@@ -1,14 +1,14 @@
 {
-    "nid": "21741",
-    "uuid": "342f53e6-22cb-4c24-92a9-863b1877802a",
-    "vid": "21741",
+    "nid": "23409",
+    "uuid": "6246d58c-1151-483f-9a66-cf043bb33caa",
+    "vid": "23409",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12476",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "68-HAUT-RHIN",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "ALLEMAGNE vers BELFORT",
+    "radarDirection": "allemagne vers BELFORT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.362957 47.773558)",
-    "radarInstallDate": "2017-03-24T16:25:10",
-    "radarPlace": "SAUSHEIM",
+    "radarInstallDate": "2017-03-24T16:05:48",
+    "radarPlace": [],
     "radarRoad": "A36",
     "radarTronconKm": [],
     "radarType": [

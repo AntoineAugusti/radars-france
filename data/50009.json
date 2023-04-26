@@ -1,14 +1,14 @@
 {
-    "nid": "20596",
-    "uuid": "4389cb13-2ab9-494c-b51e-b5dd452f3e12",
-    "vid": "20596",
+    "nid": "24512",
+    "uuid": "8d244b3e-edb1-493e-9b2c-e8c847b34aa1",
+    "vid": "24512",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50009",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GOURBEYRE vers BAILLIF",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.72533 15.98802)",
-    "radarInstallDate": "2021-07-30T16:21:27",
-    "radarPlace": "BASSE TERRE",
+    "radarInstallDate": "2021-07-30T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN1 Boulevard Gerty Archimede",
     "radarTronconKm": [],
     "radarType": [

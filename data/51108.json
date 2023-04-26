@@ -1,14 +1,14 @@
 {
-    "nid": "20756",
-    "uuid": "c060cd16-c78b-4c3d-b403-af55b0d3fe52",
-    "vid": "20756",
+    "nid": "24680",
+    "uuid": "bb1d3f4c-0404-4f18-88e4-5e727b900bdc",
+    "vid": "24680",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51108",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "HAGUENAU vers MERTZWILLER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.700858 48.863158)",
-    "radarInstallDate": "2020-02-19T16:21:52",
-    "radarPlace": "HAGUENAU",
+    "radarInstallDate": "2020-02-19T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RD1062",
     "radarTronconKm": [],
     "radarType": [

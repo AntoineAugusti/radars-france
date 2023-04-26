@@ -1,14 +1,14 @@
 {
-    "nid": "19960",
-    "uuid": "f66f97b8-6199-45f4-950a-45e603bce54a",
-    "vid": "19960",
+    "nid": "23851",
+    "uuid": "add8ee85-6cff-4e33-9627-f33493261d57",
+    "vid": "23851",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4189",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST YORRE vers VICHY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.461319 46.082698)",
-    "radarInstallDate": "2008-11-19T16:20:11",
-    "radarPlace": "ABREST",
+    "radarInstallDate": "2008-11-19T16:06:31",
+    "radarPlace": [],
     "radarRoad": "RD906E",
     "radarTronconKm": [],
     "radarType": [

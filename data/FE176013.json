@@ -1,14 +1,14 @@
 {
-    "nid": "22104",
-    "uuid": "fc8e1cd9-2592-49f1-a43b-5c0178e1ad4c",
-    "vid": "22104",
+    "nid": "25720",
+    "uuid": "bfa745c7-188f-4ca9-a2cb-51a14dca5225",
+    "vid": "25720",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE176013",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DIEPPE vers ROUEN",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.07488 49.91393)",
-    "radarInstallDate": "2012-08-02T16:26:35",
-    "radarPlace": "DIEPPE",
+    "radarInstallDate": "2012-08-02T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

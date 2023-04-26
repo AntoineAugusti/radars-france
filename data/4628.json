@@ -1,14 +1,14 @@
 {
-    "nid": "20052",
-    "uuid": "6e46cf59-e46b-40da-bb29-65ebbfaeacff",
-    "vid": "20052",
+    "nid": "23937",
+    "uuid": "446a0868-9054-4e55-ac00-ca751a0456e2",
+    "vid": "23937",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4628",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAU RENARD VERS MONTARGIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.75456 47.98092)",
-    "radarInstallDate": "2009-05-05T16:20:20",
-    "radarPlace": "AMILLY",
+    "radarInstallDate": "2009-05-05T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD943",
     "radarTronconKm": [],
     "radarType": [

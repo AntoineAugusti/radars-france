@@ -1,14 +1,14 @@
 {
-    "nid": "20851",
-    "uuid": "908f0d8a-06b9-44fe-a79a-38fad9ee1b97",
-    "vid": "20851",
+    "nid": "24776",
+    "uuid": "768969d2-15d4-4919-83a7-69c52677f2d5",
+    "vid": "24776",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51205",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAUMONT  vers NEUFCHATEAU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.487235 48.285145)",
-    "radarInstallDate": "2020-09-24T16:22:08",
-    "radarPlace": "PREZ SOUS LAFAUCHE",
+    "radarInstallDate": "2020-09-24T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD674",
     "radarTronconKm": [],
     "radarType": [

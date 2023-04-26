@@ -1,14 +1,14 @@
 {
-    "nid": "22082",
-    "uuid": "ebd3ddf3-a13d-4d7a-a2a1-49542e974dab",
-    "vid": "22082",
+    "nid": "25699",
+    "uuid": "ff620ce0-637f-4db4-8ba2-6e559453e4cb",
+    "vid": "25699",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE172008",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sabl\u00e9 vers La Fl\u00e8che",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-0.10689 47.71996)",
-    "radarInstallDate": "2011-09-09T16:26:28",
-    "radarPlace": "LA FLECHE",
+    "radarInstallDate": "2011-09-09T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

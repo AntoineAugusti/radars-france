@@ -1,14 +1,14 @@
 {
-    "nid": "20614",
-    "uuid": "cd531947-262c-48b6-9805-5b0f499a03e3",
-    "vid": "20614",
+    "nid": "24530",
+    "uuid": "2b28271d-283c-49e4-8d3c-c54105141b9d",
+    "vid": "24530",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50054",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BASSE TERRE vers POINTE A PITRE PRINCIPAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.601964 16.210323)",
-    "radarInstallDate": "2020-01-16T16:21:30",
-    "radarPlace": "PETIT BOURG",
+    "radarInstallDate": "2020-01-16T16:08:00",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

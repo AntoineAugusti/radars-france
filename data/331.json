@@ -1,14 +1,14 @@
 {
-    "nid": "19721",
-    "uuid": "9f77ec6a-fe6f-4c55-8763-8fb2c07ac7fe",
-    "vid": "19721",
+    "nid": "23649",
+    "uuid": "cd9d4b23-07f9-4598-871f-bc50aa922b53",
+    "vid": "23649",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "331",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ESTERNAY vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.39995 48.69258)",
-    "radarInstallDate": "2004-12-11T16:19:49",
-    "radarPlace": "SANCY LES PROVINS",
+    "radarInstallDate": "2004-12-11T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

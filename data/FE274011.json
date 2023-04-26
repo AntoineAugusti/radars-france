@@ -1,14 +1,14 @@
 {
-    "nid": "22312",
-    "uuid": "af5a80a4-b37b-42c1-a2ce-dd157fdc6c86",
-    "vid": "22312",
+    "nid": "25871",
+    "uuid": "eddf7ec6-c1a0-41fe-b454-7da788a3c94f",
+    "vid": "25871",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE274011",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Annecy vers Evian les bains",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.4708 46.37059)",
-    "radarInstallDate": "2011-07-06T16:27:29",
-    "radarPlace": "THONON LES BAINS",
+    "radarInstallDate": "2011-07-06T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

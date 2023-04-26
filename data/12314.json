@@ -1,14 +1,14 @@
 {
-    "nid": "21610",
-    "uuid": "ddde3d1b-f15a-4877-a40b-4f95cb1559ae",
-    "vid": "21610",
+    "nid": "23279",
+    "uuid": "8b806cbe-f7ef-4eea-bd3c-f2780b187fdf",
+    "vid": "23279",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12314",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FRANCE vers ITALIE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.6222 45.195)",
-    "radarInstallDate": "2015-09-07T16:24:36",
-    "radarPlace": "FRENEY",
+    "radarInstallDate": "2015-09-07T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A43",
     "radarTronconKm": [],
     "radarType": [

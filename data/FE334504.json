@@ -1,14 +1,14 @@
 {
-    "nid": "22475",
-    "uuid": "2df1d21d-7845-42ec-8bef-27a22691eb35",
-    "vid": "22475",
+    "nid": "26062",
+    "uuid": "d25e8478-0981-4f41-9184-63b58c8c45d4",
+    "vid": "26062",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE334504",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud Est vers Nord Ouest",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.91044 43.62992)",
-    "radarInstallDate": "2013-08-30T16:28:10",
-    "radarPlace": "CASTELNAU LE LEZ",
+    "radarInstallDate": "2013-08-30T16:13:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

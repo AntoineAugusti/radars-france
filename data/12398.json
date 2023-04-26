@@ -1,14 +1,14 @@
 {
-    "nid": "21675",
-    "uuid": "38838880-f010-4718-aeff-c2de37e2c1c3",
-    "vid": "21675",
+    "nid": "23343",
+    "uuid": "9645cffd-40d3-4cbd-97a5-b96cc6de05b6",
+    "vid": "23343",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12398",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MASSIAC vers CLERMONT FERRAND",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.2555 45.49753)",
-    "radarInstallDate": "2016-04-25T16:24:50",
-    "radarPlace": "LE BROC",
+    "radarInstallDate": "2016-04-25T16:05:43",
+    "radarPlace": [],
     "radarRoad": "A75",
     "radarTronconKm": [],
     "radarType": [

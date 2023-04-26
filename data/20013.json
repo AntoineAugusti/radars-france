@@ -1,14 +1,14 @@
 {
-    "nid": "22601",
-    "uuid": "ed3c68c2-c36c-495c-96d2-0da38281d480",
-    "vid": "22601",
+    "nid": "26126",
+    "uuid": "6e1876b3-8772-4d62-9de3-a25407925d6e",
+    "vid": "26126",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20013",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "SALINDRES vers ALES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.11727 44.1597)",
-    "radarInstallDate": "2013-04-15T10:53:35",
+    "radarInstallDate": "2013-04-15T16:17:04",
     "radarPlace": "ST PRIVAT DES VIEUX",
     "radarRoad": "RD16",
     "radarTronconKm": "2,4",

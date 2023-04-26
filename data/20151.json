@@ -1,14 +1,14 @@
 {
-    "nid": "22664",
-    "uuid": "9976d123-6115-4fbd-a0cc-5204c1bc00f4",
-    "vid": "22664",
+    "nid": "26181",
+    "uuid": "c28965b1-5e6b-4900-aab4-17f2836f7df8",
+    "vid": "26181",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741029",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20151",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741029",
+    "changed": "1681741029",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "Vernon vers Gisors",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.48944 49.10988)",
-    "radarInstallDate": "2014-06-16T10:53:37",
+    "radarInstallDate": "2014-06-16T16:17:10",
     "radarPlace": "TILLY",
-    "radarRoad": "RD181",
+    "radarRoad": "RD 181",
     "radarTronconKm": "3",
     "radarType": [
         {

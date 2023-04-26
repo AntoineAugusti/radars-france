@@ -1,14 +1,14 @@
 {
-    "nid": "21164",
-    "uuid": "f08256b6-f513-4ddf-bde6-db4c70872480",
-    "vid": "21164",
+    "nid": "25175",
+    "uuid": "d00f7f63-1181-450a-aeeb-9bcf6c12ee4f",
+    "vid": "25175",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55128",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTEUX vers L ISLE SUR LA SORGUE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.019848 43.971445)",
-    "radarInstallDate": "2020-03-10T16:23:02",
-    "radarPlace": "VELLERON",
+    "radarInstallDate": "2020-03-10T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD31",
     "radarTronconKm": [],
     "radarType": [

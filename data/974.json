@@ -1,14 +1,14 @@
 {
-    "nid": "19879",
-    "uuid": "898f94fc-62b9-4507-9f8a-bfb59232c107",
-    "vid": "19879",
+    "nid": "23781",
+    "uuid": "1a9854d9-4c00-4a3e-a2c2-ce81b2fdf845",
+    "vid": "23781",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "974",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NIORT VERS LA ROCHELLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.66783 46.19021)",
-    "radarInstallDate": "2005-12-06T16:20:04",
-    "radarPlace": "MAUZE SUR LE MIGNON",
+    "radarInstallDate": "2005-12-06T16:06:23",
+    "radarPlace": [],
     "radarRoad": "RN11",
     "radarTronconKm": [],
     "radarType": [

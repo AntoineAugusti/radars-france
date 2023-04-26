@@ -1,14 +1,14 @@
 {
-    "nid": "19658",
-    "uuid": "c4c64f77-6e96-40c6-b0b4-5bb95aba7be0",
-    "vid": "19658",
+    "nid": "23597",
+    "uuid": "78e424bd-8d72-4b7c-b2b8-cf9702ea1c7c",
+    "vid": "23597",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "133",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERSAILLES VERS CRETEIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.40784 48.7741)",
-    "radarInstallDate": "2004-01-06T16:19:45",
-    "radarPlace": "VITRY SUR SEINE",
+    "radarInstallDate": "2004-01-06T16:06:04",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

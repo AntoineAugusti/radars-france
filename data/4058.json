@@ -1,14 +1,14 @@
 {
-    "nid": "19933",
-    "uuid": "13abeae0-2e60-4b9a-ab6c-cae2a24d8ef6",
-    "vid": "19933",
+    "nid": "23825",
+    "uuid": "c4a196b3-38e7-432b-892f-1b2fdd12c349",
+    "vid": "23825",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4058",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Soissons vers Reims",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.65053 49.31016)",
-    "radarInstallDate": "2008-08-28T16:20:08",
-    "radarPlace": "FISMES",
+    "radarInstallDate": "2008-08-28T16:06:28",
+    "radarPlace": [],
     "radarRoad": "RN31",
     "radarTronconKm": [],
     "radarType": [

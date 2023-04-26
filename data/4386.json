@@ -1,14 +1,14 @@
 {
-    "nid": "19996",
-    "uuid": "70c351cf-f11b-4770-8e6e-9bf156f475ab",
-    "vid": "19996",
+    "nid": "23883",
+    "uuid": "125489a5-7106-4ea4-8160-b1d888d6f243",
+    "vid": "23883",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4386",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERSAILLES vers ST GERMAIN EN LAYE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.1123 48.83428)",
-    "radarInstallDate": "2009-06-02T16:20:14",
-    "radarPlace": "ROCQUENCOURT",
+    "radarInstallDate": "2009-06-02T16:06:35",
+    "radarPlace": [],
     "radarRoad": "RD186",
     "radarTronconKm": [],
     "radarType": [

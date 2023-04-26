@@ -1,14 +1,14 @@
 {
-    "nid": "20129",
-    "uuid": "e4f6cd59-b607-4332-8cce-5046b8f83d1e",
-    "vid": "20129",
+    "nid": "24011",
+    "uuid": "63309010-0c80-4052-bc78-afe58fca55b6",
+    "vid": "24011",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6069",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRIE COMTE ROBERT VERS PONTAULT COMBAULT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.603 48.7281)",
-    "radarInstallDate": "2006-07-05T16:20:29",
-    "radarPlace": "LESIGNY",
+    "radarInstallDate": "2006-07-05T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RN104",
     "radarTronconKm": [],
     "radarType": [

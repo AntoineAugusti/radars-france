@@ -1,14 +1,14 @@
 {
-    "nid": "20762",
-    "uuid": "694bc8f9-3dcc-43d1-9924-2f4b14cfeecd",
-    "vid": "20762",
+    "nid": "24686",
+    "uuid": "e57d0ee2-c82d-4298-87b5-917f89ab14c3",
+    "vid": "24686",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51114",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERNEUIL SUR SEINE vers MEULAN EN YVELINES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.931496 48.9957)",
-    "radarInstallDate": "2019-11-27T16:21:53",
-    "radarPlace": "LES MUREAUX",
+    "radarInstallDate": "2019-11-27T16:08:26",
+    "radarPlace": [],
     "radarRoad": "RD154",
     "radarTronconKm": [],
     "radarType": [

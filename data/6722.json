@@ -1,14 +1,14 @@
 {
-    "nid": "20185",
-    "uuid": "1e376c90-8a09-428c-a411-45002b1c9db4",
-    "vid": "20185",
+    "nid": "24061",
+    "uuid": "b8aaa9f9-cc76-43cf-be12-31f106e1d603",
+    "vid": "24061",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6722",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGERS vers SABLE SUR SARTHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.58857 47.59581)",
-    "radarInstallDate": "2007-03-12T16:20:35",
-    "radarPlace": "FENEU",
+    "radarInstallDate": "2007-03-12T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD768",
     "radarTronconKm": [],
     "radarType": [

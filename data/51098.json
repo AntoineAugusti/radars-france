@@ -1,14 +1,14 @@
 {
-    "nid": "20746",
-    "uuid": "de7515d4-d08a-4716-a53c-d6dfbdad464d",
-    "vid": "20746",
+    "nid": "24670",
+    "uuid": "a88c2f92-9f78-473a-b082-a7c01a75cc89",
+    "vid": "24670",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51098",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUROUX  vers DIORS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.732103 46.82011)",
-    "radarInstallDate": "2020-02-25T16:21:48",
-    "radarPlace": "DEOLS",
+    "radarInstallDate": "2020-02-25T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RD925",
     "radarTronconKm": [],
     "radarType": [

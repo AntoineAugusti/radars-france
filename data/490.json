@@ -1,14 +1,14 @@
 {
-    "nid": "19771",
-    "uuid": "76a36ba1-836f-46a5-b5b8-5487e2958294",
-    "vid": "19771",
+    "nid": "23698",
+    "uuid": "67f8c44b-b1f1-4dab-ab21-3966b8556c51",
+    "vid": "23698",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "490",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TROYES VERS AUXERRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.02421 48.24587)",
-    "radarInstallDate": "2005-08-29T16:19:52",
-    "radarPlace": "ST GERMAIN",
+    "radarInstallDate": "2005-08-29T16:06:15",
+    "radarPlace": [],
     "radarRoad": "RN77",
     "radarTronconKm": [],
     "radarType": [

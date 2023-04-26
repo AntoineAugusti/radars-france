@@ -1,14 +1,14 @@
 {
-    "nid": "21009",
-    "uuid": "af14750e-6459-4905-b3ec-e8669942fcd8",
-    "vid": "21009",
+    "nid": "24953",
+    "uuid": "c4c72af5-784e-428b-870e-a83b3bc96f4e",
+    "vid": "24953",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51393",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CREIL vers PONT STE MAXENCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.570495 49.293395)",
-    "radarInstallDate": "2021-03-08T16:22:33",
-    "radarPlace": "BEAUREPAIRE",
+    "radarInstallDate": "2021-03-08T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD120",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21500",
-    "uuid": "27cdb41a-fbbf-4416-be2a-f4121ab4a6a2",
-    "vid": "21500",
+    "nid": "23173",
+    "uuid": "6b81abbb-2079-4684-846d-77e593c62d55",
+    "vid": "23173",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12115",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "GRENOBLE vers AIX LES BAINS",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (5.9082 45.585)",
-    "radarInstallDate": "2013-02-22T16:24:16",
-    "radarPlace": "CHAMBERY",
+    "radarGeolocalisation": "POINT (5.907693 45.585311)",
+    "radarInstallDate": "2013-02-22T16:05:31",
+    "radarPlace": [],
     "radarRoad": "RN201",
     "radarTronconKm": [],
     "radarType": [

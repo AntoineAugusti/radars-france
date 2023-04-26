@@ -1,14 +1,14 @@
 {
-    "nid": "21278",
-    "uuid": "5ca9e637-d6d6-4d49-852d-cef09b2b1c3c",
-    "vid": "21278",
+    "nid": "25291",
+    "uuid": "53a4a48b-e20b-4356-a51a-9aabc611126e",
+    "vid": "25291",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55245",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAVIGNAC vers PARISOT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.8688 44.293)",
-    "radarInstallDate": "2020-12-28T16:23:26",
-    "radarPlace": "PUYLAGARDE",
+    "radarInstallDate": "2020-12-28T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD926",
     "radarTronconKm": [],
     "radarType": [

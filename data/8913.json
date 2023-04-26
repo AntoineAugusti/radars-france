@@ -1,14 +1,14 @@
 {
-    "nid": "20456",
-    "uuid": "13e8e8ce-f224-4dce-82d6-5b430b2dd916",
-    "vid": "20456",
+    "nid": "24300",
+    "uuid": "2ba4b5da-2281-492c-a888-aee3b80b73f2",
+    "vid": "24300",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8913",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOURS vers VEND\u00d4ME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.0176 47.718)",
-    "radarInstallDate": "2011-06-01T16:21:10",
-    "radarPlace": "HUISSEAU EN BEAUCE",
+    "radarInstallDate": "2011-06-01T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

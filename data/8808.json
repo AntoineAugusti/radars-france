@@ -1,14 +1,14 @@
 {
-    "nid": "20424",
-    "uuid": "55baa3de-3c43-40c8-857a-69ec59aa39d7",
-    "vid": "20424",
+    "nid": "24271",
+    "uuid": "91e7eee0-2930-434c-8291-5ad719cf86b9",
+    "vid": "24271",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8808",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CONDE SUR NOIREAU vers VALDALLIERE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.7706 48.842)",
-    "radarInstallDate": "2011-01-26T16:21:05",
-    "radarPlace": "VALDALLIERE",
+    "radarInstallDate": "2011-01-26T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RD512",
     "radarTronconKm": [],
     "radarType": [

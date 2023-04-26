@@ -1,14 +1,14 @@
 {
-    "nid": "21205",
-    "uuid": "e99acea1-570f-4c96-af65-eafe9f92e602",
-    "vid": "21205",
+    "nid": "25216",
+    "uuid": "6840ff5e-e2d9-4013-a311-b1d051c4bab6",
+    "vid": "25216",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55169",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POITIERS vers LOUDUN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.197327 46.75886)",
-    "radarInstallDate": "2020-01-23T16:23:13",
-    "radarPlace": "VARENNES",
+    "radarInstallDate": "2020-01-23T16:10:12",
+    "radarPlace": [],
     "radarRoad": "RD347",
     "radarTronconKm": [],
     "radarType": [

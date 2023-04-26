@@ -1,14 +1,14 @@
 {
-    "nid": "21740",
-    "uuid": "2f333d98-b143-4de1-a7f7-851b447635d8",
-    "vid": "21740",
+    "nid": "23408",
+    "uuid": "543983c7-d3c9-443d-8c3c-925543a6b7e0",
+    "vid": "23408",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12474",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LYON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.879322 46.465533)",
-    "radarInstallDate": "2016-10-31T16:25:10",
-    "radarPlace": "MONTBELLET",
+    "radarInstallDate": "2016-10-31T16:05:48",
+    "radarPlace": [],
     "radarRoad": "A6",
     "radarTronconKm": [],
     "radarType": [

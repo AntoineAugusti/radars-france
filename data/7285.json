@@ -1,14 +1,14 @@
 {
-    "nid": "20291",
-    "uuid": "6c8d2169-9068-4ab0-af1a-052238813d55",
-    "vid": "20291",
+    "nid": "24155",
+    "uuid": "ea8d55e9-0764-4154-a199-3933a9b32432",
+    "vid": "24155",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7285",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIMOGES vers AIXE SUR VIENNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.19368 45.82071)",
-    "radarInstallDate": "2008-02-01T16:20:46",
-    "radarPlace": "ISLE",
+    "radarInstallDate": "2008-02-01T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RD79",
     "radarTronconKm": [],
     "radarType": [

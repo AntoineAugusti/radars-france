@@ -1,14 +1,14 @@
 {
-    "nid": "19783",
-    "uuid": "0a3304a5-def8-4e29-aa42-0f0371083ada",
-    "vid": "19783",
+    "nid": "23707",
+    "uuid": "80518f39-cd25-4834-ae3c-9b2748511760",
+    "vid": "23707",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "541",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TARBES vers AGEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.58265 43.63352)",
-    "radarInstallDate": "2005-03-08T16:19:53",
-    "radarPlace": "AUCH",
+    "radarInstallDate": "2005-03-08T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RN21",
     "radarTronconKm": [],
     "radarType": [

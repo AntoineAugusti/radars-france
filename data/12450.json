@@ -1,14 +1,14 @@
 {
-    "nid": "21721",
-    "uuid": "0e0beca4-3dd7-4528-8467-6b5e9cd939e3",
-    "vid": "21721",
+    "nid": "23389",
+    "uuid": "48e1562b-ea04-44f0-81a9-8eaa17a35031",
+    "vid": "23389",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12450",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON vers GRENOBLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.491938 45.370988)",
-    "radarInstallDate": "2016-08-12T16:25:03",
-    "radarPlace": "APPRIEU",
+    "radarInstallDate": "2016-08-12T16:05:47",
+    "radarPlace": [],
     "radarRoad": "A48",
     "radarTronconKm": [],
     "radarType": [

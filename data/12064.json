@@ -1,14 +1,14 @@
 {
-    "nid": "21468",
-    "uuid": "326dc932-2a77-40bc-a632-f0a51e1f126b",
-    "vid": "21468",
+    "nid": "23141",
+    "uuid": "f8325570-b009-495e-9d47-c80253a7bf9f",
+    "vid": "23141",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12064",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "A16 vers PORT DE BOULOGNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.62584 50.7029)",
-    "radarInstallDate": "2014-03-10T16:24:04",
-    "radarPlace": "ST LEONARD",
+    "radarInstallDate": "2014-03-10T16:05:30",
+    "radarPlace": [],
     "radarRoad": "RN416",
     "radarTronconKm": [],
     "radarType": [

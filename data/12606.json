@@ -1,14 +1,14 @@
 {
-    "nid": "21839",
-    "uuid": "04f86eb3-2139-4911-943c-090670eb27ed",
-    "vid": "21839",
+    "nid": "23516",
+    "uuid": "4a5f6458-7ad8-4956-af73-c7a923219775",
+    "vid": "23516",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12606",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHANTEPIE vers ST JACQUES DE LA LANDE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.62725 48.091976)",
-    "radarInstallDate": "2020-09-08T16:25:32",
-    "radarPlace": "RENNES",
+    "radarInstallDate": "2020-09-08T16:05:57",
+    "radarPlace": [],
     "radarRoad": "RN136",
     "radarTronconKm": [],
     "radarType": [

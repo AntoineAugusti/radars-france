@@ -1,14 +1,14 @@
 {
-    "nid": "21288",
-    "uuid": "840149c1-30f7-4108-b230-8537b41e3dc6",
-    "vid": "21288",
+    "nid": "25301",
+    "uuid": "62238566-677e-488f-959a-fbc328cdca2a",
+    "vid": "25301",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55255",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORTHEZ vers PEYREHORADE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.865088 43.506685)",
-    "radarInstallDate": "2020-03-18T16:23:27",
-    "radarPlace": "BAIGTS DE BEARN",
+    "radarInstallDate": "2020-03-18T16:10:28",
+    "radarPlace": [],
     "radarRoad": "RD817",
     "radarTronconKm": [],
     "radarType": [

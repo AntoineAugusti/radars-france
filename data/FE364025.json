@@ -1,14 +1,14 @@
 {
-    "nid": "22537",
-    "uuid": "d2679ebc-6176-4502-ab20-c4874a0092fc",
-    "vid": "22537",
+    "nid": "26017",
+    "uuid": "1c400341-0085-4e5b-9e99-6d0cc36915a8",
+    "vid": "26017",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364025",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue Jean Gen\u00e8se vers Rue A. Benghozi",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.368 43.31908)",
-    "radarInstallDate": "2010-10-11T16:28:28",
-    "radarPlace": "PAU",
+    "radarInstallDate": "2010-10-11T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20916",
-    "uuid": "49d3f8a4-c743-426e-bf98-03e693dd03f9",
-    "vid": "20916",
+    "nid": "24843",
+    "uuid": "a8872449-338f-4742-95f7-d6365da40e1b",
+    "vid": "24843",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51277",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PONTARLIER vers MORTEAU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.441604 46.978893)",
-    "radarInstallDate": "2020-10-29T16:22:18",
-    "radarPlace": "MONTBENOIT",
+    "radarInstallDate": "2020-10-29T16:08:58",
+    "radarPlace": [],
     "radarRoad": "RD437",
     "radarTronconKm": [],
     "radarType": [

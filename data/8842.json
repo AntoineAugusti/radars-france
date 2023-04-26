@@ -1,14 +1,14 @@
 {
-    "nid": "20435",
-    "uuid": "9b5c69d1-6586-4a20-aa0a-f9c6038e6607",
-    "vid": "20435",
+    "nid": "24281",
+    "uuid": "b2316a9b-e6c4-4863-ae50-70ed9e93c0ce",
+    "vid": "24281",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8842",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nancy vers Paris",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.3928 48.74)",
-    "radarInstallDate": "2011-05-02T16:21:06",
-    "radarPlace": "COOLE",
+    "radarInstallDate": "2011-05-02T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20327",
-    "uuid": "6e1fcd04-3b36-4d4d-b538-f6cfce64764f",
-    "vid": "20327",
+    "nid": "24184",
+    "uuid": "cd9f31b6-edfc-444f-80ea-7c61e916cc4a",
+    "vid": "24184",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7461",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Auch vers Mont de Marsan",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.33597 43.74869)",
-    "radarInstallDate": "2008-09-01T16:20:50",
-    "radarPlace": "VIC FEZENSAC",
+    "radarInstallDate": "2008-09-01T16:07:10",
+    "radarPlace": [],
     "radarRoad": "RN124",
     "radarTronconKm": [],
     "radarType": [

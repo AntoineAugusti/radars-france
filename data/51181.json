@@ -1,14 +1,14 @@
 {
-    "nid": "20829",
-    "uuid": "4f0c563a-f89e-4d12-a288-37917d4bcb7e",
-    "vid": "20829",
+    "nid": "24753",
+    "uuid": "657140fb-c031-4622-b6ff-63419dd04575",
+    "vid": "24753",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51181",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT DIZIER vers MONTIER EN DER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.810169 48.520505)",
-    "radarInstallDate": "2020-09-28T16:22:03",
-    "radarPlace": "FRAMPAS",
+    "radarInstallDate": "2020-09-28T16:08:41",
+    "radarPlace": [],
     "radarRoad": "RD384",
     "radarTronconKm": [],
     "radarType": [

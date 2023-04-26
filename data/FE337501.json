@@ -1,14 +1,14 @@
 {
-    "nid": "22482",
-    "uuid": "167c9c3a-3368-492c-9f30-56a91ae22474",
-    "vid": "22482",
+    "nid": "26067",
+    "uuid": "fae3b0c6-722a-429a-998f-38ac1b8bc01d",
+    "vid": "26067",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE337501",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud Ouest vers Nord Est",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.36312 47.30782)",
-    "radarInstallDate": "2014-10-27T16:28:11",
-    "radarPlace": "COTEAUX SUR LOIRE",
+    "radarInstallDate": "2014-10-27T16:13:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

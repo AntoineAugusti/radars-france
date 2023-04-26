@@ -1,14 +1,14 @@
 {
-    "nid": "22019",
-    "uuid": "bbddf99f-822f-4e18-a85d-3e41b4c7f181",
-    "vid": "22019",
+    "nid": "25644",
+    "uuid": "15da65c2-de31-47e5-b15c-a8158bb8b448",
+    "vid": "25644",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE160016",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Paris vers Senlis",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.5792 49.19874)",
-    "radarInstallDate": "2010-06-18T16:26:14",
-    "radarPlace": "SENLIS",
+    "radarInstallDate": "2010-06-18T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

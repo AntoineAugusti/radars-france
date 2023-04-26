@@ -1,14 +1,14 @@
 {
-    "nid": "20864",
-    "uuid": "ba2bf8cc-626a-4a55-bf18-590c9febed37",
-    "vid": "20864",
+    "nid": "24789",
+    "uuid": "1093b6b4-b667-420c-811d-23e68f869dc0",
+    "vid": "24789",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51220",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VIERZON vers ORLEANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.055002 47.389372)",
-    "radarInstallDate": "2020-06-09T16:22:08",
-    "radarPlace": "SALBRIS",
+    "radarInstallDate": "2020-06-09T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RD2020",
     "radarTronconKm": [],
     "radarType": [

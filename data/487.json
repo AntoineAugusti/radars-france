@@ -1,14 +1,14 @@
 {
-    "nid": "19768",
-    "uuid": "c358ef36-edea-48b5-9304-2ca593f154b3",
-    "vid": "19768",
+    "nid": "23696",
+    "uuid": "9e6a05ee-1720-4e5f-8b4e-60969e8855e8",
+    "vid": "23696",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "487",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS TROYES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.85744 48.49175)",
-    "radarInstallDate": "2005-04-19T16:19:52",
-    "radarPlace": "CHATRES",
+    "radarInstallDate": "2005-04-19T16:06:15",
+    "radarPlace": [],
     "radarRoad": "RD619",
     "radarTronconKm": [],
     "radarType": [

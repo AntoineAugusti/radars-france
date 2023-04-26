@@ -1,14 +1,14 @@
 {
-    "nid": "22685",
-    "uuid": "5d0621fd-a22b-45ef-a578-87a7f3ed3667",
-    "vid": "22685",
+    "nid": "26193",
+    "uuid": "529e33bd-f5c0-4b9b-a91a-f18d3f884960",
+    "vid": "26193",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741031",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20195",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741031",
+    "changed": "1681741031",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "PARIS vers BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.60107 45.38041)",
-    "radarInstallDate": "2015-03-03T10:53:38",
+    "radarInstallDate": "2015-03-03T16:17:11",
     "radarPlace": "ST MARTIAL DE MIRAMBEAU",
     "radarRoad": "A10",
     "radarTronconKm": "5,6",

@@ -1,14 +1,14 @@
 {
-    "nid": "21512",
-    "uuid": "a1552fd7-ff9e-4dba-9d8c-2ed0214efb8f",
-    "vid": "21512",
+    "nid": "23185",
+    "uuid": "529cb469-3337-461a-b3d1-791c358373b4",
+    "vid": "23185",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12140",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROISSY vers CERGY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.4873 49.035)",
-    "radarInstallDate": "2013-06-07T16:24:16",
-    "radarPlace": "LOUVRES",
+    "radarInstallDate": "2013-06-07T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RN104",
     "radarTronconKm": [],
     "radarType": [

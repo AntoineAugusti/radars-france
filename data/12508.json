@@ -1,14 +1,14 @@
 {
-    "nid": "21770",
-    "uuid": "96f19f2c-2f2c-4acd-80b7-6c4b86165b4c",
-    "vid": "21770",
+    "nid": "23439",
+    "uuid": "7bf999eb-f188-4916-b76e-df8f5f268214",
+    "vid": "23439",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12508",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EVREUX vers VAL DE REUIL",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.182 49.138)",
-    "radarInstallDate": "2016-11-21T16:25:17",
-    "radarPlace": "HEUDREVILLE SUR EURE",
+    "radarInstallDate": "2016-11-21T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RN154",
     "radarTronconKm": [],
     "radarType": [

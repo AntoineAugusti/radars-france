@@ -1,14 +1,14 @@
 {
-    "nid": "20198",
-    "uuid": "c5e0672d-258f-4131-bf54-d758e531795d",
-    "vid": "20198",
+    "nid": "24072",
+    "uuid": "65ad2174-81fc-4768-9421-efd9d744a741",
+    "vid": "24072",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6814",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAYENNE vers KOUROU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-52.46997 5.01137)",
-    "radarInstallDate": "2007-09-19T16:20:35",
-    "radarPlace": "MACOURIA TONATE",
+    "radarInstallDate": "2007-09-19T16:06:57",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20972",
-    "uuid": "9976eaf0-4b90-43fd-ba30-f6766dee274e",
-    "vid": "20972",
+    "nid": "24906",
+    "uuid": "76afd824-aad3-4de2-8c4a-3bd8bc7ae76b",
+    "vid": "24906",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51343",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AMBLAINVILLE vers BEAUVAIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.129476 49.242445)",
-    "radarInstallDate": "2021-02-12T16:22:28",
-    "radarPlace": "MERU",
+    "radarInstallDate": "2021-02-12T16:09:10",
+    "radarPlace": [],
     "radarRoad": "RD927",
     "radarTronconKm": [],
     "radarType": [

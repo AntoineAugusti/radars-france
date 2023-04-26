@@ -1,14 +1,14 @@
 {
-    "nid": "20967",
-    "uuid": "4f2cff93-38d1-46a9-a3f6-9b405b3a6b90",
-    "vid": "20967",
+    "nid": "24900",
+    "uuid": "d1dfbf62-003a-46a7-b7c4-c16265521699",
+    "vid": "24900",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51337",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MEAUX vers VILLERS COTTERETS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.064488 49.117928)",
-    "radarInstallDate": "2021-06-24T16:22:28",
-    "radarPlace": "NEUFCHELLES",
+    "radarInstallDate": "2021-06-24T16:09:05",
+    "radarPlace": [],
     "radarRoad": "RD936",
     "radarTronconKm": [],
     "radarType": [

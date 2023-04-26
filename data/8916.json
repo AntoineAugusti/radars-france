@@ -1,14 +1,14 @@
 {
-    "nid": "20457",
-    "uuid": "e9a8ddd7-8191-452b-b22c-2c30378f3437",
-    "vid": "20457",
+    "nid": "24301",
+    "uuid": "97f690c0-00cd-4f40-9a78-8518e4c48597",
+    "vid": "24301",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8916",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MABLY vers BRIENNON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.0761 46.09)",
-    "radarInstallDate": "2012-10-05T16:21:10",
-    "radarPlace": "MABLY",
+    "radarInstallDate": "2012-10-05T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD43",
     "radarTronconKm": [],
     "radarType": [

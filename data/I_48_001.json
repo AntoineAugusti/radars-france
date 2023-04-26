@@ -1,14 +1,14 @@
 {
-    "nid": "22796",
-    "uuid": "8b10fe7a-8f42-446b-88ba-86996861fbe7",
-    "vid": "22796",
+    "nid": "26336",
+    "uuid": "13141906-4041-4b67-b7bc-f14f85c30d34",
+    "vid": "26336",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229221",
+    "revisionTimestamp": "1681741052",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_48_001",
-    "created": "1637229221",
-    "changed": "1637229221",
+    "created": "1681741052",
+    "changed": "1681741052",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "48 - Loz\u00e8re",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (44.716237 3.838903)",
-    "radarInstallDate": "2017-10-06T10:53:42",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.264913 43.853257)",
+    "radarInstallDate": "2017-10-09T16:17:33",
     "radarPlace": "-",
     "radarRoad": "N88, D301, D27, D3, D206, D306, D74, D71, D988, D901, D6",
-    "radarTronconKm": "42.26",
+    "radarTronconKm": "42,3",
     "radarType": [
         {
             "tid": "19",

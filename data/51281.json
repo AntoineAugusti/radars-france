@@ -1,14 +1,14 @@
 {
-    "nid": "20920",
-    "uuid": "bc63fd5f-4342-49fe-a200-69409a9d3126",
-    "vid": "20920",
+    "nid": "24847",
+    "uuid": "fdacd43c-5d95-47f0-ba08-2e629784eefe",
+    "vid": "24847",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51281",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONNAIE vers TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.767494 47.483614)",
-    "radarInstallDate": "2020-07-15T16:22:18",
-    "radarPlace": "MONNAIE",
+    "radarInstallDate": "2020-07-15T16:08:58",
+    "radarPlace": [],
     "radarRoad": "RD910",
     "radarTronconKm": [],
     "radarType": [

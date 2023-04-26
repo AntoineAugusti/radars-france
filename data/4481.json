@@ -1,14 +1,14 @@
 {
-    "nid": "20019",
-    "uuid": "f37236f1-4a73-4051-9c3d-6875138e01eb",
-    "vid": "20019",
+    "nid": "23905",
+    "uuid": "86b02807-8cf5-4017-837a-bc38ca3ba1b1",
+    "vid": "23905",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4481",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Langres vers Dijon",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.29262 47.66106)",
-    "radarInstallDate": "2009-02-13T16:20:17",
-    "radarPlace": "LE MONTSAUGEONNAIS",
+    "radarInstallDate": "2009-02-13T16:06:36",
+    "radarPlace": [],
     "radarRoad": "RD974",
     "radarTronconKm": [],
     "radarType": [

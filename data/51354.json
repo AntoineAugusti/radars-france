@@ -1,14 +1,14 @@
 {
-    "nid": "20980",
-    "uuid": "1e13cd2c-0676-4d65-8c1b-dbeafa71a118",
-    "vid": "20980",
+    "nid": "24917",
+    "uuid": "edaabcf2-d037-4278-9d0b-be9bb35d6d35",
+    "vid": "24917",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51354",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAPELLE LA REINE (LA) vers MALESHERBES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.50864 48.305176)",
-    "radarInstallDate": "2020-07-31T16:22:28",
-    "radarPlace": "BOISSY AUX CAILLES",
+    "radarInstallDate": "2020-07-31T16:09:10",
+    "radarPlace": [],
     "radarRoad": "RD152",
     "radarTronconKm": [],
     "radarType": [

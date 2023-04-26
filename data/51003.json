@@ -1,14 +1,14 @@
 {
-    "nid": "20653",
-    "uuid": "a4935243-03fc-49d1-a5a7-57177836a999",
-    "vid": "20653",
+    "nid": "24578",
+    "uuid": "a1de309d-3020-4b07-ae28-3fee19d1cbef",
+    "vid": "24578",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51003",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RETHEL  vers MARLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.232138 49.600522)",
-    "radarInstallDate": "2020-03-11T16:21:35",
-    "radarPlace": "REMAUCOURT",
+    "radarInstallDate": "2020-03-11T16:08:09",
+    "radarPlace": [],
     "radarRoad": "RD946",
     "radarTronconKm": [],
     "radarType": [

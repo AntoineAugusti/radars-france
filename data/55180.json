@@ -1,14 +1,14 @@
 {
-    "nid": "21216",
-    "uuid": "e1a5dddb-221e-468f-a216-cde28ef26c4d",
-    "vid": "21216",
+    "nid": "25227",
+    "uuid": "06a6a056-bc6f-4082-b6ee-14221a1b3998",
+    "vid": "25227",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55180",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLENEUVE LES AVIGNON vers BAGNOLS SUR CEZE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.74375 43.9693)",
-    "radarInstallDate": "2020-01-10T16:23:14",
-    "radarPlace": "VILLENEUVE LES AVIGNON",
+    "radarInstallDate": "2020-01-10T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RD6580",
     "radarTronconKm": [],
     "radarType": [

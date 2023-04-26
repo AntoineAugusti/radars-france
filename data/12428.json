@@ -1,14 +1,14 @@
 {
-    "nid": "21703",
-    "uuid": "6f4015be-fea2-4390-af02-427014e94fd3",
-    "vid": "21703",
+    "nid": "23371",
+    "uuid": "7c362718-33f6-47ad-bdf0-73223781d86d",
+    "vid": "23371",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12428",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOUVRES LA DELIVRANDE vers CAEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.38312 49.25938)",
-    "radarInstallDate": "2017-07-13T16:24:57",
-    "radarPlace": "MATHIEU",
+    "radarInstallDate": "2017-07-13T16:05:45",
+    "radarPlace": [],
     "radarRoad": "RD7",
     "radarTronconKm": [],
     "radarType": [

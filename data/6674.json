@@ -1,14 +1,14 @@
 {
-    "nid": "20176",
-    "uuid": "1f5f1528-e391-4b3e-8ba9-3bb566d0bfc9",
-    "vid": "20176",
+    "nid": "24053",
+    "uuid": "38e0256e-4b65-4b72-bc1a-221614c761a5",
+    "vid": "24053",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6674",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS BEAUVAIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.3462 49.0336)",
-    "radarInstallDate": "2007-02-05T16:20:33",
-    "radarPlace": "EZANVILLE",
+    "radarInstallDate": "2007-02-05T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD301",
     "radarTronconKm": [],
     "radarType": [

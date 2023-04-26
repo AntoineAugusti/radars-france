@@ -1,14 +1,14 @@
 {
-    "nid": "22615",
-    "uuid": "9c68fa11-fe8e-4c0b-ac17-ab5ef57b7eef",
-    "vid": "22615",
+    "nid": "26140",
+    "uuid": "04807d9a-b8b2-430b-946c-47afcca5323c",
+    "vid": "26140",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20048",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "GUERET vers MONTLUCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.94357 46.18881)",
-    "radarInstallDate": "2013-07-26T10:53:35",
+    "radarInstallDate": "2013-07-26T16:17:06",
     "radarPlace": "AJAIN",
     "radarRoad": "RN145",
     "radarTronconKm": "2,8",

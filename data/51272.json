@@ -1,14 +1,14 @@
 {
-    "nid": "20911",
-    "uuid": "856b0e5a-82fa-4dd0-9413-b8698d7951a5",
-    "vid": "20911",
+    "nid": "24838",
+    "uuid": "e1a8da17-8ed1-4f97-8812-ac5522b25dac",
+    "vid": "24838",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51272",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SUISSE vers PONTARLIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.36378 46.812743)",
-    "radarInstallDate": "2020-08-12T16:22:18",
-    "radarPlace": "LES HOPITAUX VIEUX",
+    "radarInstallDate": "2020-08-12T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RN57",
     "radarTronconKm": [],
     "radarType": [

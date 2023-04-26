@@ -1,14 +1,14 @@
 {
-    "nid": "20277",
-    "uuid": "25d12ff8-4b6d-4a1d-94ec-57ecc3c57116",
-    "vid": "20277",
+    "nid": "24143",
+    "uuid": "d5121714-e2d1-4954-a241-8ef6c0c8706c",
+    "vid": "24143",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7247",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA FERTE ST AUBIN vers LAMOTTE BEUVRON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.95795 47.68875)",
-    "radarInstallDate": "2008-02-02T16:20:45",
-    "radarPlace": "LA FERTE ST AUBIN",
+    "radarInstallDate": "2008-02-02T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RD2020",
     "radarTronconKm": [],
     "radarType": [

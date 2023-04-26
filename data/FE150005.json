@@ -1,14 +1,14 @@
 {
-    "nid": "21945",
-    "uuid": "7dce693e-80d0-426a-9cbb-82f90b7cd238",
-    "vid": "21945",
+    "nid": "25583",
+    "uuid": "8361eb92-cc08-4a00-9d0c-159b03b5abde",
+    "vid": "25583",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE150005",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RUE DU DR SCHAFFNER vers RUE AMIRAL COURBET",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-1.66389 49.65346)",
-    "radarInstallDate": "2010-07-02T16:25:53",
-    "radarPlace": "CHERBOURG EN COTENTIN",
+    "radarInstallDate": "2010-07-02T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

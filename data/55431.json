@@ -1,14 +1,14 @@
 {
-    "nid": "21425",
-    "uuid": "910cd53a-a376-43df-a522-bd8ed69272e7",
-    "vid": "21425",
+    "nid": "25460",
+    "uuid": "c54e0dfa-5629-4c85-ac52-4ec7f69791ea",
+    "vid": "25460",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55431",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "SAINTES vers MARENNES HIERS BROUAGE",
     "radarEquipment": "MORPHO",
-    "radarGeolocalisation": "POINT (1.082906 45.819624)",
-    "radarInstallDate": "2021-07-02T16:23:57",
-    "radarPlace": "SAINT JUST LUZAC",
+    "radarGeolocalisation": "POINT (-1.082906 45.819624)",
+    "radarInstallDate": "2021-07-02T16:11:04",
+    "radarPlace": [],
     "radarRoad": "RD728",
     "radarTronconKm": [],
     "radarType": [

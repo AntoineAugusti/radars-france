@@ -1,14 +1,14 @@
 {
-    "nid": "21315",
-    "uuid": "534fba6d-3591-49b5-b003-b2746c40c961",
-    "vid": "21315",
+    "nid": "25327",
+    "uuid": "c4350964-6ef9-42c4-adc7-3a6fbfcd0b93",
+    "vid": "25327",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55283",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA CHATRE vers GUERET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.919233 46.221959)",
-    "radarInstallDate": "2020-12-30T16:23:32",
-    "radarPlace": "GLENIC",
+    "radarInstallDate": "2020-12-30T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD940",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19926",
-    "uuid": "9af2b562-3b7d-4e1b-9720-f12ef96091ce",
-    "vid": "19926",
+    "nid": "23818",
+    "uuid": "771169f0-3b7e-4cfb-a19d-8363a1f3f2a0",
+    "vid": "23818",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4034",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CORBARIEU vers MONTAUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.35777 43.96876)",
-    "radarInstallDate": "2008-06-20T16:20:08",
-    "radarPlace": "MONTAUBAN",
+    "radarInstallDate": "2008-06-20T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RD21",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21079",
-    "uuid": "fc10ba99-f4b8-41bf-9ea7-4e2ed9097eb1",
-    "vid": "21079",
+    "nid": "25092",
+    "uuid": "7767342d-1b5b-437c-965f-dbcf1be13ff1",
+    "vid": "25092",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55042",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIMOGES vers POITIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.960131 46.164169)",
-    "radarInstallDate": "2019-11-29T16:22:49",
-    "radarPlace": "ST BONNET DE BELLAC",
+    "radarInstallDate": "2019-11-29T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RN147",
     "radarTronconKm": [],
     "radarType": [

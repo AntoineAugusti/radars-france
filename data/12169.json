@@ -1,14 +1,14 @@
 {
-    "nid": "21533",
-    "uuid": "cd897827-073f-4d2a-a2a2-bf3333121ff5",
-    "vid": "21533",
+    "nid": "23205",
+    "uuid": "a0a95380-d169-45d0-9d12-cffcfa913b0e",
+    "vid": "23205",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12169",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers MARSEILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.9788 45.731)",
-    "radarInstallDate": "2013-02-14T16:24:22",
-    "radarPlace": "GENAS",
+    "radarInstallDate": "2013-02-14T16:05:33",
+    "radarPlace": [],
     "radarRoad": "RN346",
     "radarTronconKm": [],
     "radarType": [

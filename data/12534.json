@@ -1,14 +1,14 @@
 {
-    "nid": "21791",
-    "uuid": "56ae8182-60cf-4fdb-99a4-85869cbd9bd1",
-    "vid": "21791",
+    "nid": "23460",
+    "uuid": "c4d86791-a044-4e20-a336-b5cc607ce0e2",
+    "vid": "23460",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12534",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT ETIENNE vers LYON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.486546 45.45964)",
-    "radarInstallDate": "2018-03-23T16:25:18",
-    "radarPlace": "ST CHAMOND",
+    "radarInstallDate": "2018-03-23T16:05:52",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

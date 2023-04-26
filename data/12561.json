@@ -1,14 +1,14 @@
 {
-    "nid": "21810",
-    "uuid": "37fee315-2aea-41ff-bba9-d8fa91652e63",
-    "vid": "21810",
+    "nid": "23481",
+    "uuid": "3d996001-d9e9-44ef-b160-c62e253336bd",
+    "vid": "23481",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12561",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE MANS vers RENNES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.46444 48.05189)",
-    "radarInstallDate": "2021-03-16T16:25:25",
-    "radarPlace": "VAIGES",
+    "radarInstallDate": "2021-03-16T16:05:55",
+    "radarPlace": [],
     "radarRoad": "A81",
     "radarTronconKm": [],
     "radarType": [

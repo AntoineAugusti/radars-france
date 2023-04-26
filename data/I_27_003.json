@@ -1,14 +1,14 @@
 {
-    "nid": "22744",
-    "uuid": "073f0ba4-a827-4a88-a80d-160f6e2e63e2",
-    "vid": "22744",
+    "nid": "26270",
+    "uuid": "f07d6209-6d3e-4d76-ad02-b0c95760b39a",
+    "vid": "26270",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229219",
+    "revisionTimestamp": "1681741041",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_27_003",
-    "created": "1637229219",
-    "changed": "1637229219",
+    "created": "1681741041",
+    "changed": "1681741041",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "27 - Eure",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.739438 0.901941)",
-    "radarInstallDate": "2017-10-06T10:53:40",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (-0.662241 45.75791)",
+    "radarInstallDate": "2017-10-05T16:17:21",
     "radarPlace": "-",
     "radarRoad": "D54, D166, D567, D926, , D21, D674",
-    "radarTronconKm": "10.27",
+    "radarTronconKm": "10,3",
     "radarType": [
         {
             "tid": "19",

@@ -1,14 +1,14 @@
 {
-    "nid": "20989",
-    "uuid": "eeef9bef-1c62-4d36-8b5d-e09d74baccef",
-    "vid": "20989",
+    "nid": "24927",
+    "uuid": "ee1bfa07-ac85-489c-8d39-3c6f74de29d3",
+    "vid": "24927",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51366",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROUEN vers BEAUVAIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.124968 49.397167)",
-    "radarInstallDate": "2021-09-09T16:22:32",
-    "radarPlace": "ALLONNE",
+    "radarInstallDate": "2021-09-09T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RN31",
     "radarTronconKm": [],
     "radarType": [

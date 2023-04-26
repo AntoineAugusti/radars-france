@@ -1,14 +1,14 @@
 {
-    "nid": "19975",
-    "uuid": "6fb9c733-1494-4b81-a626-d745d60a6269",
-    "vid": "19975",
+    "nid": "23866",
+    "uuid": "3d0872c3-b4bc-42a9-9455-45d29277b8d2",
+    "vid": "23866",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4262",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "QUILLAN vers CARCASSONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.24323 43.03916)",
-    "radarInstallDate": "2009-10-08T16:20:13",
-    "radarPlace": "COURNANEL",
+    "radarInstallDate": "2009-10-08T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD118",
     "radarTronconKm": [],
     "radarType": [

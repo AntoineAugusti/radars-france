@@ -1,14 +1,14 @@
 {
-    "nid": "20750",
-    "uuid": "3968446f-e6ad-4679-aae5-f698d0651248",
-    "vid": "20750",
+    "nid": "24674",
+    "uuid": "d7f7b784-ef94-491b-966e-fb02d44f9b05",
+    "vid": "24674",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51102",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "27-EURE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "VERNEUIL D AVRE ET D ITON vers ALENCON",
+    "radarDirection": "ALENCON vers VERNEUIL D AVRE ET D ITON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.862831 48.716081)",
-    "radarInstallDate": "2019-11-14T16:21:52",
-    "radarPlace": "PULLAY",
+    "radarInstallDate": "2019-11-14T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

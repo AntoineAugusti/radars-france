@@ -1,14 +1,14 @@
 {
-    "nid": "19743",
-    "uuid": "9e3f593c-dbb2-49dc-b78f-237d66a7911a",
-    "vid": "19743",
+    "nid": "23671",
+    "uuid": "8203246a-ff00-4706-9f9c-8aabc27ce4cb",
+    "vid": "23671",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740370",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "396",
-    "created": "1637229109",
-    "changed": "1675869590",
+    "created": "1681740370",
+    "changed": "1681740370",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGES VERS MONTARGIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.414 47.10975)",
-    "radarInstallDate": "2004-12-20T16:19:51",
-    "radarPlace": "BOURGES",
+    "radarInstallDate": "2004-12-20T16:06:12",
+    "radarPlace": [],
     "radarRoad": "RD940",
     "radarTronconKm": [],
     "radarType": [

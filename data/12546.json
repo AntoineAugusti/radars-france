@@ -1,14 +1,14 @@
 {
-    "nid": "21798",
-    "uuid": "f0363629-f1c8-470b-86f9-46a11f9398eb",
-    "vid": "21798",
+    "nid": "23468",
+    "uuid": "136a47ab-3083-4a8c-8225-1d5a3c52fac0",
+    "vid": "23468",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12546",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RENNES vers NANTES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.65035 47.33027)",
-    "radarInstallDate": "2020-03-16T16:25:18",
-    "radarPlace": "TREILLIERES",
+    "radarInstallDate": "2020-03-16T16:05:53",
+    "radarPlace": [],
     "radarRoad": "RN137",
     "radarTronconKm": [],
     "radarType": [

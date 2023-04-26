@@ -1,14 +1,14 @@
 {
-    "nid": "22182",
-    "uuid": "0099a2d5-fa11-4b6a-98b1-a37b8221fbc4",
-    "vid": "22182",
+    "nid": "25797",
+    "uuid": "03487458-b6e7-403d-97d6-9ec3a79067b2",
+    "vid": "25797",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195008",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bezons vers Enghien les Bains",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.27969 48.95617)",
-    "radarInstallDate": "2010-06-18T16:26:50",
-    "radarPlace": "ARGENTEUIL",
+    "radarInstallDate": "2010-06-18T16:12:32",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22231",
-    "uuid": "ec0ea1df-a809-4aa3-89d0-43e64150ed48",
-    "vid": "22231",
+    "nid": "25831",
+    "uuid": "64c0f371-b3e2-4f7f-bc40-2545cdecbff9",
+    "vid": "25831",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229188",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE213027",
-    "created": "1637229188",
-    "changed": "1675870018",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.38485 43.28414)",
-    "radarInstallDate": "2010-11-19T16:27:05",
-    "radarPlace": "MARSEILLE",
+    "radarInstallDate": "2010-11-19T16:12:40",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

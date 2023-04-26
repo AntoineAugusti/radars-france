@@ -1,14 +1,14 @@
 {
-    "nid": "20275",
-    "uuid": "ab3ede8e-1639-4df9-a259-272fe386258a",
-    "vid": "20275",
+    "nid": "24141",
+    "uuid": "0055079c-fb4a-4c35-8b90-c45a5cc6cba9",
+    "vid": "24141",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7242",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FIRMINY vers ST CHAMOND",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.4055 45.41628)",
-    "radarInstallDate": "2007-12-13T16:20:45",
-    "radarPlace": "ST ETIENNE",
+    "radarInstallDate": "2007-12-13T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

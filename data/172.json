@@ -1,14 +1,14 @@
 {
-    "nid": "19678",
-    "uuid": "aec9d3f8-d70f-4a9b-8a8a-32cbb3e5fc0a",
-    "vid": "19678",
+    "nid": "23614",
+    "uuid": "43c12031-d169-4f50-874e-831363b9a869",
+    "vid": "23614",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "172",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SELESTAT VERS STRASBOURG",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.55745 48.49267)",
-    "radarInstallDate": "2004-04-07T16:19:47",
-    "radarPlace": "INNENHEIM",
+    "radarInstallDate": "2004-04-07T16:06:06",
+    "radarPlace": [],
     "radarRoad": "A35",
     "radarTronconKm": [],
     "radarType": [

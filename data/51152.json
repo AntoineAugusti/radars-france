@@ -1,14 +1,14 @@
 {
-    "nid": "20800",
-    "uuid": "cec2e975-baf2-42ec-bacf-2b4d756bf90e",
-    "vid": "20800",
+    "nid": "24724",
+    "uuid": "ead56a11-57f3-4549-9baf-daf90619bc74",
+    "vid": "24724",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51152",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Tiffauges vers Treize Septiers",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.151521 47.002964)",
-    "radarInstallDate": "2020-01-24T16:21:58",
-    "radarPlace": "LA BRUFFIERE",
+    "radarInstallDate": "2020-01-24T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD753",
     "radarTronconKm": [],
     "radarType": [

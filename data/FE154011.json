@@ -1,14 +1,14 @@
 {
-    "nid": "21966",
-    "uuid": "f01b45da-c1ed-4742-af62-4d8d791d4260",
-    "vid": "21966",
+    "nid": "25603",
+    "uuid": "23b95caf-9fea-4c19-86b4-a122e44a1ce4",
+    "vid": "25603",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE154011",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bd du XXI\u00e8me R.A. vers Malz\u00e9ville",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (6.19216 48.69355)",
-    "radarInstallDate": "2012-01-03T16:26:00",
-    "radarPlace": "NANCY",
+    "radarInstallDate": "2012-01-03T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

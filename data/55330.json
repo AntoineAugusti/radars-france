@@ -1,14 +1,14 @@
 {
-    "nid": "21357",
-    "uuid": "e242e8ec-fbec-4283-8bba-ae7744efa312",
-    "vid": "21357",
+    "nid": "25371",
+    "uuid": "26e081f1-082c-43e2-8948-e5075f63a1db",
+    "vid": "25371",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55330",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "THURINS vers SAINT MARTIN EN HAUT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.579963 45.668451)",
-    "radarInstallDate": "2021-01-26T16:23:44",
-    "radarPlace": "SAINT MARTIN EN HAUT",
+    "radarInstallDate": "2021-01-26T16:10:47",
+    "radarPlace": [],
     "radarRoad": "RD311",
     "radarTronconKm": [],
     "radarType": [

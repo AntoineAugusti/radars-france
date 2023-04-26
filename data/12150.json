@@ -1,14 +1,14 @@
 {
-    "nid": "21521",
-    "uuid": "d7c02b2d-0326-47dc-b259-57fb94a02787",
-    "vid": "21521",
+    "nid": "23193",
+    "uuid": "ce7bf65b-af47-44bb-8891-51be690e3cde",
+    "vid": "23193",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12150",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTLUCON vers GUERET",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.953377 46.192479)",
-    "radarInstallDate": "2013-01-07T16:24:16",
-    "radarPlace": "AJAIN",
+    "radarInstallDate": "2013-01-07T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RN145",
     "radarTronconKm": [],
     "radarType": [

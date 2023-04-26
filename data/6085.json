@@ -1,14 +1,14 @@
 {
-    "nid": "20132",
-    "uuid": "00876862-e222-437f-9d03-3ea6e70585a6",
-    "vid": "20132",
+    "nid": "24013",
+    "uuid": "5c90163a-f505-40f8-8eae-3ebfaf1c7dcb",
+    "vid": "24013",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6085",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RABASTENS VERS TARBES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.13223 43.33898)",
-    "radarInstallDate": "2006-08-01T16:20:29",
-    "radarPlace": "ESCONDEAUX",
+    "radarInstallDate": "2006-08-01T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RN21",
     "radarTronconKm": [],
     "radarType": [

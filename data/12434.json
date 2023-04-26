@@ -1,14 +1,14 @@
 {
-    "nid": "21708",
-    "uuid": "fab561c1-22b9-40c7-9f7b-22d3086165e5",
-    "vid": "21708",
+    "nid": "23376",
+    "uuid": "24cdfcfc-98ed-4837-8385-d9512b787023",
+    "vid": "23376",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12434",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LORIENT vers QUIMPER",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-3.987875 47.968851)",
-    "radarInstallDate": "2016-11-18T16:24:57",
-    "radarPlace": "ST EVARZEC",
+    "radarInstallDate": "2016-11-18T16:05:45",
+    "radarPlace": [],
     "radarRoad": "RN165",
     "radarTronconKm": [],
     "radarType": [

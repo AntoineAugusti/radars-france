@@ -1,14 +1,14 @@
 {
-    "nid": "22660",
-    "uuid": "1d761390-f58e-471a-985f-c66a25a37b6a",
-    "vid": "22660",
+    "nid": "26177",
+    "uuid": "067d5a60-33dc-4b5c-9ad1-ccc8ace210f8",
+    "vid": "26177",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741029",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20145",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741029",
+    "changed": "1681741029",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "YVETOT vers ARELAUNE EN SEINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.7408 49.50676)",
-    "radarInstallDate": "2014-08-01T10:53:37",
+    "radarInstallDate": "2014-08-01T16:17:09",
     "radarPlace": "ARELAUNE EN SEINE",
     "radarRoad": "RD490",
     "radarTronconKm": "1,4",

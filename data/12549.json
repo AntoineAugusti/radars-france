@@ -1,14 +1,14 @@
 {
-    "nid": "21801",
-    "uuid": "72616fbb-b9af-43ae-88e7-9e5e68717152",
-    "vid": "21801",
+    "nid": "23471",
+    "uuid": "b7d34bbd-2b01-4a0b-b80a-f670baa33016",
+    "vid": "23471",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12549",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "METZ vers LUXEMBOURG",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.16465 49.34809)",
-    "radarInstallDate": "2020-12-15T16:25:24",
-    "radarPlace": "THIONVILLE",
+    "radarInstallDate": "2020-12-15T16:05:53",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22064",
-    "uuid": "f0260b06-ac36-46ed-a555-23af9ecc9cc6",
-    "vid": "22064",
+    "nid": "25681",
+    "uuid": "f54d02c6-93bf-47f3-a9eb-e02626cb6686",
+    "vid": "25681",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168011",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "vers le Centre-ville",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.34739 48.08379)",
-    "radarInstallDate": "2011-04-04T16:26:22",
-    "radarPlace": "COLMAR",
+    "radarInstallDate": "2011-04-04T16:12:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

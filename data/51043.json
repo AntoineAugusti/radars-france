@@ -1,14 +1,14 @@
 {
-    "nid": "20691",
-    "uuid": "d762a826-cd27-4740-85d6-c94b0f78ac55",
-    "vid": "20691",
+    "nid": "24617",
+    "uuid": "67ec589e-36fd-48e3-a404-7f032b1d07aa",
+    "vid": "24617",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51043",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EVREUX  vers PACY SUR EURE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.328722 49.01144)",
-    "radarInstallDate": "2019-08-14T16:21:42",
-    "radarPlace": "ST AQUILIN DE PACY",
+    "radarInstallDate": "2019-08-14T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RN13",
     "radarTronconKm": [],
     "radarType": [

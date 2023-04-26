@@ -1,14 +1,14 @@
 {
-    "nid": "20363",
-    "uuid": "71b36d7e-e44f-4a96-b516-4d3e4e64e8bb",
-    "vid": "20363",
+    "nid": "24217",
+    "uuid": "6ea6c097-047e-4d53-9daf-175b8e502ff2",
+    "vid": "24217",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8611",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE PUY EN VELAY vers CHADRAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.8881 45.039)",
-    "radarInstallDate": "2010-11-05T16:20:57",
-    "radarPlace": "LE PUY EN VELAY",
+    "radarInstallDate": "2010-11-05T16:07:14",
+    "radarPlace": [],
     "radarRoad": "35, Avenue du Mar\u00e9chal Foch",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20949",
-    "uuid": "b57d59bf-2a7d-4a40-baf5-a6da30ba1ef6",
-    "vid": "20949",
+    "nid": "24876",
+    "uuid": "52ef5d72-bb9a-4066-a938-889ee735c150",
+    "vid": "24876",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51310",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,12 +36,12 @@
     "department": "44-LOIRE-ATLANTIQUE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "ANCENIS SAINT GEREON vers NANTES",
+    "radarDirection": "NANTES vers ANCENIS SAINT GEREON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.254716 47.35365)",
-    "radarInstallDate": "2020-09-03T16:22:23",
-    "radarPlace": "OUDON",
-    "radarRoad": "RN23",
+    "radarInstallDate": "2020-09-03T16:09:04",
+    "radarPlace": [],
+    "radarRoad": "RD723",
     "radarTronconKm": [],
     "radarType": [
         {

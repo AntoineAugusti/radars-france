@@ -1,14 +1,14 @@
 {
-    "nid": "21117",
-    "uuid": "944e64de-4034-4cb4-8e59-5fcaf104ca38",
-    "vid": "21117",
+    "nid": "25130",
+    "uuid": "38132ee2-7fd9-4836-80c9-c94816afb0dd",
+    "vid": "25130",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55080",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "04-ALPES-DE-HAUTE-PROVENCE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "SISTERON vers LARAGNE MONTEGLIN",
+    "radarDirection": "SISTERON vers MISON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.863888 44.260291)",
-    "radarInstallDate": "2020-06-17T16:22:55",
-    "radarPlace": "MISON",
+    "radarInstallDate": "2020-06-17T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD4075",
     "radarTronconKm": [],
     "radarType": [

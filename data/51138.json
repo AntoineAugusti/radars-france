@@ -1,14 +1,14 @@
 {
-    "nid": "20786",
-    "uuid": "7df6f332-75e6-475b-93cb-a754dc6e0146",
-    "vid": "20786",
+    "nid": "24710",
+    "uuid": "75d01de4-00a4-49ee-bd9f-29be2b886ff3",
+    "vid": "24710",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51138",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VARAVILLE vers GRANGUES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.13309 49.256067)",
-    "radarInstallDate": "2020-01-16T16:21:58",
-    "radarPlace": "VARAVILLE",
+    "radarInstallDate": "2020-01-16T16:08:31",
+    "radarPlace": [],
     "radarRoad": "RD27",
     "radarTronconKm": [],
     "radarType": [

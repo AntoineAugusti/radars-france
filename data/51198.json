@@ -1,14 +1,14 @@
 {
-    "nid": "20845",
-    "uuid": "f4c32440-1f39-41c4-b8c5-a647661f7f6d",
-    "vid": "20845",
+    "nid": "24769",
+    "uuid": "c4b18081-daa3-4246-9c3a-8f49b32c4c9d",
+    "vid": "24769",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51198",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOISSONS vers COMPIEGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.174093 49.397047)",
-    "radarInstallDate": "2020-05-23T16:22:07",
-    "radarPlace": "RESSONS LE LONG",
+    "radarInstallDate": "2020-05-23T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RN 31",
     "radarTronconKm": [],
     "radarType": [

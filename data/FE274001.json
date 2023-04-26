@@ -1,14 +1,14 @@
 {
-    "nid": "22306",
-    "uuid": "e152a419-8556-47ba-a802-76bf6e5e46a4",
-    "vid": "22306",
+    "nid": "25865",
+    "uuid": "34c10849-5183-4b9e-8807-7ff42bd99b3a",
+    "vid": "25865",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE274001",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Chambery vers Gen\u00e8ve",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.12117 45.91141)",
-    "radarInstallDate": "2010-07-02T16:27:20",
-    "radarPlace": "ANNECY",
+    "radarInstallDate": "2010-07-02T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

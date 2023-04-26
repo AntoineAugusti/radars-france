@@ -1,14 +1,14 @@
 {
-    "nid": "21565",
-    "uuid": "319a247f-5772-4da2-88ed-9848ac8ee8f6",
-    "vid": "21565",
+    "nid": "23235",
+    "uuid": "eb3a27a9-dca0-4646-88ba-7996f4982306",
+    "vid": "23235",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12237",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "MAUCHAMPS vers EGLY",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (2.2093 48.536)",
-    "radarInstallDate": "2014-01-20T16:24:28",
-    "radarPlace": "BOISSY SOUS ST YON",
+    "radarGeolocalisation": "POINT (2.209299 48.536733)",
+    "radarInstallDate": "2014-01-20T16:05:35",
+    "radarPlace": [],
     "radarRoad": "RN20",
     "radarTronconKm": [],
     "radarType": [

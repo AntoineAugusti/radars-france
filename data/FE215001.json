@@ -1,14 +1,14 @@
 {
-    "nid": "22260",
-    "uuid": "e16e372d-26ea-47ee-a072-77bbbd8a71b1",
-    "vid": "22260",
+    "nid": "25838",
+    "uuid": "cc4f9848-fb87-4913-9fdd-b298510220b7",
+    "vid": "25838",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229189",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE215001",
-    "created": "1637229189",
-    "changed": "1675870026",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.43848 44.91238)",
-    "radarInstallDate": "2010-01-18T16:27:12",
-    "radarPlace": "AURILLAC",
+    "radarInstallDate": "2010-01-18T16:12:48",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

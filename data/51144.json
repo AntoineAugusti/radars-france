@@ -1,14 +1,14 @@
 {
-    "nid": "20792",
-    "uuid": "fe188524-8163-4e17-932e-5c2cf6a65445",
-    "vid": "20792",
+    "nid": "24716",
+    "uuid": "c64669d0-f336-4baf-8965-6d6306778d1b",
+    "vid": "24716",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51144",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AUXERRE vers TROYES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.811309 48.066497)",
-    "radarInstallDate": "2020-02-20T16:21:58",
-    "radarPlace": "LASSON",
+    "radarInstallDate": "2020-02-20T16:08:31",
+    "radarPlace": [],
     "radarRoad": "RN77",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20975",
-    "uuid": "51dcc535-9d34-4f49-910e-b4de1fc9c255",
-    "vid": "20975",
+    "nid": "24911",
+    "uuid": "64921636-c737-4505-b66f-54b15dbf7989",
+    "vid": "24911",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51348",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROYE vers SENLIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.642583 49.434799)",
-    "radarInstallDate": "2021-07-30T16:22:28",
-    "radarPlace": "ESTREES ST DENIS",
+    "radarInstallDate": "2021-07-30T16:09:10",
+    "radarPlace": [],
     "radarRoad": "RD1017",
     "radarTronconKm": [],
     "radarType": [

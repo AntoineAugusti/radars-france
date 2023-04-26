@@ -1,14 +1,14 @@
 {
-    "nid": "20174",
-    "uuid": "0548ae1b-2445-499b-95e5-f8faaffeb482",
-    "vid": "20174",
+    "nid": "24051",
+    "uuid": "81134b8a-445b-4f48-b209-5d27f518ea0f",
+    "vid": "24051",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6671",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS VILLENEUVE ST GEORGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.4397 48.7728)",
-    "radarInstallDate": "2007-04-23T16:20:33",
-    "radarPlace": "CRETEIL",
+    "radarInstallDate": "2007-04-23T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RN6",
     "radarTronconKm": [],
     "radarType": [

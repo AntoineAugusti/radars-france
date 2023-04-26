@@ -1,14 +1,14 @@
 {
-    "nid": "19936",
-    "uuid": "b83f7840-5661-471a-aa71-b535e1ddfe3a",
-    "vid": "19936",
+    "nid": "23828",
+    "uuid": "a25993c6-ded6-4a56-aafa-8702f00967af",
+    "vid": "23828",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4067",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA CHARITE SUR LOIRE vers CLAMECY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.08513 47.20961)",
-    "radarInstallDate": "2008-08-06T16:20:08",
-    "radarPlace": "VARENNES LES NARCY",
+    "radarInstallDate": "2008-08-06T16:06:28",
+    "radarPlace": [],
     "radarRoad": "RN151",
     "radarTronconKm": [],
     "radarType": [

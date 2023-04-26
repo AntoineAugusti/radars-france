@@ -1,14 +1,14 @@
 {
-    "nid": "22669",
-    "uuid": "9e6a0ddf-a50a-45ca-adc6-4fe8839fe4cc",
-    "vid": "22669",
+    "nid": "26184",
+    "uuid": "c2985409-79f7-46e0-8354-4659911881ce",
+    "vid": "26184",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741029",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20164",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741029",
+    "changed": "1681741029",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "MORTEAU vers FUANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.58803 47.12449)",
-    "radarInstallDate": "2014-07-07T10:53:37",
+    "radarInstallDate": "2014-07-07T16:17:10",
     "radarPlace": "FUANS",
     "radarRoad": "RD242",
     "radarTronconKm": "1,6",

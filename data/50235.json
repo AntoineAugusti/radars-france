@@ -1,14 +1,14 @@
 {
-    "nid": "20618",
-    "uuid": "7e9a8418-cf5b-40f8-9035-84160ab47702",
-    "vid": "20618",
+    "nid": "24534",
+    "uuid": "8bd8ae86-150f-404a-86c3-8531602232fb",
+    "vid": "24534",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50235",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RIVIERE SALEE vers LE MARIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-60.976771 14.496824)",
-    "radarInstallDate": "2020-12-15T16:21:30",
-    "radarPlace": "STE LUCE",
+    "radarInstallDate": "2020-12-15T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RN5",
     "radarTronconKm": [],
     "radarType": [

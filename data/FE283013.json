@@ -1,14 +1,14 @@
 {
-    "nid": "22316",
-    "uuid": "8bdfcd75-277a-420f-9726-086c349e572e",
-    "vid": "22316",
+    "nid": "25873",
+    "uuid": "fd1d5875-63ba-4782-8d88-557a7dda46d3",
+    "vid": "25873",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE283013",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.85076 43.13722)",
-    "radarInstallDate": "2010-02-09T16:27:29",
-    "radarPlace": "OLLIOULES",
+    "radarInstallDate": "2010-02-09T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

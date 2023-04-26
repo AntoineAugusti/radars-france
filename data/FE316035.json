@@ -1,14 +1,14 @@
 {
-    "nid": "22385",
-    "uuid": "31674cc8-fb0a-4118-a4ad-f359bc8ea59d",
-    "vid": "22385",
+    "nid": "25910",
+    "uuid": "64423b2c-b423-4795-88e1-0a186f581d62",
+    "vid": "25910",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316035",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Angoul\u00eame vers Chasseneuil sur Bonnieure",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.38746 45.74043)",
-    "radarInstallDate": "2010-11-12T16:27:47",
-    "radarPlace": "LA ROCHEFOUCAULD",
+    "radarInstallDate": "2010-11-12T16:13:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

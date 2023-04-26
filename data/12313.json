@@ -1,14 +1,14 @@
 {
-    "nid": "21609",
-    "uuid": "889d8e36-e57b-419f-aae5-f6c1ce5b776e",
-    "vid": "21609",
+    "nid": "23278",
+    "uuid": "cab9f107-4475-4263-aaa7-4ac83f15e931",
+    "vid": "23278",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12313",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON vers RIVE DE GIER",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.772833 45.671884)",
-    "radarInstallDate": "2017-12-22T16:24:36",
-    "radarPlace": "BRIGNAIS",
+    "radarInstallDate": "2017-12-22T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A450",
     "radarTronconKm": [],
     "radarType": [

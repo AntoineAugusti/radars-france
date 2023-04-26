@@ -1,14 +1,14 @@
 {
-    "nid": "20144",
-    "uuid": "329e54ad-b566-4d61-9eb8-a7e1b54f7318",
-    "vid": "20144",
+    "nid": "24024",
+    "uuid": "4a55350e-fd69-49d0-b156-7c4a1bca0f04",
+    "vid": "24024",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6522",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAEN VERS RENNES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.00797 48.95187)",
-    "radarInstallDate": "2007-10-05T16:20:29",
-    "radarPlace": "TESSY BOCAGE",
+    "radarInstallDate": "2007-10-05T16:06:50",
+    "radarPlace": [],
     "radarRoad": "A84",
     "radarTronconKm": [],
     "radarType": [

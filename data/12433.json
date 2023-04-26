@@ -1,14 +1,14 @@
 {
-    "nid": "21707",
-    "uuid": "cf9b25e6-fafb-450f-baf5-d87b4a897a57",
-    "vid": "21707",
+    "nid": "23375",
+    "uuid": "0348d302-6210-4d5d-ac6d-93a38ebe5acf",
+    "vid": "23375",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12433",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST FLOUR vers MASSIAC",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.13646 45.1108)",
-    "radarInstallDate": "2016-10-07T16:24:57",
-    "radarPlace": "VIEILLESPESSE",
+    "radarInstallDate": "2016-10-07T16:05:45",
+    "radarPlace": [],
     "radarRoad": "A75",
     "radarTronconKm": [],
     "radarType": [

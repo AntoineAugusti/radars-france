@@ -1,14 +1,14 @@
 {
-    "nid": "21992",
-    "uuid": "86c33dc4-11fa-4aa3-836d-f94cfd690647",
-    "vid": "21992",
+    "nid": "25628",
+    "uuid": "a10957ce-7be9-4477-b32a-e7a96a330f81",
+    "vid": "25628",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159024",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Dunkerque vers Grande Synthe",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.34777 51.02409)",
-    "radarInstallDate": "2010-12-01T16:26:07",
-    "radarPlace": "DUNKERQUE",
+    "radarInstallDate": "2010-12-01T16:11:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

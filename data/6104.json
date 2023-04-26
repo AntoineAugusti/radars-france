@@ -1,14 +1,14 @@
 {
-    "nid": "20134",
-    "uuid": "3cf9ff84-0563-48b4-83b3-3e10cbf05c1e",
-    "vid": "20134",
+    "nid": "24015",
+    "uuid": "f26685b7-2ef6-4003-952b-23cd6fb30aec",
+    "vid": "24015",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6104",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VENDOME vers TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.04097 47.74824)",
-    "radarInstallDate": "2006-08-10T16:20:29",
-    "radarPlace": "VILLERABLE",
+    "radarInstallDate": "2006-08-10T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

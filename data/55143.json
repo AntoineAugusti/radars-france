@@ -1,14 +1,14 @@
 {
-    "nid": "21179",
-    "uuid": "420c7e35-d93e-4cf6-b339-304c8b258ca1",
-    "vid": "21179",
+    "nid": "25190",
+    "uuid": "01a01456-3b6f-4258-8642-01dab1935b11",
+    "vid": "25190",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55143",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE MUY vers VIDAUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.485267 43.448037)",
-    "radarInstallDate": "2020-05-27T16:23:07",
-    "radarPlace": "LES ARCS",
+    "radarInstallDate": "2020-05-27T16:10:05",
+    "radarPlace": [],
     "radarRoad": "RDN7",
     "radarTronconKm": [],
     "radarType": [

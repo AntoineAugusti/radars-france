@@ -1,14 +1,14 @@
 {
-    "nid": "21908",
-    "uuid": "118b8827-c939-4938-a656-4ed66b57f8bb",
-    "vid": "21908",
+    "nid": "25547",
+    "uuid": "089e17e6-d9e1-4a38-9455-b99ca360e96d",
+    "vid": "25547",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE129000",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-4.40631 48.40188)",
-    "radarInstallDate": "2011-12-08T16:25:46",
-    "radarPlace": "LE RELECQ KERHUON",
+    "radarInstallDate": "2011-12-08T16:11:28",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

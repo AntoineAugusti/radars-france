@@ -1,14 +1,14 @@
 {
-    "nid": "22456",
-    "uuid": "473edbee-7269-4dc7-b45d-5e97bc4a0322",
-    "vid": "22456",
+    "nid": "25972",
+    "uuid": "4281bb4c-0ff8-47aa-b77a-653b367022ee",
+    "vid": "25972",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE334001",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue DORIA vers rue GERHARDT",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.8671 43.61259)",
-    "radarInstallDate": "2010-07-13T16:28:03",
-    "radarPlace": "MONTPELLIER",
+    "radarInstallDate": "2010-07-13T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

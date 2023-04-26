@@ -1,14 +1,14 @@
 {
-    "nid": "20932",
-    "uuid": "75ee7a09-0576-4e51-b75d-2b8df07db7d2",
-    "vid": "20932",
+    "nid": "24859",
+    "uuid": "fbc72994-ebb7-446f-ace2-c44544d9ce46",
+    "vid": "24859",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51293",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAU LA VALLIERE vers SAINT LAURENT EN GATINES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.609798 47.560403)",
-    "radarInstallDate": "2021-02-16T16:22:22",
-    "radarPlace": "NEUILLE PONT PIERRE",
+    "radarInstallDate": "2021-02-16T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD766",
     "radarTronconKm": [],
     "radarType": [

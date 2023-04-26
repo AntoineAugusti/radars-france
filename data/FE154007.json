@@ -1,14 +1,14 @@
 {
-    "nid": "21962",
-    "uuid": "4f0464de-39ff-4e2c-9fa0-2849736726c5",
-    "vid": "21962",
+    "nid": "25599",
+    "uuid": "bfc96910-17dc-4828-b557-e7c677a1634d",
+    "vid": "25599",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE154007",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MALZEVILLE vers NANCY",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (6.18748 48.699)",
-    "radarInstallDate": "2012-01-30T16:26:00",
-    "radarPlace": "NANCY",
+    "radarInstallDate": "2012-01-30T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20609",
-    "uuid": "d99feef6-6caa-40cd-b20b-545510c4a399",
-    "vid": "20609",
+    "nid": "24525",
+    "uuid": "42aed392-30d0-453c-8001-e801c8eddde3",
+    "vid": "24525",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50032",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST FRANCOIS vers STE ANNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.27959 16.25552)",
-    "radarInstallDate": "2020-09-15T16:21:30",
-    "radarPlace": "ST FRANCOIS",
+    "radarInstallDate": "2020-09-15T16:07:59",
+    "radarPlace": [],
     "radarRoad": "D118",
     "radarTronconKm": [],
     "radarType": [

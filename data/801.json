@@ -1,14 +1,14 @@
 {
-    "nid": "19855",
-    "uuid": "46de4ff5-f104-48ac-97de-493b54a5f048",
-    "vid": "19855",
+    "nid": "23763",
+    "uuid": "27bcd3ca-9a8d-4a04-a2fa-4e02610a9b01",
+    "vid": "23763",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "801",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEZONS VERS EPINAY SUR SEINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.24145 48.93396)",
-    "radarInstallDate": "2006-01-19T16:20:01",
-    "radarPlace": "ARGENTEUIL",
+    "radarInstallDate": "2006-01-19T16:06:22",
+    "radarPlace": [],
     "radarRoad": "RD311",
     "radarTronconKm": [],
     "radarType": [

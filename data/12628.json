@@ -1,14 +1,14 @@
 {
-    "nid": "21853",
-    "uuid": "8c699c29-db7a-4256-9958-903cda912e3d",
-    "vid": "21853",
+    "nid": "23531",
+    "uuid": "04086fb8-5641-4488-85e9-3dd2fd9ca765",
+    "vid": "23531",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12628",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTES vers BREST",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-2.67244 47.63772)",
-    "radarInstallDate": "2021-06-30T16:25:32",
-    "radarPlace": "THEIX NOYALO",
+    "radarInstallDate": "2021-06-30T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RN165",
     "radarTronconKm": [],
     "radarType": [

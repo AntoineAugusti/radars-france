@@ -1,14 +1,14 @@
 {
-    "nid": "21469",
-    "uuid": "51f17ecc-6982-406c-9009-7de15ebf2f41",
-    "vid": "21469",
+    "nid": "23142",
+    "uuid": "c88c5d34-6b03-4ed5-83dc-0a4b933cf0af",
+    "vid": "23142",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12067",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SELESTAT vers STRASBOURG",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.5412 48.339)",
-    "radarInstallDate": "2012-08-10T16:24:09",
-    "radarPlace": "KOGENHEIM",
+    "radarInstallDate": "2012-08-10T16:05:30",
+    "radarPlace": [],
     "radarRoad": "RD83",
     "radarTronconKm": [],
     "radarType": [

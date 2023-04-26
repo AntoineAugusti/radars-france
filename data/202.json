@@ -1,14 +1,14 @@
 {
-    "nid": "19686",
-    "uuid": "eca4a3fd-5092-4ca2-bd70-e8f94d648931",
-    "vid": "19686",
+    "nid": "23621",
+    "uuid": "c9ac1cbb-001c-4fec-a343-b60226570b12",
+    "vid": "23621",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "202",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ABBEVILLE VERS ROUEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.14532 49.45188)",
-    "radarInstallDate": "2004-08-04T16:19:47",
-    "radarPlace": "DARNETAL",
+    "radarInstallDate": "2004-08-04T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RN28",
     "radarTronconKm": [],
     "radarType": [

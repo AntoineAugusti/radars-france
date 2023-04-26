@@ -1,14 +1,14 @@
 {
-    "nid": "20898",
-    "uuid": "7b82f365-b861-4ba2-9a10-4c27186eb453",
-    "vid": "20898",
+    "nid": "24825",
+    "uuid": "36b9be15-ae52-4d60-a531-3b479d0e7f99",
+    "vid": "24825",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51258",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "14-CALVADOS",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "PONT L EVEQUE vers LISIEUX",
+    "radarDirection": "PONT L'EVEQUE vers LISIEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.227022 49.18153)",
-    "radarInstallDate": "2021-09-24T16:22:13",
-    "radarPlace": "OUILLY LE VICOMTE",
+    "radarInstallDate": "2021-09-24T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD579",
     "radarTronconKm": [],
     "radarType": [

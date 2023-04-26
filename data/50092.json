@@ -1,14 +1,14 @@
 {
-    "nid": "20617",
-    "uuid": "c3ef25b0-23da-48b6-a4f4-42fb068b325f",
-    "vid": "20617",
+    "nid": "24533",
+    "uuid": "ddc011c6-43fa-43e0-9daa-9aea7824160c",
+    "vid": "24533",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50092",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE GOSIER vers SAINTE ANNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.4455 16.20756)",
-    "radarInstallDate": "2021-01-18T16:21:30",
-    "radarPlace": "LE GOSIER",
+    "radarInstallDate": "2021-01-18T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

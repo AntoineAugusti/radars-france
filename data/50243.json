@@ -1,14 +1,14 @@
 {
-    "nid": "20622",
-    "uuid": "feb47895-cc3e-49b6-a907-9a579d47a596",
-    "vid": "20622",
+    "nid": "24540",
+    "uuid": "5b3e3486-89b4-4b13-8765-c215ecbec478",
+    "vid": "24540",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50243",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TRINITE vers LE LAMENTIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-60.968178 14.664147)",
-    "radarInstallDate": "2021-06-24T16:21:31",
-    "radarPlace": "LE ROBERT",
+    "radarInstallDate": "2021-06-24T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

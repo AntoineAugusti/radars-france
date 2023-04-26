@@ -1,14 +1,14 @@
 {
-    "nid": "22468",
-    "uuid": "f94dd6f0-5399-451c-8da4-d1983bd889ba",
-    "vid": "22468",
+    "nid": "25984",
+    "uuid": "5d6c97a0-7145-4f1b-b8ce-167ebc383082",
+    "vid": "25984",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE334020",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Grabels vers Lattes",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.88444 43.58921)",
-    "radarInstallDate": "2011-07-06T16:28:10",
-    "radarPlace": "MONTPELLIER",
+    "radarInstallDate": "2011-07-06T16:13:25",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

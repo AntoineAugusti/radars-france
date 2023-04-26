@@ -1,14 +1,14 @@
 {
-    "nid": "21433",
-    "uuid": "66d95309-0c37-4691-a259-46895b712407",
-    "vid": "21433",
+    "nid": "23107",
+    "uuid": "e27a2a4d-35a4-4a71-80b5-7b31b8ae146c",
+    "vid": "23107",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12001",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST FERREOL D AUROURE vers ST ETIENNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.2526 45.361)",
-    "radarInstallDate": "2011-10-31T16:23:57",
-    "radarPlace": "ST FERREOL D AUROURE",
+    "radarInstallDate": "2011-10-31T16:05:27",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

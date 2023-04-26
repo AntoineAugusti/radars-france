@@ -1,14 +1,14 @@
 {
-    "nid": "22407",
-    "uuid": "f893a8ab-3e13-49da-8d02-8359a6747716",
-    "vid": "22407",
+    "nid": "25928",
+    "uuid": "2a5da26c-f8df-446d-a70a-9430f315cfa5",
+    "vid": "25928",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE324011",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Limoges vers P\u00e9rigueux",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.97677 45.54226)",
-    "radarInstallDate": "2010-06-02T16:27:54",
-    "radarPlace": "LA COQUILLE",
+    "radarInstallDate": "2010-06-02T16:13:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

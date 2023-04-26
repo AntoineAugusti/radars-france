@@ -1,14 +1,14 @@
 {
-    "nid": "21230",
-    "uuid": "c63ef678-6562-47cc-ac69-3888dd5bbe23",
-    "vid": "21230",
+    "nid": "25241",
+    "uuid": "80ba0204-53f3-4ee7-86ae-7c82665bce72",
+    "vid": "25241",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55194",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NICE vers MENTON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.44895 43.75767)",
-    "radarInstallDate": "2021-05-05T16:23:19",
-    "radarPlace": "ROQUEBRUNE CAP MARTIN",
+    "radarInstallDate": "2021-05-05T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RD6007",
     "radarTronconKm": [],
     "radarType": [

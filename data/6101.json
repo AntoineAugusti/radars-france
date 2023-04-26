@@ -1,14 +1,14 @@
 {
-    "nid": "20133",
-    "uuid": "2fb0ec4d-0d83-4f9a-946b-5a2b04245aa8",
-    "vid": "20133",
+    "nid": "24014",
+    "uuid": "3d47321b-0ac6-48db-b155-3275daf246ba",
+    "vid": "24014",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6101",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TROYES VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.4947 48.4827)",
-    "radarInstallDate": "2006-07-10T16:20:29",
-    "radarPlace": "NOGENT SUR SEINE",
+    "radarInstallDate": "2006-07-10T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RD619",
     "radarTronconKm": [],
     "radarType": [

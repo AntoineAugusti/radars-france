@@ -1,14 +1,14 @@
 {
-    "nid": "21780",
-    "uuid": "6e9040d7-cda2-4ebb-b595-92adee7fc351",
-    "vid": "21780",
+    "nid": "23449",
+    "uuid": "8c68503f-bf40-4284-93da-baa371b71a25",
+    "vid": "23449",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12519",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORLEANS vers ETAMPES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.140934 48.423793)",
-    "radarInstallDate": "2016-10-17T16:25:17",
-    "radarPlace": "ETAMPES",
+    "radarInstallDate": "2016-10-17T16:05:52",
+    "radarPlace": [],
     "radarRoad": "RN20",
     "radarTronconKm": [],
     "radarType": [

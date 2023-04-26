@@ -1,14 +1,14 @@
 {
-    "nid": "20787",
-    "uuid": "fc7c01a3-ee2d-456b-815a-bda6cc60ccc2",
-    "vid": "20787",
+    "nid": "24711",
+    "uuid": "4d4a725f-24d8-4615-9eff-48c4db8ccaf7",
+    "vid": "24711",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51139",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SEIGNELAY vers MONETEAU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.593981 47.877848)",
-    "radarInstallDate": "2019-11-19T16:21:58",
-    "radarPlace": "SEIGNELAY",
+    "radarInstallDate": "2019-11-19T16:08:31",
+    "radarPlace": [],
     "radarRoad": "RD84",
     "radarTronconKm": [],
     "radarType": [

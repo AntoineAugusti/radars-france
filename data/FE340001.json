@@ -1,14 +1,14 @@
 {
-    "nid": "22487",
-    "uuid": "cffaad63-01bd-44e8-addc-0bce3c95f35e",
-    "vid": "22487",
+    "nid": "25991",
+    "uuid": "e6df443c-d52f-4990-b99d-17be8730f2f8",
+    "vid": "25991",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE340001",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Route de Bayonne vers la route de Sabres",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.51332 43.8946)",
-    "radarInstallDate": "2010-01-18T16:28:11",
-    "radarPlace": "MONT DE MARSAN",
+    "radarInstallDate": "2010-01-18T16:13:33",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

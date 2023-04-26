@@ -1,14 +1,14 @@
 {
-    "nid": "22058",
-    "uuid": "21917dd1-d103-457a-973c-6733f80f49da",
-    "vid": "22058",
+    "nid": "25675",
+    "uuid": "84383ec7-c2a5-43c4-9906-d2ee759f0021",
+    "vid": "25675",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168003",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue Leon Jouhaux vers l'Avenue DMC",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.30572 47.75009)",
-    "radarInstallDate": "2010-10-11T16:26:22",
-    "radarPlace": "MULHOUSE",
+    "radarInstallDate": "2010-10-11T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

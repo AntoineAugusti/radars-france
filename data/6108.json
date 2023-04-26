@@ -1,14 +1,14 @@
 {
-    "nid": "20136",
-    "uuid": "87d2cd9f-1392-4b07-81bb-a044c1a01887",
-    "vid": "20136",
+    "nid": "24017",
+    "uuid": "cd0db29f-fbca-45a6-95a8-2b0cb7bfe37f",
+    "vid": "24017",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6108",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COUTANCES VERS GRANVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.50702 48.89355)",
-    "radarInstallDate": "2006-08-11T16:20:29",
-    "radarPlace": "BREHAL",
+    "radarInstallDate": "2006-08-11T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RD971",
     "radarTronconKm": [],
     "radarType": [

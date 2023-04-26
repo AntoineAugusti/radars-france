@@ -1,14 +1,14 @@
 {
-    "nid": "22646",
-    "uuid": "52cadce1-8a84-4811-97e4-5693be7fb6f8",
-    "vid": "22646",
+    "nid": "26165",
+    "uuid": "f47de422-f6a1-4dc9-a774-4433b2afce9e",
+    "vid": "26165",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20105",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "RUOMS vers ALES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.29786 44.41055)",
-    "radarInstallDate": "2014-02-28T10:53:36",
+    "radarInstallDate": "2014-02-28T16:17:08",
     "radarPlace": "GROSPIERRES",
     "radarRoad": "RD111",
     "radarTronconKm": "1,9",

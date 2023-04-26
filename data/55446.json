@@ -1,14 +1,14 @@
 {
-    "nid": "21430",
-    "uuid": "05790a56-d083-464d-a1c6-a5457e265669",
-    "vid": "21430",
+    "nid": "25474",
+    "uuid": "941ea9e9-362d-4170-aeb7-759e7089b0ea",
+    "vid": "25474",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740665",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55446",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740665",
+    "changed": "1681740665",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SALLANCHES vers VOUGY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.63149 45.98988)",
-    "radarInstallDate": "2021-08-18T16:23:57",
-    "radarPlace": "MAGLAND",
+    "radarInstallDate": "2021-08-18T16:11:11",
+    "radarPlace": [],
     "radarRoad": "RD1205",
     "radarTronconKm": [],
     "radarType": [

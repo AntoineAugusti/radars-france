@@ -1,14 +1,14 @@
 {
-    "nid": "21764",
-    "uuid": "589741ac-30cb-4ae4-8d4f-de98e3f7e14d",
-    "vid": "21764",
+    "nid": "23433",
+    "uuid": "1be3eafe-82b3-45c0-a7ff-e5a84829a258",
+    "vid": "23433",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12502",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "35-ILLE-ET-VILAINE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "RENNES vers BAIN DE BRETAGNE",
+    "radarDirection": "RENNES vers NANTES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.6849 47.905)",
-    "radarInstallDate": "2017-12-04T16:25:11",
-    "radarPlace": "POLIGNE",
+    "radarInstallDate": "2017-12-04T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RN137",
     "radarTronconKm": [],
     "radarType": [

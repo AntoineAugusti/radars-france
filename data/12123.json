@@ -1,14 +1,14 @@
 {
-    "nid": "21503",
-    "uuid": "0ead4a1c-2030-4a66-9dca-70af7277c65f",
-    "vid": "21503",
+    "nid": "23176",
+    "uuid": "6e5e3b7b-6cae-490d-b479-f4a7617540e2",
+    "vid": "23176",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12123",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAMBRAI vers PERONNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.0073 49.99)",
-    "radarInstallDate": "2012-06-19T16:24:16",
-    "radarPlace": "NURLU",
+    "radarInstallDate": "2012-06-19T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RD917",
     "radarTronconKm": [],
     "radarType": [

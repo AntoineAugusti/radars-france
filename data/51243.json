@@ -1,14 +1,14 @@
 {
-    "nid": "20885",
-    "uuid": "e0c40377-a2f2-428a-8807-d9a3914496c4",
-    "vid": "20885",
+    "nid": "24812",
+    "uuid": "938ea6b0-332b-4dba-97a7-977bb30b5439",
+    "vid": "24812",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51243",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTES vers ANGERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.901965 47.070678)",
-    "radarInstallDate": "2020-07-17T16:22:13",
-    "radarPlace": "CHOLET",
+    "radarInstallDate": "2020-07-17T16:08:52",
+    "radarPlace": [],
     "radarRoad": "Rd13",
     "radarTronconKm": [],
     "radarType": [

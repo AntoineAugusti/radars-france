@@ -1,14 +1,14 @@
 {
-    "nid": "20500",
-    "uuid": "3d517662-cfaf-437b-a87a-5aa33509aef2",
-    "vid": "20500",
+    "nid": "24342",
+    "uuid": "7eff31bf-d9ba-4a4f-83d2-51c41a3d23f2",
+    "vid": "24342",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11031",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHEMILLE EN ANJOU vers LYS HAUT LAYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.65357 47.16631)",
-    "radarInstallDate": "2011-12-01T16:21:14",
-    "radarPlace": "CHEMILLE EN ANJOU",
+    "radarInstallDate": "2011-12-01T16:07:32",
+    "radarPlace": [],
     "radarRoad": "RD756",
     "radarTronconKm": [],
     "radarType": [

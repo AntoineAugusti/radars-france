@@ -1,14 +1,14 @@
 {
-    "nid": "19874",
-    "uuid": "488b7714-f9cf-4af1-9cf8-dd989de95317",
-    "vid": "19874",
+    "nid": "23776",
+    "uuid": "74096601-4214-4fdf-b85f-ef30232aea85",
+    "vid": "23776",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "932",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINTES vers BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.55508 45.55669)",
-    "radarInstallDate": "2006-02-21T16:20:02",
-    "radarPlace": "PONS",
+    "radarInstallDate": "2006-02-21T16:06:23",
+    "radarPlace": [],
     "radarRoad": "RD137",
     "radarTronconKm": [],
     "radarType": [

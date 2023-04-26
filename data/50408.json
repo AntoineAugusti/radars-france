@@ -1,14 +1,14 @@
 {
-    "nid": "20644",
-    "uuid": "70f3f68b-2d53-4b9f-b929-bf3f2b70e0b7",
-    "vid": "20644",
+    "nid": "24562",
+    "uuid": "04f1b7af-865a-470b-972b-ce3cceabd43d",
+    "vid": "24562",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50408",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT PAUL vers ETANG SALE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (55.30029 -21.23431)",
-    "radarInstallDate": "2020-12-16T16:21:34",
-    "radarPlace": "SAINT LEU",
+    "radarInstallDate": "2020-12-16T16:08:05",
+    "radarPlace": [],
     "radarRoad": "RN1A",
     "radarTronconKm": [],
     "radarType": [

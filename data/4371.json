@@ -1,14 +1,14 @@
 {
-    "nid": "19991",
-    "uuid": "0c35a86e-88c2-41f3-881d-6d10183d66f9",
-    "vid": "19991",
+    "nid": "23879",
+    "uuid": "ae6d3056-620c-4576-9fa3-3e917266a1f1",
+    "vid": "23879",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4371",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FREVENT VERS ST POL SUR TERNOISE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.29008 50.29689)",
-    "radarInstallDate": "2009-01-05T16:20:14",
-    "radarPlace": "NUNCQ HAUTECOTE",
+    "radarInstallDate": "2009-01-05T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD916",
     "radarTronconKm": [],
     "radarType": [

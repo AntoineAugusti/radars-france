@@ -1,14 +1,14 @@
 {
-    "nid": "22372",
-    "uuid": "37819ae5-a305-46c4-96c0-6106f6dd9993",
-    "vid": "22372",
+    "nid": "25897",
+    "uuid": "9d5ab6b5-c8a4-4a7c-af55-6bdd111d5c7a",
+    "vid": "25897",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316007",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue de Montmoreau vers Rue de Bordeaux",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.15273 45.64568)",
-    "radarInstallDate": "2011-03-28T16:27:46",
-    "radarPlace": "ANGOULEME",
+    "radarInstallDate": "2011-03-28T16:13:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

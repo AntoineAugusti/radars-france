@@ -1,14 +1,14 @@
 {
-    "nid": "22230",
-    "uuid": "10a6cd45-4d83-4dfd-a849-6eae610a7516",
-    "vid": "22230",
+    "nid": "25830",
+    "uuid": "8eebce64-b3b4-417b-b107-294a99269595",
+    "vid": "25830",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229188",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE213026",
-    "created": "1637229188",
-    "changed": "1675870018",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.63182 43.67508)",
-    "radarInstallDate": "2010-11-15T16:27:05",
-    "radarPlace": "ARLES",
+    "radarInstallDate": "2010-11-15T16:12:40",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

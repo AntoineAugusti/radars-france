@@ -1,14 +1,14 @@
 {
-    "nid": "20793",
-    "uuid": "b9f9e283-80df-4c1a-ba9c-418fd55fdad8",
-    "vid": "20793",
+    "nid": "24717",
+    "uuid": "bdb12b09-0877-4827-ac21-4e677d152738",
+    "vid": "24717",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51145",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUDUN vers COMMUNE NOUVELLE D ARROU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.236447 48.068564)",
-    "radarInstallDate": "2020-02-19T16:21:58",
-    "radarPlace": "LANNERAY",
+    "radarInstallDate": "2020-02-19T16:08:31",
+    "radarPlace": [],
     "radarRoad": "RD927",
     "radarTronconKm": [],
     "radarType": [

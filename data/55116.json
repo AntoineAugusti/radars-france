@@ -1,14 +1,14 @@
 {
-    "nid": "21152",
-    "uuid": "30e8ec83-beaf-47eb-b57d-0d201db12ada",
-    "vid": "21152",
+    "nid": "25163",
+    "uuid": "bb0bc614-b925-4181-b2a6-39364a96d490",
+    "vid": "25163",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55116",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BERGERAC vers MARMANDE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.3585 44.621)",
-    "radarInstallDate": "2020-02-28T16:23:02",
-    "radarPlace": "ROUMAGNE",
+    "radarInstallDate": "2020-02-28T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD933",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21939",
-    "uuid": "7bc89b67-7da4-463a-b87a-e488106d99d8",
-    "vid": "21939",
+    "nid": "25578",
+    "uuid": "150df887-80fc-4a55-a1e2-4cbc218b45ee",
+    "vid": "25578",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE149001",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHOLET vers NANTES",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-0.86765 47.07346)",
-    "radarInstallDate": "2010-03-05T16:25:53",
-    "radarPlace": "CHOLET",
+    "radarInstallDate": "2010-03-05T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

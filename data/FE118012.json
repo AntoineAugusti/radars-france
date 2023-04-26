@@ -1,14 +1,14 @@
 {
-    "nid": "21892",
-    "uuid": "91b4abe2-d75b-4bce-a836-ebe9a6caeeb9",
-    "vid": "21892",
+    "nid": "25531",
+    "uuid": "68ef96b7-8884-4198-a79d-c1968f4b73d9",
+    "vid": "25531",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE118012",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bourges vers Fussy",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.40934 47.10315)",
-    "radarInstallDate": "2010-09-17T16:25:46",
-    "radarPlace": "BOURGES",
+    "radarInstallDate": "2010-09-17T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

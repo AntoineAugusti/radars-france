@@ -1,14 +1,14 @@
 {
-    "nid": "21217",
-    "uuid": "a7442974-6254-4de0-a959-6fdb0f57a4d5",
-    "vid": "21217",
+    "nid": "25228",
+    "uuid": "024d3b99-def8-4fa9-b327-74509255ca2a",
+    "vid": "25228",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55181",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAGNOLS SUR CEZE vers LES ANGLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.73763 44.00026)",
-    "radarInstallDate": "2019-12-19T16:23:14",
-    "radarPlace": "PUJAUT",
+    "radarInstallDate": "2019-12-19T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RD6580",
     "radarTronconKm": [],
     "radarType": [

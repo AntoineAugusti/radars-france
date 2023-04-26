@@ -1,14 +1,14 @@
 {
-    "nid": "21419",
-    "uuid": "e6f271be-3d8d-4e3c-ab2f-b170524d1083",
-    "vid": "21419",
+    "nid": "25448",
+    "uuid": "58861d43-bbc7-4408-afac-53e0656a710a",
+    "vid": "25448",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55417",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AJACCIO vers CORTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (8.809271 41.961823)",
-    "radarInstallDate": "2021-07-02T16:23:56",
-    "radarPlace": "SARROLA CARCOPINO",
+    "radarInstallDate": "2021-07-02T16:11:03",
+    "radarPlace": [],
     "radarRoad": "RT22",
     "radarTronconKm": [],
     "radarType": [

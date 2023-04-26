@@ -1,14 +1,14 @@
 {
-    "nid": "22063",
-    "uuid": "143058ae-cb1f-40d6-bcb0-86fd4aa34350",
-    "vid": "22063",
+    "nid": "25680",
+    "uuid": "0f7ccdaf-9907-49dc-93c7-f5c2776d4166",
+    "vid": "25680",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168010",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avenue Georges Cl\u00e9menceau vers gare de COLMAR (Est vers Ouest)",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.353967 48.070098)",
-    "radarInstallDate": "2011-04-04T16:26:22",
-    "radarPlace": "COLMAR",
+    "radarInstallDate": "2011-04-04T16:12:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

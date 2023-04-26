@@ -1,14 +1,14 @@
 {
-    "nid": "21212",
-    "uuid": "eed795ab-ed89-400d-a4ad-1c12fbd4706d",
-    "vid": "21212",
+    "nid": "25223",
+    "uuid": "0668d52f-a4f2-4b72-aae6-18963964c3b8",
+    "vid": "25223",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55176",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GAILLAC vers MONTAUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.60429 43.9196)",
-    "radarInstallDate": "2020-02-27T16:23:13",
-    "radarPlace": "MONTGAILLARD",
+    "radarInstallDate": "2020-02-27T16:10:12",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

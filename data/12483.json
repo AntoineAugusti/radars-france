@@ -1,14 +1,14 @@
 {
-    "nid": "21748",
-    "uuid": "e3fc1bf6-bf27-427e-aad8-c180f8d379ae",
-    "vid": "21748",
+    "nid": "23416",
+    "uuid": "5750c48f-70d9-4dfd-ade2-c3bb9bb9062f",
+    "vid": "23416",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12483",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DAX vers BAYONNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.12237 43.721155)",
-    "radarInstallDate": "2017-05-15T16:25:11",
-    "radarPlace": "MEES",
+    "radarInstallDate": "2017-05-15T16:05:48",
+    "radarPlace": [],
     "radarRoad": "RD824",
     "radarTronconKm": [],
     "radarType": [

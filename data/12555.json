@@ -1,14 +1,14 @@
 {
-    "nid": "21806",
-    "uuid": "fa0e8b00-24b0-4891-9b16-649432c471ed",
-    "vid": "21806",
+    "nid": "23476",
+    "uuid": "cdb68f88-4ecb-42fb-90e9-aa64894de3ee",
+    "vid": "23476",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12555",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NIMES vers MONTPELLIER",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.29921 43.7884)",
-    "radarInstallDate": "2019-12-05T16:25:24",
-    "radarPlace": "MILHAUD",
+    "radarInstallDate": "2019-12-05T16:05:53",
+    "radarPlace": [],
     "radarRoad": "A9",
     "radarTronconKm": [],
     "radarType": [

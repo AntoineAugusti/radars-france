@@ -1,14 +1,14 @@
 {
-    "nid": "22574",
-    "uuid": "768b35f9-acbf-403a-b78a-1120f49ddd8b",
-    "vid": "22574",
+    "nid": "26038",
+    "uuid": "b55bce77-0a92-4fc2-ab54-375b83e764fc",
+    "vid": "26038",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE379010",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Poitiers vers Niort",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.20987 46.41212)",
-    "radarInstallDate": "2010-12-28T16:28:37",
-    "radarPlace": "ST MAIXENT L ECOLE",
+    "radarInstallDate": "2010-12-28T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21711",
-    "uuid": "d2e095c9-4ec3-4957-b080-d38057a30a35",
-    "vid": "21711",
+    "nid": "23379",
+    "uuid": "68b7376c-df4a-4b43-ac5e-9f9376afe349",
+    "vid": "23379",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12437",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOULOGNE SUR MER vers CALAIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.7402 50.86398)",
-    "radarInstallDate": "2016-11-07T16:25:03",
-    "radarPlace": "ST INGLEVERT",
+    "radarInstallDate": "2016-11-07T16:05:46",
+    "radarPlace": [],
     "radarRoad": "A16",
     "radarTronconKm": [],
     "radarType": [

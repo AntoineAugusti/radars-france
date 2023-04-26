@@ -1,14 +1,14 @@
 {
-    "nid": "21744",
-    "uuid": "3d537481-c1c0-432b-a8a8-54835c9bc3a6",
-    "vid": "21744",
+    "nid": "23412",
+    "uuid": "6d4d0449-acfe-4b97-841c-97e5c9658b5e",
+    "vid": "23412",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12479",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST BRIEUC vers LOUDEAC",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-2.817417 48.434486)",
-    "radarInstallDate": "2017-05-24T16:25:10",
-    "radarPlace": "PLAINTEL",
+    "radarInstallDate": "2017-05-24T16:05:48",
+    "radarPlace": [],
     "radarRoad": "RD700",
     "radarTronconKm": [],
     "radarType": [

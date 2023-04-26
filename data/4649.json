@@ -1,14 +1,14 @@
 {
-    "nid": "20056",
-    "uuid": "42b36e23-a1cd-44da-af92-878d3ae714bd",
-    "vid": "20056",
+    "nid": "23941",
+    "uuid": "fce0b501-c3dc-4015-a03d-96aa64c054c5",
+    "vid": "23941",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4649",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BERGERAC vers BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.12568 44.84815)",
-    "radarInstallDate": "2009-07-21T16:20:20",
-    "radarPlace": "VELINES",
+    "radarInstallDate": "2009-07-21T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD936",
     "radarTronconKm": [],
     "radarType": [

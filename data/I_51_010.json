@@ -1,14 +1,14 @@
 {
-    "nid": "22806",
-    "uuid": "ed78478e-00f6-4343-81c7-41f01038d28f",
-    "vid": "22806",
+    "nid": "26349",
+    "uuid": "77db2954-766d-4fcc-aa09-4c8ca751378d",
+    "vid": "26349",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229222",
+    "revisionTimestamp": "1681741056",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_51_010",
-    "created": "1637229222",
-    "changed": "1637229222",
+    "created": "1681741056",
+    "changed": "1681741056",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "51 - Marne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (49.262549 3.941877)",
-    "radarInstallDate": "2017-10-06T10:53:42",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (1.04262 43.602769)",
+    "radarInstallDate": "2018-10-04T16:17:37",
     "radarPlace": "-",
     "radarRoad": "D967, D26, D229, D230, D328, D30E1, D28E3, D28, N31, , D575, D30",
-    "radarTronconKm": "22.98",
+    "radarTronconKm": "23",
     "radarType": [
         {
             "tid": "19",

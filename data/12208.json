@@ -1,14 +1,14 @@
 {
-    "nid": "21552",
-    "uuid": "84d023f2-4cee-4c6d-ae68-82f71dfe1e8d",
-    "vid": "21552",
+    "nid": "23223",
+    "uuid": "e619bd55-f51d-4c88-aa04-928570e7d1ea",
+    "vid": "23223",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12208",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHALON SUR SAONE vers DEMIGNY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.8527 46.894)",
-    "radarInstallDate": "2013-02-18T16:24:22",
-    "radarPlace": "DEMIGNY",
+    "radarInstallDate": "2013-02-18T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RD19",
     "radarTronconKm": [],
     "radarType": [

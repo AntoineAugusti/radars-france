@@ -1,14 +1,14 @@
 {
-    "nid": "21476",
-    "uuid": "849cef52-d069-4128-b214-4876aeb3b96b",
-    "vid": "21476",
+    "nid": "23149",
+    "uuid": "b6993e38-5683-4452-8797-713344a8a57d",
+    "vid": "23149",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12076",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DREUX vers CRETEIL",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.772916 48.798458)",
-    "radarInstallDate": "2012-10-09T16:24:09",
-    "radarPlace": "LA QUEUE LES YVELINES",
+    "radarInstallDate": "2012-10-09T16:05:30",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

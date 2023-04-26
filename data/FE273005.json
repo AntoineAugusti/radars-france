@@ -1,14 +1,14 @@
 {
-    "nid": "22304",
-    "uuid": "40e6a703-096f-4ec6-8c71-7aaa31b98c8a",
-    "vid": "22304",
+    "nid": "25863",
+    "uuid": "d9acdef1-685f-4075-918c-d8f45b0bf44d",
+    "vid": "25863",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE273005",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.90712 45.57623)",
-    "radarInstallDate": "2010-01-22T16:27:20",
-    "radarPlace": "CHAMBERY",
+    "radarInstallDate": "2010-01-22T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

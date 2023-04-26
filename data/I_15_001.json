@@ -1,14 +1,14 @@
 {
-    "nid": "22722",
-    "uuid": "d6c8d566-adaf-41f7-8eeb-bc48b760a06b",
-    "vid": "22722",
+    "nid": "26240",
+    "uuid": "5b2db041-c2f2-421f-a255-2404bcf80f3a",
+    "vid": "26240",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741037",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_15_001",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741037",
+    "changed": "1681741037",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "15 - Cantal",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (45.277316 2.668008)",
-    "radarInstallDate": "2017-10-05T10:53:39",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.387976 44.400228)",
+    "radarInstallDate": "2017-10-05T16:17:17",
     "radarPlace": "-",
     "radarRoad": "D436, D3, D16, D139, D49, D680, D62, D336, D23, D21",
-    "radarTronconKm": "32.43",
+    "radarTronconKm": "32,4",
     "radarType": [
         {
             "tid": "19",

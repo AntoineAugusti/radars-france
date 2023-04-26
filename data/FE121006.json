@@ -1,14 +1,14 @@
 {
-    "nid": "21895",
-    "uuid": "e9a3096b-b9c0-4157-ae74-3e57bf17404a",
-    "vid": "21895",
+    "nid": "25534",
+    "uuid": "5760caf9-8d96-4b5d-a940-869ff7750fb4",
+    "vid": "25534",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE121006",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue de Longvic vers Dijon",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (5.04973 47.30522)",
-    "radarInstallDate": "2011-08-08T16:25:46",
-    "radarPlace": "DIJON",
+    "radarInstallDate": "2011-08-08T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

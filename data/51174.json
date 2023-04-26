@@ -1,14 +1,14 @@
 {
-    "nid": "20822",
-    "uuid": "bb968394-b91b-42c7-a800-816ab113c482",
-    "vid": "20822",
+    "nid": "24746",
+    "uuid": "60c82efc-ff04-4104-88ae-05901954d343",
+    "vid": "24746",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51174",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FOUGERES vers DOL DE BRETAGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.450238 48.424428)",
-    "radarInstallDate": "2020-01-23T16:22:02",
-    "radarPlace": "VAL COUESNON",
+    "radarInstallDate": "2020-01-23T16:08:37",
+    "radarPlace": [],
     "radarRoad": "RD155",
     "radarTronconKm": [],
     "radarType": [

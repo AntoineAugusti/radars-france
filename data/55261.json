@@ -1,14 +1,14 @@
 {
-    "nid": "21293",
-    "uuid": "963ea16b-0116-4737-adc5-842bb9f119d7",
-    "vid": "21293",
+    "nid": "25305",
+    "uuid": "4ec36c5f-974d-47d5-b751-5ca789f97b1a",
+    "vid": "25305",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55261",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT MICHEL vers PUYMOYEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.134056 45.630484)",
-    "radarInstallDate": "2021-04-29T16:23:31",
-    "radarPlace": "ANGOULEME",
+    "radarInstallDate": "2021-04-29T16:10:28",
+    "radarPlace": [],
     "radarRoad": "RD1000",
     "radarTronconKm": [],
     "radarType": [

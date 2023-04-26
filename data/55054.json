@@ -1,14 +1,14 @@
 {
-    "nid": "21091",
-    "uuid": "e23853fc-fc32-4681-893c-171e0f36564b",
-    "vid": "21091",
+    "nid": "25104",
+    "uuid": "41c45c24-515e-42a2-8a3a-6e669d276d2c",
+    "vid": "25104",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55054",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEZIERS vers CAPESTANG",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.088369 43.322637)",
-    "radarInstallDate": "2019-08-12T16:22:49",
-    "radarPlace": "MONTADY",
+    "radarInstallDate": "2019-08-12T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD11",
     "radarTronconKm": [],
     "radarType": [

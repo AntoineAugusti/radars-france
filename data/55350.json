@@ -1,14 +1,14 @@
 {
-    "nid": "21376",
-    "uuid": "ccae34a6-e9ef-42de-baff-94493d608247",
-    "vid": "21376",
+    "nid": "25390",
+    "uuid": "198f8336-b5bc-4efe-8ed7-b37a5cd61c65",
+    "vid": "25390",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55350",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MACON vers BOURG EN BRESSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.016905 46.264194)",
-    "radarInstallDate": "2021-07-01T16:23:45",
-    "radarPlace": "SAINT GENIS SUR MENTHON",
+    "radarInstallDate": "2021-07-01T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD1079",
     "radarTronconKm": [],
     "radarType": [

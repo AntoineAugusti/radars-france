@@ -1,14 +1,14 @@
 {
-    "nid": "20255",
-    "uuid": "f781323c-d713-4afa-bcf9-fe6bf2dae3b8",
-    "vid": "20255",
+    "nid": "24123",
+    "uuid": "165a5ed6-a358-4977-ac22-ab9378485921",
+    "vid": "24123",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7159",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PACY SUR EURE VERS EVREUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.3162 49.01197)",
-    "radarInstallDate": "2008-06-04T16:20:41",
-    "radarPlace": "CAILLOUET ORGEVILLE",
+    "radarInstallDate": "2008-06-04T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RN13",
     "radarTronconKm": [],
     "radarType": [

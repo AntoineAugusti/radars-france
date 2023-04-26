@@ -1,14 +1,14 @@
 {
-    "nid": "22462",
-    "uuid": "0644013a-8227-4ed0-8fe1-ff5e2d476429",
-    "vid": "22462",
+    "nid": "25978",
+    "uuid": "c07f9e13-f170-4520-a598-abfe770136e6",
+    "vid": "25978",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE334010",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAUVIAN vers LIGNAN SUR ORB",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.21874 43.34702)",
-    "radarInstallDate": "2010-06-02T16:28:10",
-    "radarPlace": "BEZIERS",
+    "radarInstallDate": "2010-06-02T16:13:25",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

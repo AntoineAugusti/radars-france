@@ -1,14 +1,14 @@
 {
-    "nid": "20621",
-    "uuid": "184cf967-4448-4c56-bb4c-df58eccf67df",
-    "vid": "20621",
+    "nid": "24539",
+    "uuid": "41c69ffb-2b4b-467c-a941-d71f6bdd7f1c",
+    "vid": "24539",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50242",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CASE PILOTE vers BELLEFONTAINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.1503 14.65762)",
-    "radarInstallDate": "2020-12-15T16:21:31",
-    "radarPlace": "BELLEFONTAINE",
+    "radarInstallDate": "2020-12-15T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

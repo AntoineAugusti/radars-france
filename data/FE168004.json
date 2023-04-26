@@ -1,14 +1,14 @@
 {
-    "nid": "22059",
-    "uuid": "3226fcee-f8e6-418b-8661-f0a4b42cf163",
-    "vid": "22059",
+    "nid": "25676",
+    "uuid": "3506c01b-fd89-4b82-b090-8e5509833cc1",
+    "vid": "25676",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168004",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Du Sud vers le Nord",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.35078 48.07497)",
-    "radarInstallDate": "2010-06-25T16:26:22",
-    "radarPlace": "COLMAR",
+    "radarInstallDate": "2010-06-25T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

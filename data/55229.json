@@ -1,14 +1,14 @@
 {
-    "nid": "21264",
-    "uuid": "ea8e8afb-71e2-4c3b-baed-30e45b452059",
-    "vid": "21264",
+    "nid": "25275",
+    "uuid": "784e6c68-4ece-419e-aeb8-47a24a0dfed9",
+    "vid": "25275",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55229",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VALENCE D AGEN vers MOISSAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.0115 44.092)",
-    "radarInstallDate": "2020-02-03T16:23:25",
-    "radarPlace": "BOUDOU",
+    "radarInstallDate": "2020-02-03T16:10:20",
+    "radarPlace": [],
     "radarRoad": "RD813",
     "radarTronconKm": [],
     "radarType": [

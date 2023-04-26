@@ -1,14 +1,14 @@
 {
-    "nid": "22886",
-    "uuid": "d5e12142-27f7-4d8b-b7df-c5e1433c79f0",
-    "vid": "22886",
+    "nid": "26444",
+    "uuid": "967176db-7bbf-4e62-ba06-1e72690cf42e",
+    "vid": "26444",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741079",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_82_002",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741079",
+    "changed": "1681741079",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "82 - Tarn-et-Garonne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (44.002368 1.340617)",
-    "radarInstallDate": "2017-10-06T10:53:49",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (-1.405076 48.715916)",
+    "radarInstallDate": "2017-10-06T16:18:00",
     "radarPlace": "-",
     "radarRoad": "A62, D25E, D44, D55, D53, D25, D813, D3, D42, D50, D26, D18, D928E, D14, D928, D201, D39, D200",
-    "radarTronconKm": "40.53",
+    "radarTronconKm": "40,5",
     "radarType": [
         {
             "tid": "19",

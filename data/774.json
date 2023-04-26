@@ -1,14 +1,14 @@
 {
-    "nid": "19848",
-    "uuid": "50060229-8f98-4f74-b7b8-ab65d07f30b9",
-    "vid": "19848",
+    "nid": "23759",
+    "uuid": "1bbe47af-994b-4ebc-bab9-e3c0b9525eaf",
+    "vid": "23759",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "774",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST CANNAT vers AIX EN PROVENCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.4222 43.55367)",
-    "radarInstallDate": "2006-04-11T16:19:59",
-    "radarPlace": "AIX EN PROVENCE",
+    "radarInstallDate": "2006-04-11T16:06:22",
+    "radarPlace": [],
     "radarRoad": "RD7N",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21494",
-    "uuid": "79ccd9e6-5d95-4302-8763-20af9cf229bf",
-    "vid": "21494",
+    "nid": "23167",
+    "uuid": "a1012480-1815-4dbc-b5aa-60d0356e0894",
+    "vid": "23167",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12104",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "BLOIS vers ORLEANS",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (1.569 47.767)",
-    "radarInstallDate": "2014-01-31T16:24:10",
-    "radarPlace": "TAVERS",
+    "radarGeolocalisation": "POINT (1.568362 47.767595)",
+    "radarInstallDate": "2014-01-31T16:05:31",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

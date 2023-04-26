@@ -1,14 +1,14 @@
 {
-    "nid": "21013",
-    "uuid": "1e337a81-bc88-406d-91b3-3e45653e9b6b",
-    "vid": "21013",
+    "nid": "24958",
+    "uuid": "a6f4a46d-b2b5-4658-971e-e3d16b389e3c",
+    "vid": "24958",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51398",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PONTARLIER vers BESANCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.173395 47.196946)",
-    "radarInstallDate": "2021-06-21T16:22:33",
-    "radarPlace": "MAMIROLLE",
+    "radarInstallDate": "2021-06-21T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RN57",
     "radarTronconKm": [],
     "radarType": [

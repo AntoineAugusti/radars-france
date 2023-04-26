@@ -1,14 +1,14 @@
 {
-    "nid": "21379",
-    "uuid": "dee8b015-a7f3-40a3-9ffc-50ca1de0f57b",
-    "vid": "21379",
+    "nid": "25393",
+    "uuid": "0c4d09b1-6968-43b0-8a64-2108c74119ec",
+    "vid": "25393",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55353",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LESPARRE MEDOC vers BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.709216 44.958902)",
-    "radarInstallDate": "2020-12-18T16:23:50",
-    "radarPlace": "PIAN MEDOC(LE)",
+    "radarInstallDate": "2020-12-18T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD1",
     "radarTronconKm": [],
     "radarType": [

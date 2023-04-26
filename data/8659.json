@@ -1,14 +1,14 @@
 {
-    "nid": "20380",
-    "uuid": "95e50494-c27d-40db-98ff-2e2a9135050d",
-    "vid": "20380",
+    "nid": "24232",
+    "uuid": "a012f81c-316c-4eba-9ea3-15c1642be0d6",
+    "vid": "24232",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8659",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LAMBALLE vers PLANCOET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.4379 48.52)",
-    "radarInstallDate": "2011-11-03T16:20:58",
-    "radarPlace": "HENANSAL",
+    "radarInstallDate": "2011-11-03T16:07:18",
+    "radarPlace": [],
     "radarRoad": "RD768",
     "radarTronconKm": [],
     "radarType": [

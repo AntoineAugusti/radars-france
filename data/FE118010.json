@@ -1,14 +1,14 @@
 {
-    "nid": "21890",
-    "uuid": "dae14082-d978-4cb9-8c84-75a189645fc4",
-    "vid": "21890",
+    "nid": "25529",
+    "uuid": "90e160ca-e910-4ac6-86bb-19bfc5bb5f02",
+    "vid": "25529",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE118010",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bourges vers St Florent sur Cher",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.38926 47.08232)",
-    "radarInstallDate": "2010-09-29T16:25:46",
-    "radarPlace": "BOURGES",
+    "radarInstallDate": "2010-09-29T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

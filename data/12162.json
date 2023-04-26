@@ -1,14 +1,14 @@
 {
-    "nid": "21529",
-    "uuid": "d441e7e9-c0ed-4b02-bcb8-884a495cf49d",
-    "vid": "21529",
+    "nid": "23201",
+    "uuid": "c77c5d1f-fc15-43c9-96c3-f9f2b319ea6f",
+    "vid": "23201",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12162",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGOULEME vers BORDEAUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.43216 44.97754)",
-    "radarInstallDate": "2013-07-24T16:24:21",
-    "radarPlace": "CUBZAC LES PONTS",
+    "radarInstallDate": "2013-07-24T16:05:33",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

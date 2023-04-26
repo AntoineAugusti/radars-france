@@ -1,14 +1,14 @@
 {
-    "nid": "21021",
-    "uuid": "862c0941-e070-41ce-9e0a-5b742a6c5e53",
-    "vid": "21021",
+    "nid": "24967",
+    "uuid": "d65b0d3b-49b4-4c08-ae38-b4b647799248",
+    "vid": "24967",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51408",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers NANCY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.837921 48.725181)",
-    "radarInstallDate": "2021-05-19T16:22:37",
-    "radarPlace": "SAINT LOUP",
+    "radarInstallDate": "2021-05-19T16:09:22",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

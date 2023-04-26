@@ -1,14 +1,14 @@
 {
-    "nid": "21037",
-    "uuid": "ea232db9-4a7b-43f3-8c06-2d98885ace55",
-    "vid": "21037",
+    "nid": "24990",
+    "uuid": "4bdbc4f3-3d58-452a-a133-63b36a3fdc02",
+    "vid": "24990",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51431",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOULLENS vers ARRAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.559376 50.213211)",
-    "radarInstallDate": "2021-10-04T16:22:38",
-    "radarPlace": "BAVINCOURT",
+    "radarInstallDate": "2021-10-04T16:09:23",
+    "radarPlace": [],
     "radarRoad": "RN25",
     "radarTronconKm": [],
     "radarType": [

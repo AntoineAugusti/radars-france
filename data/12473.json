@@ -1,14 +1,14 @@
 {
-    "nid": "21739",
-    "uuid": "82dcf72f-bf41-44b8-a56d-fe3b4f2ec428",
-    "vid": "21739",
+    "nid": "23407",
+    "uuid": "81d60f68-ef4c-4531-b4f6-4d35d0f2c2b5",
+    "vid": "23407",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12473",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COMMUNAY vers VIENNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.81075 45.58921)",
-    "radarInstallDate": "2021-10-01T16:25:10",
-    "radarPlace": "CHASSE SUR RHONE",
+    "radarInstallDate": "2021-10-01T16:05:48",
+    "radarPlace": [],
     "radarRoad": "A46",
     "radarTronconKm": [],
     "radarType": [

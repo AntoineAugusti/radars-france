@@ -1,14 +1,14 @@
 {
-    "nid": "21402",
-    "uuid": "2bc0c750-1079-48e3-924c-2c6767285429",
-    "vid": "21402",
+    "nid": "25418",
+    "uuid": "22cba580-a2b5-4def-b156-ba47b8d1e1fe",
+    "vid": "25418",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55381",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAU vers ORTHEZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.703772 43.464485)",
-    "radarInstallDate": "2021-05-26T16:23:51",
-    "radarPlace": "CASTETIS",
+    "radarInstallDate": "2021-05-26T16:10:56",
+    "radarPlace": [],
     "radarRoad": "RD817",
     "radarTronconKm": [],
     "radarType": [

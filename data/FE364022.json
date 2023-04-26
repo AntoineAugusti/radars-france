@@ -1,14 +1,14 @@
 {
-    "nid": "22535",
-    "uuid": "a048a627-72b7-478d-b540-779376100f5d",
-    "vid": "22535",
+    "nid": "26015",
+    "uuid": "66672a3e-86ec-43cd-9516-4ec7c35d85ae",
+    "vid": "26015",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364022",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Tarbes vers Morlaas",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.32382 43.31104)",
-    "radarInstallDate": "2010-10-11T16:28:28",
-    "radarPlace": "PAU",
+    "radarInstallDate": "2010-10-11T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

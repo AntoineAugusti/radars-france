@@ -1,14 +1,14 @@
 {
-    "nid": "20637",
-    "uuid": "d4a39fba-8163-4a42-a085-1bbb60dcf527",
-    "vid": "20637",
+    "nid": "24555",
+    "uuid": "462d0dc2-7ed1-4c7d-bd08-9487155f955b",
+    "vid": "24555",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50311",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE ROBERT vers LE LAMENTIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-60.97747 14.63629)",
-    "radarInstallDate": "2021-03-11T16:21:34",
-    "radarPlace": "LE LAMENTIN",
+    "radarInstallDate": "2021-03-11T16:08:05",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20649",
-    "uuid": "fd9b08ea-e585-4d0a-96a3-1e9cd7db93d4",
-    "vid": "20649",
+    "nid": "24569",
+    "uuid": "b2e4c311-e95e-42b6-8c30-101743001692",
+    "vid": "24569",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50422",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT LOUIS vers SAINT JOSEPH",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (55.4401 -21.3148)",
-    "radarInstallDate": "2020-12-17T16:21:34",
-    "radarPlace": "SAINT PIERRE",
+    "radarInstallDate": "2020-12-17T16:08:09",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

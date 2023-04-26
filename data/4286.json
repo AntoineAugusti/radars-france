@@ -1,14 +1,14 @@
 {
-    "nid": "19978",
-    "uuid": "aaccbf28-25aa-4529-b93a-b58c2f77e79a",
-    "vid": "19978",
+    "nid": "23869",
+    "uuid": "8e6d4130-0b83-4a20-8916-abf25789a3c7",
+    "vid": "23869",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4286",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LES MONTS D AUNAY vers VILLERS BOCAGE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.64535 49.03569)",
-    "radarInstallDate": "2008-12-19T16:20:13",
-    "radarPlace": "LONGVILLERS",
+    "radarInstallDate": "2008-12-19T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD6",
     "radarTronconKm": [],
     "radarType": [

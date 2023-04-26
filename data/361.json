@@ -1,14 +1,14 @@
 {
-    "nid": "19735",
-    "uuid": "c732d239-658d-4d0e-a3b3-62021273c9e0",
-    "vid": "19735",
+    "nid": "23663",
+    "uuid": "cd76bcdf-eb66-4a9b-9d74-7014f3ba6104",
+    "vid": "23663",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "361",
-    "created": "1637229109",
-    "changed": "1675869590",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MUNSTER VERS COLMAR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.32789 48.06842)",
-    "radarInstallDate": "2005-02-09T16:19:50",
-    "radarPlace": "COLMAR",
+    "radarInstallDate": "2005-02-09T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RD417",
     "radarTronconKm": [],
     "radarType": [

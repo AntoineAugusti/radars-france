@@ -1,14 +1,14 @@
 {
-    "nid": "19927",
-    "uuid": "45f9c42e-029b-40e1-ba24-86c46d7397de",
-    "vid": "19927",
+    "nid": "23819",
+    "uuid": "a892ed0d-fb48-4e25-ae5c-c6266fc1efac",
+    "vid": "23819",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4039",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "La Gacilly vers Redon",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.08541 47.70159)",
-    "radarInstallDate": "2008-12-30T16:20:08",
-    "radarPlace": "BAINS SUR OUST",
+    "radarInstallDate": "2008-12-30T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RD873",
     "radarTronconKm": [],
     "radarType": [

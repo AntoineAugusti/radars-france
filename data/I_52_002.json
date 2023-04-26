@@ -1,14 +1,14 @@
 {
-    "nid": "22808",
-    "uuid": "362351d4-bd59-434a-8bf3-70377cf0bb48",
-    "vid": "22808",
+    "nid": "26352",
+    "uuid": "b2d2d549-b46a-4b04-93f1-1975b137e8f7",
+    "vid": "26352",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229222",
+    "revisionTimestamp": "1681741056",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_52_002",
-    "created": "1637229222",
-    "changed": "1637229222",
+    "created": "1681741056",
+    "changed": "1681741056",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "52 - Haute-Marne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.115622 5.16615)",
-    "radarInstallDate": "2017-10-06T10:53:42",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (-0.671097 44.918087)",
+    "radarInstallDate": "2017-10-09T16:17:37",
     "radarPlace": "-",
     "radarRoad": "D250, D417, D163, D146, D250A, D131, D132A, D1",
-    "radarTronconKm": "26.28",
+    "radarTronconKm": "26,3",
     "radarType": [
         {
             "tid": "19",

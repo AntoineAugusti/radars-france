@@ -1,14 +1,14 @@
 {
-    "nid": "21841",
-    "uuid": "bb7064ce-5928-44ac-8cea-e533e02bcb87",
-    "vid": "21841",
+    "nid": "23518",
+    "uuid": "3bd718ae-e0d9-48ea-b331-866f7c2a340b",
+    "vid": "23518",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12609",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BREST vers NANTES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-2.859226 47.660714)",
-    "radarInstallDate": "2020-12-04T16:25:32",
-    "radarPlace": "PLOEREN",
+    "radarInstallDate": "2020-12-04T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RN165",
     "radarTronconKm": [],
     "radarType": [

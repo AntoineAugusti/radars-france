@@ -1,14 +1,14 @@
 {
-    "nid": "21139",
-    "uuid": "785ab47b-b2b1-4a2c-9e05-b05c9342623d",
-    "vid": "21139",
+    "nid": "25150",
+    "uuid": "16cbff05-9aa2-4948-9d00-7afde69ad234",
+    "vid": "25150",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55102",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SALON DE PROVENCE vers MARSEILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.19178 43.53641)",
-    "radarInstallDate": "2020-07-29T16:23:01",
-    "radarPlace": "LA FARE LES OLIVIERS",
+    "radarInstallDate": "2020-07-29T16:09:55",
+    "radarPlace": [],
     "radarRoad": "RD113",
     "radarTronconKm": [],
     "radarType": [

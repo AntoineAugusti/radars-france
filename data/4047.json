@@ -1,14 +1,14 @@
 {
-    "nid": "19930",
-    "uuid": "72a6d612-ca16-4dca-88a2-fb5da4b8f9e9",
-    "vid": "19930",
+    "nid": "23822",
+    "uuid": "717e8917-3f15-44c3-b2d9-f3035da0a9b2",
+    "vid": "23822",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4047",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORBIER vers POLIGNY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.92218 46.74826)",
-    "radarInstallDate": "2008-09-26T16:20:08",
-    "radarPlace": "CHAMPAGNOLE",
+    "radarInstallDate": "2008-09-26T16:06:28",
+    "radarPlace": [],
     "radarRoad": "RN5",
     "radarTronconKm": [],
     "radarType": [

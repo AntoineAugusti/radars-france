@@ -1,14 +1,14 @@
 {
-    "nid": "20410",
-    "uuid": "1fc52101-d3d1-468f-a0d5-ffe1914126b0",
-    "vid": "20410",
+    "nid": "24259",
+    "uuid": "efb4f24d-5776-467b-805d-6d0f20d3d743",
+    "vid": "24259",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8751",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "IS SUR TILLE vers DIJON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.03448 47.38541)",
-    "radarInstallDate": "2011-03-23T16:21:02",
-    "radarPlace": "ASNIERES LES DIJON",
+    "radarInstallDate": "2011-03-23T16:07:22",
+    "radarPlace": [],
     "radarRoad": "RD903",
     "radarTronconKm": [],
     "radarType": [

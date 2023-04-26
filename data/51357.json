@@ -1,14 +1,14 @@
 {
-    "nid": "20983",
-    "uuid": "eb22c950-02a4-40c4-89ef-6b2335ab2536",
-    "vid": "20983",
+    "nid": "24920",
+    "uuid": "d30f0e7e-38ec-4a7d-a61d-cb8db72bbb37",
+    "vid": "24920",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51357",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUNE vers CHAGNY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.797964 46.998681)",
-    "radarInstallDate": "2020-12-14T16:22:28",
-    "radarPlace": "VOLNAY",
+    "radarInstallDate": "2020-12-14T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD974",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22752",
-    "uuid": "a513e0af-9a9f-4237-be4a-2d1b9961a9b3",
-    "vid": "22752",
+    "nid": "26280",
+    "uuid": "19cf5901-aa17-4642-b368-2a70f85a83cb",
+    "vid": "26280",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229219",
+    "revisionTimestamp": "1681741042",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_29_001",
-    "created": "1637229219",
-    "changed": "1637229219",
+    "created": "1681741042",
+    "changed": "1681741042",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "29 - Finist\u00e8re",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (47.966037 -4.060901)",
-    "radarInstallDate": "2017-10-09T10:53:40",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.036063 46.816319)",
+    "radarInstallDate": "2017-10-05T16:17:23",
     "radarPlace": "-",
     "radarRoad": "D22, D322, D783, , D44",
-    "radarTronconKm": "20.68",
+    "radarTronconKm": "20,7",
     "radarType": [
         {
             "tid": "19",

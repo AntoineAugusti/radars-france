@@ -1,14 +1,14 @@
 {
-    "nid": "22817",
-    "uuid": "1b0cbf12-a8c8-464f-86db-19ac1067fc72",
-    "vid": "22817",
+    "nid": "26361",
+    "uuid": "2756a93f-d441-466c-ad61-a4664c2cb826",
+    "vid": "26361",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229222",
+    "revisionTimestamp": "1681741058",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_57_002",
-    "created": "1637229222",
-    "changed": "1637229222",
+    "created": "1681741058",
+    "changed": "1681741058",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "57 - Moselle",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.969879 7.579143)",
-    "radarInstallDate": "2017-10-06T10:53:43",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.188233 43.322462)",
+    "radarInstallDate": "2017-10-05T16:17:39",
     "radarPlace": "-",
     "radarRoad": "D35, D87, D84, D162F, D662, D37, D110J, D82B, D34, D620, D962, , D110F, D110K, D36",
-    "radarTronconKm": "46.18",
+    "radarTronconKm": "46,2",
     "radarType": [
         {
             "tid": "19",

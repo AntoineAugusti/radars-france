@@ -1,14 +1,14 @@
 {
-    "nid": "21414",
-    "uuid": "86c0490d-979f-42db-9310-bd5d7136098f",
-    "vid": "21414",
+    "nid": "25440",
+    "uuid": "465642db-f4f5-4f84-ad70-36fc6c53f7b9",
+    "vid": "25440",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55409",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SEPTFONDS vers PARISOT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.731919 44.215541)",
-    "radarInstallDate": "2021-05-12T16:23:56",
-    "radarPlace": "CAYLUS",
+    "radarInstallDate": "2021-05-12T16:11:03",
+    "radarPlace": [],
     "radarRoad": "RD926",
     "radarTronconKm": [],
     "radarType": [

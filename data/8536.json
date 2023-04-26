@@ -1,14 +1,14 @@
 {
-    "nid": "20345",
-    "uuid": "3eb1c006-050f-44bd-9082-fc73f8378069",
-    "vid": "20345",
+    "nid": "24200",
+    "uuid": "f4d17354-4996-4652-9be0-23cd210038ef",
+    "vid": "24200",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8536",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA COURNEUVE vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.393 48.904)",
-    "radarInstallDate": "2012-09-03T16:20:53",
-    "radarPlace": "AUBERVILLIERS",
+    "radarInstallDate": "2012-09-03T16:07:14",
+    "radarPlace": [],
     "radarRoad": "exRN2",
     "radarTronconKm": [],
     "radarType": [

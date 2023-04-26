@@ -1,14 +1,14 @@
 {
-    "nid": "20454",
-    "uuid": "ced83e05-698f-486f-bc4d-998f4969f0aa",
-    "vid": "20454",
+    "nid": "24298",
+    "uuid": "fda3666f-2d47-4c50-97a2-8930f0490337",
+    "vid": "24298",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8905",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vic Fezensac vers Auch",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.356 43.739)",
-    "radarInstallDate": "2011-07-20T16:21:09",
-    "radarPlace": "VIC FEZENSAC",
+    "radarInstallDate": "2011-07-20T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RN124",
     "radarTronconKm": [],
     "radarType": [

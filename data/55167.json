@@ -1,14 +1,14 @@
 {
-    "nid": "21203",
-    "uuid": "025202dc-4c7b-4277-8850-c2d7baecd764",
-    "vid": "21203",
+    "nid": "25214",
+    "uuid": "c6ca0d8e-1987-452f-9b30-6e8f9dd311a5",
+    "vid": "25214",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55167",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VOUILLE vers POITIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.242608 46.631226)",
-    "radarInstallDate": "2020-01-23T16:23:13",
-    "radarPlace": "CISSE",
+    "radarInstallDate": "2020-01-23T16:10:07",
+    "radarPlace": [],
     "radarRoad": "RN149",
     "radarTronconKm": [],
     "radarType": [

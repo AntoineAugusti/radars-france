@@ -1,14 +1,14 @@
 {
-    "nid": "21074",
-    "uuid": "e63ce0de-4034-4f73-a5ec-dd17e2c65416",
-    "vid": "21074",
+    "nid": "25087",
+    "uuid": "694d89a8-9d40-49d4-9c47-6613024bcb9f",
+    "vid": "25087",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55037",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAUSSADE vers MONTAUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.417131 44.066723)",
-    "radarInstallDate": "2019-08-12T16:22:44",
-    "radarPlace": "MONTAUBAN",
+    "radarInstallDate": "2019-08-12T16:09:42",
+    "radarPlace": [],
     "radarRoad": "RD820",
     "radarTronconKm": [],
     "radarType": [

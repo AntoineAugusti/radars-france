@@ -1,14 +1,14 @@
 {
-    "nid": "20480",
-    "uuid": "9bcbf38f-9487-43e0-8720-7f6565601b88",
-    "vid": "20480",
+    "nid": "24322",
+    "uuid": "4b8bb288-5861-4693-b769-522a26bfbb01",
+    "vid": "24322",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8987",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VENDOME vers MONTOIRE SUR LE LOIR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.0304 47.784)",
-    "radarInstallDate": "2012-08-20T16:21:14",
-    "radarPlace": "NAVEIL",
+    "radarInstallDate": "2012-08-20T16:07:31",
+    "radarPlace": [],
     "radarRoad": "RD917",
     "radarTronconKm": [],
     "radarType": [

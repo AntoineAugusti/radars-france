@@ -1,14 +1,14 @@
 {
-    "nid": "21344",
-    "uuid": "bd76fc00-89d5-48aa-b3f8-6e689fdced1a",
-    "vid": "21344",
+    "nid": "25358",
+    "uuid": "02814f60-082a-495e-8861-11d2c66c2301",
+    "vid": "25358",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55316",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BERGERAC vers BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.0294 44.851819)",
-    "radarInstallDate": "2020-12-15T16:23:38",
-    "radarPlace": "LAMOTHE MONTRAVEL",
+    "radarInstallDate": "2020-12-15T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD936",
     "radarTronconKm": [],
     "radarType": [

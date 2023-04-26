@@ -1,14 +1,14 @@
 {
-    "nid": "20151",
-    "uuid": "931a5371-d4b4-4131-ad7a-d01055edd5bf",
-    "vid": "20151",
+    "nid": "24029",
+    "uuid": "d2c91fdb-8b5e-49e9-943c-eb07014d741b",
+    "vid": "24029",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6559",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AUCH VERS AGEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.61974 43.7598)",
-    "radarInstallDate": "2007-01-20T16:20:32",
-    "radarPlace": "STE CHRISTIE",
+    "radarInstallDate": "2007-01-20T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RN21",
     "radarTronconKm": [],
     "radarType": [

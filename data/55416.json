@@ -1,14 +1,14 @@
 {
-    "nid": "21418",
-    "uuid": "520f09f1-56e2-44b0-a625-93c1704165d8",
-    "vid": "21418",
+    "nid": "25447",
+    "uuid": "a3c6c6fa-eb3d-4796-9fee-ebb1339572f1",
+    "vid": "25447",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55416",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "REVEL vers BLAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.01156 43.50427)",
-    "radarInstallDate": "2021-04-23T16:23:56",
-    "radarPlace": "PALLEVILLE",
+    "radarInstallDate": "2021-04-23T16:11:03",
+    "radarPlace": [],
     "radarRoad": "RD84",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19697",
-    "uuid": "7d77202f-3fa8-4e41-9f54-b0c64ff796cf",
-    "vid": "19697",
+    "nid": "23628",
+    "uuid": "0dfedbd6-2d19-47f3-98ca-528147f67c32",
+    "vid": "23628",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "235",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS DREUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.45159 48.75138)",
-    "radarInstallDate": "2005-06-20T16:19:48",
-    "radarPlace": "CHERISY",
+    "radarInstallDate": "2005-06-20T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

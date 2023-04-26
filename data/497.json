@@ -1,14 +1,14 @@
 {
-    "nid": "19774",
-    "uuid": "271fc690-d1f6-4217-95ba-65ade597a71e",
-    "vid": "19774",
+    "nid": "23699",
+    "uuid": "fa7ef137-279d-4376-879c-5625f9e146d0",
+    "vid": "23699",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "497",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAR LE DUC vers ST MIHIEL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.4406 48.8963)",
-    "radarInstallDate": "2006-01-15T16:19:53",
-    "radarPlace": "FRESNES AU MONT",
+    "radarInstallDate": "2006-01-15T16:06:15",
+    "radarPlace": [],
     "radarRoad": "RD901",
     "radarTronconKm": [],
     "radarType": [

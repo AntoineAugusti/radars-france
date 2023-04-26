@@ -1,14 +1,14 @@
 {
-    "nid": "20432",
-    "uuid": "1195e8d0-4492-4216-bc96-870caca45c20",
-    "vid": "20432",
+    "nid": "24278",
+    "uuid": "fd7936da-b892-4993-8c29-df986e3ec090",
+    "vid": "24278",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8825",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHARTRES vers ILLIERS COMBRAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.3886 48.402)",
-    "radarInstallDate": "2011-01-20T16:21:06",
-    "radarPlace": "FONTENAY SUR EURE",
+    "radarInstallDate": "2011-01-20T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RD921",
     "radarTronconKm": [],
     "radarType": [

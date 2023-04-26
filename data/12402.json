@@ -1,14 +1,14 @@
 {
-    "nid": "21679",
-    "uuid": "34a7229d-8787-4742-9d92-3a281e103191",
-    "vid": "21679",
+    "nid": "23347",
+    "uuid": "0c7e0dd0-2a0a-4d1a-bea0-159809d17d60",
+    "vid": "23347",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12402",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALBERTVILLE vers CHAMBERY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.0632 45.49594)",
-    "radarInstallDate": "2016-04-22T16:24:56",
-    "radarPlace": "LA CHAVANNE",
+    "radarInstallDate": "2016-04-22T16:05:43",
+    "radarPlace": [],
     "radarRoad": "A43",
     "radarTronconKm": [],
     "radarType": [

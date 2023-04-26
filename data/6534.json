@@ -1,14 +1,14 @@
 {
-    "nid": "20148",
-    "uuid": "5a33f2b6-3095-4278-b847-22f03b5d3ca5",
-    "vid": "20148",
+    "nid": "24026",
+    "uuid": "032bd322-c924-4ac7-a31c-d09f304a8fb2",
+    "vid": "24026",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6534",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SUD vers NORD",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (9.48231 42.6111)",
-    "radarInstallDate": "2007-08-06T16:20:30",
-    "radarPlace": "BIGUGLIA",
+    "radarInstallDate": "2007-08-06T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RTE LIDO DE MARANA FACE ENTREE ILE DE SAN DAMIANO",
     "radarTronconKm": [],
     "radarType": [

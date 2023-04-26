@@ -1,14 +1,14 @@
 {
-    "nid": "21342",
-    "uuid": "cdb72e6d-b89f-41c6-8fe8-364badf71c5a",
-    "vid": "21342",
+    "nid": "25356",
+    "uuid": "3e3837a7-26fe-45ba-9304-6c15ab4f9332",
+    "vid": "25356",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55314",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE BOULOU vers ARGELES SUR MER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.931065 42.548079)",
-    "radarInstallDate": "2020-11-05T16:23:38",
-    "radarPlace": "ST GENIS DES FONTAINES",
+    "radarInstallDate": "2020-11-05T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD618",
     "radarTronconKm": [],
     "radarType": [

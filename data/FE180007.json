@@ -1,14 +1,14 @@
 {
-    "nid": "22134",
-    "uuid": "f5872e1e-265e-40f5-9467-61e6628ce0b8",
-    "vid": "22134",
+    "nid": "25750",
+    "uuid": "f6be3476-de22-4023-ad17-a86de1b7b79c",
+    "vid": "25750",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE180007",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Amiens vers Rivery",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.32554 49.90878)",
-    "radarInstallDate": "2011-05-25T16:26:42",
-    "radarPlace": "RIVERY",
+    "radarInstallDate": "2011-05-25T16:12:23",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

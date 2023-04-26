@@ -1,14 +1,14 @@
 {
-    "nid": "20724",
-    "uuid": "f204a2c0-0a0d-4d7a-92a5-8c0deeb7cc60",
-    "vid": "20724",
+    "nid": "24649",
+    "uuid": "06f46778-d2df-4787-b917-82dc70354429",
+    "vid": "24649",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51076",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHARTRES DE BRETAGNE vers VERN SUR SEICHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.630363 48.045818)",
-    "radarInstallDate": "2020-06-05T16:21:47",
-    "radarPlace": "NOYAL CHATILLON SUR SEICHE",
+    "radarInstallDate": "2020-06-05T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD34",
     "radarTronconKm": [],
     "radarType": [

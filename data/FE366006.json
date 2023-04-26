@@ -1,14 +1,14 @@
 {
-    "nid": "22545",
-    "uuid": "ae42290b-bd7f-4a2f-a3ed-541176592f70",
-    "vid": "22545",
+    "nid": "26025",
+    "uuid": "33de772e-1454-4332-89ef-0879e1438eab",
+    "vid": "26025",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE366006",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.89845 42.70914)",
-    "radarInstallDate": "2010-08-10T16:28:29",
-    "radarPlace": "PERPIGNAN",
+    "radarInstallDate": "2010-08-10T16:13:42",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

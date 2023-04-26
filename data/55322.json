@@ -1,14 +1,14 @@
 {
-    "nid": "21350",
-    "uuid": "815fb470-a7c9-484c-834b-9d64a2872643",
-    "vid": "21350",
+    "nid": "25364",
+    "uuid": "174b7ab1-abd9-4ecb-ac04-2ec5c8fd95cd",
+    "vid": "25364",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55322",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEON vers CEYZERIEU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.753084 45.851921)",
-    "radarInstallDate": "2021-03-11T16:23:44",
-    "radarPlace": "BEON",
+    "radarInstallDate": "2021-03-11T16:10:42",
+    "radarPlace": [],
     "radarRoad": "RD37",
     "radarTronconKm": [],
     "radarType": [

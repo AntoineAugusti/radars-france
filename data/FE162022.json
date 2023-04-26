@@ -1,14 +1,14 @@
 {
-    "nid": "22045",
-    "uuid": "43da24e1-57fb-4dcf-909e-804f65a33ad0",
-    "vid": "22045",
+    "nid": "25662",
+    "uuid": "31ebe4b7-4782-48b0-bd3d-360897019540",
+    "vid": "25662",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162022",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Av. R. Salengro vers Est",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.82252 50.9443)",
-    "radarInstallDate": "2012-12-20T16:26:21",
-    "radarPlace": "CALAIS",
+    "radarInstallDate": "2012-12-20T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

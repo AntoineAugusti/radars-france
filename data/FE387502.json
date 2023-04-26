@@ -1,14 +1,14 @@
 {
-    "nid": "22587",
-    "uuid": "2826d4dd-34e4-4032-a7b7-310ac1732e4a",
-    "vid": "22587",
+    "nid": "26112",
+    "uuid": "f84e129b-589e-408c-82a7-e17cacb203a0",
+    "vid": "26112",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE387502",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.17052 45.95989)",
-    "radarInstallDate": "2016-06-30T16:28:44",
-    "radarPlace": "ST JOUVENT",
+    "radarInstallDate": "2016-06-30T16:14:02",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21243",
-    "uuid": "fdb3d01e-224e-40fe-90a8-a40f3c2cee09",
-    "vid": "21243",
+    "nid": "25254",
+    "uuid": "9d432baf-52c8-40a8-9765-19daf078506f",
+    "vid": "25254",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55208",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT GAUDENS vers SEILHAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.6372 43.077)",
-    "radarInstallDate": "2020-11-27T16:23:19",
-    "radarPlace": "MARTRES DE RIVIERE",
+    "radarInstallDate": "2020-11-27T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD8",
     "radarTronconKm": [],
     "radarType": [

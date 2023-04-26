@@ -1,14 +1,14 @@
 {
-    "nid": "20717",
-    "uuid": "46fa9f26-1d53-4e90-85c7-e493af45f019",
-    "vid": "20717",
+    "nid": "24643",
+    "uuid": "362b0665-5694-4e06-9f0c-3fced038d51d",
+    "vid": "24643",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51069",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUVILLAIN vers CHAUMONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.077994 48.107847)",
-    "radarInstallDate": "2019-12-05T16:21:43",
-    "radarPlace": "VILLIERS LE SEC",
+    "radarInstallDate": "2019-12-05T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD65",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21324",
-    "uuid": "e9e91053-a2c0-41de-9207-50507737fad4",
-    "vid": "21324",
+    "nid": "25336",
+    "uuid": "4237c049-f96a-4da5-bf72-31d58fa70585",
+    "vid": "25336",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55292",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARCHIAC vers COGNAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.31624 45.59269)",
-    "radarInstallDate": "2021-08-26T16:23:37",
-    "radarPlace": "ANGEAC CHAMPAGNE",
+    "radarInstallDate": "2021-08-26T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD731",
     "radarTronconKm": [],
     "radarType": [

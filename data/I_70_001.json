@@ -1,14 +1,14 @@
 {
-    "nid": "22854",
-    "uuid": "6e96d767-2358-4ef5-b85f-5bea55e8fcb1",
-    "vid": "22854",
+    "nid": "26404",
+    "uuid": "22d5f1e4-5f08-4b6a-9c25-9dae888d18a7",
+    "vid": "26404",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229226",
+    "revisionTimestamp": "1681741067",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_70_001",
-    "created": "1637229226",
-    "changed": "1637229226",
+    "created": "1681741067",
+    "changed": "1681741067",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "70 - Haute-Sa\u00f4ne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (47.877255 6.382673)",
-    "radarInstallDate": "2017-10-09T10:53:46",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.963008 45.983499)",
+    "radarInstallDate": "2021-05-27T16:17:49",
     "radarPlace": "-",
     "radarRoad": "D57D, N57, D83, D149, D307",
-    "radarTronconKm": "8.10",
+    "radarTronconKm": "8,1",
     "radarType": [
         {
             "tid": "19",

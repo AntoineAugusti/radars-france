@@ -1,14 +1,14 @@
 {
-    "nid": "22513",
-    "uuid": "4841f371-75fd-43cd-8880-763c32809c86",
-    "vid": "22513",
+    "nid": "26085",
+    "uuid": "df02c586-26a4-43e4-bbe1-59346eff0b9d",
+    "vid": "26085",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE359502",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.4909 50.75267)",
-    "radarInstallDate": "2013-01-23T16:28:20",
-    "radarPlace": "HONDEGHEM",
+    "radarInstallDate": "2013-01-23T16:14:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

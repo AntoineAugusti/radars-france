@@ -1,14 +1,14 @@
 {
-    "nid": "20969",
-    "uuid": "5c67f03f-5282-49c4-b87b-6519aa1cdd2f",
-    "vid": "20969",
+    "nid": "24902",
+    "uuid": "2f4634c6-d304-4e52-aa3a-d831bb0a7550",
+    "vid": "24902",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51339",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CREPY EN VALOIS vers SENLIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.856629 49.234973)",
-    "radarInstallDate": "2021-09-16T16:22:28",
-    "radarPlace": "DUVY",
+    "radarInstallDate": "2021-09-16T16:09:05",
+    "radarPlace": [],
     "radarRoad": "RD1324",
     "radarTronconKm": [],
     "radarType": [

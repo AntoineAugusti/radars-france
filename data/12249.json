@@ -1,14 +1,14 @@
 {
-    "nid": "21574",
-    "uuid": "7fa14c0e-41af-4082-8bbf-b4b24b7bef99",
-    "vid": "21574",
+    "nid": "23244",
+    "uuid": "ca05a24f-de87-4acd-a8c1-d34bbf1fd6e8",
+    "vid": "23244",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12249",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POITIERS vers ANGOULEME",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.2005 45.989)",
-    "radarInstallDate": "2014-02-03T16:24:29",
-    "radarPlace": "VILLEGATS",
+    "radarInstallDate": "2014-02-03T16:05:36",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

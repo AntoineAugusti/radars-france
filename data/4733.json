@@ -1,14 +1,14 @@
 {
-    "nid": "20065",
-    "uuid": "1aa5f35d-8855-4630-a3d5-7c78a64e8313",
-    "vid": "20065",
+    "nid": "23949",
+    "uuid": "327607bd-0422-4350-b5e3-49909c28c74e",
+    "vid": "23949",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4733",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORHANGE vers BRULANGE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.55004 48.96498)",
-    "radarInstallDate": "2009-08-14T16:20:23",
-    "radarPlace": "BRULANGE",
+    "radarInstallDate": "2009-08-14T16:06:42",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

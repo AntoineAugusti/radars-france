@@ -1,14 +1,14 @@
 {
-    "nid": "21303",
-    "uuid": "90ed6638-848d-4bee-bb64-9de3e15f4be7",
-    "vid": "21303",
+    "nid": "25315",
+    "uuid": "2c67d0d8-68d3-456d-ac52-914f5205dc37",
+    "vid": "25315",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55271",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AGEN vers BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.497317 44.238916)",
-    "radarInstallDate": "2020-07-15T16:23:32",
-    "radarPlace": "SAINT HILAIRE DE LUSIGNAN",
+    "radarInstallDate": "2020-07-15T16:10:33",
+    "radarPlace": [],
     "radarRoad": "RD813",
     "radarTronconKm": [],
     "radarType": [

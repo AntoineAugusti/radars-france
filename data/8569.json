@@ -1,14 +1,14 @@
 {
-    "nid": "20352",
-    "uuid": "efbf0fe4-c8d7-4782-85e7-6c866c321036",
-    "vid": "20352",
+    "nid": "24206",
+    "uuid": "e366d878-d4cd-4019-a074-dbaf0753947d",
+    "vid": "24206",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8569",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FUMEL vers PUY L EVEQUE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.0687 44.514)",
-    "radarInstallDate": "2010-09-15T16:20:54",
-    "radarPlace": "DURAVEL",
+    "radarInstallDate": "2010-09-15T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD811",
     "radarTronconKm": [],
     "radarType": [

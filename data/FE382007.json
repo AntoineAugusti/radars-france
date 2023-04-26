@@ -1,14 +1,14 @@
 {
-    "nid": "22581",
-    "uuid": "c6fd2c3f-596a-4912-8af1-43714793477b",
-    "vid": "22581",
+    "nid": "26045",
+    "uuid": "12121b9e-1933-4818-acc7-7a5450ead7c8",
+    "vid": "26045",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE382007",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Boulevard Vincent AURIOL  vers Avenue des MOURETS",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.36995 44.01752)",
-    "radarInstallDate": "2012-05-25T16:28:44",
-    "radarPlace": "MONTAUBAN",
+    "radarInstallDate": "2012-05-25T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19786",
-    "uuid": "baf6da5f-cde7-47cd-b7e9-2629e0f4bed9",
-    "vid": "19786",
+    "nid": "23710",
+    "uuid": "e5d65c59-45db-450f-ac2f-5225b963ad59",
+    "vid": "23710",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "550",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRENOBLE vers BRIANCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.60141 44.92671)",
-    "radarInstallDate": "2005-08-28T16:19:53",
-    "radarPlace": "ST CHAFFREY",
+    "radarInstallDate": "2005-08-28T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RD1091",
     "radarTronconKm": [],
     "radarType": [

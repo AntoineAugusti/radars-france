@@ -1,14 +1,14 @@
 {
-    "nid": "19831",
-    "uuid": "b95f26a8-e1e5-4eef-aabb-676be1af57fc",
-    "vid": "19831",
+    "nid": "23747",
+    "uuid": "af7b4515-e17e-4a58-9a5f-153f9fcd4896",
+    "vid": "23747",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "695",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MILLAU vers ALBI",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.21311 43.92146)",
-    "radarInstallDate": "2005-04-15T16:19:58",
-    "radarPlace": "CUNAC",
+    "radarInstallDate": "2005-04-15T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

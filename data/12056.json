@@ -1,14 +1,14 @@
 {
-    "nid": "21464",
-    "uuid": "89f6b6f1-c448-461c-be52-7e2f3ded569a",
-    "vid": "21464",
+    "nid": "23137",
+    "uuid": "7ff18d8d-e07a-4241-8acd-320a8b2683b6",
+    "vid": "23137",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12056",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers NANCY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.066 48.643)",
-    "radarInstallDate": "2012-05-16T16:24:04",
-    "radarPlace": "RUPT AUX NONAINS",
+    "radarInstallDate": "2012-05-16T16:05:29",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

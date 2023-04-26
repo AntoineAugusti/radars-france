@@ -1,0 +1,111 @@
+{
+    "nid": "26278",
+    "uuid": "f1225b8a-5e68-4588-8a16-708990c66655",
+    "vid": "26278",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1681741042",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "I_28_008",
+    "created": "1681741042",
+    "changed": "1681741042",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "28 - Eure-et-Loir",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (2.335341 47.126804)",
+    "radarInstallDate": "2017-10-05T16:17:23",
+    "radarPlace": "-",
+    "radarRoad": "D319, D25.4, D1.5, D148, D140.8, D318, D139, D25, N1154, D140.7, D140.12, D321, D30, D149, D155.3, D146, D342, D140, D121.5, D155.6, D24.4, D23, D121, , D320.2, D155.4, D20, D318.2, D319.2, D928, D125, D24, D125.2, D941",
+    "radarTronconKm": "43,4",
+    "radarType": [
+        {
+            "tid": "19",
+            "uuid": "6b6992f4-89c5-48e7-a623-8d9a0ce18836",
+            "revisionId": "19",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Itin\u00e9raires",
+            "description": "Sur toute la longueur de cet itin\u00e9raire, il peut y avoir de un \u00e0 plusieurs radars, de plusieurs types.\r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1529311873",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": "Itin\u00e9raire",
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/itineraire.png?itok=woYb4FC_",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/itineraire.png?itok=s-IjhxwS",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/itineraire.png?itok=becOCQye",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "itineraire.png",
+                        "fileCreated": "1519114067",
+                        "fileSize": "2173",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "itineraire",
+            "radarNameDetails": "Itin\u00e9raire"
+        }
+    ],
+    "rulesMesured": [],
+    "traceItineraire": []
+}

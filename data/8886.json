@@ -1,14 +1,14 @@
 {
-    "nid": "20450",
-    "uuid": "cadafd2a-c3da-44db-a60c-705e50074bae",
-    "vid": "20450",
+    "nid": "24295",
+    "uuid": "ff696276-9d3c-4861-99ae-a3426b72878d",
+    "vid": "24295",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8886",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MILLAU vers ST AFFRIQUE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.912 43.948)",
-    "radarInstallDate": "2011-12-29T16:21:09",
-    "radarPlace": "ST AFFRIQUE",
+    "radarInstallDate": "2011-12-29T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

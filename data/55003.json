@@ -1,14 +1,14 @@
 {
-    "nid": "21041",
-    "uuid": "bf89c2ab-727a-4645-a44a-3db408de3542",
-    "vid": "21041",
+    "nid": "25054",
+    "uuid": "7cc1987c-e827-4405-859c-ea685c948172",
+    "vid": "25054",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740570",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55003",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740570",
+    "changed": "1681740570",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AYTRE vers SURGERES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.035872 46.120768)",
-    "radarInstallDate": "2019-09-02T16:22:38",
-    "radarPlace": "SALLES SUR MER",
+    "radarInstallDate": "2019-09-02T16:09:35",
+    "radarPlace": [],
     "radarRoad": "RD939",
     "radarTronconKm": [],
     "radarType": [

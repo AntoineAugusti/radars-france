@@ -1,14 +1,14 @@
 {
-    "nid": "19877",
-    "uuid": "58d8c254-cd3d-4cb6-b6ba-2426db102975",
-    "vid": "19877",
+    "nid": "23779",
+    "uuid": "bb03394d-1fa6-4127-a908-79a450dc0660",
+    "vid": "23779",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "957",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "VARENNES VAUZELLES VERS CHALLUY",
     "radarEquipment": "MORPHO",
-    "radarGeolocalisation": "POINT (3.16732 46.9916)",
-    "radarInstallDate": "2005-08-29T16:20:02",
-    "radarPlace": "NEVERS",
+    "radarGeolocalisation": "POINT (3.16701 46.99657)",
+    "radarInstallDate": "2005-08-29T16:06:23",
+    "radarPlace": [],
     "radarRoad": "RD907",
     "radarTronconKm": [],
     "radarType": [

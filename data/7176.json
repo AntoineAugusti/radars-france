@@ -1,14 +1,14 @@
 {
-    "nid": "20261",
-    "uuid": "2b4685dc-0584-49e1-a7e5-5abd73541510",
-    "vid": "20261",
+    "nid": "24129",
+    "uuid": "b059f956-3755-4a86-8163-d81aa99f6242",
+    "vid": "24129",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7176",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOGENT SUR SEINE vers BRAY SUR SEINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.46008 48.47226)",
-    "radarInstallDate": "2007-11-08T16:20:42",
-    "radarPlace": "LA MOTTE TILLY",
+    "radarInstallDate": "2007-11-08T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RD951",
     "radarTronconKm": [],
     "radarType": [

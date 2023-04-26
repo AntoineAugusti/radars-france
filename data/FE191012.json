@@ -1,14 +1,14 @@
 {
-    "nid": "22153",
-    "uuid": "61c5e329-c862-485e-a219-d32c97bdd34d",
-    "vid": "22153",
+    "nid": "25769",
+    "uuid": "f800af9e-1f44-4a0b-9f65-bcd1953ca1cc",
+    "vid": "25769",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE191012",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Montgeron vers Quincy-sous-S\u00e9nart",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.49589 48.67846)",
-    "radarInstallDate": "2010-10-20T16:26:43",
-    "radarPlace": "BRUNOY",
+    "radarInstallDate": "2010-10-20T16:12:23",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

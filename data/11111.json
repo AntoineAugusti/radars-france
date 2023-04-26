@@ -1,14 +1,14 @@
 {
-    "nid": "20527",
-    "uuid": "cd9287fe-204b-4237-aa89-d461363e230c",
-    "vid": "20527",
+    "nid": "24359",
+    "uuid": "97dc29a1-c8bd-4a82-8b01-d8531fea1bf4",
+    "vid": "24359",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11111",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURG ST MAURICE vers MOUTIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.73921 45.58267)",
-    "radarInstallDate": "2013-09-09T16:21:18",
-    "radarPlace": "LA PLAGNE TARENTAISE",
+    "radarInstallDate": "2013-09-09T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RN90",
     "radarTronconKm": [],
     "radarType": [

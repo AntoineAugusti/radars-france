@@ -1,14 +1,14 @@
 {
-    "nid": "21467",
-    "uuid": "9b2a4924-8833-4242-b2f2-5d4336332be0",
-    "vid": "21467",
+    "nid": "23140",
+    "uuid": "6c626c2e-d076-4995-8bdc-0b9b86f134a7",
+    "vid": "23140",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12063",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "CALAIS vers BOULOGNE SUR MER",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (1.72369 50.85043)",
-    "radarInstallDate": "2014-01-06T16:24:04",
-    "radarPlace": "LEUBRINGHEN",
+    "radarGeolocalisation": "POINT (1.72379 50.85025)",
+    "radarInstallDate": "2014-01-06T16:05:29",
+    "radarPlace": [],
     "radarRoad": "A16",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20973",
-    "uuid": "c35620fd-4db0-46ad-8ab6-ba7ed18bbd4a",
-    "vid": "20973",
+    "nid": "24909",
+    "uuid": "8fe82671-9b41-416e-9822-f57dcd18ba24",
+    "vid": "24909",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51346",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers BEAUVAIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.17671 49.354681)",
-    "radarInstallDate": "2021-04-06T16:22:28",
-    "radarPlace": "PONCHON",
+    "radarInstallDate": "2021-04-06T16:09:10",
+    "radarPlace": [],
     "radarRoad": "RD1001",
     "radarTronconKm": [],
     "radarType": [

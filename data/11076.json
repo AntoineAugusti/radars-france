@@ -1,14 +1,14 @@
 {
-    "nid": "20514",
-    "uuid": "73f7b878-7837-480e-8792-854a3cdfa0f4",
-    "vid": "20514",
+    "nid": "24350",
+    "uuid": "6d7d2bd3-0c52-44dd-b117-b2325b593a1d",
+    "vid": "24350",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11076",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALLAINES vers CHATEAUDUN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.7091 48.149)",
-    "radarInstallDate": "2012-10-12T16:21:18",
-    "radarPlace": "ORGERES EN BEAUCE",
+    "radarInstallDate": "2012-10-12T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD927",
     "radarTronconKm": [],
     "radarType": [

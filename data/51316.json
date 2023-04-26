@@ -1,14 +1,14 @@
 {
-    "nid": "20954",
-    "uuid": "86ba4e17-6d0e-407b-8aa1-d4ca176a1932",
-    "vid": "20954",
+    "nid": "24881",
+    "uuid": "252d9bd2-21b8-49dd-b476-71fbde115dd5",
+    "vid": "24881",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51316",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COMPIEGNE vers SOISSONS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.970817 49.402358)",
-    "radarInstallDate": "2021-01-29T16:22:23",
-    "radarPlace": "TROSLY BREUIL",
+    "radarInstallDate": "2021-01-29T16:09:04",
+    "radarPlace": [],
     "radarRoad": "RN31",
     "radarTronconKm": [],
     "radarType": [

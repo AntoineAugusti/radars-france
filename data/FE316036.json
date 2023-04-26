@@ -1,14 +1,14 @@
 {
-    "nid": "22386",
-    "uuid": "66027ef1-fc68-4bcc-86df-58b9ac67078d",
-    "vid": "22386",
+    "nid": "25911",
+    "uuid": "bd15367b-062e-47da-b2c5-67e9bc27f3fe",
+    "vid": "25911",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316036",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHASSENEUIL vers ANGOULEME",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.3874 45.74126)",
-    "radarInstallDate": "2010-11-12T16:27:47",
-    "radarPlace": "LA ROCHEFOUCAULD",
+    "radarInstallDate": "2010-11-12T16:13:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21187",
-    "uuid": "8d7a4df5-c07a-4726-bf3b-19538390057b",
-    "vid": "21187",
+    "nid": "25198",
+    "uuid": "58826439-fe44-43e4-9776-641296473d16",
+    "vid": "25198",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55151",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAVAILLON vers AVIGNON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.8421 43.928)",
-    "radarInstallDate": "2019-12-18T16:23:08",
-    "radarPlace": "AVIGNON",
+    "radarInstallDate": "2019-12-18T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD907",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22341",
-    "uuid": "64782d09-259f-4368-99dd-a526e8babd0a",
-    "vid": "22341",
+    "nid": "25884",
+    "uuid": "ae555a5d-0003-4695-94b0-66f64923453b",
+    "vid": "25884",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229194",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE284003",
-    "created": "1637229194",
-    "changed": "1675870051",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Carpentras vers Aubignan",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.04881 44.06034)",
-    "radarInstallDate": "2009-11-07T16:27:38",
-    "radarPlace": "CARPENTRAS",
+    "radarInstallDate": "2009-11-07T16:12:58",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20041",
-    "uuid": "91c0f89b-792e-4c3b-84a3-02b4f2dcd34a",
-    "vid": "20041",
+    "nid": "23926",
+    "uuid": "e96c6277-b132-48f4-9ca2-0cf0eaeba9c4",
+    "vid": "23926",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4550",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAMBON SUR VOUEIZE vers MONTLUCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.4689 46.22163)",
-    "radarInstallDate": "2009-03-16T16:20:20",
-    "radarPlace": "BUDELIERE",
+    "radarInstallDate": "2009-03-16T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD993",
     "radarTronconKm": [],
     "radarType": [

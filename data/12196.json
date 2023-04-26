@@ -1,14 +1,14 @@
 {
-    "nid": "21545",
-    "uuid": "ad5f7610-23f7-482d-be58-bef590294e91",
-    "vid": "21545",
+    "nid": "23216",
+    "uuid": "c2ee0cf6-5046-4f68-b111-551e3194ce65",
+    "vid": "23216",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12196",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FRONTIERE BELGE vers SEDAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.0284 49.753)",
-    "radarInstallDate": "2013-12-02T16:24:22",
-    "radarPlace": "LA CHAPELLE",
+    "radarInstallDate": "2013-12-02T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RN58",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22897",
-    "uuid": "e21637bc-1ea2-4937-8ff7-4f51b27a2b91",
-    "vid": "22897",
+    "nid": "26457",
+    "uuid": "3cc31d59-52fc-4375-be8d-0dad91fb6d94",
+    "vid": "26457",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741083",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_90_002",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741083",
+    "changed": "1681741083",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "90 - Territoire de Belfort",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (47.645833 6.87812)",
-    "radarInstallDate": "2017-10-09T10:53:49",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.399308 47.85456)",
+    "radarInstallDate": "2017-10-06T16:18:05",
     "radarPlace": "-",
     "radarRoad": "D15, D22, D12, D11, D46, D1083, D52, D83, D27, D25",
-    "radarTronconKm": "14.89",
+    "radarTronconKm": "14,9",
     "radarType": [
         {
             "tid": "19",

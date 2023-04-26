@@ -1,14 +1,14 @@
 {
-    "nid": "22061",
-    "uuid": "2631faf1-4949-48ea-aaeb-c0ce8d9d7ce1",
-    "vid": "22061",
+    "nid": "25678",
+    "uuid": "93ff5947-476b-43be-bc44-d639e1261110",
+    "vid": "25678",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168007",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue Lefebvre vers Rue de la Mertrau",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.34452 47.75936)",
-    "radarInstallDate": "2010-06-08T16:26:22",
-    "radarPlace": "MULHOUSE",
+    "radarInstallDate": "2010-06-08T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22389",
-    "uuid": "e3dc449f-0e3b-47ec-9611-c66f7c2ca115",
-    "vid": "22389",
+    "nid": "25914",
+    "uuid": "5315020d-1d09-4bbe-b177-4d25d54456c9",
+    "vid": "25914",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316039",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GOND PONTOUVRE vers ANGOULEME",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.15921 45.67208)",
-    "radarInstallDate": "2010-08-13T16:27:47",
-    "radarPlace": "GOND PONTOUVRE",
+    "radarInstallDate": "2010-08-13T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20659",
-    "uuid": "742f68be-261e-4305-8768-73ab6f4bbb9b",
-    "vid": "20659",
+    "nid": "24584",
+    "uuid": "f15ba92a-b453-4df5-be31-456e069f4be5",
+    "vid": "24584",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51009",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DAMVILLE vers PISEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.011425 48.825966)",
-    "radarInstallDate": "2019-07-30T16:21:37",
-    "radarPlace": "ROMAN",
+    "radarInstallDate": "2019-07-30T16:08:10",
+    "radarPlace": [],
     "radarRoad": "RD51",
     "radarTronconKm": [],
     "radarType": [

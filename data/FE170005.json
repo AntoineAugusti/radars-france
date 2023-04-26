@@ -1,14 +1,14 @@
 {
-    "nid": "22072",
-    "uuid": "cdee2054-3c3f-49b2-a5b4-ba85e45c4904",
-    "vid": "22072",
+    "nid": "25689",
+    "uuid": "8d88ea48-c11c-4e1e-ab9c-f7c4a6766d48",
+    "vid": "25689",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE170005",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BELFORT vers LURE",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (6.6381 47.69792)",
-    "radarInstallDate": "2010-09-27T16:26:28",
-    "radarPlace": "RONCHAMP",
+    "radarInstallDate": "2010-09-27T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

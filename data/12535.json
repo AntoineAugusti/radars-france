@@ -1,14 +1,14 @@
 {
-    "nid": "21792",
-    "uuid": "3db30032-ceec-4d2b-bee1-5145587bbbe7",
-    "vid": "21792",
+    "nid": "23461",
+    "uuid": "f4971c0b-b7d7-45c6-b332-7dd57014e7d6",
+    "vid": "23461",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12535",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers ALBI",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.56839 43.7002)",
-    "radarInstallDate": "2019-07-29T16:25:18",
-    "radarPlace": "GRAGNAGUE",
+    "radarInstallDate": "2019-07-29T16:05:53",
+    "radarPlace": [],
     "radarRoad": "A68",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20575",
-    "uuid": "b6a04320-a1a6-41de-ba4a-6bb76462b9e5",
-    "vid": "20575",
+    "nid": "24404",
+    "uuid": "c43aac16-d72f-43cd-8948-388d41d35f29",
+    "vid": "24404",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11255",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LISIEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.41131 49.1422)",
-    "radarInstallDate": "2014-02-03T16:21:26",
-    "radarPlace": "L HOTELLERIE",
+    "radarInstallDate": "2014-02-03T16:07:42",
+    "radarPlace": [],
     "radarRoad": "RD613",
     "radarTronconKm": [],
     "radarType": [

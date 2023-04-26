@@ -1,14 +1,14 @@
 {
-    "nid": "21354",
-    "uuid": "017d3925-8de0-4316-a398-8f661143c942",
-    "vid": "21354",
+    "nid": "25368",
+    "uuid": "c5093657-6aea-48b8-8373-7d8622ae735f",
+    "vid": "25368",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55326",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALBERTVILLE vers ANNECY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.279981 45.755096)",
-    "radarInstallDate": "2020-12-18T16:23:44",
-    "radarPlace": "FAVERGES SEYTHENEX",
+    "radarInstallDate": "2020-12-18T16:10:42",
+    "radarPlace": [],
     "radarRoad": "RD1508",
     "radarTronconKm": [],
     "radarType": [

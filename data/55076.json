@@ -1,14 +1,14 @@
 {
-    "nid": "21113",
-    "uuid": "550d35ef-2859-4238-b058-00270bb21c8d",
-    "vid": "21113",
+    "nid": "25126",
+    "uuid": "433d3a60-049d-4182-af3c-81f8760992bb",
+    "vid": "25126",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55076",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MENDE vers LE PUY EN VELAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.830981 44.713257)",
-    "radarInstallDate": "2019-11-08T16:22:55",
-    "radarPlace": "LANGOGNE",
+    "radarInstallDate": "2019-11-08T16:09:53",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

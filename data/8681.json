@@ -1,14 +1,14 @@
 {
-    "nid": "20388",
-    "uuid": "4a0c480d-530b-4e07-bdca-e648ef41dd8d",
-    "vid": "20388",
+    "nid": "24239",
+    "uuid": "e67105d0-1e24-4598-98d6-b66ac41bc59f",
+    "vid": "24239",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8681",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Porte du Pr\u00e9 St Gervais vers Porte de Bagnolet",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.413182 48.869597)",
-    "radarInstallDate": "2013-11-04T16:20:58",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-11-04T16:07:18",
+    "radarPlace": [],
     "radarRoad": "Sortie tunnel des Lilas - BP int\u00e9rieur (20i\u00e8me)",
     "radarTronconKm": [],
     "radarType": [

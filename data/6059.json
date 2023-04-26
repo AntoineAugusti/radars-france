@@ -1,14 +1,14 @@
 {
-    "nid": "20124",
-    "uuid": "2dce77ba-008a-45ba-b488-89e6e5ffc7d7",
-    "vid": "20124",
+    "nid": "24006",
+    "uuid": "f073dc82-c762-4178-9903-b072eb0c310c",
+    "vid": "24006",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6059",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ERQUY VERS ST BRIEUC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.60988 48.50839)",
-    "radarInstallDate": "2006-06-12T16:20:29",
-    "radarPlace": "MORIEUX",
+    "radarInstallDate": "2006-06-12T16:06:49",
+    "radarPlace": [],
     "radarRoad": "RD786",
     "radarTronconKm": [],
     "radarType": [

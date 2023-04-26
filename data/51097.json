@@ -1,14 +1,14 @@
 {
-    "nid": "20745",
-    "uuid": "537f26f6-7622-4099-9239-3d049f45934f",
-    "vid": "20745",
+    "nid": "24669",
+    "uuid": "3372900b-d2d1-486c-8e52-6ea5512aee93",
+    "vid": "24669",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51097",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE CREUSOT vers AUTUN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.367908 46.824424)",
-    "radarInstallDate": "2019-09-23T16:21:48",
-    "radarPlace": "MARMAGNE",
+    "radarInstallDate": "2019-09-23T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RD680",
     "radarTronconKm": [],
     "radarType": [

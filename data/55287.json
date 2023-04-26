@@ -1,14 +1,14 @@
 {
-    "nid": "21319",
-    "uuid": "0ec03dcb-c577-41a3-9924-c1a3e5c8a834",
-    "vid": "21319",
+    "nid": "25331",
+    "uuid": "838d4ed0-9ed4-49cd-8a0d-982bb5b6bdf9",
+    "vid": "25331",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55287",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "05-HAUTES-ALPES",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "BRIANCON vers GAP",
+    "radarDirection": "GAP vers BRIANCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.6048 44.66073)",
-    "radarInstallDate": "2020-08-28T16:23:37",
-    "radarPlace": "GUILLESTRE",
+    "radarInstallDate": "2020-08-28T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RN94",
     "radarTronconKm": [],
     "radarType": [

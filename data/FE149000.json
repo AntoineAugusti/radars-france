@@ -1,14 +1,14 @@
 {
-    "nid": "21938",
-    "uuid": "6f533114-1b0d-418a-b0c2-bfb696272774",
-    "vid": "21938",
+    "nid": "25577",
+    "uuid": "3f6a227a-896e-4f0d-9fd2-3f84083bb92c",
+    "vid": "25577",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE149000",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHOLET vers LA ROCHE SUR YON",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-0.9012 47.0542)",
-    "radarInstallDate": "2010-04-09T16:25:53",
-    "radarPlace": "CHOLET",
+    "radarInstallDate": "2010-04-09T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

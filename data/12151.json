@@ -1,14 +1,14 @@
 {
-    "nid": "21522",
-    "uuid": "b34ffb3f-6a5c-4067-8478-71349a8bdc7b",
-    "vid": "21522",
+    "nid": "23194",
+    "uuid": "594d9a5a-b716-41e6-ad74-12b692faedbb",
+    "vid": "23194",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12151",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA ROCHE SUR YON vers NANTES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.4307 46.761)",
-    "radarInstallDate": "2012-06-19T16:24:16",
-    "radarPlace": "BELLEVIGNY",
+    "radarInstallDate": "2012-06-19T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RD763",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20574",
-    "uuid": "08e23f3b-2e29-4f68-930b-9c373beb5e04",
-    "vid": "20574",
+    "nid": "24403",
+    "uuid": "766b0542-ea81-4397-81d1-0837ed4445f1",
+    "vid": "24403",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11251",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERSAILLES vers ST GERMAIN EN LAYE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.1067 48.877)",
-    "radarInstallDate": "2013-06-03T16:21:26",
-    "radarPlace": "LE PORT MARLY",
+    "radarInstallDate": "2013-06-03T16:07:42",
+    "radarPlace": [],
     "radarRoad": "RN186",
     "radarTronconKm": [],
     "radarType": [

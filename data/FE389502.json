@@ -1,14 +1,14 @@
 {
-    "nid": "22589",
-    "uuid": "10bf0bd3-d993-46ec-abf7-91a8cebd68c1",
-    "vid": "22589",
+    "nid": "26114",
+    "uuid": "e5e8469e-d1e0-41b5-b00d-38e9193350f1",
+    "vid": "26114",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740842",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE389502",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740842",
+    "changed": "1681740842",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TROYES vers AUXERRE",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.58734 47.82254)",
-    "radarInstallDate": "2012-07-05T16:28:44",
-    "radarPlace": "AUXERRE",
+    "radarInstallDate": "2012-07-05T16:14:09",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

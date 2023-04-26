@@ -1,14 +1,14 @@
 {
-    "nid": "21097",
-    "uuid": "2f7c6a71-be81-46a2-919d-4205f2c44dba",
-    "vid": "21097",
+    "nid": "25110",
+    "uuid": "4fa62f41-1a85-4c04-a873-ee42e776fbe0",
+    "vid": "25110",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55060",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAVAILLON vers TARASCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.925768 43.785324)",
-    "radarInstallDate": "2020-02-07T16:22:50",
-    "radarPlace": "ST REMY DE PROVENCE",
+    "radarInstallDate": "2020-02-07T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD99",
     "radarTronconKm": [],
     "radarType": [

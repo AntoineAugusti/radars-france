@@ -1,14 +1,14 @@
 {
-    "nid": "21150",
-    "uuid": "0dd5a7de-e99b-44c6-820b-896703db7afd",
-    "vid": "21150",
+    "nid": "25161",
+    "uuid": "24bb7e6a-81c7-4183-abf0-eaa781d4f8ca",
+    "vid": "25161",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55114",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AGEN vers TOULOUSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.69377 44.17174)",
-    "radarInstallDate": "2020-02-28T16:23:01",
-    "radarPlace": "LAFOX",
+    "radarInstallDate": "2020-02-28T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD813",
     "radarTronconKm": [],
     "radarType": [

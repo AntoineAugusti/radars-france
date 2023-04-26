@@ -1,14 +1,14 @@
 {
-    "nid": "21218",
-    "uuid": "6cd5d472-d705-45dc-97f3-4b1c2485337c",
-    "vid": "21218",
+    "nid": "25229",
+    "uuid": "7d677618-1173-41ac-a9b0-4f0764569887",
+    "vid": "25229",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55182",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONDONVILLE vers MONTAIGUT SUR SAVE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.25909 43.68103)",
-    "radarInstallDate": "2020-06-10T16:23:14",
-    "radarPlace": "DAUX",
+    "radarInstallDate": "2020-06-10T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RN224",
     "radarTronconKm": [],
     "radarType": [

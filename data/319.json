@@ -1,14 +1,14 @@
 {
-    "nid": "19719",
-    "uuid": "43462801-4ed8-4c30-9d6f-98fa93a3d15c",
-    "vid": "19719",
+    "nid": "23647",
+    "uuid": "f825ac71-70c6-4c3f-8ffb-f8266bc8ca55",
+    "vid": "23647",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "319",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PRE EN PAIL ST SAMSON vers DOMFRONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.49413 48.54187)",
-    "radarInstallDate": "2005-02-09T16:19:49",
-    "radarPlace": "JUVIGNY VAL D ANDAINE",
+    "radarInstallDate": "2005-02-09T16:06:09",
+    "radarPlace": [],
     "radarRoad": "RD976",
     "radarTronconKm": [],
     "radarType": [

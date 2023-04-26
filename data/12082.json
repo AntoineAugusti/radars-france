@@ -1,14 +1,14 @@
 {
-    "nid": "21480",
-    "uuid": "bc2411bf-491c-4a2c-838e-2387ff71aacb",
-    "vid": "21480",
+    "nid": "23153",
+    "uuid": "f2573f9b-d8ae-4725-bc90-3ae4974a3efa",
+    "vid": "23153",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12082",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MARSEILLE vers VITROLLES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.341811 43.404368)",
-    "radarInstallDate": "2013-03-25T16:24:10",
-    "radarPlace": "LES PENNES MIRABEAU",
+    "radarInstallDate": "2013-03-25T16:05:30",
+    "radarPlace": [],
     "radarRoad": "A7",
     "radarTronconKm": [],
     "radarType": [

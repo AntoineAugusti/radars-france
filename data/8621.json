@@ -1,14 +1,14 @@
 {
-    "nid": "20367",
-    "uuid": "d451f1ca-523e-43fe-9920-f62c03292acf",
-    "vid": "20367",
+    "nid": "24221",
+    "uuid": "5aecd940-3e12-41f1-98ea-73fc74729553",
+    "vid": "24221",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8621",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RUE BOUSSINGAULT vers QUAI DES BELGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.784924 48.585732)",
-    "radarInstallDate": "2010-11-23T16:20:57",
-    "radarPlace": "STRASBOURG",
+    "radarInstallDate": "2010-11-23T16:07:15",
+    "radarPlace": [],
     "radarRoad": "49 RUE DU GENERAL CONRAD",
     "radarTronconKm": [],
     "radarType": [

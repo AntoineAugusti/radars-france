@@ -1,14 +1,14 @@
 {
-    "nid": "20338",
-    "uuid": "cf7d107c-ee9f-45bd-a346-d1aa68dc86ea",
-    "vid": "20338",
+    "nid": "24194",
+    "uuid": "24d226f7-508c-4289-831c-9467e9914821",
+    "vid": "24194",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8360",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MAMIROLLE vers FALLERANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.27066 47.14395)",
-    "radarInstallDate": "2020-06-22T16:20:53",
-    "radarPlace": "ETALANS",
+    "radarInstallDate": "2020-06-22T16:07:13",
+    "radarPlace": [],
     "radarRoad": "RN57",
     "radarTronconKm": [],
     "radarType": [

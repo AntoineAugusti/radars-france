@@ -1,14 +1,14 @@
 {
-    "nid": "19993",
-    "uuid": "22a1aa5b-8708-43bc-8571-8acb5e3aad15",
-    "vid": "19993",
+    "nid": "23881",
+    "uuid": "0b8ab508-f9b9-4173-818c-95f3956286e2",
+    "vid": "23881",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4378",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SCHIRMECK vers MOLSHEIM",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.345115 48.523482)",
-    "radarInstallDate": "2009-11-20T16:20:14",
-    "radarPlace": "NIEDERHASLACH",
+    "radarInstallDate": "2009-11-20T16:06:33",
+    "radarPlace": [],
     "radarRoad": "RD1420",
     "radarTronconKm": [],
     "radarType": [

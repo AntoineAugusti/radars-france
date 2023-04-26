@@ -1,14 +1,14 @@
 {
-    "nid": "22056",
-    "uuid": "82cbe00d-4769-48a2-9af0-e46f0e506a2d",
-    "vid": "22056",
+    "nid": "25673",
+    "uuid": "dd2bf912-171c-4086-ba1c-39076ef8b7da",
+    "vid": "25673",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE167017",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "March\u00e9 Gare Vers Cronenbourg",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.73171 48.59139)",
-    "radarInstallDate": "2011-06-02T16:26:22",
-    "radarPlace": "STRASBOURG",
+    "radarInstallDate": "2011-06-02T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

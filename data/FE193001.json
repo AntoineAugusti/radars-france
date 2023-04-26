@@ -1,14 +1,14 @@
 {
-    "nid": "22165",
-    "uuid": "9a155ce4-0667-45c5-b98a-9688203eb097",
-    "vid": "22165",
+    "nid": "25780",
+    "uuid": "a9ca6474-8646-44b0-84f3-e4ee3ae13efb",
+    "vid": "25780",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE193001",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.45184 48.91969)",
-    "radarInstallDate": "2011-11-11T16:26:50",
-    "radarPlace": "DRANCY",
+    "radarInstallDate": "2011-11-11T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

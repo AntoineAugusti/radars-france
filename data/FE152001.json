@@ -1,14 +1,14 @@
 {
-    "nid": "21948",
-    "uuid": "d0c5448e-c429-41ff-8b7e-0e8f4e546e83",
-    "vid": "21948",
+    "nid": "25586",
+    "uuid": "8807a976-2669-4ac9-a41e-19eb7f783c25",
+    "vid": "25586",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE152001",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sens Nord vers Sud",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (5.330576 47.858618)",
-    "radarInstallDate": "2013-03-25T16:25:53",
-    "radarPlace": "LANGRES",
+    "radarInstallDate": "2013-03-25T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

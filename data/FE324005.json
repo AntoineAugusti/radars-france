@@ -1,14 +1,14 @@
 {
-    "nid": "22404",
-    "uuid": "161a2aec-9d59-4a94-af10-1cf98952da3a",
-    "vid": "22404",
+    "nid": "25925",
+    "uuid": "c3042c87-6127-49c3-a188-a9781807ced8",
+    "vid": "25925",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE324005",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Angoul\u00eame vers Centre ville de P\u00e9rigueux",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.7033 45.19515)",
-    "radarInstallDate": "2010-03-24T16:27:54",
-    "radarPlace": "PERIGUEUX",
+    "radarInstallDate": "2010-03-24T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

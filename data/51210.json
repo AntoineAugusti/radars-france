@@ -1,14 +1,14 @@
 {
-    "nid": "20855",
-    "uuid": "f08a13df-4cae-45f8-8143-a90e95af2061",
-    "vid": "20855",
+    "nid": "24780",
+    "uuid": "06600f76-35e7-4a0f-b330-6598bd9f1ca7",
+    "vid": "24780",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51210",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAMBRAI vers DOUAI",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.162564 50.253413)",
-    "radarInstallDate": "2020-02-13T16:22:08",
-    "radarPlace": "AUBENCHEUL AU BAC",
+    "radarInstallDate": "2020-02-13T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD643",
     "radarTronconKm": [],
     "radarType": [

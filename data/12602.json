@@ -1,14 +1,14 @@
 {
-    "nid": "21836",
-    "uuid": "ea948fa5-76e2-4648-995e-3e4fb6739a67",
-    "vid": "21836",
+    "nid": "23512",
+    "uuid": "bde42c6f-2789-4a78-bad5-9aafa737da5d",
+    "vid": "23512",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12602",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers STRASBOURG",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.164505 48.751092)",
-    "radarInstallDate": "2020-11-09T16:25:31",
-    "radarPlace": "BROUVILLER",
+    "radarInstallDate": "2020-11-09T16:05:57",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

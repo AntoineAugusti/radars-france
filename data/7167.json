@@ -1,14 +1,14 @@
 {
-    "nid": "20260",
-    "uuid": "1ccaf09c-a396-42c4-864e-549331a07a53",
-    "vid": "20260",
+    "nid": "24128",
+    "uuid": "496fb1f2-7896-4b85-b71a-ea5857fb67d1",
+    "vid": "24128",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7167",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nogent vers A3",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.47448 48.88166)",
-    "radarInstallDate": "2008-01-18T16:20:42",
-    "radarPlace": "ROSNY SOUS BOIS",
+    "radarInstallDate": "2008-01-18T16:07:02",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

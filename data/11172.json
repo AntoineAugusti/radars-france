@@ -1,14 +1,14 @@
 {
-    "nid": "20546",
-    "uuid": "8a80b2b3-90e3-4dcb-a896-fe03330a995b",
-    "vid": "20546",
+    "nid": "24375",
+    "uuid": "1a76a06b-dc57-42c0-83c1-c83619ecb96e",
+    "vid": "24375",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11172",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "REALMONT vers CASTRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2242 43.636)",
-    "radarInstallDate": "2012-04-24T16:21:22",
-    "radarPlace": "CASTRES",
+    "radarInstallDate": "2012-04-24T16:07:37",
+    "radarPlace": [],
     "radarRoad": "RD612",
     "radarTronconKm": [],
     "radarType": [

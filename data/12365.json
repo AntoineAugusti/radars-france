@@ -1,14 +1,14 @@
 {
-    "nid": "21646",
-    "uuid": "acef09c3-987d-4be7-b683-b7eaa7d25f54",
-    "vid": "21646",
+    "nid": "23314",
+    "uuid": "fe1d690f-6f41-46ac-ab61-e3fcd972425b",
+    "vid": "23314",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12365",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLEDIEU LES POELES ROUFFIGNY vers CAEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.08303 48.9207)",
-    "radarInstallDate": "2016-12-05T16:24:43",
-    "radarPlace": "GOUVETS",
+    "radarInstallDate": "2016-12-05T16:05:41",
+    "radarPlace": [],
     "radarRoad": "A84",
     "radarTronconKm": [],
     "radarType": [

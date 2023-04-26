@@ -1,14 +1,14 @@
 {
-    "nid": "19722",
-    "uuid": "0c484579-9760-4328-ae6f-5da6d21d8568",
-    "vid": "19722",
+    "nid": "23650",
+    "uuid": "2957a3ea-1457-4f93-9ab4-0b0549590a8d",
+    "vid": "23650",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "334",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CASTELSARRASIN vers MONTAUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.23141 44.03106)",
-    "radarInstallDate": "2005-07-25T16:19:49",
-    "radarPlace": "LA VILLE DIEU DU TEMPLE",
+    "radarInstallDate": "2005-07-25T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RD958",
     "radarTronconKm": [],
     "radarType": [

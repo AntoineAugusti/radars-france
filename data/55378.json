@@ -1,14 +1,14 @@
 {
-    "nid": "21399",
-    "uuid": "beafe68e-0b0f-458b-ac36-30bc1e6b707b",
-    "vid": "21399",
+    "nid": "25415",
+    "uuid": "92894fb2-1125-4ae7-a025-401f3d2e1c23",
+    "vid": "25415",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55378",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FUMEL vers TOUZAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.003637 44.492078)",
-    "radarInstallDate": "2021-01-13T16:23:51",
-    "radarPlace": "FUMEL",
+    "radarInstallDate": "2021-01-13T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD911",
     "radarTronconKm": [],
     "radarType": [

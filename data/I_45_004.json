@@ -1,14 +1,14 @@
 {
-    "nid": "22789",
-    "uuid": "941ed95f-83b1-43f7-a84e-e5992ad2a87e",
-    "vid": "22789",
+    "nid": "26329",
+    "uuid": "24abe687-14e1-40fd-94ff-e5fc59b5d5e0",
+    "vid": "26329",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229221",
+    "revisionTimestamp": "1681741051",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_45_004",
-    "created": "1637229221",
-    "changed": "1637229221",
+    "created": "1681741051",
+    "changed": "1681741051",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "45 - Loiret",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (47.876884 2.237706)",
-    "radarInstallDate": "2017-10-06T10:53:41",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.125738 44.130222)",
+    "radarInstallDate": "2017-10-09T16:17:32",
     "radarPlace": "-",
     "radarRoad": "D848, D948, D961, D56, D962, D652, D119, , D953, D88, D148, D44, D952",
-    "radarTronconKm": "37.20",
+    "radarTronconKm": "37,2",
     "radarType": [
         {
             "tid": "19",

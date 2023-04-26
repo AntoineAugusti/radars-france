@@ -1,14 +1,14 @@
 {
-    "nid": "21396",
-    "uuid": "93673739-36fc-43b8-9707-2b81c18b73e2",
-    "vid": "21396",
+    "nid": "25411",
+    "uuid": "a76b223c-f1ea-41f0-a7ca-33ad59e63b29",
+    "vid": "25411",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55372",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT ANDRE LES ALPES vers BARREME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.479397 43.960568)",
-    "radarInstallDate": "2020-09-10T16:23:51",
-    "radarPlace": "MORIEZ",
+    "radarInstallDate": "2020-09-10T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RN202",
     "radarTronconKm": [],
     "radarType": [

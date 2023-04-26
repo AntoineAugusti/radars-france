@@ -1,14 +1,14 @@
 {
-    "nid": "22838",
-    "uuid": "d4ae069a-6d0b-49e8-9078-26fdcff1d908",
-    "vid": "22838",
+    "nid": "26385",
+    "uuid": "1fdf677d-dc8a-4f50-a868-2eda87d317ee",
+    "vid": "26385",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229224",
+    "revisionTimestamp": "1681741063",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_64_001",
-    "created": "1637229224",
-    "changed": "1637229224",
+    "created": "1681741063",
+    "changed": "1681741063",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "64 - Pyr\u00e9n\u00e9es-Atlantiques",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (43.32692 -1.385614)",
-    "radarInstallDate": "2017-10-06T10:53:45",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (-1.177529 44.411854)",
+    "radarInstallDate": "2017-10-05T16:17:45",
     "radarPlace": "-",
     "radarRoad": "D119, D349, D169, D918",
-    "radarTronconKm": "14.98",
+    "radarTronconKm": "15",
     "radarType": [
         {
             "tid": "19",

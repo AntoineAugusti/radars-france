@@ -1,14 +1,14 @@
 {
-    "nid": "20880",
-    "uuid": "eeb8545d-097e-4643-8f18-8957d4fcfe74",
-    "vid": "20880",
+    "nid": "24807",
+    "uuid": "0c107698-c83c-409a-82e2-c6d265e2be1d",
+    "vid": "24807",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51238",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT JEAN LES DEUX JUMEAUX vers MEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.97644 48.958685)",
-    "radarInstallDate": "2020-12-02T16:22:13",
-    "radarPlace": "TRILPORT",
+    "radarInstallDate": "2020-12-02T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD603",
     "radarTronconKm": [],
     "radarType": [

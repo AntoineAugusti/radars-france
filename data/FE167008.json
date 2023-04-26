@@ -1,14 +1,14 @@
 {
-    "nid": "22051",
-    "uuid": "4460d699-0fcf-420a-bb78-3047527ecc49",
-    "vid": "22051",
+    "nid": "25668",
+    "uuid": "b0407c76-3ddd-4b65-9025-6f277b2d89d2",
+    "vid": "25668",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE167008",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vers Strasbourg",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.45673 48.26793)",
-    "radarInstallDate": "2011-05-20T16:26:21",
-    "radarPlace": "SELESTAT",
+    "radarInstallDate": "2011-05-20T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

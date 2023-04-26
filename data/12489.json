@@ -1,14 +1,14 @@
 {
-    "nid": "21753",
-    "uuid": "82b89b3a-81a3-4f71-91aa-54d6935d3fa8",
-    "vid": "21753",
+    "nid": "23421",
+    "uuid": "5003cdc1-b949-400b-9635-28d663dfbc5f",
+    "vid": "23421",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12489",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EVREUX vers DREUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.179271 48.853662)",
-    "radarInstallDate": "2016-12-20T16:25:11",
-    "radarPlace": "MOISVILLE",
+    "radarInstallDate": "2016-12-20T16:05:49",
+    "radarPlace": [],
     "radarRoad": "RN154",
     "radarTronconKm": [],
     "radarType": [

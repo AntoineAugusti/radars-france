@@ -1,14 +1,14 @@
 {
-    "nid": "19867",
-    "uuid": "06f562f8-1080-4845-8559-a61c906a0799",
-    "vid": "19867",
+    "nid": "23773",
+    "uuid": "55ad6379-ffe3-492e-b742-5ec08008b9b8",
+    "vid": "23773",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "883",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MERCUES vers CAHORS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.41351 44.48061)",
-    "radarInstallDate": "2006-01-03T16:20:02",
-    "radarPlace": "CAHORS",
+    "radarInstallDate": "2006-01-03T16:06:22",
+    "radarPlace": [],
     "radarRoad": "RD811",
     "radarTronconKm": [],
     "radarType": [

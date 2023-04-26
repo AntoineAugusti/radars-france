@@ -1,14 +1,14 @@
 {
-    "nid": "20114",
-    "uuid": "6b118ec6-2468-422d-bb66-65181d38b1e4",
-    "vid": "20114",
+    "nid": "23998",
+    "uuid": "400bd642-c444-4dfc-b773-f80845676b1c",
+    "vid": "23998",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6012",
-    "created": "1637229118",
-    "changed": "1675869624",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS ORGEVAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.23885 48.89171)",
-    "radarInstallDate": "2006-05-22T16:20:26",
-    "radarPlace": "PUTEAUX",
+    "radarInstallDate": "2006-05-22T16:06:47",
+    "radarPlace": [],
     "radarRoad": "A14",
     "radarTronconKm": [],
     "radarType": [

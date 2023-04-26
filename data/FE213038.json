@@ -1,14 +1,14 @@
 {
-    "nid": "22233",
-    "uuid": "59dbe26f-17bc-452b-b257-697f145650da",
-    "vid": "22233",
+    "nid": "25833",
+    "uuid": "83d0c196-5772-42d1-835c-f1135b9c2d20",
+    "vid": "25833",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229188",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE213038",
-    "created": "1637229188",
-    "changed": "1675870018",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RD8N sens Aubagne vers Toulon",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.69981 43.27582)",
-    "radarInstallDate": "2012-06-21T16:27:05",
-    "radarPlace": "CUGES LES PINS",
+    "radarInstallDate": "2012-06-21T16:12:40",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

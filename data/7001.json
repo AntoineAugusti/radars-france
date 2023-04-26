@@ -1,14 +1,14 @@
 {
-    "nid": "20214",
-    "uuid": "9df3498f-e445-4bd0-890c-546f5aec539e",
-    "vid": "20214",
+    "nid": "24087",
+    "uuid": "aee1a047-ac60-46d3-a087-a2b7b0eb5a4a",
+    "vid": "24087",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7001",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "B\u00e2le vers Mulhouse",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.52692 47.60741)",
-    "radarInstallDate": "2007-11-26T16:20:38",
-    "radarPlace": "ST LOUIS",
+    "radarInstallDate": "2007-11-26T16:06:58",
+    "radarPlace": [],
     "radarRoad": "A35",
     "radarTronconKm": [],
     "radarType": [

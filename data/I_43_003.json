@@ -1,14 +1,14 @@
 {
-    "nid": "22784",
-    "uuid": "06cf3260-0893-4224-9887-49cb7c5e940d",
-    "vid": "22784",
+    "nid": "26323",
+    "uuid": "35d7488c-6d3c-43dd-8ede-0e99c8de127e",
+    "vid": "26323",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229221",
+    "revisionTimestamp": "1681741049",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_43_003",
-    "created": "1637229221",
-    "changed": "1637229221",
+    "created": "1681741049",
+    "changed": "1681741049",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "43 - Haute-Loire",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "3.744984, 45.112248",
-    "radarEquipment": "-",
+    "radarDirection": "48.333057, 0.783262",
+    "radarEquipment": "AXIMUM",
     "radarGeolocalisation": [],
-    "radarInstallDate": "2017-10-05T10:53:41",
+    "radarInstallDate": "2020-02-10T16:17:31",
     "radarPlace": "N102\"",
     "radarRoad": "\"300",
-    "radarTronconKm": "-",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

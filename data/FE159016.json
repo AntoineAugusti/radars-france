@@ -1,14 +1,14 @@
 {
-    "nid": "21987",
-    "uuid": "13ffb2bf-2f01-44fc-a8c2-4b3b4fcc0bbc",
-    "vid": "21987",
+    "nid": "25623",
+    "uuid": "40031951-b5c1-48bd-bda4-621726b9e82a",
+    "vid": "25623",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159016",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue D'artois vers la Rue Cond\u00e9",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.0612 50.62248)",
-    "radarInstallDate": "2010-04-19T16:26:07",
-    "radarPlace": "LILLE",
+    "radarInstallDate": "2010-04-19T16:11:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

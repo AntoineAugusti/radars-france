@@ -1,14 +1,14 @@
 {
-    "nid": "20759",
-    "uuid": "370e9de4-c7dc-4c5e-ba02-021a03f857c6",
-    "vid": "20759",
+    "nid": "24683",
+    "uuid": "3dc177e3-5209-4f13-be58-691c895f7314",
+    "vid": "24683",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51111",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAU RENAULT vers AMBOISE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.956813 47.566734)",
-    "radarInstallDate": "2019-11-28T16:21:52",
-    "radarPlace": "AUZOUER EN TOURAINE",
+    "radarInstallDate": "2019-11-28T16:08:26",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

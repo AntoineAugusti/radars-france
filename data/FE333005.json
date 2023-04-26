@@ -1,14 +1,14 @@
 {
-    "nid": "22449",
-    "uuid": "fcf7a2be-32ab-44c6-96df-5a7a01c21675",
-    "vid": "22449",
+    "nid": "25965",
+    "uuid": "7a48427d-0750-42d0-9dbd-bd6c57e07a2e",
+    "vid": "25965",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE333005",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Cours du M\u00e9doc vers les Quais",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.5691 44.86011)",
-    "radarInstallDate": "2012-05-10T16:28:02",
-    "radarPlace": "BORDEAUX",
+    "radarInstallDate": "2012-05-10T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

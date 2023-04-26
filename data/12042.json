@@ -1,14 +1,14 @@
 {
-    "nid": "21452",
-    "uuid": "df24ee4c-5661-4bbd-85e4-f26d83758ccb",
-    "vid": "21452",
+    "nid": "23126",
+    "uuid": "5a1a9d7c-303b-412f-9137-af7eb6b68984",
+    "vid": "23126",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12042",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SENS vers NEMOURS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.1904 48.176)",
-    "radarInstallDate": "2011-12-05T16:24:03",
-    "radarPlace": "VILLEROY",
+    "radarInstallDate": "2011-12-05T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RD81",
     "radarTronconKm": [],
     "radarType": [

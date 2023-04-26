@@ -1,14 +1,14 @@
 {
-    "nid": "20940",
-    "uuid": "3b680ef8-4f7e-44ef-b1fb-84bb60475385",
-    "vid": "20940",
+    "nid": "24867",
+    "uuid": "4b98350d-dc1a-4c0f-afcf-a33fa4c1dfbb",
+    "vid": "24867",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51301",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAUME LES DAMES vers VALDAHON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.365523 47.331726)",
-    "radarInstallDate": "2020-07-27T16:22:22",
-    "radarPlace": "PONT LES MOULINS",
+    "radarInstallDate": "2020-07-27T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD50",
     "radarTronconKm": [],
     "radarType": [

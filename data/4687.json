@@ -1,14 +1,14 @@
 {
-    "nid": "20061",
-    "uuid": "ec10bb2f-0f09-4d86-9e4a-8e1f4c1002ad",
-    "vid": "20061",
+    "nid": "23945",
+    "uuid": "4abc66af-06eb-462f-bf49-9418aff61b02",
+    "vid": "23945",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4687",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE BOURGET vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.40266 48.9355)",
-    "radarInstallDate": "2009-10-08T16:20:22",
-    "radarPlace": "LA COURNEUVE",
+    "radarInstallDate": "2009-10-08T16:06:42",
+    "radarPlace": [],
     "radarRoad": "A1",
     "radarTronconKm": [],
     "radarType": [

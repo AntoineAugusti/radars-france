@@ -1,14 +1,14 @@
 {
-    "nid": "22761",
-    "uuid": "40f4d4d8-360c-4cb7-a59e-65420d1b51a3",
-    "vid": "22761",
+    "nid": "26294",
+    "uuid": "7f4d07ac-57ca-4cda-950b-3521d9208abd",
+    "vid": "26294",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229219",
+    "revisionTimestamp": "1681741045",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_33_002",
-    "created": "1637229219",
-    "changed": "1637229219",
+    "created": "1681741045",
+    "changed": "1681741045",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "33 - Gironde",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (44.886798 -0.569323)",
-    "radarInstallDate": "2017-10-18T10:53:40",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (0.69992 45.135573)",
+    "radarInstallDate": "2017-10-05T16:17:26",
     "radarPlace": "-",
     "radarRoad": "D108, N230, D936, D803, A631, N89, A630, E70, D2215, D1010, A63, A62, D113, D1215, D1113, E5, E606",
-    "radarTronconKm": "43.66",
+    "radarTronconKm": "43,7",
     "radarType": [
         {
             "tid": "19",

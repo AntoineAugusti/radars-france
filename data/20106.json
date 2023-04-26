@@ -1,14 +1,14 @@
 {
-    "nid": "22647",
-    "uuid": "69e2040a-82d3-410b-a5c3-9b28c8b60a40",
-    "vid": "22647",
+    "nid": "26166",
+    "uuid": "79a8b402-65e5-4cca-81cc-b5ae54e916b6",
+    "vid": "26166",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20106",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "LAMASTRE vers TOURNON SUR RHONE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.70022 45.02639)",
-    "radarInstallDate": "2014-04-01T10:53:36",
+    "radarInstallDate": "2014-04-01T16:17:08",
     "radarPlace": "BOUCIEU LE ROI",
-    "radarRoad": "RD 534",
+    "radarRoad": "RD534",
     "radarTronconKm": "6,9",
     "radarType": [
         {
@@ -108,9 +108,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "7",
-            "uuid": "c447707a-c428-4166-ac14-c667a8cdcb41",
-            "revisionId": "7",
+            "tid": "8",
+            "uuid": "9202ddc3-ba6a-450b-bdbf-86b3582f0107",
+            "revisionId": "8",
             "langcode": "fr",
             "vid": [
                 {
@@ -121,7 +121,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 80",
+            "name": "Vitesse VL 90",
             "description": [
                 {
                     "value": null,
@@ -134,7 +134,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154470",
+            "changed": "1515154485",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -146,30 +146,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-80.png?itok=TcuP772z",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-90.png?itok=W0JW7Fma",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-80.png?itok=TK2yJ19C",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-90.png?itok=NvEa8V-1",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-80.png?itok=thPluA0X",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-90.png?itok=b9OnBVQV",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-80.png",
-                        "fileCreated": "1515154465",
-                        "fileSize": "4045",
+                        "fileName": "vitesse-90.png",
+                        "fileCreated": "1515154481",
+                        "fileSize": "3523",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_80",
+            "macineName": "vitesse_vl_90",
             "ruleLabel": "Vitesse"
         }
     ],

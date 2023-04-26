@@ -1,14 +1,14 @@
 {
-    "nid": "20573",
-    "uuid": "01dae894-3bf8-4b35-b79d-0be7799a889a",
-    "vid": "20573",
+    "nid": "24402",
+    "uuid": "d44e70f8-07e2-4657-83d9-ed91dcb72f8a",
+    "vid": "24402",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11250",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAMONIX MONT BLANC vers MACON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.2291 46.181)",
-    "radarInstallDate": "2013-01-23T16:21:26",
-    "radarPlace": "ETREMBIERES",
+    "radarInstallDate": "2013-01-23T16:07:42",
+    "radarPlace": [],
     "radarRoad": "A40",
     "radarTronconKm": [],
     "radarType": [

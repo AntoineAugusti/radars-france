@@ -1,14 +1,14 @@
 {
-    "nid": "21566",
-    "uuid": "7d02af5b-74b8-4147-a74e-b573281a79f9",
-    "vid": "21566",
+    "nid": "23236",
+    "uuid": "3b36b8fc-88e3-4793-9753-351abdcbbc95",
+    "vid": "23236",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12238",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "PARIS vers NANCY",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (5.4252 48.703)",
-    "radarInstallDate": "2013-11-04T16:24:28",
-    "radarPlace": "ST AUBIN SUR AIRE",
+    "radarGeolocalisation": "POINT (5.42523 48.70354)",
+    "radarInstallDate": "2013-11-04T16:05:36",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

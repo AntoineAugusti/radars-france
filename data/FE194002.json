@@ -1,14 +1,14 @@
 {
-    "nid": "22167",
-    "uuid": "f366a8f4-cf39-4eac-abd0-b121fbc7e9b8",
-    "vid": "22167",
+    "nid": "25782",
+    "uuid": "b25f0c9c-f816-4f64-b3f2-2be86dc040fa",
+    "vid": "25782",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE194002",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Paris vers Province",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.42036 48.7984)",
-    "radarInstallDate": "2010-08-03T16:26:50",
-    "radarPlace": "ALFORTVILLE",
+    "radarInstallDate": "2010-08-03T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

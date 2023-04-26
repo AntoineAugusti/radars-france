@@ -1,14 +1,14 @@
 {
-    "nid": "20993",
-    "uuid": "1f6825e8-4432-4b75-bc8b-8335aa56cddf",
-    "vid": "20993",
+    "nid": "24931",
+    "uuid": "fcdf16ee-d623-4c54-9a7f-03bfdb627827",
+    "vid": "24931",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51371",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "10-AUBE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "TROYES vers ROMILLY SUR SEINE",
+    "radarDirection": "ROMILLY SUR SEINE vers TROYES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.896049 48.461039)",
-    "radarInstallDate": "2020-11-24T16:22:32",
-    "radarPlace": "VALLANT SAINT GEORGES",
+    "radarInstallDate": "2020-11-24T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD619",
     "radarTronconKm": [],
     "radarType": [

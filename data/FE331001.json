@@ -1,14 +1,14 @@
 {
-    "nid": "22429",
-    "uuid": "147f07af-1be9-421d-82cf-bb38fc8f7c45",
-    "vid": "22429",
+    "nid": "25948",
+    "uuid": "93b7dfb6-9922-41ee-ae4a-d33ad227ebfa",
+    "vid": "25948",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE331001",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "P\u00e9riph\u00e9rique vers centre ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.40677 43.58659)",
-    "radarInstallDate": "2010-01-26T16:28:02",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2010-01-26T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

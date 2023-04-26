@@ -1,14 +1,14 @@
 {
-    "nid": "21982",
-    "uuid": "3ee16a78-ab5b-47d1-91fa-0d9fc279301a",
-    "vid": "21982",
+    "nid": "25619",
+    "uuid": "ea062d48-8a90-4905-b726-cf034bbdbba6",
+    "vid": "25619",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159011",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "De la Rue Alfred Delecourt vers la Rue du Sapin Vert",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.17946 50.71484)",
-    "radarInstallDate": "2010-07-02T16:26:07",
-    "radarPlace": "WATTRELOS",
+    "radarInstallDate": "2010-07-02T16:11:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

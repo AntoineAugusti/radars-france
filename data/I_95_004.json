@@ -1,14 +1,14 @@
 {
-    "nid": "22899",
-    "uuid": "0777b8ee-6623-4fe9-a718-f8f6d31add08",
-    "vid": "22899",
+    "nid": "26461",
+    "uuid": "f5b96e8d-7e75-4445-95a3-3dea3471bdb4",
+    "vid": "26461",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741085",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_95_004",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741085",
+    "changed": "1681741085",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "95 - Val-d'oise",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "2.446617, 49.100141",
-    "radarEquipment": "-",
+    "radarDirection": "48.652733, 5.895538",
+    "radarEquipment": "AXIMUM",
     "radarGeolocalisation": [],
-    "radarInstallDate": "2017-10-09T10:53:49",
+    "radarInstallDate": "2017-10-06T16:18:06",
     "radarPlace": "D316, D922, D922C2\"",
     "radarRoad": "\"300",
-    "radarTronconKm": "-",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

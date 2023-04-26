@@ -1,14 +1,14 @@
 {
-    "nid": "20421",
-    "uuid": "527bdf29-0dd5-490f-b3d8-ea29464b64b9",
-    "vid": "20421",
+    "nid": "24268",
+    "uuid": "4f126ed2-53c5-4a7c-8b5d-3455ce5ebf89",
+    "vid": "24268",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8785",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA TRANCHE SUR MER vers MOUTIERS LES MAUXFAITS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.4172 46.366)",
-    "radarInstallDate": "2011-02-11T16:21:05",
-    "radarPlace": "ANGLES",
+    "radarInstallDate": "2011-02-11T16:07:22",
+    "radarPlace": [],
     "radarRoad": "RD747",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20257",
-    "uuid": "fe78d269-6819-4e2d-92f6-9154697a9224",
-    "vid": "20257",
+    "nid": "24125",
+    "uuid": "3c00c08a-d3f1-4467-bf5e-9a9ea614d577",
+    "vid": "24125",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7164",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nevers vers Fourchambault",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.09993 47.0018)",
-    "radarInstallDate": "2008-03-25T16:20:41",
-    "radarPlace": "MARZY",
+    "radarInstallDate": "2008-03-25T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RD40",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20483",
-    "uuid": "0b5880a2-15cb-4c88-8577-4d3aec10428e",
-    "vid": "20483",
+    "nid": "24325",
+    "uuid": "90cb33c0-0e0d-47e4-8131-0119b8d98116",
+    "vid": "24325",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8990",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FOS SUR MER vers MARSEILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.36489 43.30321)",
-    "radarInstallDate": "2014-01-27T16:21:14",
-    "radarPlace": "MARSEILLE",
+    "radarInstallDate": "2014-01-27T16:07:31",
+    "radarPlace": [],
     "radarRoad": "Tunnel de la Joliette",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21105",
-    "uuid": "e8eb59c7-80c5-42d1-a9fe-372757fa51dd",
-    "vid": "21105",
+    "nid": "25118",
+    "uuid": "72e551b8-a390-44a7-b295-d0b9a9832dfc",
+    "vid": "25118",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55068",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "REMOULINS vers NIMES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.50051 43.887223)",
-    "radarInstallDate": "2019-09-20T16:22:50",
-    "radarPlace": "BEZOUCE",
+    "radarInstallDate": "2019-09-20T16:09:48",
+    "radarPlace": [],
     "radarRoad": "RD6086",
     "radarTronconKm": [],
     "radarType": [

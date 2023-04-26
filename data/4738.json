@@ -1,14 +1,14 @@
 {
-    "nid": "20066",
-    "uuid": "ad95ae80-8392-4bc4-bf8a-1d216ba0e19a",
-    "vid": "20066",
+    "nid": "23950",
+    "uuid": "bb081ad1-ea39-4e1a-a769-6de3f8c80ee7",
+    "vid": "23950",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4738",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VIC SUR CERE vers AURILLAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.58573 44.95437)",
-    "radarInstallDate": "2009-12-03T16:20:23",
-    "radarPlace": "POLMINHAC",
+    "radarInstallDate": "2009-12-03T16:06:42",
+    "radarPlace": [],
     "radarRoad": "RN122",
     "radarTronconKm": [],
     "radarType": [

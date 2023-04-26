@@ -1,14 +1,14 @@
 {
-    "nid": "22202",
-    "uuid": "8c8a1b3a-bfb6-4641-956f-be94a80c3dd0",
-    "vid": "22202",
+    "nid": "25817",
+    "uuid": "93340055-413f-4f41-88c7-fcadf0a7e44f",
+    "vid": "25817",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229186",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195040",
-    "created": "1637229186",
-    "changed": "1675870011",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Courdimanche vers Puiseux-Pontoise",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.01539 49.0549)",
-    "radarInstallDate": "2011-01-10T16:26:58",
-    "radarPlace": "CERGY",
+    "radarInstallDate": "2011-01-10T16:12:39",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

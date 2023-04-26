@@ -1,14 +1,14 @@
 {
-    "nid": "20843",
-    "uuid": "bd6cda63-97a3-4394-98a1-70d24573555d",
-    "vid": "20843",
+    "nid": "24767",
+    "uuid": "57633820-0823-4e23-b323-806dfd4ef7dc",
+    "vid": "24767",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51196",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "WITTENHEIM vers ENSISHEIM",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.341602 47.835802)",
-    "radarInstallDate": "2020-01-28T16:22:07",
-    "radarPlace": "ENSISHEIM",
+    "radarInstallDate": "2020-01-28T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD20",
     "radarTronconKm": [],
     "radarType": [

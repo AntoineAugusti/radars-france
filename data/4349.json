@@ -1,14 +1,14 @@
 {
-    "nid": "19986",
-    "uuid": "d6f3df64-e981-46dc-a15c-2f14165f99c2",
-    "vid": "19986",
+    "nid": "23874",
+    "uuid": "db8adcb1-2f7b-4400-869c-4b07181fb2b5",
+    "vid": "23874",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4349",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Landerneau vers Daoulas",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-4.24803 48.40219)",
-    "radarInstallDate": "2009-06-23T16:20:14",
-    "radarPlace": "DIRINON",
+    "radarInstallDate": "2009-06-23T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD770",
     "radarTronconKm": [],
     "radarType": [

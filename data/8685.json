@@ -1,14 +1,14 @@
 {
-    "nid": "20391",
-    "uuid": "dbd67528-a389-4248-8eb2-40fb22c44aa7",
-    "vid": "20391",
+    "nid": "24242",
+    "uuid": "588d53ec-bddf-4c2f-b3f0-da8d3af862c9",
+    "vid": "24242",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8685",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Porte Dor\u00e9e vers Porte de Montreuil",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.41434 48.84569)",
-    "radarInstallDate": "2013-11-04T16:21:01",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-11-04T16:07:18",
+    "radarPlace": [],
     "radarRoad": "Porte de Vincennes - BP ext\u00e9rieur (12i\u00e8me)",
     "radarTronconKm": [],
     "radarType": [

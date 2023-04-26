@@ -1,14 +1,14 @@
 {
-    "nid": "20847",
-    "uuid": "66b4f3bd-2b9e-442b-922e-b2448685d67c",
-    "vid": "20847",
+    "nid": "24771",
+    "uuid": "68eac4e4-5d4b-412e-bb00-e435fc1293f3",
+    "vid": "24771",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51200",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT ESCOBILLE vers AUTHON LA PLAINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.957466 48.443143)",
-    "radarInstallDate": "2020-10-09T16:22:07",
-    "radarPlace": "AUTHON LA PLAINE",
+    "radarInstallDate": "2020-10-09T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD838",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21147",
-    "uuid": "dd1a1d08-7f5f-4d9a-bfff-ea8ae9ffa644",
-    "vid": "21147",
+    "nid": "25158",
+    "uuid": "045769a4-349b-43a6-a0d9-31871f3d8c51",
+    "vid": "25158",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55111",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VALFLAUNES vers LE TRIADOU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.87394 43.78758)",
-    "radarInstallDate": "2020-10-28T16:23:01",
-    "radarPlace": "ST MATHIEU DE TREVIERS",
+    "radarInstallDate": "2020-10-28T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD17",
     "radarTronconKm": [],
     "radarType": [

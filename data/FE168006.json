@@ -1,14 +1,14 @@
 {
-    "nid": "22060",
-    "uuid": "02ae24c5-1e5a-45f3-8749-a9f620e76752",
-    "vid": "22060",
+    "nid": "25677",
+    "uuid": "68696a14-62b0-476a-b218-c305fed09ee6",
+    "vid": "25677",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168006",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avenue Aristide Briand vers Lutterbach",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.32235 47.74795)",
-    "radarInstallDate": "2010-09-29T16:26:22",
-    "radarPlace": "MULHOUSE",
+    "radarInstallDate": "2010-09-29T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

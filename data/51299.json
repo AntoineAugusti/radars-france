@@ -1,14 +1,14 @@
 {
-    "nid": "20938",
-    "uuid": "86aa8da5-8280-425e-8d34-81bfbd4ce0f8",
-    "vid": "20938",
+    "nid": "24865",
+    "uuid": "aec3c359-0a1a-4da4-b76f-bc4742783904",
+    "vid": "24865",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51299",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CARPIQUET vers FONTENAY LE PESNEL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.514998 49.176793)",
-    "radarInstallDate": "2020-07-15T16:22:22",
-    "radarPlace": "THUE ET MUE",
+    "radarInstallDate": "2020-07-15T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD9",
     "radarTronconKm": [],
     "radarType": [

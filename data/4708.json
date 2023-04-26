@@ -1,14 +1,14 @@
 {
-    "nid": "20063",
-    "uuid": "39b4dbea-622d-4755-a751-a33e5366203d",
-    "vid": "20063",
+    "nid": "23947",
+    "uuid": "434c8b98-53c9-4748-9c1e-185456049868",
+    "vid": "23947",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4708",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Touvois vers Bourgneuf en Retz",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.82915 47.00263)",
-    "radarInstallDate": "2009-08-14T16:20:22",
-    "radarPlace": "MACHECOUL ST MEME",
+    "radarInstallDate": "2009-08-14T16:06:42",
+    "radarPlace": [],
     "radarRoad": "RD13",
     "radarTronconKm": [],
     "radarType": [

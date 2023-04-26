@@ -1,14 +1,14 @@
 {
-    "nid": "21767",
-    "uuid": "99e5ce34-d5c1-4f2e-abe2-cbd70b1a6f34",
-    "vid": "21767",
+    "nid": "23436",
+    "uuid": "ab2783c0-727a-4471-92e8-56541461b141",
+    "vid": "23436",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12505",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORLAIX vers GUINGAMP",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-3.4115 48.548)",
-    "radarInstallDate": "2017-06-08T16:25:11",
-    "radarPlace": "PLOUNEVEZ MOEDEC",
+    "radarInstallDate": "2017-06-08T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

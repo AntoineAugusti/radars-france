@@ -1,14 +1,14 @@
 {
-    "nid": "22325",
-    "uuid": "deefcbbd-207e-4766-97a5-c00a2794b6bf",
-    "vid": "22325",
+    "nid": "25881",
+    "uuid": "9df07ddb-95d6-477d-9d43-6635a574a7e7",
+    "vid": "25881",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE283051",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "La Farl\u00e8de vers La Seyne sur Mer",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.94077 43.12155)",
-    "radarInstallDate": "2012-04-06T16:27:30",
-    "radarPlace": "TOULON",
+    "radarInstallDate": "2012-04-06T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

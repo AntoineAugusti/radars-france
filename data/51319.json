@@ -1,14 +1,14 @@
 {
-    "nid": "20956",
-    "uuid": "b54acf2e-6fec-4fe6-b8e5-1b7e882e3a62",
-    "vid": "20956",
+    "nid": "24884",
+    "uuid": "314fe53b-7cfc-4f2b-a18e-c28e1a2b1fa2",
+    "vid": "24884",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51319",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "HAM vers COMPIEGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.003742 49.592024)",
-    "radarInstallDate": "2021-05-25T16:22:23",
-    "radarPlace": "NOYON",
+    "radarInstallDate": "2021-05-25T16:09:04",
+    "radarPlace": [],
     "radarRoad": "RD932",
     "radarTronconKm": [],
     "radarType": [

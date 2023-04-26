@@ -1,14 +1,14 @@
 {
-    "nid": "20090",
-    "uuid": "dc952217-bd2a-4f44-a1a2-7a1e1d0dd553",
-    "vid": "20090",
+    "nid": "23974",
+    "uuid": "ed849667-81ba-4a9b-b0ee-aa2b3c20afd0",
+    "vid": "23974",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "5115",
-    "created": "1637229118",
-    "changed": "1675869624",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERSAILLES vers NANTERRE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.14801 48.83101)",
-    "radarInstallDate": "2011-01-09T16:20:25",
-    "radarPlace": "VAUCRESSON",
+    "radarInstallDate": "2011-01-09T16:06:43",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

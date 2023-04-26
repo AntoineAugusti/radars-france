@@ -1,14 +1,14 @@
 {
-    "nid": "19800",
-    "uuid": "af827406-c539-499b-b808-6d11ed46c519",
-    "vid": "19800",
+    "nid": "23721",
+    "uuid": "9a90492e-4277-4a25-9753-75aef94433f3",
+    "vid": "23721",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "602",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LONDINIERES vers NEUFCHATEL EN BRAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.42664 49.75073)",
-    "radarInstallDate": "2005-04-09T16:19:55",
-    "radarPlace": "ST MARTIN L HORTIER",
+    "radarInstallDate": "2005-04-09T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RD1314",
     "radarTronconKm": [],
     "radarType": [

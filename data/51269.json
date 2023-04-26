@@ -1,14 +1,14 @@
 {
-    "nid": "20908",
-    "uuid": "74edefc5-8280-42fb-84bc-b4d63ea4393b",
-    "vid": "20908",
+    "nid": "24835",
+    "uuid": "d35df62c-fb88-4f1e-95ad-6826bc4245d9",
+    "vid": "24835",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51269",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DRULINGEN vers SARRE UNION",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.108285 48.922373)",
-    "radarInstallDate": "2020-07-10T16:22:18",
-    "radarPlace": "RIMSDORF",
+    "radarInstallDate": "2020-07-10T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD1061",
     "radarTronconKm": [],
     "radarType": [

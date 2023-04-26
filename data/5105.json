@@ -1,14 +1,14 @@
 {
-    "nid": "20080",
-    "uuid": "aad5862f-95f6-4138-a4c8-47af44a7d805",
-    "vid": "20080",
+    "nid": "23964",
+    "uuid": "21d01a38-9bff-40e5-95ec-1c14e7d03029",
+    "vid": "23964",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "5105",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Versailles vers Rueil",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.15603 48.85599)",
-    "radarInstallDate": "2009-07-01T16:20:23",
-    "radarPlace": "RUEIL MALMAISON",
+    "radarInstallDate": "2009-07-01T16:06:43",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21201",
-    "uuid": "24b87025-f7b0-4f0e-837b-d1de22c66d5e",
-    "vid": "21201",
+    "nid": "25212",
+    "uuid": "5e0fd14a-53ac-479d-83ef-52428d8eeb15",
+    "vid": "25212",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55165",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MENDE vers ALES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.04765 44.182117)",
-    "radarInstallDate": "2020-07-22T16:23:13",
-    "radarPlace": "LES SALLES DU GARDON",
+    "radarInstallDate": "2020-07-22T16:10:07",
+    "radarPlace": [],
     "radarRoad": "RN106",
     "radarTronconKm": [],
     "radarType": [

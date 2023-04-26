@@ -1,14 +1,14 @@
 {
-    "nid": "21427",
-    "uuid": "df9886fd-657a-4b3b-9863-0b1b94af45cc",
-    "vid": "21427",
+    "nid": "25463",
+    "uuid": "b822528e-d506-45bd-a148-0ccca5ccc323",
+    "vid": "25463",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740665",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55434",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740665",
+    "changed": "1681740665",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT CERGUES vers ETREMBIERES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.246718 46.183948)",
-    "radarInstallDate": "2021-08-26T16:23:57",
-    "radarPlace": "ANNEMASSE",
+    "radarInstallDate": "2021-08-26T16:11:11",
+    "radarPlace": [],
     "radarRoad": "12 AVENUE CHARLES DE GAULLE (RD1206)",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21563",
-    "uuid": "1dc64b0a-019d-42b1-93d5-2eee2e29e619",
-    "vid": "21563",
+    "nid": "23233",
+    "uuid": "f5eac2c2-bc7d-4ccb-b01b-b4b20db98abe",
+    "vid": "23233",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12235",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "NANCY vers METZ",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (6.0934 48.867)",
-    "radarInstallDate": "2013-09-13T16:24:28",
-    "radarPlace": "LOISY",
+    "radarGeolocalisation": "POINT (6.093431 48.867421)",
+    "radarInstallDate": "2013-09-13T16:05:35",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

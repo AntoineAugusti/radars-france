@@ -1,14 +1,14 @@
 {
-    "nid": "21725",
-    "uuid": "9c9ef896-f06a-4a2e-ac52-6e5685e21e9d",
-    "vid": "21725",
+    "nid": "23393",
+    "uuid": "5e1d5bfb-48ea-493e-b9a3-05a6cc1573c7",
+    "vid": "23393",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12457",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTES vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.54031 47.27503)",
-    "radarInstallDate": "2018-01-26T16:25:04",
-    "radarPlace": "LA CHAPELLE SUR ERDRE",
+    "radarInstallDate": "2018-01-26T16:05:47",
+    "radarPlace": [],
     "radarRoad": "A11",
     "radarTronconKm": [],
     "radarType": [

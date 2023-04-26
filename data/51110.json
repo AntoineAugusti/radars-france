@@ -1,14 +1,14 @@
 {
-    "nid": "20758",
-    "uuid": "33b6548b-a5e6-4c31-b092-4cc827d1d917",
-    "vid": "20758",
+    "nid": "24682",
+    "uuid": "0748d3fa-456b-4da0-87c2-f3e1e25868e3",
+    "vid": "24682",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51110",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOURS vers SAUMUR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.104168 47.232082)",
-    "radarInstallDate": "2020-03-03T16:21:52",
-    "radarPlace": "CHOUZE SUR LOIRE",
+    "radarInstallDate": "2020-03-03T16:08:26",
+    "radarPlace": [],
     "radarRoad": "RD952",
     "radarTronconKm": [],
     "radarType": [

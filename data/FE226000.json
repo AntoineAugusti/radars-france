@@ -1,14 +1,14 @@
 {
-    "nid": "22262",
-    "uuid": "a7eb39f2-b35c-4329-b385-9201529c1d9b",
-    "vid": "22262",
+    "nid": "25839",
+    "uuid": "308ed347-c3b2-48e7-8a43-efbc668c7be8",
+    "vid": "25839",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229189",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE226000",
-    "created": "1637229189",
-    "changed": "1675870026",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VALENCE vers AVIGNON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.72964 44.55906)",
-    "radarInstallDate": "2010-08-18T16:27:12",
-    "radarPlace": "MONTELIMAR",
+    "radarInstallDate": "2010-08-18T16:12:48",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

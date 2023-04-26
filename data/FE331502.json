@@ -1,14 +1,14 @@
 {
-    "nid": "22443",
-    "uuid": "07f2ea1e-2a5c-4eda-aa6c-8e4b803b5908",
-    "vid": "22443",
+    "nid": "26060",
+    "uuid": "f88e8f48-be5b-4240-b99d-ab27add5cf6c",
+    "vid": "26060",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE331502",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bd Gabriel KOENIGS vers la Place de la patte d'oie",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.42078 43.59349)",
-    "radarInstallDate": "2015-10-19T16:28:02",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2015-10-19T16:13:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

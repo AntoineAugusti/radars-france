@@ -1,14 +1,14 @@
 {
-    "nid": "20205",
-    "uuid": "ed8531f8-e02f-46e5-bd3d-cd2a1ffe8115",
-    "vid": "20205",
+    "nid": "24079",
+    "uuid": "6b7c9fe0-c4bc-4538-aee1-45c081312338",
+    "vid": "24079",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6846",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FISMES VERS BRAINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.63425 49.31047)",
-    "radarInstallDate": "2007-08-15T16:20:35",
-    "radarPlace": "BAZOCHES SUR VESLES",
+    "radarInstallDate": "2007-08-15T16:06:57",
+    "radarPlace": [],
     "radarRoad": "RN31",
     "radarTronconKm": [],
     "radarType": [

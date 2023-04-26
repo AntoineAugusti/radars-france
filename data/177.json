@@ -1,14 +1,14 @@
 {
-    "nid": "19680",
-    "uuid": "b9d161c1-6b1b-447f-ba91-7be9e662a4dc",
-    "vid": "19680",
+    "nid": "23615",
+    "uuid": "d8675bad-1a7d-473d-8f41-fd8b639bf1fa",
+    "vid": "23615",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "177",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST BREVIN LES PINS vers NANTES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.85438 47.19506)",
-    "radarInstallDate": "2004-07-03T16:19:47",
-    "radarPlace": "ROUANS",
+    "radarInstallDate": "2004-07-03T16:06:06",
+    "radarPlace": [],
     "radarRoad": "RD723",
     "radarTronconKm": [],
     "radarType": [

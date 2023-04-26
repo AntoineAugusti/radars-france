@@ -1,14 +1,14 @@
 {
-    "nid": "21148",
-    "uuid": "1b3455e7-d159-4543-a120-be49e96c73f1",
-    "vid": "21148",
+    "nid": "25159",
+    "uuid": "0289277f-0aa3-4340-96e2-20f140b39780",
+    "vid": "25159",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55112",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRAX vers SERIGNAC SUR GARONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.52788 44.20592)",
-    "radarInstallDate": "2020-02-27T16:23:01",
-    "radarPlace": "STE COLOMBE EN BRUILHOIS",
+    "radarInstallDate": "2020-02-27T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD119",
     "radarTronconKm": [],
     "radarType": [

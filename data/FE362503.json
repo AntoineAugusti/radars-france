@@ -1,14 +1,14 @@
 {
-    "nid": "22521",
-    "uuid": "e95b7903-722b-4780-96ee-2c693caa65c7",
-    "vid": "22521",
+    "nid": "26093",
+    "uuid": "2fbe2280-dd1c-4683-8b8d-2ff5decc6749",
+    "vid": "26093",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE362503",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.80525 50.29317)",
-    "radarInstallDate": "2014-09-22T16:28:28",
-    "radarPlace": "ST LAURENT BLANGY",
+    "radarInstallDate": "2014-09-22T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

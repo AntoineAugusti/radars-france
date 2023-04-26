@@ -1,14 +1,14 @@
 {
-    "nid": "21166",
-    "uuid": "57398866-741e-49ef-b9a2-c12a942271f3",
-    "vid": "21166",
+    "nid": "25177",
+    "uuid": "36f764ad-fbbb-4596-b31f-563fd1fe0f29",
+    "vid": "25177",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55130",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALES vers BAGNOLS SUR CEZE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.56157 44.16257)",
-    "radarInstallDate": "2020-02-12T16:23:02",
-    "radarPlace": "SABRAN",
+    "radarInstallDate": "2020-02-12T16:10:01",
+    "radarPlace": [],
     "radarRoad": "RD6",
     "radarTronconKm": [],
     "radarType": [

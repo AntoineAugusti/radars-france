@@ -1,14 +1,14 @@
 {
-    "nid": "21432",
-    "uuid": "994a7a7d-1494-43aa-a72e-b90c89b5dde6",
-    "vid": "21432",
+    "nid": "25486",
+    "uuid": "51ab618c-8c11-424c-91f5-da7bcf16267c",
+    "vid": "25486",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740665",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55460",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740665",
+    "changed": "1681740665",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOUELLE vers CAHORS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.40138 44.48154)",
-    "radarInstallDate": "2021-09-27T16:23:57",
-    "radarPlace": "PRADINES",
+    "radarInstallDate": "2021-09-27T16:11:12",
+    "radarPlace": [],
     "radarRoad": "RD8",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22108",
-    "uuid": "f8cd4ae9-5672-4ecf-b292-9dc0d144262e",
-    "vid": "22108",
+    "nid": "25724",
+    "uuid": "22283f6a-0314-4213-ae4d-a5f9d02aa5bf",
+    "vid": "25724",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE177000",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Dammartin vers Claye Souilly",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.69885 48.967)",
-    "radarInstallDate": "2012-04-06T16:26:35",
-    "radarPlace": "MESSY",
+    "radarInstallDate": "2012-04-06T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

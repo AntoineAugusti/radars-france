@@ -1,14 +1,14 @@
 {
-    "nid": "21174",
-    "uuid": "573af6a6-61a8-4b0e-91ef-8cd1011bbd2d",
-    "vid": "21174",
+    "nid": "25185",
+    "uuid": "d20e836f-3d0d-4768-8106-299d3857de21",
+    "vid": "25185",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55138",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SEVERAC D AVEYRON vers LAISSAC SEVERAC L EGLISE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.02821 44.33669)",
-    "radarInstallDate": "2019-11-20T16:23:07",
-    "radarPlace": "SEVERAC D AVEYRON",
+    "radarInstallDate": "2019-11-20T16:10:05",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

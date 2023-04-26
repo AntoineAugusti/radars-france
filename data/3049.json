@@ -1,14 +1,14 @@
 {
-    "nid": "19892",
-    "uuid": "3ebc4347-769b-41aa-bd14-26f250bdb831",
-    "vid": "19892",
+    "nid": "23792",
+    "uuid": "04b69914-861e-4bb5-9a78-9cce09e59c9d",
+    "vid": "23792",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3049",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "INTERIEUR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.28803 48.88572)",
-    "radarInstallDate": "2005-10-06T16:20:04",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2005-10-06T16:06:25",
+    "radarPlace": [],
     "radarRoad": "BP-PORTE CHAMPERRET",
     "radarTronconKm": [],
     "radarType": [

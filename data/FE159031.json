@@ -1,14 +1,14 @@
 {
-    "nid": "21997",
-    "uuid": "5e471b13-85c1-4fba-97aa-0e4ce8398d3c",
-    "vid": "21997",
+    "nid": "25633",
+    "uuid": "41db3912-860e-4c31-bfbc-af677c5cbf08",
+    "vid": "25633",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159031",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Av. du Mar\u00e9chal Foch vers le Sud-Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.02644 50.64758)",
-    "radarInstallDate": "2011-05-13T16:26:07",
-    "radarPlace": "LAMBERSART",
+    "radarInstallDate": "2011-05-13T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

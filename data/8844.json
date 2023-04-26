@@ -1,14 +1,14 @@
 {
-    "nid": "20437",
-    "uuid": "ab93cfcb-7ff9-4fd4-8080-422f0660b51a",
-    "vid": "20437",
+    "nid": "24283",
+    "uuid": "33ebf734-346d-47e5-abfd-9bf3c3db4d13",
+    "vid": "24283",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8844",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RENESCURE vers CASSEL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.41687 50.75638)",
-    "radarInstallDate": "2011-03-25T16:21:06",
-    "radarPlace": "BAVINCHOVE",
+    "radarInstallDate": "2011-03-25T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RD933",
     "radarTronconKm": [],
     "radarType": [

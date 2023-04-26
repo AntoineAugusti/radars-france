@@ -1,14 +1,14 @@
 {
-    "nid": "20598",
-    "uuid": "2bf77ba3-ee76-43b2-a421-600e4b5a6aaa",
-    "vid": "20598",
+    "nid": "24514",
+    "uuid": "f2567467-f335-4e72-856d-cca585052143",
+    "vid": "24514",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50011",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORNE A L EAU vers PETIT CANAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.45525 16.34226)",
-    "radarInstallDate": "2021-09-20T16:21:27",
-    "radarPlace": "MORNE A L EAU",
+    "radarInstallDate": "2021-09-20T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN6 - Boulevard Toussain Louverture-Richeval",
     "radarTronconKm": [],
     "radarType": [

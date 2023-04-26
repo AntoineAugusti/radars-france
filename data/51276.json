@@ -1,14 +1,14 @@
 {
-    "nid": "20915",
-    "uuid": "ef0efcbd-a08c-4ca1-b4b5-58961f831051",
-    "vid": "20915",
+    "nid": "24842",
+    "uuid": "c95c0bfc-e890-4dc7-8a76-0109aec1c9a0",
+    "vid": "24842",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51276",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VOUJEAUCOURT vers COLOMBIER FONTAINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.702792 47.465136)",
-    "radarInstallDate": "2020-09-04T16:22:18",
-    "radarPlace": "ETOUVANS",
+    "radarInstallDate": "2020-09-04T16:08:54",
+    "radarPlace": [],
     "radarRoad": "RD126",
     "radarTronconKm": [],
     "radarType": [

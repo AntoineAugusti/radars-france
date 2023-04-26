@@ -1,14 +1,14 @@
 {
-    "nid": "20825",
-    "uuid": "f17c0aba-9de6-4a7b-a181-b5ea13f1715c",
-    "vid": "20825",
+    "nid": "24749",
+    "uuid": "255b837e-3ec3-4f15-af09-c6e573498e4e",
+    "vid": "24749",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51177",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TROYES vers DIJON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.085178 48.261405)",
-    "radarInstallDate": "2020-06-22T16:22:02",
-    "radarPlace": "ROSIERES PRES TROYES",
+    "radarInstallDate": "2020-06-22T16:08:37",
+    "radarPlace": [],
     "radarRoad": "RD610",
     "radarTronconKm": [],
     "radarType": [

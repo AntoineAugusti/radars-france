@@ -1,14 +1,14 @@
 {
-    "nid": "21154",
-    "uuid": "d18ddb7e-ffa4-49d1-ac7a-6144eba658af",
-    "vid": "21154",
+    "nid": "25165",
+    "uuid": "edc6d958-41fd-433e-b70b-893360128911",
+    "vid": "25165",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55118",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CONDOM vers AGEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.548 44.129)",
-    "radarInstallDate": "2020-07-27T16:23:02",
-    "radarPlace": "LAPLUME",
+    "radarInstallDate": "2020-07-27T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD931",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21899",
-    "uuid": "26e92235-08d9-4d34-829e-7050b507fd66",
-    "vid": "21899",
+    "nid": "25538",
+    "uuid": "ae834d28-82d5-49dc-9be4-396efb134640",
+    "vid": "25538",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE121012",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vers le centre ville",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (5.04453 47.31603)",
-    "radarInstallDate": "2011-08-25T16:25:46",
-    "radarPlace": "DIJON",
+    "radarInstallDate": "2011-08-25T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

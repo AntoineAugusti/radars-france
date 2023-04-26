@@ -1,14 +1,14 @@
 {
-    "nid": "20899",
-    "uuid": "cede7731-f127-49e2-b579-88c93ae279c1",
-    "vid": "20899",
+    "nid": "24826",
+    "uuid": "471f5211-bc57-4242-96d8-5ad66d52bae6",
+    "vid": "24826",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51259",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGERS (CENTRE) vers LE MANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.509512 47.48862)",
-    "radarInstallDate": "2020-03-09T16:22:17",
-    "radarPlace": "ANGERS",
+    "radarInstallDate": "2020-03-09T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD323 (Avenue Victor Chatenay)",
     "radarTronconKm": [],
     "radarType": [

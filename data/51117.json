@@ -1,14 +1,14 @@
 {
-    "nid": "20765",
-    "uuid": "29d468ba-71fe-46f2-a81e-6ef8f680d03a",
-    "vid": "20765",
+    "nid": "24689",
+    "uuid": "c1ba7c55-92bc-4d82-9600-8c71fc652d62",
+    "vid": "24689",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51117",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROUEN vers BRIONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.754489 49.226461)",
-    "radarInstallDate": "2020-02-28T16:21:53",
-    "radarPlace": "BOSROBERT",
+    "radarInstallDate": "2020-02-28T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RD438",
     "radarTronconKm": [],
     "radarType": [

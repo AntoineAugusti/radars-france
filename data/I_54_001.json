@@ -1,14 +1,14 @@
 {
-    "nid": "22810",
-    "uuid": "50c77717-0e28-4b72-bbaf-b911c8238e9d",
-    "vid": "22810",
+    "nid": "26354",
+    "uuid": "69bc9606-f439-4473-b339-24bd80d8d9f4",
+    "vid": "26354",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229222",
+    "revisionTimestamp": "1681741056",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_54_001",
-    "created": "1637229222",
-    "changed": "1637229222",
+    "created": "1681741056",
+    "changed": "1681741056",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "54 - Meurthe-et-Moselle",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.712936 5.91984)",
-    "radarInstallDate": "2017-10-06T10:53:42",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (-0.436257 45.005797)",
+    "radarInstallDate": "2017-10-06T16:17:37",
     "radarPlace": "-",
     "radarRoad": "D102, D10A, D198, D103, D907, D611,",
-    "radarTronconKm": "16.47",
+    "radarTronconKm": "16,5",
     "radarType": [
         {
             "tid": "19",

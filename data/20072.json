@@ -1,14 +1,14 @@
 {
-    "nid": "22625",
-    "uuid": "f9117d6d-0aef-4909-a351-1e8ce10a002d",
-    "vid": "22625",
+    "nid": "26149",
+    "uuid": "bbf3852d-d738-409f-b983-3357a04370b7",
+    "vid": "26149",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20072",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "LA VALETTE DU VAR vers LA SEYNE SUR MER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.91416 43.12706)",
-    "radarInstallDate": "2013-09-25T10:53:36",
+    "radarInstallDate": "2013-09-25T16:17:06",
     "radarPlace": "TOULON",
     "radarRoad": "A50",
     "radarTronconKm": "3,3",

@@ -1,14 +1,14 @@
 {
-    "nid": "21553",
-    "uuid": "fc4fbecf-b41c-4810-8389-06c508124281",
-    "vid": "21553",
+    "nid": "23224",
+    "uuid": "cc009506-7ab5-4e33-a4c0-148ac3d9677f",
+    "vid": "23224",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12211",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTAUBAN vers ALBI",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.7595 43.909)",
-    "radarInstallDate": "2013-08-08T16:24:23",
-    "radarPlace": "LISLE SUR TARN",
+    "radarInstallDate": "2013-08-08T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20222",
-    "uuid": "c1fba078-a27d-4753-afce-21e6c3ccb3c4",
-    "vid": "20222",
+    "nid": "24094",
+    "uuid": "ffadfce0-1600-490f-b2ae-5cc9d025c73c",
+    "vid": "24094",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7031",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOURS vers BLOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.29675 47.55821)",
-    "radarInstallDate": "2007-10-19T16:20:38",
-    "radarPlace": "BLOIS",
+    "radarInstallDate": "2007-10-19T16:06:58",
+    "radarPlace": [],
     "radarRoad": "RD952",
     "radarTronconKm": [],
     "radarType": [

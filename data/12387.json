@@ -1,14 +1,14 @@
 {
-    "nid": "21666",
-    "uuid": "91558fea-f6c6-4416-a050-1b7f0fc97f50",
-    "vid": "21666",
+    "nid": "23334",
+    "uuid": "b7efba6d-ade7-46b3-94f0-fe1a66ed0db1",
+    "vid": "23334",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12387",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST LAURENT DE LA SALANQUE vers LEUCATE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.030407 42.80218)",
-    "radarInstallDate": "2016-06-24T16:24:50",
-    "radarPlace": "LE BARCARES",
+    "radarInstallDate": "2016-06-24T16:05:42",
+    "radarPlace": [],
     "radarRoad": "RD83",
     "radarTronconKm": [],
     "radarType": [

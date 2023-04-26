@@ -1,14 +1,14 @@
 {
-    "nid": "20476",
-    "uuid": "4c5d760c-1de5-47af-8cd6-98b7fba457d9",
-    "vid": "20476",
+    "nid": "24318",
+    "uuid": "da462598-2ad8-4e5a-a21e-68fb640bec2c",
+    "vid": "24318",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8974",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CH\u00c2TELLERAULT vers LENCLO\u00ceTRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.34 46.816)",
-    "radarInstallDate": "2011-04-18T16:21:10",
-    "radarPlace": "ST GENEST D AMBIERE",
+    "radarInstallDate": "2011-04-18T16:07:31",
+    "radarPlace": [],
     "radarRoad": "RD725",
     "radarTronconKm": [],
     "radarType": [

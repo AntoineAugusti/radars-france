@@ -1,14 +1,14 @@
 {
-    "nid": "22636",
-    "uuid": "e90c0807-6904-4fec-96cd-f003d7fcbcd4",
-    "vid": "22636",
+    "nid": "26157",
+    "uuid": "8e54c6ec-aaf4-483b-a182-6793fd136eb3",
+    "vid": "26157",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741027",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20091",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741027",
+    "changed": "1681741027",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "DOULLENS vers ARRAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.48978 50.18858)",
-    "radarInstallDate": "2013-09-23T10:53:36",
+    "radarInstallDate": "2013-09-23T16:17:07",
     "radarPlace": "WARLINCOURT LES PAS",
     "radarRoad": "RN25",
     "radarTronconKm": "2,1",

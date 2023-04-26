@@ -1,14 +1,14 @@
 {
-    "nid": "22610",
-    "uuid": "f058c11d-42e4-4261-9649-7a89c1c98d93",
-    "vid": "22610",
+    "nid": "26135",
+    "uuid": "ffa8d96a-ceff-47d6-bbc9-fb07d2b7d7d0",
+    "vid": "26135",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20036",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "PERTUIS vers CAVAILLON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.09278 43.78382)",
-    "radarInstallDate": "2013-02-15T10:53:35",
+    "radarInstallDate": "2013-02-15T16:17:05",
     "radarPlace": "CHEVAL BLANC",
     "radarRoad": "RD973",
     "radarTronconKm": "7,2",

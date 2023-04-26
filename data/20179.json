@@ -1,14 +1,14 @@
 {
-    "nid": "22677",
-    "uuid": "c51cb2c7-2890-4afc-9d13-0bb21e2f1583",
-    "vid": "22677",
+    "nid": "26189",
+    "uuid": "213ee140-96b5-47e3-9c33-671e9de68505",
+    "vid": "26189",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741031",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20179",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741031",
+    "changed": "1681741031",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "Annecy vers Bonneville",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.179 46.00394)",
-    "radarInstallDate": "2015-04-13T10:53:37",
+    "radarInstallDate": "2015-04-13T16:17:11",
     "radarPlace": "ETAUX",
     "radarRoad": "A410",
     "radarTronconKm": "6,9",

@@ -1,14 +1,14 @@
 {
-    "nid": "21338",
-    "uuid": "9f865092-72da-452f-b891-a50948987a6c",
-    "vid": "21338",
+    "nid": "25352",
+    "uuid": "fb50a568-df71-4b6a-b040-3b7a543beaa0",
+    "vid": "25352",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55310",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAILLAGOUSE vers BOURG MADAME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.960969 42.433925)",
-    "radarInstallDate": "2020-10-16T16:23:38",
-    "radarPlace": "BOURG MADAME",
+    "radarInstallDate": "2020-10-16T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RN116",
     "radarTronconKm": [],
     "radarType": [

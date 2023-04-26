@@ -1,14 +1,14 @@
 {
-    "nid": "22684",
-    "uuid": "47667620-c10b-44df-a96f-28242656d426",
-    "vid": "22684",
+    "nid": "26192",
+    "uuid": "f0e8c5f2-1c35-4f5a-9713-ffcb846e8dee",
+    "vid": "26192",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741031",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20192",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741031",
+    "changed": "1681741031",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "BRIANCON vers GAP",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.4916 44.55123)",
-    "radarInstallDate": "2014-11-07T10:53:38",
+    "radarInstallDate": "2014-11-07T16:17:11",
     "radarPlace": "EMBRUN",
     "radarRoad": "RN94",
     "radarTronconKm": "4,2",

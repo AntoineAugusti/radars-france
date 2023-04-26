@@ -1,14 +1,14 @@
 {
-    "nid": "21236",
-    "uuid": "95a46db1-13fb-474d-8574-e7892b78761d",
-    "vid": "21236",
+    "nid": "25247",
+    "uuid": "677af7bf-13ec-4845-aa69-d8f89ec05ec4",
+    "vid": "25247",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55200",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT VALLIER vers SAINT RAMBERT D ALBON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.81691 45.2242)",
-    "radarInstallDate": "2021-03-11T16:23:19",
-    "radarPlace": "BEAUSEMBLANT",
+    "radarInstallDate": "2021-03-11T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

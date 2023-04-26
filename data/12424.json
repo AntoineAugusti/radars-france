@@ -1,14 +1,14 @@
 {
-    "nid": "21699",
-    "uuid": "ea61983e-d187-4226-a375-4f4fdfca126f",
-    "vid": "21699",
+    "nid": "23367",
+    "uuid": "9ec73cdd-7192-414f-9099-fab41c22e308",
+    "vid": "23367",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12424",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGES vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.16616 47.1883)",
-    "radarInstallDate": "2016-12-24T16:24:57",
-    "radarPlace": "FOECY",
+    "radarInstallDate": "2016-12-24T16:05:45",
+    "radarPlace": [],
     "radarRoad": "A71",
     "radarTronconKm": [],
     "radarType": [

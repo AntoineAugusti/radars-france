@@ -1,14 +1,14 @@
 {
-    "nid": "20273",
-    "uuid": "1a4384cd-2250-4e4b-8246-7c6b08656783",
-    "vid": "20273",
+    "nid": "24139",
+    "uuid": "496295d7-5c46-40c7-b65e-29f342700686",
+    "vid": "24139",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7233",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Foug\u00e8res vers Vitr\u00e9",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.18254 48.18909)",
-    "radarInstallDate": "2008-02-21T16:20:45",
-    "radarPlace": "BALAZE",
+    "radarInstallDate": "2008-02-21T16:07:05",
+    "radarPlace": [],
     "radarRoad": "RD178",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22062",
-    "uuid": "6517821c-73d5-49ea-898b-6356cac76d82",
-    "vid": "22062",
+    "nid": "25679",
+    "uuid": "610f0792-c1ce-4a49-8f0f-6f2c2c11f050",
+    "vid": "25679",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168009",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Wintzenheim vers le centre ville",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.33429 48.07078)",
-    "radarInstallDate": "2011-04-04T16:26:22",
-    "radarPlace": "COLMAR",
+    "radarInstallDate": "2011-04-04T16:12:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

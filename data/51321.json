@@ -1,14 +1,14 @@
 {
-    "nid": "20958",
-    "uuid": "225fb8c0-2123-4496-b359-f0ec5d92c982",
-    "vid": "20958",
+    "nid": "24886",
+    "uuid": "193fa258-e20b-468b-92f8-99ce7d727c53",
+    "vid": "24886",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51321",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOISSONS vers BEAUVAIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.798191 49.392154)",
-    "radarInstallDate": "2021-05-21T16:22:23",
-    "radarPlace": "COMPIEGNE",
+    "radarInstallDate": "2021-05-21T16:09:04",
+    "radarPlace": [],
     "radarRoad": "RD1131",
     "radarTronconKm": [],
     "radarType": [

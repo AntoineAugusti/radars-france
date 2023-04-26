@@ -1,14 +1,14 @@
 {
-    "nid": "19651",
-    "uuid": "6542956d-1328-4834-aa6f-fbe9090c4fd7",
-    "vid": "19651",
+    "nid": "23591",
+    "uuid": "9c57c318-9aff-4174-bb5f-29c956041204",
+    "vid": "23591",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "120",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST GERMAIN EN LAYE VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.24157 48.8869)",
-    "radarInstallDate": "2003-12-04T16:19:45",
-    "radarPlace": "PUTEAUX",
+    "radarInstallDate": "2003-12-04T16:06:04",
+    "radarPlace": [],
     "radarRoad": "RD993",
     "radarTronconKm": [],
     "radarType": [

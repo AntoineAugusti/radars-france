@@ -1,14 +1,14 @@
 {
-    "nid": "20215",
-    "uuid": "dabb7508-706a-4906-b3ef-9ba36b34c9cf",
-    "vid": "20215",
+    "nid": "24088",
+    "uuid": "db82ad5d-7c62-4076-a268-b6443e98258e",
+    "vid": "24088",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7003",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Paris vers Chevilly Larue",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.34565 48.77228)",
-    "radarInstallDate": "2008-01-03T16:20:38",
-    "radarPlace": "L HAY LES ROSES",
+    "radarInstallDate": "2008-01-03T16:06:58",
+    "radarPlace": [],
     "radarRoad": "A6a",
     "radarTronconKm": [],
     "radarType": [

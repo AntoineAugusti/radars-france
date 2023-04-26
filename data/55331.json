@@ -1,14 +1,14 @@
 {
-    "nid": "21358",
-    "uuid": "1c186f79-a687-4b5e-8c47-229418631889",
-    "vid": "21358",
+    "nid": "25372",
+    "uuid": "971a6f91-72ff-4865-88f6-cf743aaa13ec",
+    "vid": "25372",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55331",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAINS vers LE PUY EN VELAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.839824 45.019798)",
-    "radarInstallDate": "2020-12-17T16:23:44",
-    "radarPlace": "ST CHRISTOPHE SUR DOLAIZON",
+    "radarInstallDate": "2020-12-17T16:10:47",
+    "radarPlace": [],
     "radarRoad": "RD589",
     "radarTronconKm": [],
     "radarType": [

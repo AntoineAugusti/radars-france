@@ -1,14 +1,14 @@
 {
-    "nid": "21092",
-    "uuid": "f125ef3a-7e7e-46e3-bd7d-5a6d83865e18",
-    "vid": "21092",
+    "nid": "25105",
+    "uuid": "d36ddf85-92f3-4a62-857b-b447342b039a",
+    "vid": "25105",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55055",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MEZE vers MARSEILLAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.55176 43.423819)",
-    "radarInstallDate": "2019-10-07T16:22:49",
-    "radarPlace": "MEZE",
+    "radarInstallDate": "2019-10-07T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD51",
     "radarTronconKm": [],
     "radarType": [

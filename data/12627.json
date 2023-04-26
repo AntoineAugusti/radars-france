@@ -1,14 +1,14 @@
 {
-    "nid": "21852",
-    "uuid": "e58c5358-efbb-4933-b872-070ddfcdcd7a",
-    "vid": "21852",
+    "nid": "23530",
+    "uuid": "98ab0e6b-6fdb-4e5a-a609-f25413f972ed",
+    "vid": "23530",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12627",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COLMAR vers STRASBOURG",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.62334 48.39998)",
-    "radarInstallDate": "2021-01-06T16:25:32",
-    "radarPlace": "OSTHOUSE",
+    "radarInstallDate": "2021-01-06T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RD83",
     "radarTronconKm": [],
     "radarType": [

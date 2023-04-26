@@ -1,14 +1,14 @@
 {
-    "nid": "22203",
-    "uuid": "54457297-c084-46d5-87e8-8e3f14bd15f6",
-    "vid": "22203",
+    "nid": "25818",
+    "uuid": "a85bd660-2f30-4342-becb-c678023a0d6b",
+    "vid": "25818",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229186",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195042",
-    "created": "1637229186",
-    "changed": "1675870011",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Triel sur Seine vers Jouy le Moutier",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.02831 49.01019)",
-    "radarInstallDate": "2011-03-21T16:26:58",
-    "radarPlace": "JOUY LE MOUTIER",
+    "radarInstallDate": "2011-03-21T16:12:39",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

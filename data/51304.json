@@ -1,14 +1,14 @@
 {
-    "nid": "20943",
-    "uuid": "a1085615-6c3e-4447-baf2-84e5d90c67bf",
-    "vid": "20943",
+    "nid": "24870",
+    "uuid": "e425d663-7c81-47c2-8487-2e033d87da83",
+    "vid": "24870",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51304",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGES vers CHATEAUROUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.069324 46.977075)",
-    "radarInstallDate": "2020-06-26T16:22:22",
-    "radarPlace": "SAINT GEORGES SUR ARNON",
+    "radarInstallDate": "2020-06-26T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RN151",
     "radarTronconKm": [],
     "radarType": [

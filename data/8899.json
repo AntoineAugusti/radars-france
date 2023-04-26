@@ -1,14 +1,14 @@
 {
-    "nid": "20453",
-    "uuid": "280d1751-f374-4629-8d6e-46b12bf06e76",
-    "vid": "20453",
+    "nid": "24297",
+    "uuid": "3f64e32b-d211-4979-9ab2-c29fbf6d1730",
+    "vid": "24297",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8899",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BROGLIE VERS BERNAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.5715 49.058)",
-    "radarInstallDate": "2012-03-01T16:21:09",
-    "radarPlace": "ST QUENTIN DES ISLES",
+    "radarInstallDate": "2012-03-01T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD438",
     "radarTronconKm": [],
     "radarType": [

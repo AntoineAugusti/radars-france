@@ -1,14 +1,14 @@
 {
-    "nid": "20282",
-    "uuid": "977d6493-eb48-4f73-89c4-56835c5cb8b5",
-    "vid": "20282",
+    "nid": "24146",
+    "uuid": "4c64d1d5-0280-4230-a530-df4dc4e41419",
+    "vid": "24146",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7256",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sarreguemines vers Allemagne",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.04166 49.1442)",
-    "radarInstallDate": "2008-02-22T16:20:46",
-    "radarPlace": "GROSBLIEDERSTROFF",
+    "radarInstallDate": "2008-02-22T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RN61",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20242",
-    "uuid": "0b5e0570-fd61-40b5-b2eb-8bd6a964d8ed",
-    "vid": "20242",
+    "nid": "24110",
+    "uuid": "69757d50-7088-4a0a-9e24-d55b75e3a399",
+    "vid": "24110",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7109",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "Montb\u00e9liard vers H\u00e9ricourt",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.77477 47.54967)",
-    "radarInstallDate": "2007-09-17T16:20:41",
-    "radarPlace": "HERICOURT",
-    "radarRoad": "RD438H",
+    "radarInstallDate": "2007-09-17T16:07:01",
+    "radarPlace": [],
+    "radarRoad": "RD438D",
     "radarTronconKm": [],
     "radarType": [
         {
@@ -115,9 +115,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "7",
-            "uuid": "c447707a-c428-4166-ac14-c667a8cdcb41",
-            "revisionId": "7",
+            "tid": "8",
+            "uuid": "9202ddc3-ba6a-450b-bdbf-86b3582f0107",
+            "revisionId": "8",
             "langcode": "fr",
             "vid": [
                 {
@@ -128,7 +128,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 80",
+            "name": "Vitesse VL 90",
             "description": [
                 {
                     "value": null,
@@ -141,7 +141,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154470",
+            "changed": "1515154485",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -153,30 +153,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-80.png?itok=TcuP772z",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-90.png?itok=W0JW7Fma",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-80.png?itok=TK2yJ19C",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-90.png?itok=NvEa8V-1",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-80.png?itok=thPluA0X",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-90.png?itok=b9OnBVQV",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-80.png",
-                        "fileCreated": "1515154465",
-                        "fileSize": "4045",
+                        "fileName": "vitesse-90.png",
+                        "fileCreated": "1515154481",
+                        "fileSize": "3523",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_80",
+            "macineName": "vitesse_vl_90",
             "ruleLabel": "Vitesse"
         }
     ],

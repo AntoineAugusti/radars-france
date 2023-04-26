@@ -1,14 +1,14 @@
 {
-    "nid": "20834",
-    "uuid": "b434ebb0-4049-47ed-a3b3-abe3a575ba8a",
-    "vid": "20834",
+    "nid": "24758",
+    "uuid": "812e9887-7040-4e31-82b2-32a0415ac35f",
+    "vid": "24758",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51186",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NEVERS vers BOURGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.121233 46.945512)",
-    "radarInstallDate": "2019-12-20T16:22:03",
-    "radarPlace": "CHALLUY",
+    "radarInstallDate": "2019-12-20T16:08:41",
+    "radarPlace": [],
     "radarRoad": "RD976",
     "radarTronconKm": [],
     "radarType": [

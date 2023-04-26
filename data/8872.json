@@ -1,14 +1,14 @@
 {
-    "nid": "20448",
-    "uuid": "1fc23719-0e8e-4ad5-ac71-6177e3773fa1",
-    "vid": "20448",
+    "nid": "24294",
+    "uuid": "8544753c-78ac-48ff-a967-67f0ebeb3801",
+    "vid": "24294",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8872",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST POURCAIN SUR SIOULE vers MOULINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.2954 46.381)",
-    "radarInstallDate": "2012-08-01T16:21:06",
-    "radarPlace": "MONETAY SUR ALLIER",
+    "radarInstallDate": "2012-08-01T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD2009",
     "radarTronconKm": [],
     "radarType": [

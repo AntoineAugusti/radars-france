@@ -1,14 +1,14 @@
 {
-    "nid": "20127",
-    "uuid": "7f30dda7-fad9-41ba-afd3-b6ae623d0efc",
-    "vid": "20127",
+    "nid": "24009",
+    "uuid": "41d5b42a-c057-4a36-a824-f29d99f79bbc",
+    "vid": "24009",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6067",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOYEN SUR SARTHE vers LA SUZE SUR SARTHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.02991 47.85345)",
-    "radarInstallDate": "2006-08-07T16:20:29",
-    "radarPlace": "ST JEAN DU BOIS",
+    "radarInstallDate": "2006-08-07T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RD23",
     "radarTronconKm": [],
     "radarType": [

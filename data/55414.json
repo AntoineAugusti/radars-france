@@ -1,14 +1,14 @@
 {
-    "nid": "21416",
-    "uuid": "2ae0c739-e89a-4827-9214-71dd6bd9c2c1",
-    "vid": "21416",
+    "nid": "25445",
+    "uuid": "019c8500-97b2-4f9c-91ee-8946354b917b",
+    "vid": "25445",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55414",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEZIERS vers CLERMONT FERRAND",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.183285 44.417927)",
-    "radarInstallDate": "2021-05-19T16:23:56",
-    "radarPlace": "BANASSAC CANILHAC",
+    "radarInstallDate": "2021-05-19T16:11:03",
+    "radarPlace": [],
     "radarRoad": "A75",
     "radarTronconKm": [],
     "radarType": [

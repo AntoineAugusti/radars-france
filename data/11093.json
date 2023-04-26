@@ -1,14 +1,14 @@
 {
-    "nid": "20522",
-    "uuid": "bdcc146d-4bed-46ac-9b28-8b4228f45ded",
-    "vid": "20522",
+    "nid": "24356",
+    "uuid": "00345df1-570c-4535-80ce-3f12a9832601",
+    "vid": "24356",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11093",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAILLES vers PONTLEVOY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.2775 47.418)",
-    "radarInstallDate": "2012-02-03T16:21:18",
-    "radarPlace": "SAMBIN",
+    "radarInstallDate": "2012-02-03T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD764",
     "radarTronconKm": [],
     "radarType": [

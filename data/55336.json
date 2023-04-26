@@ -1,14 +1,14 @@
 {
-    "nid": "21363",
-    "uuid": "1584dfdd-f5e2-4de6-a25a-9c98e845556c",
-    "vid": "21363",
+    "nid": "25377",
+    "uuid": "6bcb78e2-ab48-4d6d-b9eb-bf401ab609d2",
+    "vid": "25377",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55336",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTPELLIER vers SERIGNAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.285535 43.277885)",
-    "radarInstallDate": "2021-01-15T16:23:44",
-    "radarPlace": "SERIGNAN",
+    "radarInstallDate": "2021-01-15T16:10:47",
+    "radarPlace": [],
     "radarRoad": "RD64",
     "radarTronconKm": [],
     "radarType": [

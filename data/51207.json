@@ -1,14 +1,14 @@
 {
-    "nid": "20853",
-    "uuid": "939e9f9b-de69-47c6-bb2b-853625082709",
-    "vid": "20853",
+    "nid": "24778",
+    "uuid": "ec31d8d8-9a4d-49fc-9280-897883ffc57d",
+    "vid": "24778",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51207",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST QUENTIN vers LAON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.504562 49.607133)",
-    "radarInstallDate": "2020-02-11T16:22:08",
-    "radarPlace": "CREPY",
+    "radarInstallDate": "2020-02-11T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD 1044",
     "radarTronconKm": [],
     "radarType": [

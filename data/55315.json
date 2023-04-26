@@ -1,14 +1,14 @@
 {
-    "nid": "21343",
-    "uuid": "4f0ef26e-c985-49b1-800a-49ce23217495",
-    "vid": "21343",
+    "nid": "25357",
+    "uuid": "eb619029-95cb-473d-9431-bd5ea63bd869",
+    "vid": "25357",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55315",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTREAL LA CLUSE vers NANTUA",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.599386 46.161141)",
-    "radarInstallDate": "2020-10-09T16:23:38",
-    "radarPlace": "NANTUA",
+    "radarInstallDate": "2020-10-09T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD1084",
     "radarTronconKm": [],
     "radarType": [

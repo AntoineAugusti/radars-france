@@ -1,14 +1,14 @@
 {
-    "nid": "20038",
-    "uuid": "3647faea-913d-490e-8cbd-f71a2f014323",
-    "vid": "20038",
+    "nid": "23924",
+    "uuid": "379b2d55-3663-4910-a298-81aba70b8329",
+    "vid": "23924",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4540",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GAP vers SISTERON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.05059 44.52221)",
-    "radarInstallDate": "2009-10-08T16:20:19",
-    "radarPlace": "GAP",
+    "radarInstallDate": "2009-10-08T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RN85",
     "radarTronconKm": [],
     "radarType": [

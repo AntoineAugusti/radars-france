@@ -1,14 +1,14 @@
 {
-    "nid": "20497",
-    "uuid": "5c66f78e-d318-4b04-9e2f-9e85711afbfc",
-    "vid": "20497",
+    "nid": "24339",
+    "uuid": "ffd61d7c-a7cd-44e1-ae09-459745591108",
+    "vid": "24339",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11012",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PEROLS vers MONTPELLIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.92288 43.60755)",
-    "radarInstallDate": "2013-09-30T16:21:14",
-    "radarPlace": "MONTPELLIER",
+    "radarInstallDate": "2013-09-30T16:07:32",
+    "radarPlace": [],
     "radarRoad": "RD66 (Avenue Pierre Mend\u00e8s-France)",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21429",
-    "uuid": "320dca75-a62e-484c-946d-49e4e5154d49",
-    "vid": "21429",
+    "nid": "25465",
+    "uuid": "48a040d7-9d45-4129-9958-d1e0e17d4ab7",
+    "vid": "25465",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740665",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55437",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740665",
+    "changed": "1681740665",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LISTRAC MEDOC vers SAINT SAUVEUR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.818739 45.156399)",
-    "radarInstallDate": "2021-09-16T16:23:57",
-    "radarPlace": "SAINT LAURENT MEDOC",
+    "radarInstallDate": "2021-09-16T16:11:11",
+    "radarPlace": [],
     "radarRoad": "RD1215",
     "radarTronconKm": [],
     "radarType": [

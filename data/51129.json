@@ -1,14 +1,14 @@
 {
-    "nid": "20777",
-    "uuid": "0f8131d1-b769-43ab-b20f-37eb731aeaaf",
-    "vid": "20777",
+    "nid": "24701",
+    "uuid": "6da5d2aa-ebcf-4a72-b078-c6dcfb1b8798",
+    "vid": "24701",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51129",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST LAURENT EN GRANDVAUX vers LES ROUSSES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.014143 46.552329)",
-    "radarInstallDate": "2020-07-16T16:21:53",
-    "radarPlace": "MORBIER",
+    "radarInstallDate": "2020-07-16T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RN5",
     "radarTronconKm": [],
     "radarType": [

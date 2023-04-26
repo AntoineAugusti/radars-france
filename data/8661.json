@@ -1,14 +1,14 @@
 {
-    "nid": "20381",
-    "uuid": "ec23aafd-18be-4bce-8123-486046cd94d3",
-    "vid": "20381",
+    "nid": "24233",
+    "uuid": "928b815e-3b4e-4ca6-a225-c8c33c854f4f",
+    "vid": "24233",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8661",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Lanvollon vers Guingamp",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.0673 48.579)",
-    "radarInstallDate": "2010-11-02T16:20:58",
-    "radarPlace": "LE MERZER",
+    "radarInstallDate": "2010-11-02T16:07:18",
+    "radarPlace": [],
     "radarRoad": "RD9",
     "radarTronconKm": [],
     "radarType": [

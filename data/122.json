@@ -1,14 +1,14 @@
 {
-    "nid": "19653",
-    "uuid": "8ca62ab0-d678-4a63-95e9-c20aea48d5de",
-    "vid": "19653",
+    "nid": "23593",
+    "uuid": "04d35e0d-8ac2-4daa-8288-6e033474640b",
+    "vid": "23593",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "122",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EXTERIEUR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.31005 48.82352)",
-    "radarInstallDate": "2004-01-10T16:19:45",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2004-01-10T16:06:04",
+    "radarPlace": [],
     "radarRoad": "BP-CHATILLON",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21005",
-    "uuid": "b4a0c8c0-6221-4d95-a54c-f82bb18c164a",
-    "vid": "21005",
+    "nid": "24948",
+    "uuid": "0fb91663-a145-4311-ba7f-e0c518df1de6",
+    "vid": "24948",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51388",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUVAIS vers MOUY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.207859 49.392438)",
-    "radarInstallDate": "2021-03-19T16:22:33",
-    "radarPlace": "BAILLEUL SUR THERAIN",
+    "radarInstallDate": "2021-03-19T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD12",
     "radarTronconKm": [],
     "radarType": [

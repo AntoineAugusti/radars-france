@@ -1,14 +1,14 @@
 {
-    "nid": "21964",
-    "uuid": "32c79346-7f2b-45f8-99e2-b6ce106b4c7a",
-    "vid": "21964",
+    "nid": "25601",
+    "uuid": "d03aadea-4272-4475-940f-8634bc6e0b13",
+    "vid": "25601",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE154009",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY vers TOMBLAINE",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (6.2026 48.6896)",
-    "radarInstallDate": "2011-12-09T16:26:00",
-    "radarPlace": "NANCY",
+    "radarInstallDate": "2011-12-09T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22402",
-    "uuid": "304116cc-4cb4-4318-9677-ae277c94a428",
-    "vid": "22402",
+    "nid": "26056",
+    "uuid": "c2055e59-47e9-4360-b80b-f0f331d25dc2",
+    "vid": "26056",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE319502",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Saint Aulaire vers Varetz",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.42069 45.22957)",
-    "radarInstallDate": "2013-12-02T16:27:54",
-    "radarPlace": "ALLASSAC",
+    "radarInstallDate": "2013-12-02T16:13:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

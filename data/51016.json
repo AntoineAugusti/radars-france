@@ -1,14 +1,14 @@
 {
-    "nid": "20666",
-    "uuid": "4216eed4-5e6d-4ef5-89fd-a38ed00f1e89",
-    "vid": "20666",
+    "nid": "24591",
+    "uuid": "20bcc61a-0d76-40f4-893f-df44450ac16f",
+    "vid": "24591",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51016",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATILLON LE ROI  vers PITHIVIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.12795 48.163266)",
-    "radarInstallDate": "2020-01-31T16:21:38",
-    "radarPlace": "JOUY EN PITHIVERAIS",
+    "radarInstallDate": "2020-01-31T16:08:10",
+    "radarPlace": [],
     "radarRoad": "RD927",
     "radarTronconKm": [],
     "radarType": [

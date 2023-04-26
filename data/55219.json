@@ -1,14 +1,14 @@
 {
-    "nid": "21254",
-    "uuid": "53116517-fbe7-49d3-9727-e0653c323529",
-    "vid": "21254",
+    "nid": "25265",
+    "uuid": "e5343784-e707-413a-9511-43ca63bf1305",
+    "vid": "25265",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55219",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT PAL DE MONS vers MONISTROL SUR LOIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.232068 45.25345)",
-    "radarInstallDate": "2020-05-28T16:23:20",
-    "radarPlace": "SAINTE SIGOLENE",
+    "radarInstallDate": "2020-05-28T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD44",
     "radarTronconKm": [],
     "radarType": [

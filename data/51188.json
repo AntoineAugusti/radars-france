@@ -1,14 +1,14 @@
 {
-    "nid": "20836",
-    "uuid": "9cacd6ce-550c-4662-abff-adf449ecb37e",
-    "vid": "20836",
+    "nid": "24760",
+    "uuid": "1c569971-7a72-44d7-9e4f-1b2faa15149d",
+    "vid": "24760",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51188",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PONTORSON vers DINAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.914274 48.544756)",
-    "radarInstallDate": "2020-08-14T16:22:03",
-    "radarPlace": "MINIAC MORVAN",
+    "radarInstallDate": "2020-08-14T16:08:41",
+    "radarPlace": [],
     "radarRoad": "RN176",
     "radarTronconKm": [],
     "radarType": [
@@ -115,9 +115,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "8",
-            "uuid": "9202ddc3-ba6a-450b-bdbf-86b3582f0107",
-            "revisionId": "8",
+            "tid": "7",
+            "uuid": "c447707a-c428-4166-ac14-c667a8cdcb41",
+            "revisionId": "7",
             "langcode": "fr",
             "vid": [
                 {
@@ -128,7 +128,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 90",
+            "name": "Vitesse VL 80",
             "description": [
                 {
                     "value": null,
@@ -141,7 +141,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154485",
+            "changed": "1515154470",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -153,30 +153,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-90.png?itok=W0JW7Fma",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-80.png?itok=TcuP772z",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-90.png?itok=NvEa8V-1",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-80.png?itok=TK2yJ19C",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-90.png?itok=b9OnBVQV",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-80.png?itok=thPluA0X",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-90.png",
-                        "fileCreated": "1515154481",
-                        "fileSize": "3523",
+                        "fileName": "vitesse-80.png",
+                        "fileCreated": "1515154465",
+                        "fileSize": "4045",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_90",
+            "macineName": "vitesse_vl_80",
             "ruleLabel": "Vitesse"
         }
     ],

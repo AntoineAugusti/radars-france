@@ -1,14 +1,14 @@
 {
-    "nid": "21568",
-    "uuid": "4a45f89e-405f-4786-a80f-7d7f6c731fb4",
-    "vid": "21568",
+    "nid": "23238",
+    "uuid": "bb1eb1ed-9d65-4e6f-ba3a-9441212258de",
+    "vid": "23238",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12240",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAYONNE vers BORDEAUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.6321 44.783)",
-    "radarInstallDate": "2014-05-26T16:24:29",
-    "radarPlace": "PESSAC",
+    "radarInstallDate": "2014-05-26T16:05:36",
+    "radarPlace": [],
     "radarRoad": "A63",
     "radarTronconKm": [],
     "radarType": [

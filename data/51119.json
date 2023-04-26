@@ -1,14 +1,14 @@
 {
-    "nid": "20767",
-    "uuid": "9247d167-c8f2-464f-8e2e-8ee2a6985679",
-    "vid": "20767",
+    "nid": "24691",
+    "uuid": "68622ebf-4e78-4584-83ba-d3f79443978b",
+    "vid": "24691",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51119",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VIX vers FONTENAY LE COMTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.835622 46.428209)",
-    "radarInstallDate": "2020-02-05T16:21:53",
-    "radarPlace": "DOIX LES FONTAINES",
+    "radarInstallDate": "2020-02-05T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RD 938T",
     "radarTronconKm": [],
     "radarType": [

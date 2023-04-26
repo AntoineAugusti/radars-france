@@ -1,14 +1,14 @@
 {
-    "nid": "20561",
-    "uuid": "195de812-243e-42fa-bed2-7ac5c983490c",
-    "vid": "20561",
+    "nid": "24390",
+    "uuid": "d0ca754e-967e-403e-bedb-2d5f3d49d2a6",
+    "vid": "24390",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11209",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST JEAN DE LUZ vers BAYONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.56904 43.44979)",
-    "radarInstallDate": "2012-08-01T16:21:22",
-    "radarPlace": "BIDART",
+    "radarInstallDate": "2012-08-01T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RD810",
     "radarTronconKm": [],
     "radarType": [

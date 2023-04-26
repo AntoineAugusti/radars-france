@@ -1,14 +1,14 @@
 {
-    "nid": "22543",
-    "uuid": "c2ccfd55-2969-4d28-89d6-712bd0b0a902",
-    "vid": "22543",
+    "nid": "26023",
+    "uuid": "025cf3db-2f87-46d3-a862-3ef8062f0097",
+    "vid": "26023",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE366004",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "All\u00e9e Bacchus vers centre ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.88492 42.6893)",
-    "radarInstallDate": "2010-07-13T16:28:29",
-    "radarPlace": "PERPIGNAN",
+    "radarInstallDate": "2010-07-13T16:13:42",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

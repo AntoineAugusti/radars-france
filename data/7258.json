@@ -1,14 +1,14 @@
 {
-    "nid": "20283",
-    "uuid": "f4ebecef-c172-4ad1-b772-98ca4f988ef8",
-    "vid": "20283",
+    "nid": "24147",
+    "uuid": "02a3f1b2-a959-4ec1-bc6d-e8ea3a673d36",
+    "vid": "24147",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7258",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Moulins vers Nevers",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.157 46.96559)",
-    "radarInstallDate": "2008-03-19T16:20:46",
-    "radarPlace": "SERMOISE SUR LOIRE",
+    "radarInstallDate": "2008-03-19T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RD907",
     "radarTronconKm": [],
     "radarType": [

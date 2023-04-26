@@ -1,14 +1,14 @@
 {
-    "nid": "22642",
-    "uuid": "9a68861c-6e2e-4916-a57e-0c93808ec1c7",
-    "vid": "22642",
+    "nid": "26161",
+    "uuid": "884325a7-855b-4665-8a93-8621fcae10df",
+    "vid": "26161",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741027",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20098",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741027",
+    "changed": "1681741027",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "LA ROCHELLE vers RIVEDOUX PLAGE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.25652 46.16369)",
-    "radarInstallDate": "2014-10-17T10:53:36",
+    "radarInstallDate": "2014-10-17T16:17:07",
     "radarPlace": "RIVEDOUX PLAGE",
     "radarRoad": "RD735",
     "radarTronconKm": "3,1",

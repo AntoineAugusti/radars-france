@@ -1,14 +1,14 @@
 {
-    "nid": "19969",
-    "uuid": "de9b0d5e-7ec5-4b29-8498-8b5da503d422",
-    "vid": "19969",
+    "nid": "23860",
+    "uuid": "b202991a-0fc4-49ec-8f10-de85314d2618",
+    "vid": "23860",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4244",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PORT LOUIS VERS HENNEBONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.27432 47.77714)",
-    "radarInstallDate": "2008-11-19T16:20:13",
-    "radarPlace": "KERVIGNAC",
+    "radarInstallDate": "2008-11-19T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD781",
     "radarTronconKm": [],
     "radarType": [

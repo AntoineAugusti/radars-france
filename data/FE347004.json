@@ -1,14 +1,14 @@
 {
-    "nid": "22500",
-    "uuid": "f3c044fc-edca-4e61-802e-d7f528d2769b",
-    "vid": "22500",
+    "nid": "25995",
+    "uuid": "69ead790-5fd9-4c85-b64e-51dd17b8e74d",
+    "vid": "25995",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE347004",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Agen vers Villeneuve sur Lot",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.70748 44.39777)",
-    "radarInstallDate": "2011-02-21T16:28:19",
-    "radarPlace": "VILLENEUVE SUR LOT",
+    "radarInstallDate": "2011-02-21T16:13:33",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

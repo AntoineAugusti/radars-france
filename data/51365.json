@@ -1,14 +1,14 @@
 {
-    "nid": "20988",
-    "uuid": "2309ce4a-7dd8-4848-9254-7ed8fa807e25",
-    "vid": "20988",
+    "nid": "24926",
+    "uuid": "34a48c50-900b-4268-a39d-1d724911adae",
+    "vid": "24926",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51365",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERNON vers GISORS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.59325 49.214644)",
-    "radarInstallDate": "2020-10-30T16:22:29",
-    "radarPlace": "VEXIN SUR EPTE",
+    "radarInstallDate": "2020-10-30T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD 181",
     "radarTronconKm": [],
     "radarType": [

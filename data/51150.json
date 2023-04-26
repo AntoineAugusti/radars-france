@@ -1,14 +1,14 @@
 {
-    "nid": "20798",
-    "uuid": "7a951bfe-ab1a-4874-bc6c-ee5674f70192",
-    "vid": "20798",
+    "nid": "24722",
+    "uuid": "823a6ec3-1ad6-4100-9642-1254a8bd16ff",
+    "vid": "24722",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51150",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHALLANS vers BOIS DE CENE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.886588 46.923149)",
-    "radarInstallDate": "2020-02-20T16:21:58",
-    "radarPlace": "BOIS DE CENE",
+    "radarInstallDate": "2020-02-20T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD58",
     "radarTronconKm": [],
     "radarType": [

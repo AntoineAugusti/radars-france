@@ -1,14 +1,14 @@
 {
-    "nid": "21665",
-    "uuid": "a8912c31-524e-404a-ad6d-75faa86c39b1",
-    "vid": "21665",
+    "nid": "23333",
+    "uuid": "d81baabf-3348-4666-9f1a-103b2473738d",
+    "vid": "23333",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12386",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY vers THIONVILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.169857 49.052043)",
-    "radarInstallDate": "2016-12-12T16:24:50",
-    "radarPlace": "MARLY",
+    "radarInstallDate": "2016-12-12T16:05:42",
+    "radarPlace": [],
     "radarRoad": "RN431",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22378",
-    "uuid": "cf2a199f-8ee1-48aa-b36c-fa67811d2b83",
-    "vid": "22378",
+    "nid": "25903",
+    "uuid": "7964e566-0d3e-411a-866d-5ab3ad6a1c06",
+    "vid": "25903",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316027",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COGNAC vers SEGONZAC",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.30716 45.67311)",
-    "radarInstallDate": "2010-09-07T16:27:46",
-    "radarPlace": "CHATEAUBERNARD",
+    "radarInstallDate": "2010-09-07T16:13:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22895",
-    "uuid": "384c8ac5-f92a-48bd-88cf-d1e490595bc1",
-    "vid": "22895",
+    "nid": "26455",
+    "uuid": "7ed17a15-2f8b-4b4e-9c12-d0161029ea0a",
+    "vid": "26455",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741083",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_89_001",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741083",
+    "changed": "1681741083",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "89 - Yonne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (47.800042 3.660344)",
-    "radarInstallDate": "2017-10-09T10:53:49",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.707502 49.144288)",
+    "radarInstallDate": "2017-10-18T16:18:04",
     "radarPlace": "-",
     "radarRoad": "D131, D345, D51, D98, D524, D150, D965, D944, , D91, D235",
-    "radarTronconKm": "27.98",
+    "radarTronconKm": "28",
     "radarType": [
         {
             "tid": "19",

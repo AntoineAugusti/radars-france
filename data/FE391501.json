@@ -1,14 +1,14 @@
 {
-    "nid": "22590",
-    "uuid": "ad2f6024-26a5-46dd-91ec-9e9fc4504ce2",
-    "vid": "22590",
+    "nid": "26115",
+    "uuid": "8d58a1e5-8bd9-4df0-9ad0-d41b573e031b",
+    "vid": "26115",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740842",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE391501",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740842",
+    "changed": "1681740842",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERT LE PETIT vers  FONTENAY LE VICOMTE",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.37411 48.53784)",
-    "radarInstallDate": "2015-06-26T16:28:44",
-    "radarPlace": "BALLANCOURT SUR ESSONNE",
+    "radarInstallDate": "2015-06-26T16:14:09",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

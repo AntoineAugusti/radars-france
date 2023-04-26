@@ -1,14 +1,14 @@
 {
-    "nid": "22455",
-    "uuid": "c4f41a39-497c-45e9-a213-c7cae6012e0b",
-    "vid": "22455",
+    "nid": "25971",
+    "uuid": "349922a2-2ba4-4be9-9036-941fee1c034b",
+    "vid": "25971",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE334000",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "JUVIGNAC vers LATTES",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.8409 43.60871)",
-    "radarInstallDate": "2012-02-28T16:28:03",
-    "radarPlace": "MONTPELLIER",
+    "radarInstallDate": "2012-02-28T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20903",
-    "uuid": "3b888317-7fc4-4515-ba63-190ce0faea5d",
-    "vid": "20903",
+    "nid": "24830",
+    "uuid": "f34a9147-a089-4880-af08-a04ce465baa2",
+    "vid": "24830",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51263",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERDUN vers BAR LE DUC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.240145 48.917714)",
-    "radarInstallDate": "2020-09-11T16:22:17",
-    "radarPlace": "ERIZE LA PETITE",
+    "radarInstallDate": "2020-09-11T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD 1916",
     "radarTronconKm": [],
     "radarType": [

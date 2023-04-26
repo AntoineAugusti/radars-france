@@ -1,14 +1,14 @@
 {
-    "nid": "21549",
-    "uuid": "866340c1-9b65-4c61-b56a-c58f3fb4b1e0",
-    "vid": "21549",
+    "nid": "23220",
+    "uuid": "c766cb69-9464-49cd-af38-e6ffb8c5b2bc",
+    "vid": "23220",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12203",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "60-OISE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "CLERMONT vers SOISSONS",
+    "radarDirection": "BEAUVAIS vers SOISSONS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.810755 49.431253)",
-    "radarInstallDate": "2013-09-30T16:24:22",
-    "radarPlace": "MARGNY LES COMPIEGNE",
+    "radarInstallDate": "2013-09-30T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RN31",
     "radarTronconKm": [],
     "radarType": [

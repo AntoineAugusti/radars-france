@@ -1,14 +1,14 @@
 {
-    "nid": "21384",
-    "uuid": "5b5a96ce-ada2-4d88-9474-b94f43ec083d",
-    "vid": "21384",
+    "nid": "25398",
+    "uuid": "eb5ca67a-6a91-40b7-885b-a365686c2504",
+    "vid": "25398",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55359",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "THUIR vers PERPIGNAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.80828 42.659489)",
-    "radarInstallDate": "2020-09-18T16:23:50",
-    "radarPlace": "TOULOUGES",
+    "radarInstallDate": "2020-09-18T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD612A",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21795",
-    "uuid": "a72725d0-7f9e-45d2-bff4-45ca3fd4eec1",
-    "vid": "21795",
+    "nid": "23465",
+    "uuid": "d5c3f836-238e-4ccd-890e-042543009445",
+    "vid": "23465",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12540",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NIMES vers AVIGNON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.772449 43.948803)",
-    "radarInstallDate": "2019-08-19T16:25:18",
-    "radarPlace": "LES ANGLES",
+    "radarInstallDate": "2019-08-19T16:05:53",
+    "radarPlace": [],
     "radarRoad": "RD6100",
     "radarTronconKm": [],
     "radarType": [

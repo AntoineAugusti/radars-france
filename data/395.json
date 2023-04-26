@@ -1,14 +1,14 @@
 {
-    "nid": "19742",
-    "uuid": "fcff3444-8580-4d03-8aa6-db2f9b791f2b",
-    "vid": "19742",
+    "nid": "23670",
+    "uuid": "4ba2d379-3f01-4c80-b1ab-4e2463600d4b",
+    "vid": "23670",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740370",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "395",
-    "created": "1637229109",
-    "changed": "1675869590",
+    "created": "1681740370",
+    "changed": "1681740370",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AIX vers LA SAULCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.94926 44.19723)",
-    "radarInstallDate": "2006-03-01T16:19:51",
-    "radarPlace": "SISTERON",
+    "radarInstallDate": "2006-03-01T16:06:12",
+    "radarPlace": [],
     "radarRoad": "A51",
     "radarTronconKm": [],
     "radarType": [

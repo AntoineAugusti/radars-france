@@ -1,14 +1,14 @@
 {
-    "nid": "19812",
-    "uuid": "3cd91d07-437a-4bd2-b6de-7244f066fc99",
-    "vid": "19812",
+    "nid": "23731",
+    "uuid": "83aa46de-b4a0-4a26-91b9-4dc95c947d12",
+    "vid": "23731",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "630",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LONGWY VERS LA BELGIQUE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.77207 49.54847)",
-    "radarInstallDate": "2005-07-12T16:19:56",
-    "radarPlace": "MONT ST MARTIN",
+    "radarInstallDate": "2005-07-12T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RN52",
     "radarTronconKm": [],
     "radarType": [

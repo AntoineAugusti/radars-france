@@ -1,14 +1,14 @@
 {
-    "nid": "19670",
-    "uuid": "81bba412-a5e7-42cd-b1ee-777f8e251889",
-    "vid": "19670",
+    "nid": "23607",
+    "uuid": "820df913-5384-489c-a5c5-e80af48a7f3b",
+    "vid": "23607",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "162",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RENNES VERS LAVAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.50378 48.10572)",
-    "radarInstallDate": "2003-12-24T16:19:47",
-    "radarPlace": "NOYAL SUR VILAINE",
+    "radarInstallDate": "2003-12-24T16:06:06",
+    "radarPlace": [],
     "radarRoad": "RN157",
     "radarTronconKm": [],
     "radarType": [

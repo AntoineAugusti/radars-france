@@ -1,14 +1,14 @@
 {
-    "nid": "20371",
-    "uuid": "de0e8096-6f24-482f-8cfa-9e82078688c1",
-    "vid": "20371",
+    "nid": "24225",
+    "uuid": "838c63c1-970b-4e3b-9025-ad5f7401297f",
+    "vid": "24225",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8628",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Paris vers Province",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2539 49.138)",
-    "radarInstallDate": "2011-05-05T16:20:58",
-    "radarPlace": "CHAMPAGNE SUR OISE",
+    "radarInstallDate": "2011-05-05T16:07:18",
+    "radarPlace": [],
     "radarRoad": "RD301",
     "radarTronconKm": [],
     "radarType": [

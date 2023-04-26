@@ -1,14 +1,14 @@
 {
-    "nid": "21710",
-    "uuid": "8e33a457-daed-42a1-ae2e-46c8256249e3",
-    "vid": "21710",
+    "nid": "23378",
+    "uuid": "f34f77da-0531-4fa1-8f55-cdf129e01e95",
+    "vid": "23378",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12436",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "HESDIN vers MONTREUIL",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.87375 50.38616)",
-    "radarInstallDate": "2016-09-08T16:25:03",
-    "radarPlace": "CAMPAGNE LES HESDIN",
+    "radarInstallDate": "2016-09-08T16:05:46",
+    "radarPlace": [],
     "radarRoad": "RD939",
     "radarTronconKm": [],
     "radarType": [

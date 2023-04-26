@@ -1,14 +1,14 @@
 {
-    "nid": "20772",
-    "uuid": "5b79aa8f-be5d-4f21-936f-9c4644d4911b",
-    "vid": "20772",
+    "nid": "24696",
+    "uuid": "e51a88c6-49ae-4b06-b692-6a13885ea6fe",
+    "vid": "24696",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51124",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA WANTZENEAU vers STRASBOURG",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.807838 48.640155)",
-    "radarInstallDate": "2019-12-10T16:21:53",
-    "radarPlace": "STRASBOURG",
+    "radarInstallDate": "2019-12-10T16:08:30",
+    "radarPlace": [],
     "radarRoad": "Route de la Wantzenau, angle allee de Honau",
     "radarTronconKm": [],
     "radarType": [

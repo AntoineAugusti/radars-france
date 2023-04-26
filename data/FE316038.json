@@ -1,14 +1,14 @@
 {
-    "nid": "22388",
-    "uuid": "fa5dd65f-c55e-4581-a13b-abed7a3b124c",
-    "vid": "22388",
+    "nid": "25913",
+    "uuid": "a51a5138-9e21-4250-be8e-5d4f597e5884",
+    "vid": "25913",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316038",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Limoges vers Chasseneuil sur Bonnieure",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.58375 45.88598)",
-    "radarInstallDate": "2011-03-30T16:27:47",
-    "radarPlace": "ROUMAZIERES LOUBERT",
+    "radarInstallDate": "2011-03-30T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

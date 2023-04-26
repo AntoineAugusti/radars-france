@@ -1,14 +1,14 @@
 {
-    "nid": "22715",
-    "uuid": "1a575226-7c15-4c8d-be03-0000c9eddbbc",
-    "vid": "22715",
+    "nid": "26229",
+    "uuid": "8ad4422d-efbe-4d06-b924-4841dc16103e",
+    "vid": "26229",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741035",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_11_002",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741035",
+    "changed": "1681741035",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "11 - Aude",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (43.213469 2.302581)",
-    "radarInstallDate": "2017-10-05T10:53:39",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.602119 43.857271)",
+    "radarInstallDate": "2017-10-05T16:17:16",
     "radarPlace": "-",
     "radarRoad": "D8, D35, D102, D43, D19, D443, D21, D208, D4, D623, D763, D213, D119, D211, D802, D48, D63, A61, D38",
-    "radarTronconKm": "33.99",
+    "radarTronconKm": "34",
     "radarType": [
         {
             "tid": "19",

@@ -1,14 +1,14 @@
 {
-    "nid": "21633",
-    "uuid": "0f649093-99ef-451a-84e4-3bfe14e2536d",
-    "vid": "21633",
+    "nid": "23301",
+    "uuid": "3c3fa7d8-c70a-4eeb-adea-153f3ba53f02",
+    "vid": "23301",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12346",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CERGY vers ROSSY EN FRANCE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.28241 49.05951)",
-    "radarInstallDate": "2016-02-04T16:24:42",
-    "radarPlace": "BAILLET EN FRANCE",
+    "radarInstallDate": "2016-02-04T16:05:40",
+    "radarPlace": [],
     "radarRoad": "RN104",
     "radarTronconKm": [],
     "radarType": [
@@ -108,9 +108,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "7",
-            "uuid": "c447707a-c428-4166-ac14-c667a8cdcb41",
-            "revisionId": "7",
+            "tid": "9",
+            "uuid": "c673e4ce-5711-4539-8bcc-d32a1d6856fd",
+            "revisionId": "9",
             "langcode": "fr",
             "vid": [
                 {
@@ -121,7 +121,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 80",
+            "name": "Vitesse VL 110",
             "description": [
                 {
                     "value": null,
@@ -134,7 +134,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154470",
+            "changed": "1515154505",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -146,30 +146,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-80.png?itok=TcuP772z",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-110.png?itok=iZj59iDL",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-80.png?itok=TK2yJ19C",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-110.png?itok=Qk7wtqdk",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-80.png?itok=thPluA0X",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-110.png?itok=YBXoSYOr",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-80.png",
-                        "fileCreated": "1515154465",
-                        "fileSize": "4045",
+                        "fileName": "vitesse-110.png",
+                        "fileCreated": "1515154498",
+                        "fileSize": "3254",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_80",
+            "macineName": "vitesse_vl_110",
             "ruleLabel": "Vitesse"
         },
         {

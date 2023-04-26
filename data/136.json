@@ -1,14 +1,14 @@
 {
-    "nid": "19660",
-    "uuid": "972c4276-6165-454c-b48c-0b5e2f4ed2ad",
-    "vid": "19660",
+    "nid": "23599",
+    "uuid": "d2a9dfea-dbee-4eb1-bed2-7fd2e3e73ec2",
+    "vid": "23599",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "136",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PERIPHERIQUE EXTERIEUR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.30974 48.89645)",
-    "radarInstallDate": "2004-02-14T16:19:46",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2004-02-14T16:06:04",
+    "radarPlace": [],
     "radarRoad": "BP-CLICHY",
     "radarTronconKm": [],
     "radarType": [

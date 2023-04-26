@@ -1,14 +1,14 @@
 {
-    "nid": "22426",
-    "uuid": "56e2d6da-4778-4eab-a88c-ea30a56aa71d",
-    "vid": "22426",
+    "nid": "25945",
+    "uuid": "228ad894-f24b-420d-a19d-00ca4c44aa42",
+    "vid": "25945",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740788",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE330027",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740788",
+    "changed": "1681740788",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Le Vigan vers N\u00eemes centre-ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (4.34567 43.83714)",
-    "radarInstallDate": "2012-12-18T16:27:55",
-    "radarPlace": "NIMES",
+    "radarInstallDate": "2012-12-18T16:13:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21298",
-    "uuid": "3aab38b7-e902-456a-b961-7e5540aeb01e",
-    "vid": "21298",
+    "nid": "25310",
+    "uuid": "65a6c95e-8863-4c12-bf85-099b79a58f6b",
+    "vid": "25310",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55266",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAU vers LANGON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.26936 44.202664)",
-    "radarInstallDate": "2020-12-17T16:23:31",
-    "radarPlace": "CAPTIEUX",
+    "radarInstallDate": "2020-12-17T16:10:33",
+    "radarPlace": [],
     "radarRoad": "RD932",
     "radarTronconKm": [],
     "radarType": [

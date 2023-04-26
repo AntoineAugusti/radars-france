@@ -1,14 +1,14 @@
 {
-    "nid": "19900",
-    "uuid": "30832ec7-7f9b-42a2-8b38-6b3930f06bbd",
-    "vid": "19900",
+    "nid": "23799",
+    "uuid": "d85e5a38-415e-44f7-9a90-844d964fbde5",
+    "vid": "23799",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3110",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MOULINS VERS MACON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.40949 46.42902)",
-    "radarInstallDate": "2005-11-29T16:20:05",
-    "radarPlace": "BEAUBERY",
+    "radarInstallDate": "2005-11-29T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RN79",
     "radarTronconKm": [],
     "radarType": [

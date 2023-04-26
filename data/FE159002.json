@@ -1,14 +1,14 @@
 {
-    "nid": "21976",
-    "uuid": "c17e1fd9-635d-4584-93dc-574280268161",
-    "vid": "21976",
+    "nid": "25613",
+    "uuid": "7cc7069d-db98-45dc-a3c6-3660930aa886",
+    "vid": "25613",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159002",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avenue de Dunkerque vers la Rue Reublin",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.98818 50.64581)",
-    "radarInstallDate": "2010-05-03T16:26:01",
-    "radarPlace": "LILLE",
+    "radarInstallDate": "2010-05-03T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

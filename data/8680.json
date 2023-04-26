@@ -1,14 +1,14 @@
 {
-    "nid": "20387",
-    "uuid": "2cd4dd18-b2d9-42b0-bf11-7484e641d093",
-    "vid": "20387",
+    "nid": "24238",
+    "uuid": "46fb91c2-5108-479b-88e1-51290760e9a2",
+    "vid": "24238",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8680",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Porte de Clignancourt vers Porte d'Aubervilliers",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.361351 48.900701)",
-    "radarInstallDate": "2013-08-01T16:20:58",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-08-01T16:07:18",
+    "radarPlace": [],
     "radarRoad": "Porte de la Chapelle (18i\u00e8me) BP int\u00e9rieur",
     "radarTronconKm": [],
     "radarType": [

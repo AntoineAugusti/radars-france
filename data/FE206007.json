@@ -1,14 +1,14 @@
 {
-    "nid": "22210",
-    "uuid": "c302ec3e-4f35-4181-a3a1-de362c8f08a5",
-    "vid": "22210",
+    "nid": "25821",
+    "uuid": "b859e6ef-1737-4096-ab41-dbb92d4e6b40",
+    "vid": "25821",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229186",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE206007",
-    "created": "1637229186",
-    "changed": "1675870011",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Villeneuve Loubet vers St Laurent du Var",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.15467 43.65602)",
-    "radarInstallDate": "2010-02-17T16:26:58",
-    "radarPlace": "CAGNES SUR MER",
+    "radarInstallDate": "2010-02-17T16:12:39",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

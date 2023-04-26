@@ -1,14 +1,14 @@
 {
-    "nid": "22129",
-    "uuid": "3c917ae7-d190-4a54-b6e4-84d722637d26",
-    "vid": "22129",
+    "nid": "25745",
+    "uuid": "4b3ed6fe-f1f0-4e58-bff7-44b91734ff1f",
+    "vid": "25745",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE180002",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Flesselles vers Amiens",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.29408 49.91591)",
-    "radarInstallDate": "2011-02-28T16:26:42",
-    "radarPlace": "AMIENS",
+    "radarInstallDate": "2011-02-28T16:12:22",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

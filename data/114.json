@@ -1,14 +1,14 @@
 {
-    "nid": "19648",
-    "uuid": "62276b74-b470-46b8-a7d8-7cda52ef9ade",
-    "vid": "19648",
+    "nid": "23588",
+    "uuid": "bd80091a-8234-47c6-8394-37d6c81de988",
+    "vid": "23588",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "114",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGERS VERS NANTES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.54887 47.48393)",
-    "radarInstallDate": "2003-11-14T16:19:45",
-    "radarPlace": "ANGERS",
+    "radarInstallDate": "2003-11-14T16:06:04",
+    "radarPlace": [],
     "radarRoad": "RD323",
     "radarTronconKm": [],
     "radarType": [

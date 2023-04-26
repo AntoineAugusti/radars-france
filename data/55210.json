@@ -1,14 +1,14 @@
 {
-    "nid": "21245",
-    "uuid": "d63df89c-1c87-488e-9d65-317bcfc1f8d6",
-    "vid": "21245",
+    "nid": "25256",
+    "uuid": "ca95ec3a-8f50-4221-af5b-732047d386f9",
+    "vid": "25256",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55210",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PONT DE CHERUY vers CREMIEU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.232971 45.737521)",
-    "radarInstallDate": "2020-03-13T16:23:20",
-    "radarPlace": "SAINT ROMAIN DE JALIONAS",
+    "radarInstallDate": "2020-03-13T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD517",
     "radarTronconKm": [],
     "radarType": [

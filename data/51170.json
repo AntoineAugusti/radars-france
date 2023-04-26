@@ -1,14 +1,14 @@
 {
-    "nid": "20818",
-    "uuid": "9ef9eb74-71ee-46ee-a24b-4c0f3bc0b6fd",
-    "vid": "20818",
+    "nid": "24742",
+    "uuid": "592d35d1-fcf0-4bce-97b2-df815410831b",
+    "vid": "24742",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51170",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GOURNAY EN BRAY vers DIEPPE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.684884 49.495203)",
-    "radarInstallDate": "2020-08-28T16:22:02",
-    "radarPlace": "ELBEUF EN BRAY",
+    "radarInstallDate": "2020-08-28T16:08:37",
+    "radarPlace": [],
     "radarRoad": "RD915",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20921",
-    "uuid": "d9033f58-f75b-4303-abd3-128383a92b5f",
-    "vid": "20921",
+    "nid": "24848",
+    "uuid": "04fc3279-bbf0-48a1-bba1-bc67f1813b9a",
+    "vid": "24848",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51282",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DIJON vers LANGRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.110995 47.437343)",
-    "radarInstallDate": "2020-10-01T16:22:18",
-    "radarPlace": "MARSANNAY LE BOIS",
+    "radarInstallDate": "2020-10-01T16:08:58",
+    "radarPlace": [],
     "radarRoad": "RD974",
     "radarTronconKm": [],
     "radarType": [

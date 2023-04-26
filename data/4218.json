@@ -1,14 +1,14 @@
 {
-    "nid": "19963",
-    "uuid": "795de4e7-d39b-4750-9f61-bafb6464cbad",
-    "vid": "19963",
+    "nid": "23854",
+    "uuid": "2daac278-bd90-4ed4-a331-1b10210a466d",
+    "vid": "23854",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4218",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Quartier du MIRAIL vers centre ville de TOULOUSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.41002 43.57853)",
-    "radarInstallDate": "2009-12-02T16:20:11",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2009-12-02T16:06:31",
+    "radarPlace": [],
     "radarRoad": "Face au n\u00b0 120, rue Henri DESBALS",
     "radarTronconKm": [],
     "radarType": [

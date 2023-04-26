@@ -1,14 +1,14 @@
 {
-    "nid": "22279",
-    "uuid": "9cbb12d6-1f3f-447d-9724-2db300fa79ba",
-    "vid": "22279",
+    "nid": "25850",
+    "uuid": "0c51922f-3d06-4fc4-93e2-816994675537",
+    "vid": "25850",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE263001",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Issoire vers Riom",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.11806 45.78934)",
-    "radarInstallDate": "2009-09-23T16:27:19",
-    "radarPlace": "CLERMONT FERRAND",
+    "radarInstallDate": "2009-09-23T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

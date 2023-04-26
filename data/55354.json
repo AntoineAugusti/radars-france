@@ -1,14 +1,14 @@
 {
-    "nid": "21380",
-    "uuid": "cbec3d47-caf3-4fac-9980-4b5f36b8b0ba",
-    "vid": "21380",
+    "nid": "25394",
+    "uuid": "a5ee5533-2e40-42cd-94b9-872e87ce2d68",
+    "vid": "25394",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55354",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINTES vers CHANIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.58853 45.72896)",
-    "radarInstallDate": "2021-01-21T16:23:50",
-    "radarPlace": "CHANIERS",
+    "radarInstallDate": "2021-01-21T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD24",
     "radarTronconKm": [],
     "radarType": [

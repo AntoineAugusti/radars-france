@@ -1,14 +1,14 @@
 {
-    "nid": "22816",
-    "uuid": "d4be599b-1459-45c4-a383-66666282f441",
-    "vid": "22816",
+    "nid": "26360",
+    "uuid": "7141e630-9d7e-47f0-bf4e-cb9da865013c",
+    "vid": "26360",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229222",
+    "revisionTimestamp": "1681741058",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_57_001",
-    "created": "1637229222",
-    "changed": "1637229222",
+    "created": "1681741058",
+    "changed": "1681741058",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "57 - Moselle",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (49.323958 6.25159)",
-    "radarInstallDate": "2017-10-06T10:53:43",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.576724 43.439779)",
+    "radarInstallDate": "2017-10-05T16:17:39",
     "radarPlace": "-",
     "radarRoad": "D118M, D118N, D118H, D8, D118E, D56, D60, D3, D65, D2, D118C, , D118G, D918, D118D, D63, D118J",
-    "radarTronconKm": "26.76",
+    "radarTronconKm": "26,8",
     "radarType": [
         {
             "tid": "19",

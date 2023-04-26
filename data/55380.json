@@ -1,14 +1,14 @@
 {
-    "nid": "21401",
-    "uuid": "05bc7eab-4381-4c46-8e80-bf1a23f0b678",
-    "vid": "21401",
+    "nid": "25417",
+    "uuid": "6a055c10-dbcf-4998-a0f2-40c35532cfdf",
+    "vid": "25417",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55380",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COMBO LES BAINS vers SAINT JEAN DE LUZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.581847 43.360388)",
-    "radarInstallDate": "2021-06-30T16:23:51",
-    "radarPlace": "SAINT PEE SUR NIVELLE",
+    "radarInstallDate": "2021-06-30T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD918",
     "radarTronconKm": [],
     "radarType": [

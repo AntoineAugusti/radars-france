@@ -1,14 +1,14 @@
 {
-    "nid": "20423",
-    "uuid": "24bb0299-cd2d-45e6-a6d4-4e55b70bcfe9",
-    "vid": "20423",
+    "nid": "24270",
+    "uuid": "8de8ab7e-a131-43da-968c-902b524d6580",
+    "vid": "24270",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8807",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LISIEUX vers ORBEC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.30311 49.09587)",
-    "radarInstallDate": "2011-02-15T16:21:05",
-    "radarPlace": "ST DENIS DE MAILLOC",
+    "radarInstallDate": "2011-02-15T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RD519",
     "radarTronconKm": [],
     "radarType": [

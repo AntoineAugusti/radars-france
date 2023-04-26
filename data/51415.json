@@ -1,14 +1,14 @@
 {
-    "nid": "21027",
-    "uuid": "82bb896c-9b33-463f-afc6-f6e96517208c",
-    "vid": "21027",
+    "nid": "24974",
+    "uuid": "107d2e91-1cdd-45b4-84d5-7841adb5cba5",
+    "vid": "24974",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51415",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LAMBALLE vers LE MENE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.494375 48.380434)",
-    "radarInstallDate": "2021-07-02T16:22:37",
-    "radarPlace": "PENGUILY",
+    "radarInstallDate": "2021-07-02T16:09:22",
+    "radarPlace": [],
     "radarRoad": "RD14",
     "radarTronconKm": [],
     "radarType": [

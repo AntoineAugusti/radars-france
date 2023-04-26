@@ -1,14 +1,14 @@
 {
-    "nid": "20828",
-    "uuid": "6199eea6-e620-42ab-ba80-784097e349fc",
-    "vid": "20828",
+    "nid": "24752",
+    "uuid": "27c3b95a-f98d-4231-873a-de610bfa5769",
+    "vid": "24752",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51180",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURG BEAUDOUIN vers BOOS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.259784 49.385356)",
-    "radarInstallDate": "2020-07-16T16:22:03",
-    "radarPlace": "LA NEUVILLE CHANT D OISEL",
+    "radarInstallDate": "2020-07-16T16:08:41",
+    "radarPlace": [],
     "radarRoad": "RD6014",
     "radarTronconKm": [],
     "radarType": [

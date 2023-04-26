@@ -1,14 +1,14 @@
 {
-    "nid": "20355",
-    "uuid": "eb36938e-0caf-4ce4-ba67-307d2c6d3cb0",
-    "vid": "20355",
+    "nid": "24209",
+    "uuid": "972a6449-4d85-4484-aac8-ee351ccbcffe",
+    "vid": "24209",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8576",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Dijon vers Pontarlier",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.3006 46.918)",
-    "radarInstallDate": "2010-10-27T16:20:54",
-    "radarPlace": "HOUTAUD",
+    "radarInstallDate": "2010-10-27T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD72",
     "radarTronconKm": [],
     "radarType": [

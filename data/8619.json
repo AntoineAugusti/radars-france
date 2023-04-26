@@ -1,14 +1,14 @@
 {
-    "nid": "20366",
-    "uuid": "fbb8ca4b-4dd8-415f-ad44-ce18bb046fbc",
-    "vid": "20366",
+    "nid": "24220",
+    "uuid": "c6a76863-4e97-4568-8b22-3e06ed6ebf3c",
+    "vid": "24220",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8619",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PUBERG vers INGWILLER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.43151 48.90594)",
-    "radarInstallDate": "2013-05-27T16:20:57",
-    "radarPlace": "WIMMENAU",
+    "radarInstallDate": "2013-05-27T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD 919",
     "radarTronconKm": [],
     "radarType": [

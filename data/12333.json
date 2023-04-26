@@ -1,14 +1,14 @@
 {
-    "nid": "21620",
-    "uuid": "b0a03b31-856c-4f44-99e3-094a85a7334e",
-    "vid": "21620",
+    "nid": "23288",
+    "uuid": "4a083490-f52d-4547-8c4f-a1bef18e90ff",
+    "vid": "23288",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12333",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAMONIX MONT BLANC vers ANNECY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.15028 46.1489)",
-    "radarInstallDate": "2016-04-04T16:24:42",
-    "radarPlace": "BOSSEY",
+    "radarInstallDate": "2016-04-04T16:05:39",
+    "radarPlace": [],
     "radarRoad": "A40",
     "radarTronconKm": [],
     "radarType": [

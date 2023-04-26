@@ -1,14 +1,14 @@
 {
-    "nid": "20965",
-    "uuid": "eff2346b-0fa7-4880-9589-1241ab4a2e51",
-    "vid": "20965",
+    "nid": "24898",
+    "uuid": "417b7b9b-e68f-44bc-a737-733addb91250",
+    "vid": "24898",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51335",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHANTILLY vers NOAILLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.348665 49.226934)",
-    "radarInstallDate": "2021-07-15T16:22:28",
-    "radarPlace": "BLAINCOURT-LES-PRECY",
+    "radarInstallDate": "2021-07-15T16:09:05",
+    "radarPlace": [],
     "radarRoad": "RD44",
     "radarTronconKm": [],
     "radarType": [

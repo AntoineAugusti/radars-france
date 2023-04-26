@@ -1,14 +1,14 @@
 {
-    "nid": "20900",
-    "uuid": "1dcbd6f2-ca64-41ca-89a7-bbd16fc58f47",
-    "vid": "20900",
+    "nid": "24827",
+    "uuid": "f55b1780-2f53-4899-b591-2f36acb87620",
+    "vid": "24827",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51260",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AVRANCHES vers GRANVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.523602 48.800175)",
-    "radarInstallDate": "2020-12-08T16:22:17",
-    "radarPlace": "SAINT AUBIN DES PREAUX",
+    "radarInstallDate": "2020-12-08T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD973",
     "radarTronconKm": [],
     "radarType": [

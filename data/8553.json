@@ -1,14 +1,14 @@
 {
-    "nid": "20350",
-    "uuid": "34faf6c7-0efc-4684-8385-5fdd335f29c6",
-    "vid": "20350",
+    "nid": "24204",
+    "uuid": "1a4b60ab-2120-4c95-bdf8-1518875dc1be",
+    "vid": "24204",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8553",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FOUGEROLLES vers LUXEUIL LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.377446 47.827527)",
-    "radarInstallDate": "2010-05-17T16:20:54",
-    "radarPlace": "LUXEUIL LES BAINS",
+    "radarInstallDate": "2010-05-17T16:07:14",
+    "radarPlace": [],
     "radarRoad": "Rue Grammont, face au n\u00b0 62",
     "radarTronconKm": [],
     "radarType": [

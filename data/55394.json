@@ -1,14 +1,14 @@
 {
-    "nid": "21410",
-    "uuid": "4f580b3d-9276-424e-8724-39a580d24e13",
-    "vid": "21410",
+    "nid": "25428",
+    "uuid": "8df6dce8-da24-4847-9afb-26dfdafce90a",
+    "vid": "25428",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55394",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LEZOUX vers THIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.440125 45.827542)",
-    "radarInstallDate": "2021-03-18T16:23:56",
-    "radarPlace": "SAINT JEAN D HEURS",
+    "radarInstallDate": "2021-03-18T16:10:56",
+    "radarPlace": [],
     "radarRoad": "RD2089",
     "radarTronconKm": [],
     "radarType": [

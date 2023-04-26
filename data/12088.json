@@ -1,14 +1,14 @@
 {
-    "nid": "21483",
-    "uuid": "be5cf10d-5cce-4491-b0ed-93e58fc3ae09",
-    "vid": "21483",
+    "nid": "23156",
+    "uuid": "95213028-2f1e-4296-80d8-e2e4c602f3a5",
+    "vid": "23156",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12088",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.5736 45.372)",
-    "radarInstallDate": "2012-08-10T16:24:10",
-    "radarPlace": "ESPARTIGNAC",
+    "radarInstallDate": "2012-08-10T16:05:30",
+    "radarPlace": [],
     "radarRoad": "A20",
     "radarTronconKm": [],
     "radarType": [

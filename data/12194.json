@@ -1,14 +1,14 @@
 {
-    "nid": "21543",
-    "uuid": "4e30caca-f3d3-4fed-bac0-8e178784853e",
-    "vid": "21543",
+    "nid": "23214",
+    "uuid": "f643efb0-efa4-4415-a138-a4142953dd1a",
+    "vid": "23214",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12194",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LAON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.345112 49.364071)",
-    "radarInstallDate": "2014-03-13T16:24:22",
-    "radarPlace": "BELLEU",
+    "radarInstallDate": "2014-03-13T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

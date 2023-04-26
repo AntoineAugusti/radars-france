@@ -1,14 +1,14 @@
 {
-    "nid": "21859",
-    "uuid": "f3a4aa35-94ab-49c3-b072-5042ab3b1c18",
-    "vid": "21859",
+    "nid": "23537",
+    "uuid": "dae475f7-4c51-41bb-aad8-41abd190d07b",
+    "vid": "23537",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12634",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAYEUX vers CAEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.429973 49.191129)",
-    "radarInstallDate": "2020-08-17T16:25:38",
-    "radarPlace": "CARPIQUET",
+    "radarInstallDate": "2020-08-17T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RN13",
     "radarTronconKm": [],
     "radarType": [

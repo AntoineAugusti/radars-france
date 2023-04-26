@@ -1,14 +1,14 @@
 {
-    "nid": "20817",
-    "uuid": "8f2de16e-6446-48f5-9697-8b5d9f3c4a06",
-    "vid": "20817",
+    "nid": "24741",
+    "uuid": "26198e89-aed3-43d1-ab89-e880580fbf06",
+    "vid": "24741",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51169",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LONS LE SAUNIER vers DARBONNAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.575895 46.802022)",
-    "radarInstallDate": "2020-03-09T16:22:02",
-    "radarPlace": "MANTRY",
+    "radarInstallDate": "2020-03-09T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD1083",
     "radarTronconKm": [],
     "radarType": [

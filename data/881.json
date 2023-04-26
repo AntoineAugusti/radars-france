@@ -1,14 +1,14 @@
 {
-    "nid": "19866",
-    "uuid": "67e4d3e7-ad56-4cec-a46c-a11ab74571d1",
-    "vid": "19866",
+    "nid": "23772",
+    "uuid": "e715419c-c292-4edc-b409-e9a6766c7d81",
+    "vid": "23772",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "881",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LONS LE SAUNIER vers ORGELET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.59482 46.58415)",
-    "radarInstallDate": "2005-06-06T16:20:02",
-    "radarPlace": "ALIEZE",
+    "radarInstallDate": "2005-06-06T16:06:22",
+    "radarPlace": [],
     "radarRoad": "RD52",
     "radarTronconKm": [],
     "radarType": [

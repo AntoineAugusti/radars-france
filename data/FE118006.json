@@ -1,14 +1,14 @@
 {
-    "nid": "21887",
-    "uuid": "e2ff6ee8-e2bc-4b9c-a525-28285f40e408",
-    "vid": "21887",
+    "nid": "25526",
+    "uuid": "b2b7f061-9a77-4e12-9dcc-fecbad6ac203",
+    "vid": "25526",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE118006",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "St Michel vers Bourges",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.42484 47.10464)",
-    "radarInstallDate": "2010-09-17T16:25:39",
-    "radarPlace": "BOURGES",
+    "radarInstallDate": "2010-09-17T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

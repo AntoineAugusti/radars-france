@@ -1,14 +1,14 @@
 {
-    "nid": "20113",
-    "uuid": "179a2e7d-999d-4ed3-9e40-82f7ca5cc7e4",
-    "vid": "20113",
+    "nid": "23997",
+    "uuid": "3f0e11c7-3f3e-452b-96e7-5d6e194e62ce",
+    "vid": "23997",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6004",
-    "created": "1637229118",
-    "changed": "1675869624",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS ST MAURICE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.37842 48.83665)",
-    "radarInstallDate": "2006-04-19T16:20:26",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2006-04-19T16:06:47",
+    "radarPlace": [],
     "radarRoad": "Quai de Bercy \u00e0 18 m en aval lampadaire XII 13571",
     "radarTronconKm": [],
     "radarType": [

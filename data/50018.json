@@ -1,14 +1,14 @@
 {
-    "nid": "20600",
-    "uuid": "f050f5ba-e7b0-440d-a84e-acca62653730",
-    "vid": "20600",
+    "nid": "24516",
+    "uuid": "4de16f1e-0dba-41d2-8cc4-feb34ec43746",
+    "vid": "24516",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50018",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOUILLANTE vers BAILLIF",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.76329 16.08011)",
-    "radarInstallDate": "2021-01-18T16:21:30",
-    "radarPlace": "VIEUX HABITANTS",
+    "radarInstallDate": "2021-01-18T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20220",
-    "uuid": "1143fd4d-4974-4c82-8f66-c4e36d7953a3",
-    "vid": "20220",
+    "nid": "24092",
+    "uuid": "1f7553c8-fb02-40a5-8b87-36756fa9137c",
+    "vid": "24092",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7013",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST BENOIT VERS POITIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.3628 46.58836)",
-    "radarInstallDate": "2008-03-03T16:20:38",
-    "radarPlace": "POITIERS",
+    "radarInstallDate": "2008-03-03T16:06:58",
+    "radarPlace": [],
     "radarRoad": "RD162",
     "radarTronconKm": [],
     "radarType": [

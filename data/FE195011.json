@@ -1,14 +1,14 @@
 {
-    "nid": "22185",
-    "uuid": "0a6ea12a-97b6-4d5c-9a7e-6ea5d2a162a8",
-    "vid": "22185",
+    "nid": "25800",
+    "uuid": "d17f089d-7838-42ec-9f72-9cf8d55db3c9",
+    "vid": "25800",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195011",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Cormeilles en Parisis vers Beauchamp",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.18183 48.991)",
-    "radarInstallDate": "2010-03-22T16:26:50",
-    "radarPlace": "MONTIGNY LES CORMEILLES",
+    "radarInstallDate": "2010-03-22T16:12:32",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

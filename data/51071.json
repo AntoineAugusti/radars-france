@@ -1,14 +1,14 @@
 {
-    "nid": "20719",
-    "uuid": "a04a4270-02a9-46d3-948a-7c2878c54fba",
-    "vid": "20719",
+    "nid": "24644",
+    "uuid": "0c724877-b7a9-487a-a982-697c6373fbfd",
+    "vid": "24644",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51071",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT QUENTIN vers GUISE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.474709 49.839249)",
-    "radarInstallDate": "2020-07-10T16:21:47",
-    "radarPlace": "THENELLES",
+    "radarInstallDate": "2020-07-10T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD1029",
     "radarTronconKm": [],
     "radarType": [

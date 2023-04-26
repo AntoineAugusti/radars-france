@@ -1,14 +1,14 @@
 {
-    "nid": "22620",
-    "uuid": "9d6fecca-9b53-4c81-be33-c0be93a434a2",
-    "vid": "22620",
+    "nid": "26145",
+    "uuid": "a3650ec7-0300-42be-8c36-6bdc07776fe8",
+    "vid": "26145",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20060",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "NEVERS vers MOULINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.15776 46.93863)",
-    "radarInstallDate": "2013-07-03T10:53:35",
+    "radarInstallDate": "2013-07-03T16:17:06",
     "radarPlace": "MAGNY COURS",
     "radarRoad": "RN7",
     "radarTronconKm": "4,8",

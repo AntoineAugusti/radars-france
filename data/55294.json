@@ -1,14 +1,14 @@
 {
-    "nid": "21326",
-    "uuid": "7fa287be-5fd6-499a-b72f-d7d30dce043e",
-    "vid": "21326",
+    "nid": "25338",
+    "uuid": "30d0ee57-6b71-41e4-9ed4-d55ce88258dc",
+    "vid": "25338",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55294",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "42-LOIRE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "DIGOIN vers ROANNE",
+    "radarDirection": "ROANNE vers DIGOIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.10841 46.13821)",
-    "radarInstallDate": "2020-07-23T16:23:37",
-    "radarPlace": "POUILLY SOUS CHARLIEU",
+    "radarInstallDate": "2020-07-23T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD482",
     "radarTronconKm": [],
     "radarType": [

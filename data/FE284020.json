@@ -1,14 +1,14 @@
 {
-    "nid": "22352",
-    "uuid": "bed1f389-b800-4ad7-abf5-639650a155e5",
-    "vid": "22352",
+    "nid": "25887",
+    "uuid": "e4d386fc-7e1c-4b3e-803f-359b8905152e",
+    "vid": "25887",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229194",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE284020",
-    "created": "1637229194",
-    "changed": "1675870051",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Saint Saturnin Les Avignon vers Les Angles",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.83401 43.95166)",
-    "radarInstallDate": "2011-06-15T16:27:38",
-    "radarPlace": "AVIGNON",
+    "radarInstallDate": "2011-06-15T16:12:58",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

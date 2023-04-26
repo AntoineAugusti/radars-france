@@ -1,14 +1,14 @@
 {
-    "nid": "20914",
-    "uuid": "98c214be-d818-4722-bb59-b54e33fa26b9",
-    "vid": "20914",
+    "nid": "24841",
+    "uuid": "da69de9f-50b4-463b-9e40-145211f3a13e",
+    "vid": "24841",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51275",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VALDAHON vers MORTEAU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.558547 47.132307)",
-    "radarInstallDate": "2020-07-09T16:22:18",
-    "radarPlace": "FOURNETS LUISANS",
+    "radarInstallDate": "2020-07-09T16:08:54",
+    "radarPlace": [],
     "radarRoad": "RD461",
     "radarTronconKm": [],
     "radarType": [

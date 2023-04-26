@@ -1,14 +1,14 @@
 {
-    "nid": "22586",
-    "uuid": "4827e62e-dfef-4f1a-8b94-9896a8473c86",
-    "vid": "22586",
+    "nid": "26111",
+    "uuid": "05f4c551-a26d-439e-9253-ef1047931652",
+    "vid": "26111",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE387501",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.16992 45.96016)",
-    "radarInstallDate": "2016-06-30T16:28:44",
-    "radarPlace": "PEYRILHAC",
+    "radarInstallDate": "2016-06-30T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

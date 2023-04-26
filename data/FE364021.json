@@ -1,14 +1,14 @@
 {
-    "nid": "22534",
-    "uuid": "ba9f6651-9276-412c-b45e-4a200309d9c5",
-    "vid": "22534",
+    "nid": "26014",
+    "uuid": "72b2132e-38af-4b89-ae2d-384d42db03c2",
+    "vid": "26014",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364021",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avenue de Montardon vers Bordeaux",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.37561 43.31374)",
-    "radarInstallDate": "2010-10-11T16:28:28",
-    "radarPlace": "PAU",
+    "radarInstallDate": "2010-10-11T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

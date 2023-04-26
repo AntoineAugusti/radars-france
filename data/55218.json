@@ -1,14 +1,14 @@
 {
-    "nid": "21253",
-    "uuid": "04760f2e-a0ae-48da-9344-225210daaa83",
-    "vid": "21253",
+    "nid": "25264",
+    "uuid": "2342f01d-468c-4cae-b768-75aa10eec36f",
+    "vid": "25264",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55218",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CRAPONNE SUR ARZON vers RETOURNAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.915253 45.271616)",
-    "radarInstallDate": "2020-02-25T16:23:20",
-    "radarPlace": "SAINT PIERRE DU CHAMP",
+    "radarInstallDate": "2020-02-25T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD9",
     "radarTronconKm": [],
     "radarType": [

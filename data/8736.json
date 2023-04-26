@@ -1,14 +1,14 @@
 {
-    "nid": "20403",
-    "uuid": "05da489e-aa00-4847-b8e2-cff66be82413",
-    "vid": "20403",
+    "nid": "24252",
+    "uuid": "4d367fbf-a072-482a-b732-a646bf97ba14",
+    "vid": "24252",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8736",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTGERON vers DRAVEIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.4299 48.703)",
-    "radarInstallDate": "2011-03-31T16:21:02",
-    "radarPlace": "VIGNEUX SUR SEINE",
+    "radarInstallDate": "2011-03-31T16:07:19",
+    "radarPlace": [],
     "radarRoad": "RD448",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19708",
-    "uuid": "be5d63a1-ef81-40d3-b851-db73a65b0d5c",
-    "vid": "19708",
+    "nid": "23638",
+    "uuid": "c2d86f2e-dc9a-428f-9e29-113e85cacf5f",
+    "vid": "23638",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "284",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AGEN vers BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.16753 44.50246)",
-    "radarInstallDate": "2004-12-06T16:19:49",
-    "radarPlace": "MARMANDE",
+    "radarInstallDate": "2004-12-06T16:06:09",
+    "radarPlace": [],
     "radarRoad": "RD813",
     "radarTronconKm": [],
     "radarType": [

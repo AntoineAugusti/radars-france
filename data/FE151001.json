@@ -1,14 +1,14 @@
 {
-    "nid": "21947",
-    "uuid": "9c166761-0ff0-4f87-877e-463c3054f258",
-    "vid": "21947",
+    "nid": "25585",
+    "uuid": "4c7e5738-2da6-43b1-9da9-9c9e346bdc3b",
+    "vid": "25585",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE151001",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (4.58976 48.7338)",
-    "radarInstallDate": "2010-09-30T16:25:53",
-    "radarPlace": "VITRY LE FRANCOIS",
+    "radarInstallDate": "2010-09-30T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

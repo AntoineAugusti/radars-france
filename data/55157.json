@@ -1,14 +1,14 @@
 {
-    "nid": "21193",
-    "uuid": "4f3a625e-ab43-42a6-a0e2-81ff7eb835b6",
-    "vid": "21193",
+    "nid": "25204",
+    "uuid": "ddefef92-ab17-4084-99b8-4ff1879fe944",
+    "vid": "25204",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55157",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BERGERAC vers AGEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.692439 44.462811)",
-    "radarInstallDate": "2020-07-03T16:23:08",
-    "radarPlace": "VILLENEUVE SUR LOT",
+    "radarInstallDate": "2020-07-03T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RN21",
     "radarTronconKm": [],
     "radarType": [

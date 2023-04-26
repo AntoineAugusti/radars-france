@@ -1,14 +1,14 @@
 {
-    "nid": "20604",
-    "uuid": "25d4ebaf-2d12-4b91-ae3b-a4bb583f335b",
-    "vid": "20604",
+    "nid": "24520",
+    "uuid": "4f052d06-bae9-47d0-bac0-c156f1b1d868",
+    "vid": "24520",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50026",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BASSE TERRE vers POINTE A PITRE PRINCIPAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.579819 16.130857)",
-    "radarInstallDate": "2020-09-28T16:21:30",
-    "radarPlace": "GOYAVE",
+    "radarInstallDate": "2020-09-28T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

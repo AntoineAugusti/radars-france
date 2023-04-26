@@ -1,14 +1,14 @@
 {
-    "nid": "21595",
-    "uuid": "8148f6b1-1269-4a39-bce5-b47a587810b1",
-    "vid": "21595",
+    "nid": "23264",
+    "uuid": "ede76a87-751a-4e11-8b51-3647d2fcb8a3",
+    "vid": "23264",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12292",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX vers BAYONNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.2282 43.711)",
-    "radarInstallDate": "2014-04-28T16:24:35",
-    "radarPlace": "ST GEOURS DE MAREMNE",
+    "radarInstallDate": "2014-04-28T16:05:37",
+    "radarPlace": [],
     "radarRoad": "A63",
     "radarTronconKm": [],
     "radarType": [

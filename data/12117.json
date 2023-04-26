@@ -1,14 +1,14 @@
 {
-    "nid": "21502",
-    "uuid": "12efd630-3911-4ad9-bd27-e75940328761",
-    "vid": "21502",
+    "nid": "23175",
+    "uuid": "95e829e8-e3f6-42ba-ba61-c1a843161933",
+    "vid": "23175",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12117",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GENEVE vers LYON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.9057 46.075)",
-    "radarInstallDate": "2012-12-03T16:24:16",
-    "radarPlace": "CLARAFOND ARCINE",
+    "radarInstallDate": "2012-12-03T16:05:32",
+    "radarPlace": [],
     "radarRoad": "A40",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21712",
-    "uuid": "c175e3b2-61fa-46c4-a856-2aacd5c7284c",
-    "vid": "21712",
+    "nid": "23380",
+    "uuid": "588c2b44-b682-4124-b63e-e95bf9a8fe80",
+    "vid": "23380",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12438",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTAUBAN vers CAHORS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.46052 44.35525)",
-    "radarInstallDate": "2017-05-05T16:25:03",
-    "radarPlace": "LE MONTAT",
+    "radarInstallDate": "2017-05-05T16:05:46",
+    "radarPlace": [],
     "radarRoad": "RD820",
     "radarTronconKm": [],
     "radarType": [

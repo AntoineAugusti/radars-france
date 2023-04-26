@@ -1,14 +1,14 @@
 {
-    "nid": "20632",
-    "uuid": "b84c1838-b501-4112-89c8-ecef2d390ec3",
-    "vid": "20632",
+    "nid": "24550",
+    "uuid": "5a195668-d99d-44d5-8e32-414989d7fc17",
+    "vid": "24550",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50284",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE MORNE ROUGE vers FORT DE FRANCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.12295 14.76661)",
-    "radarInstallDate": "2021-05-05T16:21:34",
-    "radarPlace": "LE MORNE ROUGE",
+    "radarInstallDate": "2021-05-05T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RN3",
     "radarTronconKm": [],
     "radarType": [

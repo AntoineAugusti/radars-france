@@ -1,14 +1,14 @@
 {
-    "nid": "20020",
-    "uuid": "0a276249-e32e-462c-9504-25b2aaf30ada",
-    "vid": "20020",
+    "nid": "23906",
+    "uuid": "55227783-8cd3-480d-9c85-80658f80d255",
+    "vid": "23906",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4482",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LAVAL vers COSSE LE VIVIEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.85165 47.99208)",
-    "radarInstallDate": "2008-12-19T16:20:17",
-    "radarPlace": "AHUILLE",
+    "radarInstallDate": "2008-12-19T16:06:36",
+    "radarPlace": [],
     "radarRoad": "RD771",
     "radarTronconKm": [],
     "radarType": [

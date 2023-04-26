@@ -1,14 +1,14 @@
 {
-    "nid": "22116",
-    "uuid": "b73ce260-0f2a-475b-aee4-a080157feab0",
-    "vid": "22116",
+    "nid": "25732",
+    "uuid": "5da391f5-fa72-42eb-a395-e70736fba9ec",
+    "vid": "25732",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178008",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rambouillet vers Versailles",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.92529 48.74872)",
-    "radarInstallDate": "2011-02-11T16:26:35",
-    "radarPlace": "COIGNIERES",
+    "radarInstallDate": "2011-02-11T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

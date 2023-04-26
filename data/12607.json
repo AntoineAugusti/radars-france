@@ -1,14 +1,14 @@
 {
-    "nid": "21840",
-    "uuid": "f8f38bbc-81ee-4222-a293-61ca07684bb7",
-    "vid": "21840",
+    "nid": "23517",
+    "uuid": "4aca5790-b21a-4436-96bb-a4943ba8f8ec",
+    "vid": "23517",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12607",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MARSEILLE vers AIX EN PROVENCE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.37299 43.4229)",
-    "radarInstallDate": "2020-10-26T16:25:32",
-    "radarPlace": "CABRIES",
+    "radarInstallDate": "2020-10-26T16:05:58",
+    "radarPlace": [],
     "radarRoad": "A51",
     "radarTronconKm": [],
     "radarType": [

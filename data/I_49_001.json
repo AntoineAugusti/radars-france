@@ -1,14 +1,14 @@
 {
-    "nid": "22798",
-    "uuid": "0343b11b-028f-4502-9da9-e56fba551f2c",
-    "vid": "22798",
+    "nid": "26338",
+    "uuid": "8ad6e7d5-d7ca-436a-8395-06be2686ad06",
+    "vid": "26338",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229221",
+    "revisionTimestamp": "1681741052",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_49_001",
-    "created": "1637229221",
-    "changed": "1637229221",
+    "created": "1681741052",
+    "changed": "1681741052",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "49 - Maine-et-Loire",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (47.466599 -0.795673)",
-    "radarInstallDate": "2017-10-06T10:53:42",
-    "radarPlace": "-",
-    "radarRoad": "D961",
-    "radarTronconKm": "23.73",
+    "radarDirection": "43.951702, 4.567233",
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": [],
+    "radarInstallDate": "2017-10-09T16:17:34",
+    "radarPlace": "D961\"",
+    "radarRoad": "\"300",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

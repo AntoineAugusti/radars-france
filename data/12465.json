@@ -1,14 +1,14 @@
 {
-    "nid": "21732",
-    "uuid": "e8ec6d18-0884-4a26-8648-75c3fbfa70be",
-    "vid": "21732",
+    "nid": "23400",
+    "uuid": "8c21925f-18a1-496b-8c55-68cf99e82df8",
+    "vid": "23400",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12465",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARGELES SUR MER vers PERPIGNAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.98456 42.6081)",
-    "radarInstallDate": "2016-11-07T16:25:04",
-    "radarPlace": "ELNE",
+    "radarInstallDate": "2016-11-07T16:05:47",
+    "radarPlace": [],
     "radarRoad": "RD914",
     "radarTronconKm": [],
     "radarType": [

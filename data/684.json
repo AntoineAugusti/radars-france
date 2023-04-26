@@ -1,14 +1,14 @@
 {
-    "nid": "19828",
-    "uuid": "f72afb69-6a7a-4b9f-8cc8-68af50ceef2e",
-    "vid": "19828",
+    "nid": "23744",
+    "uuid": "9b90c4b2-4816-46e1-b6ac-930751ef28b5",
+    "vid": "23744",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "684",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MOULINS vers NEVERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.15818 46.94606)",
-    "radarInstallDate": "2005-06-01T16:19:58",
-    "radarPlace": "SERMOISE SUR LOIRE",
+    "radarInstallDate": "2005-06-01T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RD907",
     "radarTronconKm": [],
     "radarType": [

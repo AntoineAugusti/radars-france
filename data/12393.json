@@ -1,14 +1,14 @@
 {
-    "nid": "21672",
-    "uuid": "9119193e-9315-4708-9eba-11b48811e45e",
-    "vid": "21672",
+    "nid": "23340",
+    "uuid": "777ecd49-a8d4-409b-9255-fa30688a7ebf",
+    "vid": "23340",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12393",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "NICE vers AIX EN PROVENCE",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (6.80423 43.5468)",
-    "radarInstallDate": "2016-11-28T16:24:50",
-    "radarPlace": "LES ADRETS DE L ESTEREL",
+    "radarGeolocalisation": "POINT (6.79229 43.547154)",
+    "radarInstallDate": "2016-11-28T16:05:43",
+    "radarPlace": [],
     "radarRoad": "A8",
     "radarTronconKm": [],
     "radarType": [

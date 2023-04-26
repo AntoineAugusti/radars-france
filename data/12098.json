@@ -1,14 +1,14 @@
 {
-    "nid": "21491",
-    "uuid": "1372d7b0-ba70-487a-a45d-1cf4d9e70070",
-    "vid": "21491",
+    "nid": "23164",
+    "uuid": "d9fb3473-33cf-42eb-a79f-74fb8eadc82d",
+    "vid": "23164",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12098",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOURS vers CHATELLERAULT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.5987 47.117)",
-    "radarInstallDate": "2012-06-25T16:24:10",
-    "radarPlace": "STE MAURE DE TOURAINE",
+    "radarInstallDate": "2012-06-25T16:05:31",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

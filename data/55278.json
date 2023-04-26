@@ -1,14 +1,14 @@
 {
-    "nid": "21310",
-    "uuid": "e9cf96f1-1929-400f-9675-43b9ba3c9876",
-    "vid": "21310",
+    "nid": "25322",
+    "uuid": "8a3f1cb0-fcfd-498e-8c67-48dbbcf796cb",
+    "vid": "25322",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55278",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CASTELNAUDARY vers TOULOUSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.875348 43.339936)",
-    "radarInstallDate": "2020-03-19T16:23:32",
-    "radarPlace": "LABASTIDE D ANJOU",
+    "radarInstallDate": "2020-03-19T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD6113",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20941",
-    "uuid": "6d54a90d-3293-46b2-be30-2c2ba67df0d4",
-    "vid": "20941",
+    "nid": "24868",
+    "uuid": "ca7cc8aa-9de8-4199-ab9f-338e7bfa259f",
+    "vid": "24868",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51302",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOZAY vers SAVENAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.827675 47.433976)",
-    "radarInstallDate": "2020-09-07T16:22:22",
-    "radarPlace": "FAY DE BRETAGNE",
+    "radarInstallDate": "2020-09-07T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RN171",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20123",
-    "uuid": "eaa8ba64-0042-451e-a3d2-058298dc009c",
-    "vid": "20123",
+    "nid": "24005",
+    "uuid": "4882938b-bbb3-4908-a004-5dc208c5ab31",
+    "vid": "24005",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6054",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.74788 48.681)",
-    "radarInstallDate": "2006-07-12T16:20:29",
-    "radarPlace": "THIEBLEMONT FAREMONT",
+    "radarInstallDate": "2006-07-12T16:06:47",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

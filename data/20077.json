@@ -1,14 +1,14 @@
 {
-    "nid": "22629",
-    "uuid": "75a5b87d-c90e-44c7-b70e-dd3648ddfef5",
-    "vid": "22629",
+    "nid": "26153",
+    "uuid": "8a167ad0-e048-4c25-9ada-589521f1a873",
+    "vid": "26153",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741027",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20077",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741027",
+    "changed": "1681741027",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "BORDEAUX vers BRIVE EST",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.78467 45.1414)",
-    "radarInstallDate": "2013-12-02T10:53:36",
+    "radarInstallDate": "2013-12-02T16:17:07",
     "radarPlace": "BOULAZAC ISLE MANOIRE",
     "radarRoad": "A89",
     "radarTronconKm": "4,9",

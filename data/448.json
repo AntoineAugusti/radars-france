@@ -1,14 +1,14 @@
 {
-    "nid": "19759",
-    "uuid": "f10e0afa-a820-48eb-8c53-52dc5dd7c1fe",
-    "vid": "19759",
+    "nid": "23687",
+    "uuid": "e5503060-14de-441b-9f97-ab2ec27d03f2",
+    "vid": "23687",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740370",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "448",
-    "created": "1637229109",
-    "changed": "1675869592",
+    "created": "1681740370",
+    "changed": "1681740370",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MOULINS vers ROANNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.93317 46.1243)",
-    "radarInstallDate": "2005-04-15T16:19:52",
-    "radarPlace": "ST FORGEUX LESPINASSE",
+    "radarInstallDate": "2005-04-15T16:06:13",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

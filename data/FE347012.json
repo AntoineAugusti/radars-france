@@ -1,14 +1,14 @@
 {
-    "nid": "22506",
-    "uuid": "4b765a57-1b37-43fd-a3e3-11a3d03d3734",
-    "vid": "22506",
+    "nid": "26001",
+    "uuid": "a854d0bd-0b69-4eee-aa55-68341f8ff0f3",
+    "vid": "26001",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE347012",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Mont de Marsan vers Agen",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.5517 44.20196)",
-    "radarInstallDate": "2011-04-06T16:28:19",
-    "radarPlace": "BRAX",
+    "radarInstallDate": "2011-04-06T16:13:33",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

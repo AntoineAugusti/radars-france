@@ -1,14 +1,14 @@
 {
-    "nid": "21235",
-    "uuid": "c527005d-fc28-4137-a9d1-fcbc55a53654",
-    "vid": "21235",
+    "nid": "25246",
+    "uuid": "9fe8e5b4-aeca-4f7c-9dbc-28e4cfb12ad0",
+    "vid": "25246",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55199",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VAUNAVEYS LA ROCHETTE vers CREST",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.011973 44.748274)",
-    "radarInstallDate": "2020-06-02T16:23:19",
-    "radarPlace": "CREST",
+    "radarInstallDate": "2020-06-02T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD538",
     "radarTronconKm": [],
     "radarType": [

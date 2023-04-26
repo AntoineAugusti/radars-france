@@ -1,14 +1,14 @@
 {
-    "nid": "20619",
-    "uuid": "10509f87-7299-46ed-9244-e01c0e47c816",
-    "vid": "20619",
+    "nid": "24536",
+    "uuid": "ed8ec3df-b677-4c54-ba38-07f99784c86d",
+    "vid": "24536",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50238",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE LAMENTIN vers DUCOS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-60.981538 14.58724)",
-    "radarInstallDate": "2020-12-15T16:21:30",
-    "radarPlace": "DUCOS",
+    "radarInstallDate": "2020-12-15T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RN5",
     "radarTronconKm": [],
     "radarType": [

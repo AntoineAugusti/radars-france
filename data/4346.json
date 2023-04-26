@@ -1,14 +1,14 @@
 {
-    "nid": "19985",
-    "uuid": "0b644e1e-a6fc-4e6b-9d2e-4ecec94ef509",
-    "vid": "19985",
+    "nid": "23873",
+    "uuid": "d7223b71-b563-49e4-8a7f-f39598994d3b",
+    "vid": "23873",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4346",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORT LES ORGUES VERS CLERMONT FERRAND",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.53056 45.4405)",
-    "radarInstallDate": "2009-01-30T16:20:14",
-    "radarPlace": "LANOBRE",
+    "radarInstallDate": "2009-01-30T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD922",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21391",
-    "uuid": "f1bb8d95-18b5-485d-ab04-231a448f4235",
-    "vid": "21391",
+    "nid": "25406",
+    "uuid": "f8a47fbf-f381-4d4e-84d1-2a0c352794e5",
+    "vid": "25406",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55367",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SULIGNAT vers SANDRANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.96035 46.13638)",
-    "radarInstallDate": "2021-03-22T16:23:51",
-    "radarPlace": "CHATILLON SUR CHALARONNE",
+    "radarInstallDate": "2021-03-22T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD2",
     "radarTronconKm": [],
     "radarType": [

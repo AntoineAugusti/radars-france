@@ -1,14 +1,14 @@
 {
-    "nid": "20888",
-    "uuid": "93a488a1-3439-473b-b226-e741c94f7492",
-    "vid": "20888",
+    "nid": "24815",
+    "uuid": "f00a57c0-f595-47a5-bce5-5f0c1154dc58",
+    "vid": "24815",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51246",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGES vers ISSOUDUN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.169022 46.993506)",
-    "radarInstallDate": "2020-06-24T16:22:13",
-    "radarPlace": "CIVRAY",
+    "radarInstallDate": "2020-06-24T16:08:52",
+    "radarPlace": [],
     "radarRoad": "RN 151",
     "radarTronconKm": [],
     "radarType": [

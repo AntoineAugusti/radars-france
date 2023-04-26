@@ -1,14 +1,14 @@
 {
-    "nid": "19962",
-    "uuid": "3703b36d-f016-4c72-8c9f-21419f267eb0",
-    "vid": "19962",
+    "nid": "23853",
+    "uuid": "6a75eff5-2dfc-425f-b2d7-8ce015ee22f0",
+    "vid": "23853",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4209",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Quetigny vers Dijon",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.07145 47.31632)",
-    "radarInstallDate": "2009-05-11T16:20:11",
-    "radarPlace": "DIJON",
+    "radarInstallDate": "2009-05-11T16:06:31",
+    "radarPlace": [],
     "radarRoad": "RD107",
     "radarTronconKm": [],
     "radarType": [

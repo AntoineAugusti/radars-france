@@ -1,14 +1,14 @@
 {
-    "nid": "20728",
-    "uuid": "1e4e8bdd-ef08-441b-aa88-1113ac25883a",
-    "vid": "20728",
+    "nid": "24653",
+    "uuid": "465d7283-dc7f-4ac5-a5e4-ccef154c3557",
+    "vid": "24653",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51080",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BONNETABLE vers LA FERTE BERNARD",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.578827 48.170001)",
-    "radarInstallDate": "2019-11-19T16:21:47",
-    "radarPlace": "ST AUBIN DES COUDRAIS",
+    "radarInstallDate": "2019-11-19T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD7",
     "radarTronconKm": [],
     "radarType": [

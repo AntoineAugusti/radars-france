@@ -1,14 +1,14 @@
 {
-    "nid": "19712",
-    "uuid": "a29cfe47-6776-4cdf-b81b-82531464bc1f",
-    "vid": "19712",
+    "nid": "23640",
+    "uuid": "f8a67adc-04ed-4b8d-a66f-a5f6d743a7ec",
+    "vid": "23640",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "295",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CERGY VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.23349 48.97724)",
-    "radarInstallDate": "2004-12-02T16:19:49",
-    "radarPlace": "FRANCONVILLE LA GARENNE",
+    "radarInstallDate": "2004-12-02T16:06:09",
+    "radarPlace": [],
     "radarRoad": "A15",
     "radarTronconKm": [],
     "radarType": [

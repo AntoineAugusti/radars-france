@@ -1,14 +1,14 @@
 {
-    "nid": "20592",
-    "uuid": "982f40fb-69de-445d-adfd-679129569c9f",
-    "vid": "20592",
+    "nid": "24419",
+    "uuid": "c99e931e-df18-4104-8a2c-b9cb7453d4ee",
+    "vid": "24419",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740462",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11310",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740462",
+    "changed": "1681740462",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers PROVINCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.359291 48.816346)",
-    "radarInstallDate": "2017-04-14T16:21:26",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2017-04-14T16:07:46",
+    "radarPlace": [],
     "radarRoad": "A6B",
     "radarTronconKm": [],
     "radarType": [

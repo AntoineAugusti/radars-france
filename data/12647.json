@@ -1,14 +1,14 @@
 {
-    "nid": "21866",
-    "uuid": "7908748c-9657-460c-b894-11787b743a07",
-    "vid": "21866",
+    "nid": "23547",
+    "uuid": "7aba10ea-b749-4237-b89d-c66d1418ca15",
+    "vid": "23547",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740359",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12647",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740359",
+    "changed": "1681740359",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MARSEILLE vers FOS SUR MER",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.026946 43.411843)",
-    "radarInstallDate": "2021-03-31T16:25:38",
-    "radarPlace": "MARTIGUES",
+    "radarInstallDate": "2021-03-31T16:06:00",
+    "radarPlace": [],
     "radarRoad": "A55",
     "radarTronconKm": [],
     "radarType": [

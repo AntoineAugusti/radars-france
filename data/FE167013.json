@@ -1,14 +1,14 @@
 {
-    "nid": "22053",
-    "uuid": "fa26450b-1a21-4e7a-84fa-701499fa5c41",
-    "vid": "22053",
+    "nid": "25670",
+    "uuid": "c048dd13-2268-406b-ac6b-378d37c6c85e",
+    "vid": "25670",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE167013",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Oberhausbergen vers Strasbourg",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.73109 48.59147)",
-    "radarInstallDate": "2011-08-25T16:26:21",
-    "radarPlace": "STRASBOURG",
+    "radarInstallDate": "2011-08-25T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

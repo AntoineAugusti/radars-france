@@ -1,14 +1,14 @@
 {
-    "nid": "21911",
-    "uuid": "d84e2a37-ff09-4245-b027-6b2dc90bdc78",
-    "vid": "21911",
+    "nid": "25550",
+    "uuid": "191b3946-661d-44c3-8fad-49b0c19f1aaf",
+    "vid": "25550",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE135006",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RENNES vers CHARTRES DE BRETAGNE",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-1.69948 48.06301)",
-    "radarInstallDate": "2013-03-04T16:25:47",
-    "radarPlace": "ST JACQUES DE LA LANDE",
+    "radarInstallDate": "2013-03-04T16:11:28",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

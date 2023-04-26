@@ -1,14 +1,14 @@
 {
-    "nid": "22284",
-    "uuid": "c275836b-414b-48f5-b8c8-cc326afbc3c9",
-    "vid": "22284",
+    "nid": "25855",
+    "uuid": "1fd76081-2436-46ae-9ce7-865bfa2959e0",
+    "vid": "25855",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE263008",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.12623 45.76242)",
-    "radarInstallDate": "2011-04-28T16:27:19",
-    "radarPlace": "CLERMONT FERRAND",
+    "radarInstallDate": "2011-04-28T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

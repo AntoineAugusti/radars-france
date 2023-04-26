@@ -1,14 +1,14 @@
 {
-    "nid": "20842",
-    "uuid": "d5a4fd65-65c7-4fe2-bde1-a8bfcda41c5f",
-    "vid": "20842",
+    "nid": "24766",
+    "uuid": "16d45d8f-514b-4f11-9d82-6212df7e9359",
+    "vid": "24766",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51195",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LAON vers SAINT QUENTIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.284178 49.838324)",
-    "radarInstallDate": "2020-10-29T16:22:07",
-    "radarPlace": "ST QUENTIN",
+    "radarInstallDate": "2020-10-29T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD1029",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21109",
-    "uuid": "9a72fd7c-9b33-4b17-adbd-4ea2ed4637ae",
-    "vid": "21109",
+    "nid": "25122",
+    "uuid": "a48668d7-dee6-41c6-a19b-c62c00fff830",
+    "vid": "25122",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55072",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SURY LE COMTAL vers MONTBRISON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.14378 45.561504)",
-    "radarInstallDate": "2019-11-27T16:22:55",
-    "radarPlace": "ST ROMAIN LE PUY",
+    "radarInstallDate": "2019-11-27T16:09:53",
+    "radarPlace": [],
     "radarRoad": "RD8",
     "radarTronconKm": [],
     "radarType": [

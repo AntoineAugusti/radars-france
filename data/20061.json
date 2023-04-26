@@ -1,14 +1,14 @@
 {
-    "nid": "22621",
-    "uuid": "11e64fcc-d9db-486a-a61e-765c4e43720c",
-    "vid": "22621",
+    "nid": "26146",
+    "uuid": "840db104-1255-4e36-872f-af67cc83f931",
+    "vid": "26146",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20061",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "Lille vers Belgique",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.23831 50.60194)",
-    "radarInstallDate": "2013-09-23T10:53:35",
+    "radarInstallDate": "2013-09-23T16:17:06",
     "radarPlace": "BAISIEUX",
     "radarRoad": "A27",
     "radarTronconKm": "5,2",

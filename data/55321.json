@@ -1,14 +1,14 @@
 {
-    "nid": "21349",
-    "uuid": "c6490bfc-8fa9-4469-aeb0-1e4f8979872e",
-    "vid": "21349",
+    "nid": "25363",
+    "uuid": "f3de1fd9-e23b-4979-a7f5-1d934d2fcf90",
+    "vid": "25363",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55321",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CERDON vers PONT D AIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.427564 46.078022)",
-    "radarInstallDate": "2020-10-27T16:23:44",
-    "radarPlace": "PONCIN",
+    "radarInstallDate": "2020-10-27T16:10:42",
+    "radarPlace": [],
     "radarRoad": "RD1084",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20433",
-    "uuid": "2362b7b1-4252-45be-bf07-52788c3a5cb3",
-    "vid": "20433",
+    "nid": "24279",
+    "uuid": "1c990028-f53a-4fd4-b1db-a9cb85ba4a99",
+    "vid": "24279",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8833",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TARBES vers MIELAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.2871 43.425)",
-    "radarInstallDate": "2011-10-07T16:21:06",
-    "radarPlace": "LAGUIAN MAZOUS",
+    "radarInstallDate": "2011-10-07T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RN21",
     "radarTronconKm": [],
     "radarType": [

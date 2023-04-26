@@ -1,14 +1,14 @@
 {
-    "nid": "20816",
-    "uuid": "29b5cc8c-f82c-4fcf-9f7c-80f095110cb7",
-    "vid": "20816",
+    "nid": "24740",
+    "uuid": "1bed2563-938e-4371-952e-8bc24e69daf8",
+    "vid": "24740",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51168",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MASEVAUX NIEDERBRUCK vers MULHOUSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.11765 47.747995)",
-    "radarInstallDate": "2020-03-12T16:22:02",
-    "radarPlace": "GUEWENHEIM",
+    "radarInstallDate": "2020-03-12T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD466",
     "radarTronconKm": [],
     "radarType": [

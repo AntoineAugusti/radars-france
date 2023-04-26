@@ -1,14 +1,14 @@
 {
-    "nid": "20120",
-    "uuid": "ec8c05d9-13bd-4e13-9a1b-e6094e66f577",
-    "vid": "20120",
+    "nid": "24003",
+    "uuid": "1df66467-f106-4c0b-95f6-cb49f4a3a407",
+    "vid": "24003",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6044",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LOUDUN vers POITIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.27807 46.66415)",
-    "radarInstallDate": "2006-11-13T16:20:28",
-    "radarPlace": "CISSE",
+    "radarInstallDate": "2006-11-13T16:06:47",
+    "radarPlace": [],
     "radarRoad": "RD347",
     "radarTronconKm": [],
     "radarType": [

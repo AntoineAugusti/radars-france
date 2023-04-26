@@ -1,14 +1,14 @@
 {
-    "nid": "21696",
-    "uuid": "27af5581-1357-4936-b12e-f37fd784cc46",
-    "vid": "21696",
+    "nid": "23364",
+    "uuid": "16385b25-96c4-4630-8f17-1ea04cf7004f",
+    "vid": "23364",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12419",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTBELIARD vers BELFORT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.85632 47.60119)",
-    "radarInstallDate": "2019-07-26T16:24:57",
-    "radarPlace": "ANDELNANS",
+    "radarInstallDate": "2019-07-26T16:05:45",
+    "radarPlace": [],
     "radarRoad": "A36",
     "radarTronconKm": [],
     "radarType": [

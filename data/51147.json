@@ -1,14 +1,14 @@
 {
-    "nid": "20795",
-    "uuid": "37c8835c-3f22-4244-9475-d9fbd5006379",
-    "vid": "20795",
+    "nid": "24719",
+    "uuid": "f194d996-d5f0-4830-96b3-25945e5ee9f5",
+    "vid": "24719",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51147",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers ROUEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.645147 49.220886)",
-    "radarInstallDate": "2020-08-27T16:21:58",
-    "radarPlace": "AUTHEVERNES",
+    "radarInstallDate": "2020-08-27T16:08:35",
+    "radarPlace": [],
     "radarRoad": "RD6014",
     "radarTronconKm": [],
     "radarType": [

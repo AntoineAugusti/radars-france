@@ -1,14 +1,14 @@
 {
-    "nid": "20841",
-    "uuid": "585d7584-4835-42cc-af9e-889f4fb2247f",
-    "vid": "20841",
+    "nid": "24765",
+    "uuid": "873a8fd6-5211-4fbc-9746-40183766e1fc",
+    "vid": "24765",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51194",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERVINS vers LA CAPELLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.910781 49.893315)",
-    "radarInstallDate": "2020-01-24T16:22:07",
-    "radarPlace": "ETREAUPONT",
+    "radarInstallDate": "2020-01-24T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

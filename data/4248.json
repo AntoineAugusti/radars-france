@@ -1,14 +1,14 @@
 {
-    "nid": "19970",
-    "uuid": "ac23357b-39d6-4d23-9751-614780645e08",
-    "vid": "19970",
+    "nid": "23861",
+    "uuid": "fa0ca88a-d26d-4081-9bb6-549223df2405",
+    "vid": "23861",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4248",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARTHENAY vers THOUARS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.23804 46.72327)",
-    "radarInstallDate": "2008-09-02T16:20:13",
-    "radarPlace": "LAGEON",
+    "radarInstallDate": "2008-09-02T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD938",
     "radarTronconKm": [],
     "radarType": [

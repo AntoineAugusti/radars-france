@@ -1,14 +1,14 @@
 {
-    "nid": "19942",
-    "uuid": "c317c705-c31f-4126-b45c-ccce7669ffd8",
-    "vid": "19942",
+    "nid": "23834",
+    "uuid": "0ea06500-80cd-4dda-9c4d-e4221882fe75",
+    "vid": "23834",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4106",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "PARIS vers PROVINCE",
     "radarEquipment": "MORPHO",
-    "radarGeolocalisation": "POINT (2.51532 48.47853)",
-    "radarInstallDate": "2008-08-28T16:20:10",
-    "radarPlace": "PERTHES",
+    "radarGeolocalisation": "POINT (2.514839 48.478971)",
+    "radarInstallDate": "2008-08-28T16:06:29",
+    "radarPlace": [],
     "radarRoad": "A6",
     "radarTronconKm": [],
     "radarType": [

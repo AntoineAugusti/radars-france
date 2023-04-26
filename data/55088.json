@@ -1,14 +1,14 @@
 {
-    "nid": "21125",
-    "uuid": "da4e52e6-5ddd-4f86-9faa-ac7f9328e220",
-    "vid": "21125",
+    "nid": "25136",
+    "uuid": "e6f2b152-86a4-448d-999e-8434bbbad49e",
+    "vid": "25136",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55088",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "L ABSIE vers MONCOUTANT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.613368 46.663737)",
-    "radarInstallDate": "2020-06-22T16:22:55",
-    "radarPlace": "LA CHAPELLE ST ETIENNE",
+    "radarInstallDate": "2020-06-22T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD744",
     "radarTronconKm": [],
     "radarType": [

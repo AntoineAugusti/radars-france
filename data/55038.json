@@ -1,14 +1,14 @@
 {
-    "nid": "21075",
-    "uuid": "c6aa2590-49ad-4a07-9459-dd79f9780877",
-    "vid": "21075",
+    "nid": "25088",
+    "uuid": "339fbc09-ed2d-4b16-85a5-352475c89bfc",
+    "vid": "25088",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55038",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SEPTFONDS vers CAUSSADE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.580964 44.169067)",
-    "radarInstallDate": "2019-10-25T16:22:44",
-    "radarPlace": "MONTEILS",
+    "radarInstallDate": "2019-10-25T16:09:42",
+    "radarPlace": [],
     "radarRoad": "RD926",
     "radarTronconKm": [],
     "radarType": [

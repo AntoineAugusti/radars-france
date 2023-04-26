@@ -1,14 +1,14 @@
 {
-    "nid": "20297",
-    "uuid": "65616a84-fb04-45d1-a766-6c6615970297",
-    "vid": "20297",
+    "nid": "24161",
+    "uuid": "d7ca1975-ae9e-4150-8fdb-d94abaea0429",
+    "vid": "24161",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7306",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLEFRANCHE SUR MER vers ANTIBES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.29595 43.70008)",
-    "radarInstallDate": "2008-07-12T16:20:46",
-    "radarPlace": "NICE",
+    "radarInstallDate": "2008-07-12T16:07:09",
+    "radarPlace": [],
     "radarRoad": "RD6007",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20413",
-    "uuid": "d67c2100-f312-43f7-9d07-ae9af110dc6a",
-    "vid": "20413",
+    "nid": "24260",
+    "uuid": "09b1b788-57d4-42f3-a508-5740ae66b12f",
+    "vid": "24260",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8765",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LONS LE SAUNIER vers BOURG EN BRESSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.5009 46.641)",
-    "radarInstallDate": "2011-10-28T16:21:02",
-    "radarPlace": "GEVINGEY",
+    "radarInstallDate": "2011-10-28T16:07:22",
+    "radarPlace": [],
     "radarRoad": "RD1083",
     "radarTronconKm": [],
     "radarType": [

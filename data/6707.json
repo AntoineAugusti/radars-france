@@ -1,14 +1,14 @@
 {
-    "nid": "20183",
-    "uuid": "c4298974-ff2a-420f-a041-46357f130bc1",
-    "vid": "20183",
+    "nid": "24059",
+    "uuid": "63e98364-7e91-4e57-850a-41935b01f030",
+    "vid": "24059",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6707",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHARTRES vers ABLIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.70422 48.49737)",
-    "radarInstallDate": "2008-06-18T16:20:35",
-    "radarPlace": "LE GUE DE LONGROI",
+    "radarInstallDate": "2008-06-18T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD910",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21488",
-    "uuid": "43f87121-070e-4bb1-9431-c095bc28b00f",
-    "vid": "21488",
+    "nid": "23161",
+    "uuid": "3a42f514-cbca-4fad-a60b-7ea256746dc5",
+    "vid": "23161",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12094",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DREUX vers HOUDAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.4536 48.751)",
-    "radarInstallDate": "2012-04-11T16:24:10",
-    "radarPlace": "CHERISY",
+    "radarInstallDate": "2012-04-11T16:05:30",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

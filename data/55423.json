@@ -1,14 +1,14 @@
 {
-    "nid": "21421",
-    "uuid": "1bb78fae-3084-4469-a2c9-3cf1b4d279aa",
-    "vid": "21421",
+    "nid": "25452",
+    "uuid": "22e96bdf-6cce-4678-8171-d6aa362ddcd0",
+    "vid": "25452",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55423",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DURTOL vers CLERMONT FERRAND",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.062337 45.793684)",
-    "radarInstallDate": "2021-07-27T16:23:57",
-    "radarPlace": "CLERMONT FERRAND",
+    "radarInstallDate": "2021-07-27T16:11:04",
+    "radarPlace": [],
     "radarRoad": "RM943",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21237",
-    "uuid": "7d4f25a9-202a-4d38-977d-8c2dc2ac62e6",
-    "vid": "21237",
+    "nid": "25248",
+    "uuid": "b0d72c4b-dba8-4855-9b0e-d6609890c905",
+    "vid": "25248",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55201",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LORIOL SUR DROME vers CREST",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.95802 44.72395)",
-    "radarInstallDate": "2020-03-17T16:23:19",
-    "radarPlace": "CHABRILLAN",
+    "radarInstallDate": "2020-03-17T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD104",
     "radarTronconKm": [],
     "radarType": [

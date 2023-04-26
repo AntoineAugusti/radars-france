@@ -1,14 +1,14 @@
 {
-    "nid": "22509",
-    "uuid": "6d8d4054-187c-4468-84c8-e8a86a3e7d46",
-    "vid": "22509",
+    "nid": "26081",
+    "uuid": "ea9a7a67-63e9-4a2a-8892-9d1f24225ea2",
+    "vid": "26081",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE347601",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MIRAMONT DE GUYENNE vers MARMANDE",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.17136 44.50187)",
-    "radarInstallDate": "2013-07-12T16:28:20",
-    "radarPlace": "MARMANDE",
+    "radarInstallDate": "2013-07-12T16:13:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

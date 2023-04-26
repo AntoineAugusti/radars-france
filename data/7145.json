@@ -1,14 +1,14 @@
 {
-    "nid": "20249",
-    "uuid": "dd5af2db-693b-4437-9ead-96a3e8a2eede",
-    "vid": "20249",
+    "nid": "24117",
+    "uuid": "a8deebc7-5afc-4d5a-aa4f-456cea2bab11",
+    "vid": "24117",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7145",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AVESNES SUR HELPE VERS ETROEUNGT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.93013 50.05332)",
-    "radarInstallDate": "2008-01-07T16:20:41",
-    "radarPlace": "ETROEUNGT",
+    "radarInstallDate": "2008-01-07T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

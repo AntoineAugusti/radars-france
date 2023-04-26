@@ -1,14 +1,14 @@
 {
-    "nid": "21977",
-    "uuid": "9cf91077-46e4-406d-bf96-6c1b9c650dbd",
-    "vid": "21977",
+    "nid": "25614",
+    "uuid": "a66e3023-33df-4df3-86e6-49f05f2e5cc0",
+    "vid": "25614",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159004",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue d'I\u00e9na vers la Rue d'Esquermes",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.04617 50.62158)",
-    "radarInstallDate": "2010-07-02T16:26:01",
-    "radarPlace": "LILLE",
+    "radarInstallDate": "2010-07-02T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

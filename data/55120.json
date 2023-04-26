@@ -1,14 +1,14 @@
 {
-    "nid": "21156",
-    "uuid": "3709b632-70b8-4b10-abbe-796fc9816c0b",
-    "vid": "21156",
+    "nid": "25167",
+    "uuid": "0952082a-9ec0-41c0-bc7f-0946e3ffc044",
+    "vid": "25167",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55120",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PENNE D AGENAIS vers VILLENEUVE SUR LOT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.72234 44.39854)",
-    "radarInstallDate": "2020-01-02T16:23:02",
-    "radarPlace": "VILLENEUVE SUR LOT",
+    "radarInstallDate": "2020-01-02T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD661",
     "radarTronconKm": [],
     "radarType": [

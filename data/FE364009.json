@@ -1,14 +1,14 @@
 {
-    "nid": "22529",
-    "uuid": "ddb1f54c-e0d3-4b47-a597-13d2292743cb",
-    "vid": "22529",
+    "nid": "26009",
+    "uuid": "c9a9e267-2c29-4162-9105-efb464e3f3af",
+    "vid": "26009",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364009",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.49443 43.48513)",
-    "radarInstallDate": "2010-01-15T16:28:28",
-    "radarPlace": "BAYONNE",
+    "radarInstallDate": "2010-01-15T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

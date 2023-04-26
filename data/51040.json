@@ -1,14 +1,14 @@
 {
-    "nid": "20688",
-    "uuid": "fab48299-5d61-4d43-b5e9-6d2e85ecf153",
-    "vid": "20688",
+    "nid": "24614",
+    "uuid": "3ba9ad56-ffd8-4f81-8fd6-64e97bd26aae",
+    "vid": "24614",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51040",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BLOIS vers TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.305444 47.561972)",
-    "radarInstallDate": "2019-07-11T16:21:38",
-    "radarPlace": "CHAILLES",
+    "radarInstallDate": "2019-07-11T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD751",
     "radarTronconKm": [],
     "radarType": [

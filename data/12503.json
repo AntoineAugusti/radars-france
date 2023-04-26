@@ -1,14 +1,14 @@
 {
-    "nid": "21765",
-    "uuid": "d8b1c99e-038c-4566-b4a0-c7cd048618e1",
-    "vid": "21765",
+    "nid": "23434",
+    "uuid": "32fd7e61-db54-4ffd-903f-04d0821da27d",
+    "vid": "23434",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12503",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGERS vers LA ROCHE SUR YON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.826199 47.116119)",
-    "radarInstallDate": "2016-11-08T16:25:11",
-    "radarPlace": "TREMENTINES",
+    "radarInstallDate": "2016-11-08T16:05:50",
+    "radarPlace": [],
     "radarRoad": "A87",
     "radarTronconKm": [],
     "radarType": [

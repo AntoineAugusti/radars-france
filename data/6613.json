@@ -1,14 +1,14 @@
 {
-    "nid": "20161",
-    "uuid": "d42c7844-b55b-485b-885b-12f831251195",
-    "vid": "20161",
+    "nid": "24038",
+    "uuid": "904fdc14-b33d-4190-bbaa-c6893e8f6bec",
+    "vid": "24038",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6613",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SEES vers ALENCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.16915 48.57204)",
-    "radarInstallDate": "2007-04-10T16:20:32",
-    "radarPlace": "LA CHAPELLE PRES SEES",
+    "radarInstallDate": "2007-04-10T16:06:53",
+    "radarPlace": [],
     "radarRoad": "RD438",
     "radarTronconKm": [],
     "radarType": [

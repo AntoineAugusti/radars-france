@@ -1,14 +1,14 @@
 {
-    "nid": "21451",
-    "uuid": "81e0395e-b95f-4cb5-a88e-b8b04de09c29",
-    "vid": "21451",
+    "nid": "23125",
+    "uuid": "3b8e5884-579b-41e2-8d0c-14ac4d3189c1",
+    "vid": "23125",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12040",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHABLIS vers AUXERRE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.6229 47.792)",
-    "radarInstallDate": "2011-12-05T16:24:03",
-    "radarPlace": "VENOY",
+    "radarInstallDate": "2011-12-05T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RN65",
     "radarTronconKm": [],
     "radarType": [

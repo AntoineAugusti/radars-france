@@ -1,14 +1,14 @@
 {
-    "nid": "20461",
-    "uuid": "b00548db-29bb-4ced-b17b-141218838770",
-    "vid": "20461",
+    "nid": "24305",
+    "uuid": "f5153600-dd51-4661-b7aa-40a5e3a7a1c6",
+    "vid": "24305",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8927",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUPREAU EN MAUGES vers ANGERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.912927 47.248639)",
-    "radarInstallDate": "2011-06-10T16:21:10",
-    "radarPlace": "BEAUPREAU EN MAUGES",
+    "radarInstallDate": "2011-06-10T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD762",
     "radarTronconKm": [],
     "radarType": [

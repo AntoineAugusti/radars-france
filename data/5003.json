@@ -1,14 +1,14 @@
 {
-    "nid": "20074",
-    "uuid": "6833b87a-1289-4d1b-b551-aaab9b27d943",
-    "vid": "20074",
+    "nid": "23958",
+    "uuid": "731a8740-e9f4-49fc-925a-9ab0bee19056",
+    "vid": "23958",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "5003",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Italie vers France",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.68451 45.17163)",
-    "radarInstallDate": "2010-08-05T16:20:23",
-    "radarPlace": "MODANE",
+    "radarInstallDate": "2010-08-05T16:06:42",
+    "radarPlace": [],
     "radarRoad": "A43",
     "radarTronconKm": [],
     "radarType": [

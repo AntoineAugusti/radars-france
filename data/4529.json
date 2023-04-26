@@ -1,14 +1,14 @@
 {
-    "nid": "20033",
-    "uuid": "05f78573-9bc4-4723-864e-5d5623aabf38",
-    "vid": "20033",
+    "nid": "23919",
+    "uuid": "c0274ec5-137a-4467-b6b4-6e9d22cac6a1",
+    "vid": "23919",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4529",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sens vers Troyes",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.43991 48.18511)",
-    "radarInstallDate": "2009-03-05T16:20:19",
-    "radarPlace": "PONT SUR VANNE",
+    "radarInstallDate": "2009-03-05T16:06:38",
+    "radarPlace": [],
     "radarRoad": "RD660",
     "radarTronconKm": [],
     "radarType": [

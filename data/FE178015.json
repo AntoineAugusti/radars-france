@@ -1,14 +1,14 @@
 {
-    "nid": "22121",
-    "uuid": "12128c0a-3465-4c17-a569-d6997f412537",
-    "vid": "22121",
+    "nid": "25737",
+    "uuid": "1a960044-ba04-450e-9f98-3bdb890c4e1a",
+    "vid": "25737",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178015",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ch\u00e2teau de Versailles Vers Ville d'Avray",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.13535 48.80519)",
-    "radarInstallDate": "2011-04-04T16:26:36",
-    "radarPlace": "VERSAILLES",
+    "radarInstallDate": "2011-04-04T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

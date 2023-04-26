@@ -1,14 +1,14 @@
 {
-    "nid": "20906",
-    "uuid": "b5ca811a-a883-4c1f-91fb-a8e6e90ad859",
-    "vid": "20906",
+    "nid": "24833",
+    "uuid": "72457a87-4b74-427f-a6a1-5fdda5d3ddb3",
+    "vid": "24833",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51267",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORTAGNE AU PERCHE vers  BELLEME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.546958 48.457419)",
-    "radarInstallDate": "2020-06-29T16:22:17",
-    "radarPlace": "LE PIN LA GARENNE",
+    "radarInstallDate": "2020-06-29T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD938",
     "radarTronconKm": [],
     "radarType": [

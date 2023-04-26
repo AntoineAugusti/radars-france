@@ -1,14 +1,14 @@
 {
-    "nid": "20517",
-    "uuid": "910ff49a-d103-4318-9e23-1d98347b73ae",
-    "vid": "20517",
+    "nid": "24353",
+    "uuid": "ebe5f50c-6d96-4049-a612-67275f41931f",
+    "vid": "24353",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11080",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rd Point pont de la  Brenne vers Av de la Ch\u00e2tre",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.694493 46.803656)",
-    "radarInstallDate": "2012-09-14T16:21:18",
-    "radarPlace": "CHATEAUROUX",
+    "radarInstallDate": "2012-09-14T16:07:36",
+    "radarPlace": [],
     "radarRoad": "Face au n\u00b017 Bld Croix Normand",
     "radarTronconKm": [],
     "radarType": [

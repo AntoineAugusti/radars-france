@@ -1,14 +1,14 @@
 {
-    "nid": "21140",
-    "uuid": "d34de2fe-fed6-4ca3-a90b-a7d1b1741e15",
-    "vid": "21140",
+    "nid": "25151",
+    "uuid": "2a077a4e-6932-4b90-8781-be619c87743b",
+    "vid": "25151",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55103",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARLES vers MARTIGUES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.97056 43.42639)",
-    "radarInstallDate": "2021-05-28T16:23:01",
-    "radarPlace": "FOS SUR MER",
+    "radarInstallDate": "2021-05-28T16:09:55",
+    "radarPlace": [],
     "radarRoad": "RN568",
     "radarTronconKm": [],
     "radarType": [

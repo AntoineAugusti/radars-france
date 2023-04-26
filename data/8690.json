@@ -1,14 +1,14 @@
 {
-    "nid": "20392",
-    "uuid": "9ba7bef0-baed-48a0-b472-3fd6d26cab79",
-    "vid": "20392",
+    "nid": "24243",
+    "uuid": "24300f0a-58e6-44da-b4c7-499d934ed1cc",
+    "vid": "24243",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8690",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MOLIERES vers MONTAUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.3594 44.056)",
-    "radarInstallDate": "2011-01-11T16:21:01",
-    "radarPlace": "MONTAUBAN",
+    "radarInstallDate": "2011-01-11T16:07:18",
+    "radarPlace": [],
     "radarRoad": "RD959",
     "radarTronconKm": [],
     "radarType": [

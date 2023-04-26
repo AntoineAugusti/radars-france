@@ -1,14 +1,14 @@
 {
-    "nid": "21141",
-    "uuid": "ebe89354-8e5b-4ad0-b3c2-3a03efc91cd4",
-    "vid": "21141",
+    "nid": "25152",
+    "uuid": "efb55741-2ce8-4db8-8e13-931dca746b47",
+    "vid": "25152",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55104",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AIX EN PROVENCE vers PERTUIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.49348 43.6549)",
-    "radarInstallDate": "2019-12-16T16:23:01",
-    "radarPlace": "MEYRARGUES",
+    "radarInstallDate": "2019-12-16T16:09:55",
+    "radarPlace": [],
     "radarRoad": "RD556",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20697",
-    "uuid": "13087139-e051-4634-a45e-24d9e5a53160",
-    "vid": "20697",
+    "nid": "24623",
+    "uuid": "f4fa0cf0-58f4-4698-8b02-597c6e9a756e",
+    "vid": "24623",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51049",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VITRY LE FRANCOIS vers ST DIZIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.871766 48.646529)",
-    "radarInstallDate": "2020-03-10T16:21:42",
-    "radarPlace": "HALLIGNICOURT",
+    "radarInstallDate": "2020-03-10T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

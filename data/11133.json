@@ -1,14 +1,14 @@
 {
-    "nid": "20534",
-    "uuid": "e456bed7-2656-409d-8ccb-3e725a1e6ec2",
-    "vid": "20534",
+    "nid": "24366",
+    "uuid": "c07a64f2-788b-4b7b-afdd-fb4d00ed7591",
+    "vid": "24366",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11133",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIBOURNE vers BERGERAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.165906 44.878682)",
-    "radarInstallDate": "2012-04-30T16:21:18",
-    "radarPlace": "ST SULPICE DE FALEYRENS",
+    "radarInstallDate": "2012-04-30T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD670",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21520",
-    "uuid": "ddf06e10-285c-45f5-a680-e4d5fe51828e",
-    "vid": "21520",
+    "nid": "23192",
+    "uuid": "62491837-b1ad-46d4-98c7-ef2069fb2dc6",
+    "vid": "23192",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12149",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "BELLAC vers GUERET",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (1.7227 46.215)",
-    "radarInstallDate": "2012-09-17T16:24:16",
-    "radarPlace": "ST VAURY",
+    "radarGeolocalisation": "POINT (1.722814 46.21595)",
+    "radarInstallDate": "2012-09-17T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RN145",
     "radarTronconKm": [],
     "radarType": [

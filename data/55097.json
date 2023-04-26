@@ -1,14 +1,14 @@
 {
-    "nid": "21134",
-    "uuid": "19c6ef0a-071b-4695-a1e7-c4b64c60babf",
-    "vid": "21134",
+    "nid": "25145",
+    "uuid": "d9f4f77d-0469-4c6b-b60f-1075d246f08f",
+    "vid": "25145",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55097",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "04-ALPES-DE-HAUTE-PROVENCE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "CHATEAU ARNOUX ST AUBAN vers SISTERON",
+    "radarDirection": "SISTERON vers CHATEAU ARNOUX ST AUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.99328 44.11609)",
-    "radarInstallDate": "2019-12-11T16:22:56",
-    "radarPlace": "AUBIGNOSC",
+    "radarInstallDate": "2019-12-11T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RN85",
     "radarTronconKm": [],
     "radarType": [

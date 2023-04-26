@@ -1,14 +1,14 @@
 {
-    "nid": "20474",
-    "uuid": "ad779668-ed5d-4b43-a339-db894c8c2528",
-    "vid": "20474",
+    "nid": "24317",
+    "uuid": "7b68314c-34cf-42fa-8fda-c5d542585675",
+    "vid": "24317",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8972",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIMOGES vers POITIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.7122 46.404)",
-    "radarInstallDate": "2011-05-19T16:21:10",
-    "radarPlace": "LUSSAC LES CHATEAUX",
+    "radarInstallDate": "2011-05-19T16:07:31",
+    "radarPlace": [],
     "radarRoad": "RN147",
     "radarTronconKm": [],
     "radarType": [

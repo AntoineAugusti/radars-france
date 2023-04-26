@@ -1,14 +1,14 @@
 {
-    "nid": "19998",
-    "uuid": "93ad1153-e1be-44a3-9f2e-061ccc3bbe48",
-    "vid": "19998",
+    "nid": "23885",
+    "uuid": "3a33a4f2-2aa5-41fd-89c9-ce9e43410182",
+    "vid": "23885",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4389",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROCQUENCOURT VERS VERSAILLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.12223 48.81761)",
-    "radarInstallDate": "2009-10-30T16:20:14",
-    "radarPlace": "VERSAILLES",
+    "radarInstallDate": "2009-10-30T16:06:35",
+    "radarPlace": [],
     "radarRoad": "RD186",
     "radarTronconKm": [],
     "radarType": [

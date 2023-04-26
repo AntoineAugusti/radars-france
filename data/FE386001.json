@@ -1,14 +1,14 @@
 {
-    "nid": "22582",
-    "uuid": "85ae1753-5bd3-4f73-9764-3a358e55afde",
-    "vid": "22582",
+    "nid": "26046",
+    "uuid": "d3b665ef-acb0-4faa-a838-b77e7e9807ec",
+    "vid": "26046",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE386001",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue de la Mil\u00e8terie vers Rue Follereau",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.38156 46.56329)",
-    "radarInstallDate": "2010-09-17T16:28:44",
-    "radarPlace": "POITIERS",
+    "radarInstallDate": "2010-09-17T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

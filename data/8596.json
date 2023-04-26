@@ -1,14 +1,14 @@
 {
-    "nid": "20360",
-    "uuid": "fbb53bed-46ee-443f-9602-5ebb723a4117",
-    "vid": "20360",
+    "nid": "24214",
+    "uuid": "c033d224-42eb-4a15-801c-e7f32316944e",
+    "vid": "24214",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8596",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHARLEVILLE MEZIERES vers HIRSON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.6828 49.784)",
-    "radarInstallDate": "2010-10-26T16:20:57",
-    "radarPlace": "WARCQ",
+    "radarInstallDate": "2010-10-26T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RN43",
     "radarTronconKm": [],
     "radarType": [

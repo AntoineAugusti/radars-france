@@ -1,14 +1,14 @@
 {
-    "nid": "22093",
-    "uuid": "6511c580-b104-4825-8539-578383cf2fdc",
-    "vid": "22093",
+    "nid": "25710",
+    "uuid": "beafbc67-89a0-4bcf-8c44-87ac1cdee8aa",
+    "vid": "25710",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE175019",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Quai de la M\u00e9gisserie vers  quai de l'hotel de ville",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.34858 48.85692)",
-    "radarInstallDate": "2009-10-23T16:26:29",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2009-10-23T16:12:08",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

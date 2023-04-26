@@ -1,14 +1,14 @@
 {
-    "nid": "22531",
-    "uuid": "9443c702-6c05-45f3-aa68-e4e96c23b723",
-    "vid": "22531",
+    "nid": "26011",
+    "uuid": "b8202297-9dea-4f79-9fbe-fbd18be11645",
+    "vid": "26011",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364015",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAU vers BILLERE",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.37833 43.29612)",
-    "radarInstallDate": "2010-11-12T16:28:28",
-    "radarPlace": "PAU",
+    "radarInstallDate": "2010-11-12T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

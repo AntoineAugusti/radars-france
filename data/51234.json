@@ -1,14 +1,14 @@
 {
-    "nid": "20876",
-    "uuid": "b5afdc70-0987-4c3a-b4e6-0d0c2870d59a",
-    "vid": "20876",
+    "nid": "24803",
+    "uuid": "92ff118d-2855-4de0-97ca-9cc39cf8d576",
+    "vid": "24803",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51234",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST JUST EN CHAUSSEE vers CLERMONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.420211 49.416314)",
-    "radarInstallDate": "2020-08-13T16:22:13",
-    "radarPlace": "AIRION",
+    "radarInstallDate": "2020-08-13T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD916",
     "radarTronconKm": [],
     "radarType": [

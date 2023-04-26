@@ -1,14 +1,14 @@
 {
-    "nid": "21685",
-    "uuid": "4aad8797-382c-4739-aea4-56ce444285b4",
-    "vid": "21685",
+    "nid": "23353",
+    "uuid": "6a79a959-c407-4cb8-a31f-35ca30da5a00",
+    "vid": "23353",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12408",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EPINAL vers REMIREMONT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.48605 48.15867)",
-    "radarInstallDate": "2016-10-10T16:24:56",
-    "radarPlace": "EPINAL",
+    "radarInstallDate": "2016-10-10T16:05:43",
+    "radarPlace": [],
     "radarRoad": "RN57",
     "radarTronconKm": [],
     "radarType": [

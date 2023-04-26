@@ -1,14 +1,14 @@
 {
-    "nid": "21240",
-    "uuid": "14b39cbc-1d27-459a-ae9d-88c3f7b2bfb8",
-    "vid": "21240",
+    "nid": "25251",
+    "uuid": "d5db0f7f-b076-4adb-a52d-22219b1e8a99",
+    "vid": "25251",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55204",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTOISON vers VALENCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.904407 44.832364)",
-    "radarInstallDate": "2020-05-26T16:23:19",
-    "radarPlace": "ETOILE SUR RHONE",
+    "radarInstallDate": "2020-05-26T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD111",
     "radarTronconKm": [],
     "radarType": [

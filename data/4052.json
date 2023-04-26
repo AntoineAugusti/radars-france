@@ -1,14 +1,14 @@
 {
-    "nid": "19932",
-    "uuid": "1db60398-0a4c-4a71-8334-c56830b299d9",
-    "vid": "19932",
+    "nid": "23824",
+    "uuid": "cc06a282-36d1-4e51-9071-62b26474ddf8",
+    "vid": "23824",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4052",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANCENIS vers ANGERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.06771 47.39628)",
-    "radarInstallDate": "2009-01-22T16:20:08",
-    "radarPlace": "VAIR SUR LOIRE",
+    "radarInstallDate": "2009-01-22T16:06:28",
+    "radarPlace": [],
     "radarRoad": "RD723",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20067",
-    "uuid": "c2198915-11c0-4f0f-b870-d02a89b9119f",
-    "vid": "20067",
+    "nid": "23951",
+    "uuid": "3963ecdd-8457-44cf-b972-e7f4fd69e8d9",
+    "vid": "23951",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4743",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA FLECHE vers TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.27859 47.57258)",
-    "radarInstallDate": "2009-09-11T16:20:23",
-    "radarPlace": "VILLIERS AU BOUIN",
+    "radarInstallDate": "2009-09-11T16:06:42",
+    "radarPlace": [],
     "radarRoad": "RD959",
     "radarTronconKm": [],
     "radarType": [

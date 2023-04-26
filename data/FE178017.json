@@ -1,14 +1,14 @@
 {
-    "nid": "22123",
-    "uuid": "61ea5c8f-9389-4c3b-a7d3-816e8e3b2e30",
-    "vid": "22123",
+    "nid": "25739",
+    "uuid": "6d4ecf72-64c1-4184-a9c8-923aac2f1f75",
+    "vid": "25739",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178017",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.03699 48.77623)",
-    "radarInstallDate": "2011-09-21T16:26:36",
-    "radarPlace": "MONTIGNY LE BRETONNEUX",
+    "radarInstallDate": "2011-09-21T16:12:16",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

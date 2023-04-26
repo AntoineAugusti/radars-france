@@ -1,14 +1,14 @@
 {
-    "nid": "22688",
-    "uuid": "b9e4f3b2-d579-4fde-bf86-626e53e9d011",
-    "vid": "22688",
+    "nid": "26196",
+    "uuid": "b8d465b2-73fd-4cbc-b53b-fa0cef79b6cf",
+    "vid": "26196",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741031",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20200",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741031",
+    "changed": "1681741031",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "MOULINS vers CHALON SUR SAONE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.62619 46.7384)",
-    "radarInstallDate": "2015-02-16T10:53:38",
+    "radarInstallDate": "2015-02-16T16:17:11",
     "radarPlace": "STE HELENE",
-    "radarRoad": "RN80",
+    "radarRoad": "RN 80",
     "radarTronconKm": "5,4",
     "radarType": [
         {

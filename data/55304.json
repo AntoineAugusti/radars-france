@@ -1,14 +1,14 @@
 {
-    "nid": "21332",
-    "uuid": "76cb14b8-e06b-42ce-ae71-e557199dd510",
-    "vid": "21332",
+    "nid": "25346",
+    "uuid": "d94e8313-6db5-4233-8f32-ce488a8c3341",
+    "vid": "25346",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55304",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURG EN BRESSE vers PIZAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.175643 46.007587)",
-    "radarInstallDate": "2020-10-15T16:23:38",
-    "radarPlace": "CHALAMONT",
+    "radarInstallDate": "2020-10-15T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD22",
     "radarTronconKm": [],
     "radarType": [

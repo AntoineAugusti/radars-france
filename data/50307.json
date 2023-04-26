@@ -1,14 +1,14 @@
 {
-    "nid": "20633",
-    "uuid": "96dc2e57-5bbe-4493-95b3-c3b7ce07b3a8",
-    "vid": "20633",
+    "nid": "24551",
+    "uuid": "f6d4671f-e23b-4e7c-9181-a2f9fd7f092d",
+    "vid": "24551",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50307",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FORT DE France vers DUCOS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-60.99623 14.59663)",
-    "radarInstallDate": "2020-12-15T16:21:34",
-    "radarPlace": "LE LAMENTIN",
+    "radarInstallDate": "2020-12-15T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RN5",
     "radarTronconKm": [],
     "radarType": [

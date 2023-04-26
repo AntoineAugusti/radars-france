@@ -1,14 +1,14 @@
 {
-    "nid": "20662",
-    "uuid": "f7907b0f-d5e4-4096-aa03-fe3f4921ef19",
-    "vid": "20662",
+    "nid": "24587",
+    "uuid": "59ad5d6f-bf7c-4c80-801e-4c98f099bb0a",
+    "vid": "24587",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51012",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LARCAY vers TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.746502 47.369111)",
-    "radarInstallDate": "2019-07-19T16:21:37",
-    "radarPlace": "ST AVERTIN",
+    "radarInstallDate": "2019-07-19T16:08:10",
+    "radarPlace": [],
     "radarRoad": "RD976",
     "radarTronconKm": [],
     "radarType": [

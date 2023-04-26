@@ -1,14 +1,14 @@
 {
-    "nid": "20830",
-    "uuid": "09113d39-ffc2-4aea-81f2-57cbb9775763",
-    "vid": "20830",
+    "nid": "24754",
+    "uuid": "42d96e05-f033-4fa5-ac69-e6a7d20af72c",
+    "vid": "24754",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51182",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOURS vers LE MANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.315505 47.802911)",
-    "radarInstallDate": "2020-02-21T16:22:03",
-    "radarPlace": "MARIGNE LAILLE",
+    "radarInstallDate": "2020-02-21T16:08:41",
+    "radarPlace": [],
     "radarRoad": "RD338",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20513",
-    "uuid": "b98855f4-4917-445d-8c00-81c6a6e51c91",
-    "vid": "20513",
+    "nid": "24349",
+    "uuid": "d3941586-2041-456f-af56-251961022682",
+    "vid": "24349",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11075",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHARTRES vers COURVILLE SUR EURE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.2934 48.451)",
-    "radarInstallDate": "2012-01-12T16:21:18",
-    "radarPlace": "ST LUPERCE",
+    "radarInstallDate": "2012-01-12T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD923",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20858",
-    "uuid": "a2639438-bbbd-4fba-9560-4b369dbb1bbf",
-    "vid": "20858",
+    "nid": "24783",
+    "uuid": "8459bd5c-5388-4046-ba06-0359f1df7250",
+    "vid": "24783",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51214",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "JANZE vers VITRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.302181 48.062079)",
-    "radarInstallDate": "2020-06-26T16:22:08",
-    "radarPlace": "TORCE",
+    "radarInstallDate": "2020-06-26T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RD777",
     "radarTronconKm": [],
     "radarType": [

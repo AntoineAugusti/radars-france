@@ -1,14 +1,14 @@
 {
-    "nid": "22440",
-    "uuid": "6922cdf0-341f-4f82-8d3a-31657ed21ac7",
-    "vid": "22440",
+    "nid": "25959",
+    "uuid": "4ec21ca3-8b11-4452-aa63-f1e87694fcc6",
+    "vid": "25959",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE331024",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Aucamville vers Toulouse",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.43887 43.64843)",
-    "radarInstallDate": "2011-04-04T16:28:02",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2011-04-04T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

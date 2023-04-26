@@ -1,14 +1,14 @@
 {
-    "nid": "20775",
-    "uuid": "c6c0ff96-1e12-49b4-bc1d-f1a02e63d58c",
-    "vid": "20775",
+    "nid": "24699",
+    "uuid": "b5c79190-3fa1-487f-b35c-cb3c5027cd3c",
+    "vid": "24699",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51127",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOYANT vers BAUGE EN ANJOU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.077482 47.534874)",
-    "radarInstallDate": "2019-11-22T16:21:53",
-    "radarPlace": "BAUGE EN ANJOU",
+    "radarInstallDate": "2019-11-22T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RD766",
     "radarTronconKm": [],
     "radarType": [

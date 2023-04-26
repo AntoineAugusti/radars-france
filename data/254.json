@@ -1,14 +1,14 @@
 {
-    "nid": "19700",
-    "uuid": "53e586ca-d90d-4f95-8b5d-9bcd9cef2f3e",
-    "vid": "19700",
+    "nid": "23631",
+    "uuid": "adf45582-e2b6-4220-98a5-5445a094efaf",
+    "vid": "23631",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "254",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOURNON SUR RHONE vers ST PERAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.84064 45.05807)",
-    "radarInstallDate": "2005-02-03T16:19:48",
-    "radarPlace": "TOURNON SUR RHONE",
+    "radarInstallDate": "2005-02-03T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RD86",
     "radarTronconKm": [],
     "radarType": [

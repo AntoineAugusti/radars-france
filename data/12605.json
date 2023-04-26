@@ -1,14 +1,14 @@
 {
-    "nid": "21838",
-    "uuid": "934e995e-2f37-4630-9a02-ee0f24a6ecc2",
-    "vid": "21838",
+    "nid": "23515",
+    "uuid": "741ccc3a-bd38-46d1-8f84-1425ffeb6f21",
+    "vid": "23515",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12605",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTES vers VANNES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-2.415086 47.538357)",
-    "radarInstallDate": "2021-05-04T16:25:32",
-    "radarPlace": "ARZAL",
+    "radarInstallDate": "2021-05-04T16:05:57",
+    "radarPlace": [],
     "radarRoad": "RN165",
     "radarTronconKm": [],
     "radarType": [

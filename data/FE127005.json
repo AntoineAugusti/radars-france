@@ -1,14 +1,14 @@
 {
-    "nid": "21906",
-    "uuid": "51ef2e13-203e-45a6-a646-a83085d52524",
-    "vid": "21906",
+    "nid": "25545",
+    "uuid": "a4739aae-0b6e-47f4-bd61-717a0e5af96e",
+    "vid": "25545",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE127005",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Louviers vers Heudebouville",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.18436 49.20748)",
-    "radarInstallDate": "2010-08-03T16:25:46",
-    "radarPlace": "LOUVIERS",
+    "radarInstallDate": "2010-08-03T16:11:28",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

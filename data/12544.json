@@ -1,14 +1,14 @@
 {
-    "nid": "21796",
-    "uuid": "6b14e9c7-18ff-46da-8fc6-557977799db4",
-    "vid": "21796",
+    "nid": "23466",
+    "uuid": "85482f2b-3ed4-47f6-a8a6-407f83dde80c",
+    "vid": "23466",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12544",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTES vers ST NAZAIRE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-2.1864 47.32235)",
-    "radarInstallDate": "2019-07-26T16:25:18",
-    "radarPlace": "TRIGNAC",
+    "radarInstallDate": "2019-07-26T16:05:53",
+    "radarPlace": [],
     "radarRoad": "RN171",
     "radarTronconKm": [],
     "radarType": [

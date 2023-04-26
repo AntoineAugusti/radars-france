@@ -1,14 +1,14 @@
 {
-    "nid": "22396",
-    "uuid": "1d660604-d9fc-4ed4-8ff8-32315e888f10",
-    "vid": "22396",
+    "nid": "25921",
+    "uuid": "c14a4360-aa0a-48a7-a721-a7c40e4da6d0",
+    "vid": "25921",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE317005",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Av. du 11 novembre 1918 vers le centre ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.15061 46.17364)",
-    "radarInstallDate": "2011-01-05T16:27:47",
-    "radarPlace": "LA ROCHELLE",
+    "radarInstallDate": "2011-01-05T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

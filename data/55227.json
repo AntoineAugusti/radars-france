@@ -1,14 +1,14 @@
 {
-    "nid": "21262",
-    "uuid": "95250995-c2be-40c0-a9f0-5420c2f8b081",
-    "vid": "21262",
+    "nid": "25273",
+    "uuid": "12bf0105-e0be-41e5-8035-2b5c778d2280",
+    "vid": "25273",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55227",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRENADE SUR GARONNE vers MAS GRENIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.2489 43.816)",
-    "radarInstallDate": "2020-02-12T16:23:25",
-    "radarPlace": "VERDUN SUR GARONNE",
+    "radarInstallDate": "2020-02-12T16:10:20",
+    "radarPlace": [],
     "radarRoad": "RD26",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19647",
-    "uuid": "9dd3f631-f10a-407a-9fff-3c8b39df7ad3",
-    "vid": "19647",
+    "nid": "23587",
+    "uuid": "30cf9297-6be3-4a03-8eae-8816295d359c",
+    "vid": "23587",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "113",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "METZ vers THIONVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.1618 49.12731)",
-    "radarInstallDate": "2003-11-06T16:19:45",
-    "radarPlace": "METZ",
+    "radarInstallDate": "2003-11-06T16:06:03",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

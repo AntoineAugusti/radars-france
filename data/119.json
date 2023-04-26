@@ -1,14 +1,14 @@
 {
-    "nid": "19650",
-    "uuid": "0cd2fb3d-ec48-4826-b5c8-4fe80e5632cd",
-    "vid": "19650",
+    "nid": "23590",
+    "uuid": "911d49f5-d500-4759-a3c4-da1c886f4599",
+    "vid": "23590",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "119",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS LES ULIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.19009 48.70775)",
-    "radarInstallDate": "2003-11-14T16:19:45",
-    "radarPlace": "ORSAY",
+    "radarInstallDate": "2003-11-14T16:06:04",
+    "radarPlace": [],
     "radarRoad": "RN118",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20336",
-    "uuid": "d23b75db-b63b-455b-81dc-a5d6c7d76a93",
-    "vid": "20336",
+    "nid": "24192",
+    "uuid": "26f38a4e-c075-4f53-ac12-a3fb398bda9e",
+    "vid": "24192",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8356",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VANNES vers LORIENT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.37782 47.77195)",
-    "radarInstallDate": "2017-05-26T16:20:53",
-    "radarPlace": "QUEVEN",
+    "radarInstallDate": "2017-05-26T16:07:13",
+    "radarPlace": [],
     "radarRoad": "RN165 Echangeur de Kerdual vers D465",
     "radarTronconKm": [],
     "radarType": [

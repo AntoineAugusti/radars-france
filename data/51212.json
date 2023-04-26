@@ -1,14 +1,14 @@
 {
-    "nid": "20857",
-    "uuid": "ee08a8e8-9f2e-499a-a0ca-fb35be09a79f",
-    "vid": "20857",
+    "nid": "24782",
+    "uuid": "be0cbe61-de30-4136-aa42-b2b4178c9daa",
+    "vid": "24782",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51212",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VITTEL vers DOMPAIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.046958 48.1959)",
-    "radarInstallDate": "2020-01-31T16:22:08",
-    "radarPlace": "ESLEY",
+    "radarInstallDate": "2020-01-31T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RD165",
     "radarTronconKm": [],
     "radarType": [

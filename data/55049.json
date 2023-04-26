@@ -1,14 +1,14 @@
 {
-    "nid": "21086",
-    "uuid": "9b366aea-656f-4f3c-bd38-6080504f1493",
-    "vid": "21086",
+    "nid": "25099",
+    "uuid": "9ed3ff18-331e-4409-af1a-9b57fc712d79",
+    "vid": "25099",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55049",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIMOUX vers CARCASSONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.297964 43.141804)",
-    "radarInstallDate": "2020-05-27T16:22:49",
-    "radarPlace": "PREIXAN",
+    "radarInstallDate": "2020-05-27T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD118",
     "radarTronconKm": [],
     "radarType": [

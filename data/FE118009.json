@@ -1,14 +1,14 @@
 {
-    "nid": "21889",
-    "uuid": "47bc2828-fc2a-489c-83b5-b20ae02fec1b",
-    "vid": "21889",
+    "nid": "25528",
+    "uuid": "7d5aa976-b911-486b-ba22-e473311bc874",
+    "vid": "25528",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE118009",
-    "created": "1637229174",
-    "changed": "1675869940",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Mehun-sur-Y\u00e8vre vers Bourges",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.38089 47.1001)",
-    "radarInstallDate": "2010-09-29T16:25:46",
-    "radarPlace": "ST DOULCHARD",
+    "radarInstallDate": "2010-09-29T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

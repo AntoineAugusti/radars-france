@@ -1,14 +1,14 @@
 {
-    "nid": "20819",
-    "uuid": "fa1425c3-e142-4aa5-8a3e-befb2ef1dd8d",
-    "vid": "20819",
+    "nid": "24743",
+    "uuid": "44f1c6f7-d455-4d1c-879c-7fecb43a193d",
+    "vid": "24743",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51171",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAU CHINON vers NEVERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.73144 47.054206)",
-    "radarInstallDate": "2020-01-23T16:22:02",
-    "radarPlace": "TAMNAY EN BAZOIS",
+    "radarInstallDate": "2020-01-23T16:08:37",
+    "radarPlace": [],
     "radarRoad": "RD978",
     "radarTronconKm": [],
     "radarType": [

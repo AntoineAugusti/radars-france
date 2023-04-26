@@ -1,14 +1,14 @@
 {
-    "nid": "22287",
-    "uuid": "717894bb-5bf6-4477-a1c1-70064dc0c58a",
-    "vid": "22287",
+    "nid": "25858",
+    "uuid": "33f647fc-2cbb-44c1-86c3-0c1b07c837ad",
+    "vid": "25858",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE263011",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ch\u00e2tel-Guyon vers Riom",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.10344 45.9011)",
-    "radarInstallDate": "2011-03-28T16:27:20",
-    "radarPlace": "RIOM",
+    "radarInstallDate": "2011-03-28T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

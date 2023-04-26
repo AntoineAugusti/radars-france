@@ -1,14 +1,14 @@
 {
-    "nid": "21738",
-    "uuid": "8b67a246-5aaa-476d-bab1-31f1eb8f963b",
-    "vid": "21738",
+    "nid": "23406",
+    "uuid": "44b60303-ff1f-44a6-b592-ec10337a3ee2",
+    "vid": "23406",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12472",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LYON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.308 48.7129)",
-    "radarInstallDate": "2016-07-25T16:25:04",
-    "radarPlace": "CHILLY MAZARIN",
+    "radarInstallDate": "2016-07-25T16:05:48",
+    "radarPlace": [],
     "radarRoad": "A6",
     "radarTronconKm": [],
     "radarType": [

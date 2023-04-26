@@ -1,14 +1,14 @@
 {
-    "nid": "20458",
-    "uuid": "f39537d1-1eee-4518-a509-8a5dadb91224",
-    "vid": "20458",
+    "nid": "24302",
+    "uuid": "4105df8e-f1b6-441d-aa34-e3183e14f88e",
+    "vid": "24302",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8919",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LOUDES vers ST CHRISTOPHE SUR DOLAISON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.7753 45.024)",
-    "radarInstallDate": "2011-09-22T16:21:10",
-    "radarPlace": "BAINS",
+    "radarInstallDate": "2011-09-22T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RN102",
     "radarTronconKm": [],
     "radarType": [

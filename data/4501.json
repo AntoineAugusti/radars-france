@@ -1,14 +1,14 @@
 {
-    "nid": "20029",
-    "uuid": "9d0eedbf-5913-4e36-a586-6b84e2b847da",
-    "vid": "20029",
+    "nid": "23915",
+    "uuid": "2f923666-c09e-4de8-8ce2-d7372ffb4458",
+    "vid": "23915",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4501",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON vers VAULX EN VELIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.90365 45.76514)",
-    "radarInstallDate": "2009-09-21T16:20:19",
-    "radarPlace": "VILLEURBANNE",
+    "radarInstallDate": "2009-09-21T16:06:38",
+    "radarPlace": [],
     "radarRoad": "373, cours Emile Zola",
     "radarTronconKm": [],
     "radarType": [

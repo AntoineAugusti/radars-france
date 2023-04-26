@@ -1,14 +1,14 @@
 {
-    "nid": "20143",
-    "uuid": "859e4261-c83c-4f86-b22b-31d88934b0d7",
-    "vid": "20143",
+    "nid": "24023",
+    "uuid": "d75e0a81-28eb-4442-b32a-591b8c08e1d3",
+    "vid": "24023",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6518",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ENTRAYGUES SUR TRUYERE vers ESPALION",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.6538 44.56794)",
-    "radarInstallDate": "2007-02-23T16:20:29",
-    "radarPlace": "ESTAING",
+    "radarInstallDate": "2007-02-23T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RD920",
     "radarTronconKm": [],
     "radarType": [

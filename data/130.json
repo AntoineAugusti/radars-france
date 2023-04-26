@@ -1,14 +1,14 @@
 {
-    "nid": "19656",
-    "uuid": "b39a8152-1393-48e4-9bac-24cf619107ed",
-    "vid": "19656",
+    "nid": "23595",
+    "uuid": "0920d3b5-63fb-47eb-b820-fa1533d2814a",
+    "vid": "23595",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "130",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAYONNE VERS LANDES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.46733 43.5135)",
-    "radarInstallDate": "2003-12-29T16:19:45",
-    "radarPlace": "BAYONNE",
+    "radarInstallDate": "2003-12-29T16:06:04",
+    "radarPlace": [],
     "radarRoad": "RD810",
     "radarTronconKm": [],
     "radarType": [

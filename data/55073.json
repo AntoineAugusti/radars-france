@@ -1,14 +1,14 @@
 {
-    "nid": "21110",
-    "uuid": "2d2dfe20-5918-4e35-b6c5-4a77c2f2316c",
-    "vid": "21110",
+    "nid": "25123",
+    "uuid": "838023e7-cb51-4ce7-9601-b6880169fc6e",
+    "vid": "25123",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55073",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FIRMINY vers ST JUST MALMONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.306248 45.368879)",
-    "radarInstallDate": "2019-12-23T16:22:55",
-    "radarPlace": "FIRMINY",
+    "radarInstallDate": "2019-12-23T16:09:53",
+    "radarPlace": [],
     "radarRoad": "RD500",
     "radarTronconKm": [],
     "radarType": [

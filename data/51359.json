@@ -1,14 +1,14 @@
 {
-    "nid": "20985",
-    "uuid": "36a7f5db-646f-474e-9964-9347cae79a21",
-    "vid": "20985",
+    "nid": "24922",
+    "uuid": "05a1c4bc-3549-4b64-a23c-9d467354bbd5",
+    "vid": "24922",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51359",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLERS LE LAC vers MORTEAU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.648888 47.051931)",
-    "radarInstallDate": "2020-11-20T16:22:29",
-    "radarPlace": "LES FINS",
+    "radarInstallDate": "2020-11-20T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD461",
     "radarTronconKm": [],
     "radarType": [

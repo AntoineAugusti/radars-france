@@ -1,14 +1,14 @@
 {
-    "nid": "21590",
-    "uuid": "81d7e284-6e34-40d6-bebc-f81c6ddbcaa9",
-    "vid": "21590",
+    "nid": "23259",
+    "uuid": "e37f1821-5d26-4afb-83f0-ee8e6bc9f6da",
+    "vid": "23259",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12273",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAEN vers RENNES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.360691 48.691677)",
-    "radarInstallDate": "2014-02-17T16:24:35",
-    "radarPlace": "AVRANCHES",
+    "radarInstallDate": "2014-02-17T16:05:37",
+    "radarPlace": [],
     "radarRoad": "RN175",
     "radarTronconKm": [],
     "radarType": [

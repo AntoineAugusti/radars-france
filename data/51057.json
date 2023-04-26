@@ -1,14 +1,14 @@
 {
-    "nid": "20705",
-    "uuid": "350d14f2-a959-4aa1-9bb5-21d0232fc2f9",
-    "vid": "20705",
+    "nid": "24631",
+    "uuid": "7f7fbbfe-a104-4923-9838-2d431908f25f",
+    "vid": "24631",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51057",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTARGIS vers NEVERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.737628 47.87138)",
-    "radarInstallDate": "2020-01-30T16:21:42",
-    "radarPlace": "PRESSIGNY LES PINS",
+    "radarInstallDate": "2020-01-30T16:08:19",
+    "radarPlace": [],
     "radarRoad": "RD2007",
     "radarTronconKm": [],
     "radarType": [

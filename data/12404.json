@@ -1,14 +1,14 @@
 {
-    "nid": "21681",
-    "uuid": "76d42ab5-034f-4426-a0a3-981268e2c658",
-    "vid": "21681",
+    "nid": "23349",
+    "uuid": "172382bc-8b10-4195-ad74-42d0ec61a12d",
+    "vid": "23349",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12404",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAILLET EN FRANCE vers FREPILLON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.245657 49.07116)",
-    "radarInstallDate": "2016-07-25T16:24:56",
-    "radarPlace": "VILLIERS ADAM",
+    "radarInstallDate": "2016-07-25T16:05:43",
+    "radarPlace": [],
     "radarRoad": "RN104",
     "radarTronconKm": [],
     "radarType": [

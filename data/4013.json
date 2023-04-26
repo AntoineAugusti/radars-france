@@ -1,14 +1,14 @@
 {
-    "nid": "19924",
-    "uuid": "3dc06d8f-c2aa-43c4-84d1-6d1782257612",
-    "vid": "19924",
+    "nid": "23816",
+    "uuid": "fac06105-346c-40b0-8e1c-4262640ee918",
+    "vid": "23816",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4013",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COGOLIN VERS GASSIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.54954 43.25053)",
-    "radarInstallDate": "2008-12-19T16:20:08",
-    "radarPlace": "COGOLIN",
+    "radarInstallDate": "2008-12-19T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RD98",
     "radarTronconKm": [],
     "radarType": [

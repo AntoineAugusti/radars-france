@@ -1,14 +1,14 @@
 {
-    "nid": "21269",
-    "uuid": "0145335f-ffac-43a2-b9ba-801ce2c24686",
-    "vid": "21269",
+    "nid": "25280",
+    "uuid": "eae2e66f-7e8b-4a02-af6a-ac91a182a95a",
+    "vid": "25280",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55234",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FOIX vers SAINT GIRONS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.1971 42.995)",
-    "radarInstallDate": "2020-06-29T16:23:26",
-    "radarPlace": "MONTJOIE EN COUSERANS",
+    "radarInstallDate": "2020-06-29T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD117",
     "radarTronconKm": [],
     "radarType": [

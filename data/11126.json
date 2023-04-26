@@ -1,14 +1,14 @@
 {
-    "nid": "20532",
-    "uuid": "54cc1251-fd2c-43ed-83d4-1ca5d95a3639",
-    "vid": "20532",
+    "nid": "24364",
+    "uuid": "cd7a131f-60cc-492c-9195-3ad9e63df374",
+    "vid": "24364",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11126",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nice vers St Laurent du Var",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.243083 43.692385)",
-    "radarInstallDate": "2012-09-28T16:21:18",
-    "radarPlace": "NICE",
+    "radarInstallDate": "2012-09-28T16:07:36",
+    "radarPlace": [],
     "radarRoad": "Voie Mathis hauteur de la bretelle d'entr\u00e9e Bellet",
     "radarTronconKm": [],
     "radarType": [

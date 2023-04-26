@@ -1,14 +1,14 @@
 {
-    "nid": "20626",
-    "uuid": "f442d9c8-8c63-480a-a1f0-7e4519d25994",
-    "vid": "20626",
+    "nid": "24544",
+    "uuid": "a1093662-c65e-4ab5-8ddf-bf9d3e7b4986",
+    "vid": "24544",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50258",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RIVIERE SALEE vers LES TROIS ILETS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-60.995136 14.527844)",
-    "radarInstallDate": "2021-03-10T16:21:31",
-    "radarPlace": "RIVIERE SALEE",
+    "radarInstallDate": "2021-03-10T16:08:04",
+    "radarPlace": [],
     "radarRoad": "RD7",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20881",
-    "uuid": "e6c689d3-637d-4c02-8eee-00c022f7393e",
-    "vid": "20881",
+    "nid": "24808",
+    "uuid": "dd64f653-c15e-4578-90ac-202dd3bfd94c",
+    "vid": "24808",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51239",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VOUZIERS vers SEDAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.88655 49.656218)",
-    "radarInstallDate": "2020-11-27T16:22:13",
-    "radarPlace": "CHEVEUGES",
+    "radarInstallDate": "2020-11-27T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD977",
     "radarTronconKm": [],
     "radarType": [

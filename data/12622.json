@@ -1,14 +1,14 @@
 {
-    "nid": "21848",
-    "uuid": "e83ca8c6-5d77-4459-abae-a24c0a7e029b",
-    "vid": "21848",
+    "nid": "23526",
+    "uuid": "d6bddc8c-1d62-4c22-bd15-964522eb2a4e",
+    "vid": "23526",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12622",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MORLAIX vers SAINT BRIEUC",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-3.73713 48.5787)",
-    "radarInstallDate": "2020-08-31T16:25:32",
-    "radarPlace": "PLOUIGNEAU",
+    "radarInstallDate": "2020-08-31T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21525",
-    "uuid": "b70a7038-f848-4665-a4af-66f8dd3d5441",
-    "vid": "21525",
+    "nid": "23197",
+    "uuid": "e07dec1e-7b8a-46ee-ab33-78b0d5d017da",
+    "vid": "23197",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12154",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ITALIE vers AIX EN PROVENCE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.4834 43.797)",
-    "radarInstallDate": "2013-12-16T16:24:17",
-    "radarPlace": "MENTON",
+    "radarInstallDate": "2013-12-16T16:05:33",
+    "radarPlace": [],
     "radarRoad": "A8",
     "radarTronconKm": [],
     "radarType": [

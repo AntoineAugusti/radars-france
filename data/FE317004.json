@@ -1,14 +1,14 @@
 {
-    "nid": "22395",
-    "uuid": "f9478bc3-829c-44c6-9b1e-f8610ba3cf33",
-    "vid": "22395",
+    "nid": "25920",
+    "uuid": "fcfed0d5-a047-4a24-a478-f95aab927bf7",
+    "vid": "25920",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE317004",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Av. J.P. Sartre vers le centre ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.13561 46.15525)",
-    "radarInstallDate": "2011-01-05T16:27:47",
-    "radarPlace": "LA ROCHELLE",
+    "radarInstallDate": "2011-01-05T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

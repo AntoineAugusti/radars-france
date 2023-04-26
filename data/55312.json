@@ -1,14 +1,14 @@
 {
-    "nid": "21340",
-    "uuid": "fef59a8c-6cca-4f23-bd5d-cc1c7f0938b1",
-    "vid": "21340",
+    "nid": "25354",
+    "uuid": "18bbef09-81c5-4440-938f-1a4889dde2df",
+    "vid": "25354",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55312",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AMBERIEU EN BUGEY vers SAINT DENIS EN BUGEY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.331798 45.954971)",
-    "radarInstallDate": "2020-09-29T16:23:38",
-    "radarPlace": "AMBERIEU EN BUGEY",
+    "radarInstallDate": "2020-09-29T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD5",
     "radarTronconKm": [],
     "radarType": [

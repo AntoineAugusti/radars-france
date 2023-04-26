@@ -1,14 +1,14 @@
 {
-    "nid": "21470",
-    "uuid": "9f847ee3-d005-4df4-9a55-1045ecef5e92",
-    "vid": "21470",
+    "nid": "23143",
+    "uuid": "660ea148-cd2d-4ec6-ad00-9d156e1f7b9c",
+    "vid": "23143",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12068",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers Marseille",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.9715 45.777)",
-    "radarInstallDate": "2012-03-22T16:24:09",
-    "radarPlace": "DECINES CHARPIEU",
+    "radarInstallDate": "2012-03-22T16:05:30",
+    "radarPlace": [],
     "radarRoad": "RN346",
     "radarTronconKm": [],
     "radarType": [

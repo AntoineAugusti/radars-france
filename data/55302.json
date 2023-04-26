@@ -1,14 +1,14 @@
 {
-    "nid": "21330",
-    "uuid": "c0923f29-7925-4fbf-b6db-0ecff1af4a04",
-    "vid": "21330",
+    "nid": "25344",
+    "uuid": "2a097964-43d9-4b40-a0f2-78f580216bcc",
+    "vid": "25344",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55302",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LUSIGNAN vers MELLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.057254 46.299686)",
-    "radarInstallDate": "2021-01-15T16:23:37",
-    "radarPlace": "CHEY",
+    "radarInstallDate": "2021-01-15T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD950",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20690",
-    "uuid": "a3b09a37-4300-46d4-8c0a-3186194471d5",
-    "vid": "20690",
+    "nid": "24616",
+    "uuid": "808a7bc0-7ab9-445f-b081-5704a44e93a2",
+    "vid": "24616",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51042",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "27-EURE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "BRIONNE vers BROGLIE",
+    "radarDirection": "BROGLIE vers BRIONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.574047 49.085543)",
-    "radarInstallDate": "2019-09-23T16:21:42",
-    "radarPlace": "BERNAY",
+    "radarInstallDate": "2019-09-23T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD438",
     "radarTronconKm": [],
     "radarType": [

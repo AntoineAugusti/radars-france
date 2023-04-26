@@ -1,14 +1,14 @@
 {
-    "nid": "19878",
-    "uuid": "4b781a25-d76d-432c-9187-8d19e41ef904",
-    "vid": "19878",
+    "nid": "23780",
+    "uuid": "c2ec44eb-5171-49fd-b219-52e5eb50f882",
+    "vid": "23780",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "967",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AUTUN vers ARNAY LE DUC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.32084 47.00845)",
-    "radarInstallDate": "2006-01-08T16:20:02",
-    "radarPlace": "DRACY ST LOUP",
+    "radarInstallDate": "2006-01-08T16:06:23",
+    "radarPlace": [],
     "radarRoad": "RD681",
     "radarTronconKm": [],
     "radarType": [

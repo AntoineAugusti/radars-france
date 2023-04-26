@@ -1,14 +1,14 @@
 {
-    "nid": "21996",
-    "uuid": "dfad4da1-7b99-41b1-b4e6-7859c75a1956",
-    "vid": "21996",
+    "nid": "25632",
+    "uuid": "ec647367-e97f-410c-a913-d08bc1a7577c",
+    "vid": "25632",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159030",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Av. de l'Hippodrome vers le Sud-Est",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.02591 50.64764)",
-    "radarInstallDate": "2011-06-02T16:26:07",
-    "radarPlace": "LAMBERSART",
+    "radarInstallDate": "2011-06-02T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

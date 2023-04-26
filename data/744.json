@@ -1,14 +1,14 @@
 {
-    "nid": "19841",
-    "uuid": "69b651ef-253c-4ee6-9a0c-dc28f4e98953",
-    "vid": "19841",
+    "nid": "23753",
+    "uuid": "72c7a4c6-a9f6-4807-adb3-d035e1d2e0a9",
+    "vid": "23753",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "744",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CANDE vers ANGERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.76309 47.493)",
-    "radarInstallDate": "2005-06-15T16:19:59",
-    "radarPlace": "BECON LES GRANITS",
+    "radarInstallDate": "2005-06-15T16:06:20",
+    "radarPlace": [],
     "radarRoad": "RD963",
     "radarTronconKm": [],
     "radarType": [

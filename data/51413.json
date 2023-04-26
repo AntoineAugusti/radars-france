@@ -1,14 +1,14 @@
 {
-    "nid": "21026",
-    "uuid": "c0bc3a48-d842-4e57-9448-2f9b164c50ec",
-    "vid": "21026",
+    "nid": "24972",
+    "uuid": "3987a10a-0ec0-48e1-ae79-4ba1a02e7022",
+    "vid": "24972",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51413",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOHAL vers QUESTEMBERT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.438225 47.739729)",
-    "radarInstallDate": "2021-07-13T16:22:37",
-    "radarPlace": "MOLAC",
+    "radarInstallDate": "2021-07-13T16:09:22",
+    "radarPlace": [],
     "radarRoad": "RD5",
     "radarTronconKm": [],
     "radarType": [

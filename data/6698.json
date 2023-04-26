@@ -1,14 +1,14 @@
 {
-    "nid": "20181",
-    "uuid": "2b1a3a92-f064-4cd0-989d-26a03255ac82",
-    "vid": "20181",
+    "nid": "24058",
+    "uuid": "d9340157-e6fb-48c8-9bc2-5370be33f708",
+    "vid": "24058",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6698",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHERBOURG OCTEVILLE VERS CAEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.0953 49.3148)",
-    "radarInstallDate": "2007-03-13T16:20:34",
-    "radarPlace": "ISIGNY SUR MER",
+    "radarInstallDate": "2007-03-13T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RN13",
     "radarTronconKm": [],
     "radarType": [

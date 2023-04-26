@@ -1,14 +1,14 @@
 {
-    "nid": "21233",
-    "uuid": "6c6956e3-52e5-45aa-b29d-01fce0660504",
-    "vid": "21233",
+    "nid": "25244",
+    "uuid": "a8ccf20e-4e2f-4230-a1c1-1014dedfff9d",
+    "vid": "25244",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55197",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "YDES vers MAURIAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.39201 45.296654)",
-    "radarInstallDate": "2020-02-20T16:23:19",
-    "radarPlace": "MEALLET",
+    "radarInstallDate": "2020-02-20T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RD922",
     "radarTronconKm": [],
     "radarType": [

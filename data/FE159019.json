@@ -1,14 +1,14 @@
 {
-    "nid": "21988",
-    "uuid": "0d112d59-ccd3-4f94-bc42-08f0df4b0b54",
-    "vid": "21988",
+    "nid": "25624",
+    "uuid": "41d93c26-64fa-4a70-8d60-1e33cd81be2d",
+    "vid": "25624",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159019",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Belgique vers Dunkerque",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.41721 51.04821)",
-    "radarInstallDate": "2011-03-18T16:26:07",
-    "radarPlace": "DUNKERQUE",
+    "radarInstallDate": "2011-03-18T16:11:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

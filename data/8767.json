@@ -1,14 +1,14 @@
 {
-    "nid": "20415",
-    "uuid": "69919777-4d94-44fd-b33f-d2e60a40ebf5",
-    "vid": "20415",
+    "nid": "24262",
+    "uuid": "52fe9c24-18bb-43da-b0b4-e4d76b2ba9be",
+    "vid": "24262",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8767",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "D\u00d4LE vers CH\u00c2LON SUR SA\u00d4NE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.318 46.98)",
-    "radarInstallDate": "2011-03-05T16:21:02",
-    "radarPlace": "CHEMIN",
+    "radarInstallDate": "2011-03-05T16:07:22",
+    "radarPlace": [],
     "radarRoad": "RD673",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21015",
-    "uuid": "11f5cfb6-ea4e-43f9-a912-3eae8e53dfd9",
-    "vid": "21015",
+    "nid": "24960",
+    "uuid": "2186a096-0696-4066-9cbb-290b45ad92e7",
+    "vid": "24960",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51400",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NORT SUR ERDRE vers ANCENIS SAINT GEREON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.297381 47.421872)",
-    "radarInstallDate": "2021-10-04T16:22:33",
-    "radarPlace": "MOUZEIL",
+    "radarInstallDate": "2021-10-04T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD 164",
     "radarTronconKm": [],
     "radarType": [

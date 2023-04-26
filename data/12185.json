@@ -1,14 +1,14 @@
 {
-    "nid": "21539",
-    "uuid": "f2e43009-71b1-4a2d-952c-771140fcd872",
-    "vid": "21539",
+    "nid": "23210",
+    "uuid": "cd8e62da-a140-4877-8bd6-2dabeec42e45",
+    "vid": "23210",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12185",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "NANTES vers PARIS",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (-1.4765 47.251)",
-    "radarInstallDate": "2013-11-12T16:24:22",
-    "radarPlace": "STE LUCE SUR LOIRE",
+    "radarGeolocalisation": "POINT (-1.476574 47.251324)",
+    "radarInstallDate": "2013-11-12T16:05:34",
+    "radarPlace": [],
     "radarRoad": "A811",
     "radarTronconKm": [],
     "radarType": [

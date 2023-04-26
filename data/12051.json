@@ -1,14 +1,14 @@
 {
-    "nid": "21459",
-    "uuid": "eebc91cb-a4dd-4771-b58b-d3a0069ffce4",
-    "vid": "21459",
+    "nid": "23132",
+    "uuid": "480eed32-ce87-4868-82e2-0765eb264364",
+    "vid": "23132",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12051",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers BORDEAUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.421 43.634)",
-    "radarInstallDate": "2013-02-05T16:24:03",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2013-02-05T16:05:28",
+    "radarPlace": [],
     "radarRoad": "A620",
     "radarTronconKm": [],
     "radarType": [

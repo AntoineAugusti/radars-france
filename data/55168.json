@@ -1,14 +1,14 @@
 {
-    "nid": "21204",
-    "uuid": "82312377-530a-41b6-b21d-cea7bbe10b75",
-    "vid": "21204",
+    "nid": "25215",
+    "uuid": "ad115977-b222-4f85-afb1-c0f5ec9aba20",
+    "vid": "25215",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55168",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VOUNEUIL SOUS BIARD vers LES COURONNERIES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.335915 46.555377)",
-    "radarInstallDate": "2020-01-23T16:23:13",
-    "radarPlace": "SAINT BENOIT",
+    "radarInstallDate": "2020-01-23T16:10:12",
+    "radarPlace": [],
     "radarRoad": "RD162",
     "radarTronconKm": [],
     "radarType": [

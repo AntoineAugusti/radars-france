@@ -1,14 +1,14 @@
 {
-    "nid": "21578",
-    "uuid": "04fc2f38-a2a5-41cc-816b-8f6d1547a58c",
-    "vid": "21578",
+    "nid": "23248",
+    "uuid": "ef6df5d8-ad05-4b54-be3c-640bfe6b1f93",
+    "vid": "23248",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12256",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "62-PAS-DE-CALAIS",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "ST POL SUR TERNOISE vers CROIX EN TERNOIS",
+    "radarDirection": "AUBIGNY EN ARTOIS vers CROIX EN TERNOIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.31171 50.36674)",
-    "radarInstallDate": "2014-01-06T16:24:29",
-    "radarPlace": "RAMECOURT",
+    "radarInstallDate": "2014-01-06T16:05:36",
+    "radarPlace": [],
     "radarRoad": "RD939",
     "radarTronconKm": [],
     "radarType": [

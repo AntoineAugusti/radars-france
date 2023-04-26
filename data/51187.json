@@ -1,14 +1,14 @@
 {
-    "nid": "20835",
-    "uuid": "a754c39e-6d77-442c-90c5-c1eb8fb5f3b2",
-    "vid": "20835",
+    "nid": "24759",
+    "uuid": "7f312efe-5a92-459d-b1ea-ca57c2290202",
+    "vid": "24759",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51187",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CARVIN vers LENS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.894868 50.461908)",
-    "radarInstallDate": "2020-07-07T16:22:03",
-    "radarPlace": "ANNAY",
+    "radarInstallDate": "2020-07-07T16:08:41",
+    "radarPlace": [],
     "radarRoad": "RD917",
     "radarTronconKm": [],
     "radarType": [

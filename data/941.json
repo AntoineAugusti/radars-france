@@ -1,14 +1,14 @@
 {
-    "nid": "19876",
-    "uuid": "4ebe4f5e-296c-4fab-ae32-5225798148d6",
-    "vid": "19876",
+    "nid": "23778",
+    "uuid": "23c97155-6e60-4348-a1ca-d44f6e6b7517",
+    "vid": "23778",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "941",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BREST VERS QUIMPER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-4.27611 48.37632)",
-    "radarInstallDate": "2005-08-19T16:20:02",
-    "radarPlace": "DIRINON",
+    "radarInstallDate": "2005-08-19T16:06:23",
+    "radarPlace": [],
     "radarRoad": "RN165",
     "radarTronconKm": [],
     "radarType": [

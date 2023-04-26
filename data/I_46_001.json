@@ -1,14 +1,14 @@
 {
-    "nid": "22790",
-    "uuid": "7b40d5e4-4764-4bfd-9a46-cba953db693c",
-    "vid": "22790",
+    "nid": "26330",
+    "uuid": "66994925-af70-4169-81ef-28c7a3298b5f",
+    "vid": "26330",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229221",
+    "revisionTimestamp": "1681741051",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_46_001",
-    "created": "1637229221",
-    "changed": "1637229221",
+    "created": "1681741051",
+    "changed": "1681741051",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "46 - Lot",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (44.389683 1.32299)",
-    "radarInstallDate": "2017-10-06T10:53:41",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.192282 43.704766)",
+    "radarInstallDate": "2017-10-09T16:17:32",
     "radarPlace": "-",
     "radarRoad": "D37, D656, D4, D23, D12, D253, D28, D656, D44, D50, D67, D45, D95",
-    "radarTronconKm": "24.19",
+    "radarTronconKm": "24,2",
     "radarType": [
         {
             "tid": "19",

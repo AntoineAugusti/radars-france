@@ -1,14 +1,14 @@
 {
-    "nid": "21662",
-    "uuid": "e092421f-d59a-40b1-a71f-5eb4b3b7bcf8",
-    "vid": "21662",
+    "nid": "23330",
+    "uuid": "7aa5f8fe-a924-4bce-bd54-fe59e5da272f",
+    "vid": "23330",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12383",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTES vers VANNES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.74453 47.29333)",
-    "radarInstallDate": "2016-12-05T16:24:50",
-    "radarPlace": "VIGNEUX DE BRETAGNE",
+    "radarInstallDate": "2016-12-05T16:05:42",
+    "radarPlace": [],
     "radarRoad": "RN165",
     "radarTronconKm": [],
     "radarType": [

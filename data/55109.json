@@ -1,14 +1,14 @@
 {
-    "nid": "21145",
-    "uuid": "a9c416ab-bafd-4cdd-8a95-49fde5497562",
-    "vid": "21145",
+    "nid": "25156",
+    "uuid": "52fc7a21-58c9-47e8-a9b2-9768e6560d3a",
+    "vid": "25156",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55109",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTPELLIER vers LES MATELLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.8214 43.6804)",
-    "radarInstallDate": "2020-09-25T16:23:01",
-    "radarPlace": "ST GELY DU FESC",
+    "radarInstallDate": "2020-09-25T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD986",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21623",
-    "uuid": "64960fa0-032b-4069-907e-85bcc32208f3",
-    "vid": "21623",
+    "nid": "23291",
+    "uuid": "e7ce3832-f9c0-48bf-980a-0f57ba1270f0",
+    "vid": "23291",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12336",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers NARBONNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.415144 43.191861)",
-    "radarInstallDate": "2015-12-23T16:24:42",
-    "radarPlace": "CARCASSONNE",
+    "radarInstallDate": "2015-12-23T16:05:39",
+    "radarPlace": [],
     "radarRoad": "A61",
     "radarTronconKm": [],
     "radarType": [

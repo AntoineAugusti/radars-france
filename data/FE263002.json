@@ -1,14 +1,14 @@
 {
-    "nid": "22280",
-    "uuid": "c88c2b17-9e0a-425e-a998-1b8563aedcc8",
-    "vid": "22280",
+    "nid": "25851",
+    "uuid": "8e1f56ba-9d7b-4a13-af6f-72517f774310",
+    "vid": "25851",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE263002",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est (vers LEMPDES)",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.11069 45.77853)",
-    "radarInstallDate": "2009-10-05T16:27:19",
-    "radarPlace": "CLERMONT FERRAND",
+    "radarInstallDate": "2009-10-05T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

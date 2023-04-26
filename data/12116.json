@@ -1,14 +1,14 @@
 {
-    "nid": "21501",
-    "uuid": "09e9a582-ecf4-46cb-9d82-fba5b48913a7",
-    "vid": "21501",
+    "nid": "23174",
+    "uuid": "06d132f0-2703-4557-990d-ef2e9699045a",
+    "vid": "23174",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12116",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAMBERY vers ALBERTVILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.9427 45.567)",
-    "radarInstallDate": "2012-06-25T16:24:16",
-    "radarPlace": "BARBERAZ",
+    "radarInstallDate": "2012-06-25T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RN201",
     "radarTronconKm": [],
     "radarType": [

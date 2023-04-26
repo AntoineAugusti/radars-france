@@ -1,14 +1,14 @@
 {
-    "nid": "20587",
-    "uuid": "d58466dc-464c-4010-9e25-80b7c8f71d31",
-    "vid": "20587",
+    "nid": "24414",
+    "uuid": "e54564d8-1c7d-43fa-ad08-18d44e0c23ed",
+    "vid": "24414",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740462",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11297",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740462",
+    "changed": "1681740462",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Italie vers France",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.8748 45.889)",
-    "radarInstallDate": "2015-09-07T16:21:26",
-    "radarPlace": "CHAMONIX MONT BLANC",
+    "radarInstallDate": "2015-09-07T16:07:45",
+    "radarPlace": [],
     "radarRoad": "RN205 -tunnel du Mont Blanc- Point M\u00e9trique 1726m",
     "radarTronconKm": [],
     "radarType": [

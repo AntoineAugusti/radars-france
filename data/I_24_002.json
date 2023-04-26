@@ -1,14 +1,14 @@
 {
-    "nid": "22734",
-    "uuid": "518effaa-3d63-4585-ac22-ef6607e04c09",
-    "vid": "22734",
+    "nid": "26255",
+    "uuid": "fb67751d-abf9-4181-a235-450fa31bf176",
+    "vid": "26255",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741038",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_24_002",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741038",
+    "changed": "1681741038",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "24 - Dordogne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (44.8285 0.477717)",
-    "radarInstallDate": "2017-10-05T10:53:39",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (2.59704 44.374152)",
+    "radarInstallDate": "2017-10-05T16:17:19",
     "radarPlace": "-",
     "radarRoad": "D17, D15, D936E1, D14, D18, D14E1, D107, D933, D25, D15E",
-    "radarTronconKm": "22.66",
+    "radarTronconKm": "22,7",
     "radarType": [
         {
             "tid": "19",

@@ -1,14 +1,14 @@
 {
-    "nid": "20768",
-    "uuid": "8a1817cd-fa51-4e1f-a7b0-760b72bc63d2",
-    "vid": "20768",
+    "nid": "24692",
+    "uuid": "06de44d7-25cc-4307-9033-9184c0d368cf",
+    "vid": "24692",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51120",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT REVEREND vers LA CHAIZE GIRAUD",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.816938 46.65887)",
-    "radarInstallDate": "2019-12-17T16:21:53",
-    "radarPlace": "L AIGUILLON SUR VIE",
+    "radarInstallDate": "2019-12-17T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RD32",
     "radarTronconKm": [],
     "radarType": [

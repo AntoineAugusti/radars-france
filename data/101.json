@@ -1,14 +1,14 @@
 {
-    "nid": "19639",
-    "uuid": "ef3eac8e-c6e4-4968-a0c5-df38ab49c413",
-    "vid": "19639",
+    "nid": "23580",
+    "uuid": "f3c224da-a719-4b91-8468-f1905057931e",
+    "vid": "23580",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "101",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS LILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.85479 49.95842)",
-    "radarInstallDate": "2003-11-05T16:19:44",
-    "radarPlace": "HEM MONACU",
+    "radarInstallDate": "2003-11-05T16:06:03",
+    "radarPlace": [],
     "radarRoad": "A1",
     "radarTronconKm": [],
     "radarType": [

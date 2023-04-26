@@ -1,14 +1,14 @@
 {
-    "nid": "20714",
-    "uuid": "a740fa3b-ee76-471c-9559-694870d46a3e",
-    "vid": "20714",
+    "nid": "24640",
+    "uuid": "ec5df684-ebe0-4268-858e-d777b9806462",
+    "vid": "24640",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51066",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AMIENS vers FLIXECOURT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.113931 49.987071)",
-    "radarInstallDate": "2019-08-26T16:21:43",
-    "radarPlace": "YZEUX",
+    "radarInstallDate": "2019-08-26T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD1001",
     "radarTronconKm": [],
     "radarType": [

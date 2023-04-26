@@ -1,14 +1,14 @@
 {
-    "nid": "20931",
-    "uuid": "dbe1d8c3-da05-43e5-9d8c-82ca904d4214",
-    "vid": "20931",
+    "nid": "24858",
+    "uuid": "eb7daf14-ac9e-4a48-958a-cef1e6ca48d2",
+    "vid": "24858",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51292",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RENNES vers BREST",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.336902 48.241622)",
-    "radarInstallDate": "2020-08-11T16:22:22",
-    "radarPlace": "ROSTRENEN",
+    "radarInstallDate": "2020-08-11T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RN164",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22681",
-    "uuid": "b6939fdc-3c29-46ba-bfa3-3cb38a069ef7",
-    "vid": "22681",
+    "nid": "26191",
+    "uuid": "374418f2-2815-4164-85ad-4122822bce28",
+    "vid": "26191",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741031",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20186",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741031",
+    "changed": "1681741031",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "BRIVE LA GAILLARDE vers NOAILLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.51677 45.10495)",
-    "radarInstallDate": "2015-02-16T10:53:38",
+    "radarInstallDate": "2015-02-16T16:17:11",
     "radarPlace": "NOAILLES",
     "radarRoad": "A20",
     "radarTronconKm": "2",

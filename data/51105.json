@@ -1,14 +1,14 @@
 {
-    "nid": "20753",
-    "uuid": "7c5997c7-f441-4021-bea9-41c123112fee",
-    "vid": "20753",
+    "nid": "24677",
+    "uuid": "2f275ad2-435d-4538-b3da-2d50cac51a53",
+    "vid": "24677",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51105",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOUFFLENHEIM vers HAGUENAU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.918737 48.836181)",
-    "radarInstallDate": "2020-02-19T16:21:52",
-    "radarPlace": "HAGUENAU",
+    "radarInstallDate": "2020-02-19T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RD 1063",
     "radarTronconKm": [],
     "radarType": [

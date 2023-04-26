@@ -1,14 +1,14 @@
 {
-    "nid": "21511",
-    "uuid": "cc10a542-cd7a-48cf-b31e-846144d56823",
-    "vid": "21511",
+    "nid": "23184",
+    "uuid": "14b8a9e7-5b8a-4d8a-bb4d-181da16e8ef0",
+    "vid": "23184",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12137",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "91-ESSONNE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "EVRY vers BRETIGNY SUR ORGE",
+    "radarDirection": "EVRY COURCOURONNES vers BRETIGNY SUR ORGE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.3332 48.609)",
-    "radarInstallDate": "2013-08-05T16:24:16",
-    "radarPlace": "LE PLESSIS PATE",
+    "radarInstallDate": "2013-08-05T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RD19",
     "radarTronconKm": [],
     "radarType": [

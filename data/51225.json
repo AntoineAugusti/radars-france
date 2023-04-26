@@ -1,14 +1,14 @@
 {
-    "nid": "20869",
-    "uuid": "b15c5ab9-cadf-479c-95d9-9927515a0650",
-    "vid": "20869",
+    "nid": "24794",
+    "uuid": "afd93b4c-9eba-4ec5-ae20-75d8810617b9",
+    "vid": "24794",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51225",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE MANS vers LAVAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.096186 48.020768)",
-    "radarInstallDate": "2020-03-05T16:22:12",
-    "radarPlace": "LONGNES",
+    "radarInstallDate": "2020-03-05T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RD357",
     "radarTronconKm": [],
     "radarType": [

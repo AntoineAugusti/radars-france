@@ -1,14 +1,14 @@
 {
-    "nid": "21640",
-    "uuid": "4c2b6085-65a0-40e3-bf4c-6a43fa111dcb",
-    "vid": "21640",
+    "nid": "23308",
+    "uuid": "5e842023-f90f-48f3-b485-d93beff29044",
+    "vid": "23308",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12357",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOUAI vers AIX NOULETTE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.83944 50.44641)",
-    "radarInstallDate": "2016-06-20T16:24:43",
-    "radarPlace": "LENS",
+    "radarInstallDate": "2016-06-20T16:05:40",
+    "radarPlace": [],
     "radarRoad": "A21",
     "radarTronconKm": [],
     "radarType": [

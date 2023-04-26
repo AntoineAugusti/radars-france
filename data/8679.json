@@ -1,14 +1,14 @@
 {
-    "nid": "20386",
-    "uuid": "30727e8d-b751-4648-a24d-15a565ccbfaa",
-    "vid": "20386",
+    "nid": "24237",
+    "uuid": "d501620f-9a7b-40c5-917c-4b9ac7445a93",
+    "vid": "24237",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8679",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Province vers Paris",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.3776 48.837)",
-    "radarInstallDate": "2014-01-02T16:20:58",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2014-01-02T16:07:18",
+    "radarPlace": [],
     "radarRoad": "Quai de Bercy au niveau du cand\u00e9labre XII-13561",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21428",
-    "uuid": "1cf085cb-dfe0-47db-82e6-f6637ed9ffe9",
-    "vid": "21428",
+    "nid": "25464",
+    "uuid": "8aaaa713-c8ad-47fa-a1d1-facad36b103d",
+    "vid": "25464",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740665",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55436",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740665",
+    "changed": "1681740665",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIBOURNE vers SAINT MEDARD DE GUIZIERES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.1661 44.968927)",
-    "radarInstallDate": "2021-08-12T16:23:57",
-    "radarPlace": "LES ARTIGUES DE LUSSAC",
+    "radarInstallDate": "2021-08-12T16:11:11",
+    "radarPlace": [],
     "radarRoad": "RD1089",
     "radarTronconKm": [],
     "radarType": [

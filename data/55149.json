@@ -1,14 +1,14 @@
 {
-    "nid": "21185",
-    "uuid": "bc963a4c-0af7-4b56-b049-692358448295",
-    "vid": "21185",
+    "nid": "25196",
+    "uuid": "cb936453-56bc-45b4-af77-b4631cb5497d",
+    "vid": "25196",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55149",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE MUY vers STE MAXIME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.596293 43.370267)",
-    "radarInstallDate": "2020-06-17T16:23:08",
-    "radarPlace": "STE MAXIME",
+    "radarInstallDate": "2020-06-17T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD25",
     "radarTronconKm": [],
     "radarType": [

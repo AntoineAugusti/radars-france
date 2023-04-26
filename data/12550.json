@@ -1,14 +1,14 @@
 {
-    "nid": "21802",
-    "uuid": "b8d9f2ed-63a7-488f-883c-b9d6c09f2e08",
-    "vid": "21802",
+    "nid": "23472",
+    "uuid": "b4eb4ebb-e955-4e64-b88d-2a2cabb3a191",
+    "vid": "23472",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12550",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers AUCH",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.12689 43.58975)",
-    "radarInstallDate": "2020-02-14T16:25:24",
-    "radarPlace": "L ISLE JOURDAIN",
+    "radarInstallDate": "2020-02-14T16:05:53",
+    "radarPlace": [],
     "radarRoad": "RN124",
     "radarTronconKm": [],
     "radarType": [

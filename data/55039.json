@@ -1,14 +1,14 @@
 {
-    "nid": "21076",
-    "uuid": "dd629722-c47d-4b1c-b07e-0034b61ba28d",
-    "vid": "21076",
+    "nid": "25089",
+    "uuid": "09f3017a-3bb8-472f-8e75-4b564de14426",
+    "vid": "25089",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55039",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALBIAS vers REALVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.463144 44.102876)",
-    "radarInstallDate": "2019-08-14T16:22:44",
-    "radarPlace": "CAYRAC",
+    "radarInstallDate": "2019-08-14T16:09:42",
+    "radarPlace": [],
     "radarRoad": "RD820",
     "radarTronconKm": [],
     "radarType": [

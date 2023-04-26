@@ -1,14 +1,14 @@
 {
-    "nid": "20240",
-    "uuid": "4992da58-4e4e-4304-b1c4-d95e9bce60f2",
-    "vid": "20240",
+    "nid": "24109",
+    "uuid": "0334003d-f993-4975-8d75-de9e332c762a",
+    "vid": "24109",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7092",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUVOIR SUR MER VERS CHALLANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.93763 46.87029)",
-    "radarInstallDate": "2007-12-07T16:20:41",
-    "radarPlace": "SALLERTAINE",
+    "radarInstallDate": "2007-12-07T16:07:01",
+    "radarPlace": [],
     "radarRoad": "RD948",
     "radarTronconKm": [],
     "radarType": [

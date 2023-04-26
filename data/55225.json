@@ -1,14 +1,14 @@
 {
-    "nid": "21260",
-    "uuid": "26f866af-eaf6-47e4-b354-05196ab2a89b",
-    "vid": "21260",
+    "nid": "25271",
+    "uuid": "eaa18336-6b0d-4303-bae5-76a072e4139c",
+    "vid": "25271",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55225",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLEFRANCHE D ALBIGEOIS vers ALBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.39078 43.89822)",
-    "radarInstallDate": "2021-02-11T16:23:25",
-    "radarPlace": "LE FRAYSSE",
+    "radarInstallDate": "2021-02-11T16:10:20",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

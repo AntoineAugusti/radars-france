@@ -1,14 +1,14 @@
 {
-    "nid": "20678",
-    "uuid": "bc4d4278-9039-4e48-861f-e21f2b7d562d",
-    "vid": "20678",
+    "nid": "24603",
+    "uuid": "ea8b7ee4-c029-49d8-9c11-2b1df040e59b",
+    "vid": "24603",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51028",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FONTAINEBLEAU vers CELY EN BIERE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.604879 48.456025)",
-    "radarInstallDate": "2019-08-07T16:21:38",
-    "radarPlace": "CHAILLY EN BIERE",
+    "radarInstallDate": "2019-08-07T16:08:14",
+    "radarPlace": [],
     "radarRoad": "RD637",
     "radarTronconKm": [],
     "radarType": [

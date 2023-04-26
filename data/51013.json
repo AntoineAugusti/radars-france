@@ -1,14 +1,14 @@
 {
-    "nid": "20663",
-    "uuid": "1e30a030-6f40-4e91-9324-afc19ff291b0",
-    "vid": "20663",
+    "nid": "24588",
+    "uuid": "2fb7b551-8784-4d20-bb59-b93fb38c7c94",
+    "vid": "24588",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51013",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GUERANDE vers SAINT NAZAIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.311952 47.282976)",
-    "radarInstallDate": "2019-08-07T16:21:37",
-    "radarPlace": "LA BAULE ESCOUBLAC",
+    "radarInstallDate": "2019-08-07T16:08:10",
+    "radarPlace": [],
     "radarRoad": "ROUTE DE L IMMACULEE",
     "radarTronconKm": [],
     "radarType": [

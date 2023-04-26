@@ -1,14 +1,14 @@
 {
-    "nid": "20612",
-    "uuid": "9b627bde-3809-452f-921a-0e30ee6103df",
-    "vid": "20612",
+    "nid": "24528",
+    "uuid": "e01be9b2-3bf6-480d-b355-0f4dd4879894",
+    "vid": "24528",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50051",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BASSE TERRE vers POINTE A PITRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.563125 16.096314)",
-    "radarInstallDate": "2019-10-28T16:21:30",
-    "radarPlace": "CAPESTERRE BELLE EAU",
+    "radarInstallDate": "2019-10-28T16:08:00",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22195",
-    "uuid": "83ba4224-c018-4536-9a9f-ba91958df80a",
-    "vid": "22195",
+    "nid": "25810",
+    "uuid": "0ecc95bc-5b0f-41cd-bf6b-78e990948040",
+    "vid": "25810",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229186",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195029",
-    "created": "1637229186",
-    "changed": "1675870011",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vaur\u00e9al vers Jouy le Moutier",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.0276 49.01345)",
-    "radarInstallDate": "2011-01-24T16:26:57",
-    "radarPlace": "JOUY LE MOUTIER",
+    "radarInstallDate": "2011-01-24T16:12:39",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

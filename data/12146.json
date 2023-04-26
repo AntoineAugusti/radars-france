@@ -1,14 +1,14 @@
 {
-    "nid": "21518",
-    "uuid": "588c0830-cfc1-4cdf-82df-02b6410e740e",
-    "vid": "21518",
+    "nid": "23191",
+    "uuid": "9ac3b83e-a2e2-4e97-9073-3a81b13645a8",
+    "vid": "23191",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12146",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGOULEME vers POITIERS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.1485 45.678)",
-    "radarInstallDate": "2013-07-15T16:24:16",
-    "radarPlace": "ST YRIEIX SUR CHARENTE",
+    "radarInstallDate": "2013-07-15T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RN 10",
     "radarTronconKm": [],
     "radarType": [

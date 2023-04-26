@@ -1,14 +1,14 @@
 {
-    "nid": "22199",
-    "uuid": "1b17db7a-2cfe-4744-807e-0220f5659702",
-    "vid": "22199",
+    "nid": "25814",
+    "uuid": "7848143a-34f7-4b69-addf-5d8c7feab1f2",
+    "vid": "25814",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229186",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195037",
-    "created": "1637229186",
-    "changed": "1675870011",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Pierrelaye vers Pontoise",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.11504 49.04004)",
-    "radarInstallDate": "2011-01-24T16:26:57",
-    "radarPlace": "ST OUEN L AUMONE",
+    "radarInstallDate": "2011-01-24T16:12:39",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

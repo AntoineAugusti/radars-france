@@ -1,14 +1,14 @@
 {
-    "nid": "20698",
-    "uuid": "dbf0ed36-c4ea-4669-9680-b010faf26eec",
-    "vid": "20698",
+    "nid": "24624",
+    "uuid": "42636d4d-724a-41f8-8a5b-8c936e82bc9b",
+    "vid": "24624",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51050",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTREUIL AUX LIONS vers CHATEAU THIERRY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.252408 49.036297)",
-    "radarInstallDate": "2019-12-20T16:21:42",
-    "radarPlace": "COUPRU",
+    "radarInstallDate": "2019-12-20T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD1003",
     "radarTronconKm": [],
     "radarType": [

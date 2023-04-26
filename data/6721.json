@@ -1,14 +1,14 @@
 {
-    "nid": "20184",
-    "uuid": "f9cac34d-fcf7-43b5-a971-eee5eb3dc27f",
-    "vid": "20184",
+    "nid": "24060",
+    "uuid": "d7e9c8a8-d3b1-4f2f-b2e7-af6b58e8db49",
+    "vid": "24060",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6721",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOUE LA FONTAINE vers MONTREUIL BELLAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.18349 47.15435)",
-    "radarInstallDate": "2007-03-20T16:20:35",
-    "radarPlace": "CIZAY LA MADELEINE",
+    "radarInstallDate": "2007-03-20T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD761",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21695",
-    "uuid": "99ff7922-4ce3-4813-8cf2-bf41de3262e3",
-    "vid": "21695",
+    "nid": "23363",
+    "uuid": "0ca5ad22-c2c5-407c-9495-e969c39784aa",
+    "vid": "23363",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12418",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROUEN vers ABBEVILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.683684 49.984758)",
-    "radarInstallDate": "2017-01-20T16:24:57",
-    "radarPlace": "LE TRANSLAY",
+    "radarInstallDate": "2017-01-20T16:05:45",
+    "radarPlace": [],
     "radarRoad": "A28",
     "radarTronconKm": [],
     "radarType": [

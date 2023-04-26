@@ -1,14 +1,14 @@
 {
-    "nid": "20827",
-    "uuid": "5a5682b0-9f21-4901-84a8-b55918829a16",
-    "vid": "20827",
+    "nid": "24751",
+    "uuid": "8594c7b8-d0b4-4c80-bc83-2e08c00a9d81",
+    "vid": "24751",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51179",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GUIPRY MESSAC vers BAIN DE BRETAGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.720915 47.840783)",
-    "radarInstallDate": "2020-01-30T16:22:03",
-    "radarPlace": "BAIN DE BRETAGNE",
+    "radarInstallDate": "2020-01-30T16:08:41",
+    "radarPlace": [],
     "radarRoad": "RD772",
     "radarTronconKm": [],
     "radarType": [

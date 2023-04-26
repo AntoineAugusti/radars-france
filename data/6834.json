@@ -1,14 +1,14 @@
 {
-    "nid": "20202",
-    "uuid": "279207c3-d460-499e-93b4-98c744fbbb19",
-    "vid": "20202",
+    "nid": "24076",
+    "uuid": "4f918c65-cc28-4f65-b2b3-75cc54de67dd",
+    "vid": "24076",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6834",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LANMEUR VERS MORLAIX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.77442 48.61929)",
-    "radarInstallDate": "2007-05-18T16:20:35",
-    "radarPlace": "GARLAN",
+    "radarInstallDate": "2007-05-18T16:06:57",
+    "radarPlace": [],
     "radarRoad": "RD786",
     "radarTronconKm": [],
     "radarType": [

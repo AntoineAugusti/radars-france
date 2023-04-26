@@ -1,14 +1,14 @@
 {
-    "nid": "21369",
-    "uuid": "281b6fb5-a8d3-4218-8948-1f9611035af7",
-    "vid": "21369",
+    "nid": "25383",
+    "uuid": "fe02beab-4751-4bd4-b176-424397af9f3e",
+    "vid": "25383",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55342",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MARMANDE vers BERGERAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.297204 44.539815)",
-    "radarInstallDate": "2021-01-06T16:23:45",
-    "radarPlace": "SEYCHES",
+    "radarInstallDate": "2021-01-06T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD933",
     "radarTronconKm": [],
     "radarType": [

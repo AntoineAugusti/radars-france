@@ -1,14 +1,14 @@
 {
-    "nid": "21394",
-    "uuid": "215f4973-ef6f-429a-9363-d6d5f0a5e006",
-    "vid": "21394",
+    "nid": "25409",
+    "uuid": "93b62d00-85c3-4705-9304-e2284d6d2a77",
+    "vid": "25409",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55370",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CULOZ vers BELLEY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.77399 45.806615)",
-    "radarInstallDate": "2021-02-26T16:23:51",
-    "radarPlace": "LAVOURS",
+    "radarInstallDate": "2021-02-26T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD992",
     "radarTronconKm": [],
     "radarType": [

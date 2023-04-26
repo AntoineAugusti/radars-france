@@ -1,14 +1,14 @@
 {
-    "nid": "20998",
-    "uuid": "01543a9d-18db-44ad-8cf9-0487dfc7f398",
-    "vid": "20998",
+    "nid": "24937",
+    "uuid": "c1b871b1-67cd-4123-add2-aff8a35d3444",
+    "vid": "24937",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51377",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MESGRIGNY vers MERY SUR SEINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.885719 48.493629)",
-    "radarInstallDate": "2021-01-04T16:22:33",
-    "radarPlace": "MESGRIGNY",
+    "radarInstallDate": "2021-01-04T16:09:16",
+    "radarPlace": [],
     "radarRoad": "RD373",
     "radarTronconKm": [],
     "radarType": [

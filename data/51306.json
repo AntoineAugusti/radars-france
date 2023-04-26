@@ -1,14 +1,14 @@
 {
-    "nid": "20945",
-    "uuid": "c3bdaca1-f083-486c-8e4f-e33f3b03dd6d",
-    "vid": "20945",
+    "nid": "24872",
+    "uuid": "593768b1-6b18-4347-a4d6-424bf6a6ff69",
+    "vid": "24872",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51306",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA CHARITE SUR LOIRE vers BOURGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.611661 47.114258)",
-    "radarInstallDate": "2020-06-17T16:22:22",
-    "radarPlace": "BRECY",
+    "radarInstallDate": "2020-06-17T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RN151",
     "radarTronconKm": [],
     "radarType": [

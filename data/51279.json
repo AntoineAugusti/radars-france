@@ -1,14 +1,14 @@
 {
-    "nid": "20918",
-    "uuid": "dbf7604c-c9cc-4f21-921d-a81c77a6968f",
-    "vid": "20918",
+    "nid": "24845",
+    "uuid": "3ec39c4d-4d13-481f-9905-59ebe6ff58c6",
+    "vid": "24845",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51279",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EPERNAY vers CHALONS EN CHAMPAGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.36043 48.94735)",
-    "radarInstallDate": "2020-03-23T16:22:18",
-    "radarPlace": "CHALONS EN CHAMPAGNE",
+    "radarInstallDate": "2020-03-23T16:08:58",
+    "radarPlace": [],
     "radarRoad": "D3",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22099",
-    "uuid": "3a6c1583-aef6-4002-99b2-b307264cb033",
-    "vid": "22099",
+    "nid": "25716",
+    "uuid": "479eecd7-fe59-4462-ae75-eff3cae1fc78",
+    "vid": "25716",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE176004",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GOURNAY vers GISORS",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.71688 49.42248)",
-    "radarInstallDate": "2010-09-17T16:26:35",
-    "radarPlace": "NEUF MARCHE",
+    "radarInstallDate": "2010-09-17T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

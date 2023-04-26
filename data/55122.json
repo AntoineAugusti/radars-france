@@ -1,14 +1,14 @@
 {
-    "nid": "21158",
-    "uuid": "0a6991fa-7955-442b-99c3-b72568f008c0",
-    "vid": "21158",
+    "nid": "25169",
+    "uuid": "00b3a6f3-e32e-4f1d-9d5f-c47f95046400",
+    "vid": "25169",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55122",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE COLLET DE DEZE vers FLORAC TROIS RIVIERES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.78204 44.28001)",
-    "radarInstallDate": "2019-12-11T16:23:02",
-    "radarPlace": "ST ANDRE DE LANCIZE",
+    "radarInstallDate": "2019-12-11T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RN106",
     "radarTronconKm": [],
     "radarType": [

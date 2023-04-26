@@ -1,14 +1,14 @@
 {
-    "nid": "20810",
-    "uuid": "515aec2a-4987-4582-8249-ea4ce16e0298",
-    "vid": "20810",
+    "nid": "24734",
+    "uuid": "77bc6014-fdce-442a-81b5-146d9f577e3d",
+    "vid": "24734",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51162",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUNEUF EN THYMERAIS vers CHARTRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.317324 48.529774)",
-    "radarInstallDate": "2020-01-14T16:22:02",
-    "radarPlace": "MITTAINVILLIERS VERIGNY",
+    "radarInstallDate": "2020-01-14T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD939",
     "radarTronconKm": [],
     "radarType": [

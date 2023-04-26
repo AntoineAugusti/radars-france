@@ -1,14 +1,14 @@
 {
-    "nid": "20929",
-    "uuid": "460b31a1-bf97-4a7f-855b-f89f6f047e61",
-    "vid": "20929",
+    "nid": "24856",
+    "uuid": "e272abc4-604b-4423-97cf-9d0be060eb3b",
+    "vid": "24856",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51290",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOLE vers GRAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.495417 47.173073)",
-    "radarInstallDate": "2020-08-21T16:22:22",
-    "radarPlace": "MENOTEY",
+    "radarInstallDate": "2020-08-21T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD475",
     "radarTronconKm": [],
     "radarType": [

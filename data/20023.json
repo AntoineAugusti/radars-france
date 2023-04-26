@@ -1,14 +1,14 @@
 {
-    "nid": "22605",
-    "uuid": "2e7b5453-980a-4851-8f2f-dfce0326d068",
-    "vid": "22605",
+    "nid": "26130",
+    "uuid": "e98f9f68-7a35-4b4f-af43-4a9b03f57697",
+    "vid": "26130",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20023",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "TARASCON SUR ARIEGE vers PAMIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.63083 43.03839)",
-    "radarInstallDate": "2014-05-23T10:53:35",
+    "radarInstallDate": "2014-05-23T16:17:05",
     "radarPlace": "DALOU",
     "radarRoad": "RN20",
     "radarTronconKm": "3,9",

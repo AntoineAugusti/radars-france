@@ -1,14 +1,14 @@
 {
-    "nid": "21036",
-    "uuid": "8f35d28b-2379-40e2-b9fd-338c66ed31ef",
-    "vid": "21036",
+    "nid": "24988",
+    "uuid": "0c418499-3264-4b98-a779-6fecb73d5dc9",
+    "vid": "24988",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51429",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ABANCOURT vers FEUQUIERES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.812756 49.665077)",
-    "radarInstallDate": "2021-09-22T16:22:38",
-    "radarPlace": "MOLIENS",
+    "radarInstallDate": "2021-09-22T16:09:23",
+    "radarPlace": [],
     "radarRoad": "RD 7",
     "radarTronconKm": [],
     "radarType": [

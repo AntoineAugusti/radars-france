@@ -1,14 +1,14 @@
 {
-    "nid": "21176",
-    "uuid": "210bcace-ee02-4f60-9de8-e795b6bf4618",
-    "vid": "21176",
+    "nid": "25187",
+    "uuid": "44f524d5-a056-4427-8317-ffed2cbbb501",
+    "vid": "25187",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55140",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "13-BOUCHES-DU-RHONE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "AIX EN PROVENCE vers ST MAXIMIN LA STE BAUME",
+    "radarDirection": "ST MAXIMIN LA STE BAUME vers AIX EN PROVENCE",
     "radarEquipment": "MORPHO",
-    "radarGeolocalisation": "POINT (5.63196 43.48924)",
-    "radarInstallDate": "2019-12-19T16:23:07",
-    "radarPlace": "ROUSSET",
+    "radarGeolocalisation": "POINT (5.631962 43.489239)",
+    "radarInstallDate": "2019-12-19T16:10:05",
+    "radarPlace": [],
     "radarRoad": "RD7N",
     "radarTronconKm": [],
     "radarType": [

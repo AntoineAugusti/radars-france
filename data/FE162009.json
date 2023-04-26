@@ -1,14 +1,14 @@
 {
-    "nid": "22036",
-    "uuid": "4957104a-9047-45d2-a2f8-dc51ca064514",
-    "vid": "22036",
+    "nid": "25653",
+    "uuid": "f9a05a30-6e18-4dfa-a415-a92f870985aa",
+    "vid": "25653",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162009",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.72999 50.50994)",
-    "radarInstallDate": "2011-01-16T16:26:15",
-    "radarPlace": "ANNEQUIN",
+    "radarInstallDate": "2011-01-16T16:11:59",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

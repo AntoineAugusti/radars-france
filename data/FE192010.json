@@ -1,14 +1,14 @@
 {
-    "nid": "22161",
-    "uuid": "69f013d6-848d-4852-b36d-79f07a7caf38",
-    "vid": "22161",
+    "nid": "25776",
+    "uuid": "2624010d-33c7-497c-96ff-c7d4163c3c67",
+    "vid": "25776",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE192010",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "St Cloud vers la ville d'Avray",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.21356 48.84966)",
-    "radarInstallDate": "2010-11-05T16:26:49",
-    "radarPlace": "ST CLOUD",
+    "radarInstallDate": "2010-11-05T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

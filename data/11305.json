@@ -1,14 +1,14 @@
 {
-    "nid": "20591",
-    "uuid": "79e673dc-d533-4c56-90dc-3190bc63caf5",
-    "vid": "20591",
+    "nid": "24418",
+    "uuid": "dacea445-939f-4e50-b259-1c7d8f4b7537",
+    "vid": "24418",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740462",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11305",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740462",
+    "changed": "1681740462",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CONFLANS STE HONORINE vers ST GERMAIN EN LAYE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.0739 48.90546)",
-    "radarInstallDate": "2016-04-15T16:21:26",
-    "radarPlace": "ST GERMAIN EN LAYE",
+    "radarInstallDate": "2016-04-15T16:07:46",
+    "radarPlace": [],
     "radarRoad": "N184",
     "radarTronconKm": [],
     "radarType": [

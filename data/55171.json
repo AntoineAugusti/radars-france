@@ -1,14 +1,14 @@
 {
-    "nid": "21207",
-    "uuid": "27a5cdca-6a95-4345-b0f5-39cf10534974",
-    "vid": "21207",
+    "nid": "25218",
+    "uuid": "a396c139-9892-4814-93a4-005b220b6b81",
+    "vid": "25218",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55171",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANDREZIEUX BOUTHEON vers SAINT GALMIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.285689 45.556919)",
-    "radarInstallDate": "2020-01-30T16:23:13",
-    "radarPlace": "VEAUCHE",
+    "radarInstallDate": "2020-01-30T16:10:12",
+    "radarPlace": [],
     "radarRoad": "RD12",
     "radarTronconKm": [],
     "radarType": [

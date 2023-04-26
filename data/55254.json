@@ -1,14 +1,14 @@
 {
-    "nid": "21287",
-    "uuid": "4b7350fb-6f67-47f2-aedd-d910adbb1d7f",
-    "vid": "21287",
+    "nid": "25300",
+    "uuid": "23235b0b-e2a2-4b74-991e-a08c0111a358",
+    "vid": "25300",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55254",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGOIN JALLIEU vers LA TOUR DU PIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.355874 45.567867)",
-    "radarInstallDate": "2020-08-21T16:23:26",
-    "radarPlace": "CESSIEU",
+    "radarInstallDate": "2020-08-21T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD1006",
     "radarTronconKm": [],
     "radarType": [

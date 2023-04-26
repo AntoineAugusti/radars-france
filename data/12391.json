@@ -1,14 +1,14 @@
 {
-    "nid": "21670",
-    "uuid": "75bebbda-8656-46ae-8c29-a14f309a64f6",
-    "vid": "21670",
+    "nid": "23338",
+    "uuid": "dc62d904-018c-4211-a8d4-fd3aa041a7cf",
+    "vid": "23338",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12391",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUVAIS vers AMIENS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.2023 49.57449)",
-    "radarInstallDate": "2016-11-28T16:24:50",
-    "radarPlace": "FROISSY",
+    "radarInstallDate": "2016-11-28T16:05:43",
+    "radarPlace": [],
     "radarRoad": "A16",
     "radarTronconKm": [],
     "radarType": [

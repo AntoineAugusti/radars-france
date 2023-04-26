@@ -1,14 +1,14 @@
 {
-    "nid": "22649",
-    "uuid": "006f9716-0f77-4804-9d44-2cf87e5f72d5",
-    "vid": "22649",
+    "nid": "26168",
+    "uuid": "9797bf50-3de1-4002-a089-1e5daabff3b7",
+    "vid": "26168",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20114",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "PR croissant",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.70572 46.97842)",
-    "radarInstallDate": "2013-07-08T10:53:36",
+    "radarInstallDate": "2013-07-08T16:17:08",
     "radarPlace": "AUXEY DURESSES",
     "radarRoad": "RD 973",
     "radarTronconKm": "2,9",

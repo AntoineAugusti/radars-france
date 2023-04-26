@@ -1,14 +1,14 @@
 {
-    "nid": "21676",
-    "uuid": "b37d6fb1-46e7-4d5e-964a-ce1f490d1abc",
-    "vid": "21676",
+    "nid": "23344",
+    "uuid": "61486d6c-463d-445d-afce-6adee54e8c18",
+    "vid": "23344",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12399",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NICE vers AIX EN PROVENCE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.50822 43.50612)",
-    "radarInstallDate": "2016-07-13T16:24:50",
-    "radarPlace": "MEYREUIL",
+    "radarInstallDate": "2016-07-13T16:05:43",
+    "radarPlace": [],
     "radarRoad": "A8",
     "radarTronconKm": [],
     "radarType": [

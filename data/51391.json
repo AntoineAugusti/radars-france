@@ -1,14 +1,14 @@
 {
-    "nid": "21007",
-    "uuid": "e76f451d-5f39-4fe7-8773-abd076e7c19a",
-    "vid": "21007",
+    "nid": "24951",
+    "uuid": "539f1633-7060-4eea-90af-aed01a7f5431",
+    "vid": "24951",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51391",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PORTE DE CARQUEFOU vers PORTE DE LA BEAUJOIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.522285 47.254427)",
-    "radarInstallDate": "2021-06-23T16:22:33",
-    "radarPlace": "NANTES",
+    "radarInstallDate": "2021-06-23T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RN844",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21068",
-    "uuid": "2010b106-5153-4172-8783-936659d9438d",
-    "vid": "21068",
+    "nid": "25081",
+    "uuid": "d6fd1836-f8ea-459e-8369-6ff90993cc00",
+    "vid": "25081",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55031",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EPAGNY METZ TESSY vers ANNECY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.082399 45.914775)",
-    "radarInstallDate": "2020-06-24T16:22:44",
-    "radarPlace": "POISY",
+    "radarInstallDate": "2020-06-24T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD3508",
     "radarTronconKm": [],
     "radarType": [

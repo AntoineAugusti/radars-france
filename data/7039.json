@@ -1,14 +1,14 @@
 {
-    "nid": "20225",
-    "uuid": "6ca6434e-3f94-4162-af66-82ab1a7b1820",
-    "vid": "20225",
+    "nid": "24097",
+    "uuid": "3d25e54c-8a59-406d-a2c2-6cbdcf7a2443",
+    "vid": "24097",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7039",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ch\u00e2teauroux vers Limoges",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.47534 46.4287)",
-    "radarInstallDate": "2008-02-04T16:20:38",
-    "radarPlace": "PARNAC",
+    "radarInstallDate": "2008-02-04T16:06:58",
+    "radarPlace": [],
     "radarRoad": "A20",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20168",
-    "uuid": "71b0c4ac-56ca-497e-b284-95189c6cf01a",
-    "vid": "20168",
+    "nid": "24045",
+    "uuid": "a71cbcbd-29dc-432a-a6bb-bf92ee5d0b42",
+    "vid": "24045",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6645",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ABLIS VERS ETAMPES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.8927 48.46081)",
-    "radarInstallDate": "2007-07-09T16:20:32",
-    "radarPlace": "ALLAINVILLE AUX BOIS",
+    "radarInstallDate": "2007-07-09T16:06:53",
+    "radarPlace": [],
     "radarRoad": "RN191",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20804",
-    "uuid": "d364a656-fafa-4741-a6ba-34bd5797f27a",
-    "vid": "20804",
+    "nid": "24728",
+    "uuid": "b2269344-eca2-414f-857d-3560346e591c",
+    "vid": "24728",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51156",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BELFORT vers BALE (SUISSE)",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.209705 47.629229)",
-    "radarInstallDate": "2020-02-03T16:21:58",
-    "radarPlace": "CARSPACH",
+    "radarInstallDate": "2020-02-03T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD419",
     "radarTronconKm": [],
     "radarType": [

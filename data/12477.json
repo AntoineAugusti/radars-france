@@ -1,14 +1,14 @@
 {
-    "nid": "21742",
-    "uuid": "c001e770-659b-4bba-875f-6b7064d0f58d",
-    "vid": "21742",
+    "nid": "23410",
+    "uuid": "1b90df64-a7af-4ad7-8802-012cbe256fdc",
+    "vid": "23410",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12477",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BELFORT vers COLMAR",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.308257 47.958419)",
-    "radarInstallDate": "2017-03-25T16:25:10",
-    "radarPlace": "ROUFFACH",
+    "radarInstallDate": "2017-03-25T16:05:48",
+    "radarPlace": [],
     "radarRoad": "RD83",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20581",
-    "uuid": "e5e9bbdb-5039-4bbb-8455-d5265b2f8231",
-    "vid": "20581",
+    "nid": "24409",
+    "uuid": "c66e363a-8930-4645-be31-649ac7b9fc3d",
+    "vid": "24409",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740462",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11272",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740462",
+    "changed": "1681740462",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST PAUL TROIS CHATEAUX vers GRIGNAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.793 44.341)",
-    "radarInstallDate": "2014-11-17T16:21:26",
-    "radarPlace": "ST RESTITUT",
+    "radarInstallDate": "2014-11-17T16:07:45",
+    "radarPlace": [],
     "radarRoad": "RD59",
     "radarTronconKm": [],
     "radarType": [

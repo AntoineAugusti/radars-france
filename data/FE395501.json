@@ -1,14 +1,14 @@
 {
-    "nid": "22594",
-    "uuid": "06558ceb-3818-46e2-bb41-65d613be7d08",
-    "vid": "22594",
+    "nid": "26119",
+    "uuid": "f53970dd-8a2a-4e4c-ad82-6d276fc41983",
+    "vid": "26119",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740842",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE395501",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740842",
+    "changed": "1681740842",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DEUIL LA BARRE vers MONTMAGNY",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.33639 48.97523)",
-    "radarInstallDate": "2014-10-08T16:28:44",
-    "radarPlace": "MONTMAGNY",
+    "radarInstallDate": "2014-10-08T16:14:09",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

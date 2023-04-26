@@ -1,14 +1,14 @@
 {
-    "nid": "20082",
-    "uuid": "88050a6d-742f-4b0a-a841-86cee9b79137",
-    "vid": "20082",
+    "nid": "23966",
+    "uuid": "5fd1db2d-8bd6-4728-8126-a1e9b3d23e1b",
+    "vid": "23966",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "5107",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rueil vers Versailles",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.15605 48.85599)",
-    "radarInstallDate": "2009-06-26T16:20:23",
-    "radarPlace": "RUEIL MALMAISON",
+    "radarInstallDate": "2009-06-26T16:06:43",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

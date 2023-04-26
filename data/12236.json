@@ -1,14 +1,14 @@
 {
-    "nid": "21564",
-    "uuid": "d2fbae5f-9364-47ec-9902-1e2401222115",
-    "vid": "21564",
+    "nid": "23234",
+    "uuid": "3675d22e-f7f0-4dab-87d2-f7fbb2b273e0",
+    "vid": "23234",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12236",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "METZ vers NANCY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.1098 48.921)",
-    "radarInstallDate": "2013-08-12T16:24:28",
-    "radarPlace": "LESMENILS",
+    "radarInstallDate": "2013-08-12T16:05:35",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

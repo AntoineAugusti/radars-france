@@ -1,14 +1,14 @@
 {
-    "nid": "20333",
-    "uuid": "5da3b67f-611c-4025-a70f-ea0d83bc8609",
-    "vid": "20333",
+    "nid": "24190",
+    "uuid": "19189fa2-cc6d-4d8d-bd3f-9b7350f4e9a3",
+    "vid": "24190",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8351",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLERS LES NANCY vers LAXOU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.13981 48.68305)",
-    "radarInstallDate": "2017-03-06T16:20:53",
-    "radarPlace": "LAXOU",
+    "radarInstallDate": "2017-03-06T16:07:10",
+    "radarPlace": [],
     "radarRoad": "Av. Bois Gron\u00e9e 477m apr\u00e8s carrefour Rue Mareville",
     "radarTronconKm": [],
     "radarType": [

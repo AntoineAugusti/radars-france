@@ -1,14 +1,14 @@
 {
-    "nid": "21192",
-    "uuid": "c30156c3-82ff-44a1-9b12-536f82d043f3",
-    "vid": "21192",
+    "nid": "25203",
+    "uuid": "a839f086-225c-49b8-8d7a-82cdc4aa772b",
+    "vid": "25203",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55156",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CARMAUX vers ALBI",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.17169 43.96172)",
-    "radarInstallDate": "2020-02-27T16:23:08",
-    "radarPlace": "LESCURE D ALBIGEOIS",
+    "radarInstallDate": "2020-02-27T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

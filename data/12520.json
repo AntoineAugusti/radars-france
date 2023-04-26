@@ -1,14 +1,14 @@
 {
-    "nid": "21781",
-    "uuid": "ef6ac6ab-97c5-4d77-a6fa-8fd4c0dccad7",
-    "vid": "21781",
+    "nid": "23450",
+    "uuid": "e3b7f443-4efb-464d-9f9a-0ce5c22780cc",
+    "vid": "23450",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12520",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ETAMPES vers ARPAJON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.194555 48.485161)",
-    "radarInstallDate": "2017-06-26T16:25:17",
-    "radarPlace": "ETRECHY",
+    "radarInstallDate": "2017-06-26T16:05:52",
+    "radarPlace": [],
     "radarRoad": "RN20",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21862",
-    "uuid": "66695ea5-2c91-4841-8eee-5235370a484c",
-    "vid": "21862",
+    "nid": "23543",
+    "uuid": "f18a2a4a-57c4-40ac-8edf-6d88aa205183",
+    "vid": "23543",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740359",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12643",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740359",
+    "changed": "1681740359",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAZEILLES vers CHARLEVILLE MEZIERES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.91735 49.69133)",
-    "radarInstallDate": "2020-08-14T16:25:38",
-    "radarPlace": "SEDAN",
+    "radarInstallDate": "2020-08-14T16:06:00",
+    "radarPlace": [],
     "radarRoad": "RN1043",
     "radarTronconKm": [],
     "radarType": [

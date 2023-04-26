@@ -1,14 +1,14 @@
 {
-    "nid": "21505",
-    "uuid": "c872e230-9570-44f9-9c7f-3f8f61b34348",
-    "vid": "21505",
+    "nid": "23178",
+    "uuid": "0aeedbde-2fbd-498c-92e5-bbb6d205d506",
+    "vid": "23178",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12126",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POIX DE PICARDIE vers AIRAINES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.942 49.951)",
-    "radarInstallDate": "2012-05-29T16:24:16",
-    "radarPlace": "AIRAINES",
+    "radarInstallDate": "2012-05-29T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RD901",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22362",
-    "uuid": "bbe2a413-d1f3-43a8-9654-824525e7d146",
-    "vid": "22362",
+    "nid": "25890",
+    "uuid": "26f17763-3dbb-40f4-bddf-071d86acab6a",
+    "vid": "25890",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229194",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE309001",
-    "created": "1637229194",
-    "changed": "1675870051",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vers Foix",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.85019 42.93519)",
-    "radarInstallDate": "2010-07-19T16:27:38",
-    "radarPlace": "LAVELANET",
+    "radarInstallDate": "2010-07-19T16:12:58",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

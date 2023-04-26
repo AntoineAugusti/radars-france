@@ -1,14 +1,14 @@
 {
-    "nid": "21045",
-    "uuid": "2793bfbe-f4ce-4788-a8ff-d5dbb398f0e5",
-    "vid": "21045",
+    "nid": "25058",
+    "uuid": "7753c340-f4dd-4448-aa0c-ec339e22ff46",
+    "vid": "25058",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740570",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55007",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740570",
+    "changed": "1681740570",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COZES vers GEMOZAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.7602 45.57312)",
-    "radarInstallDate": "2019-11-08T16:22:38",
-    "radarPlace": "ST ANDRE DE LIDON",
+    "radarInstallDate": "2019-11-08T16:09:36",
+    "radarPlace": [],
     "radarRoad": "RD732",
     "radarTronconKm": [],
     "radarType": [

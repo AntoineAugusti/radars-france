@@ -1,14 +1,14 @@
 {
-    "nid": "21153",
-    "uuid": "7aa71526-0fdf-442e-82f3-c03488d0d270",
-    "vid": "21153",
+    "nid": "25164",
+    "uuid": "3e97026b-da27-4578-89da-9480b409ed28",
+    "vid": "25164",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55117",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CONDOM vers NERAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.36688 44.07858)",
-    "radarInstallDate": "2020-06-17T16:23:02",
-    "radarPlace": "MONCRABEAU",
+    "radarInstallDate": "2020-06-17T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD930",
     "radarTronconKm": [],
     "radarType": [

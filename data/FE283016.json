@@ -1,14 +1,14 @@
 {
-    "nid": "22317",
-    "uuid": "61af2e9a-9c15-4c0e-9206-839ca7e0674f",
-    "vid": "22317",
+    "nid": "25874",
+    "uuid": "b46cec80-5d3e-4a0b-ac76-ade86dba8109",
+    "vid": "25874",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE283016",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.93529 43.11534)",
-    "radarInstallDate": "2011-04-28T16:27:29",
-    "radarPlace": "TOULON",
+    "radarInstallDate": "2011-04-28T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

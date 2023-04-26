@@ -1,14 +1,14 @@
 {
-    "nid": "19954",
-    "uuid": "c96010e9-36b1-4fba-9d56-59c69fe521a4",
-    "vid": "19954",
+    "nid": "23845",
+    "uuid": "d10e0215-8787-42d0-9325-e35ddd618b51",
+    "vid": "23845",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4147",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Evry vers Grigny",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.41819 48.64809)",
-    "radarInstallDate": "2008-12-30T16:20:11",
-    "radarPlace": "RIS ORANGIS",
+    "radarInstallDate": "2008-12-30T16:06:29",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

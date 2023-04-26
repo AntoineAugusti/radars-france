@@ -1,14 +1,14 @@
 {
-    "nid": "21965",
-    "uuid": "c8d2597c-bfe4-46b2-b26f-3a1bbc80a492",
-    "vid": "21965",
+    "nid": "25602",
+    "uuid": "df8953ec-9f40-4544-8b5e-3407d2745a32",
+    "vid": "25602",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE154010",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Metz vers Nancy",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (6.1724 48.70035)",
-    "radarInstallDate": "2012-06-21T16:26:00",
-    "radarPlace": "NANCY",
+    "radarInstallDate": "2012-06-21T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

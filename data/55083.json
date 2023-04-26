@@ -1,14 +1,14 @@
 {
-    "nid": "21120",
-    "uuid": "1861f0a8-bd13-4527-b5c0-f50c176f9751",
-    "vid": "21120",
+    "nid": "25132",
+    "uuid": "2974bd25-3f29-4f7d-b3bb-ad1168645156",
+    "vid": "25132",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55083",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTLUCON vers NERIS LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.622072 46.318184)",
-    "radarInstallDate": "2019-10-25T16:22:55",
-    "radarPlace": "LAVAULT STE ANNE",
+    "radarInstallDate": "2019-10-25T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD2144",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20002",
-    "uuid": "1392ef65-f4cf-426f-9cd5-ae4eaae880d4",
-    "vid": "20002",
+    "nid": "23889",
+    "uuid": "16e71bbc-1922-4a2b-8d1a-d3541e627b8a",
+    "vid": "23889",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4406",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PROVINCE vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.25882 48.80795)",
-    "radarInstallDate": "2008-12-17T16:20:17",
-    "radarPlace": "CLAMART",
+    "radarInstallDate": "2008-12-17T16:06:35",
+    "radarPlace": [],
     "radarRoad": "AVENUE HENRI BARBUSSE FACE AU N\u00b033",
     "radarTronconKm": [],
     "radarType": [

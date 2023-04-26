@@ -1,14 +1,14 @@
 {
-    "nid": "19820",
-    "uuid": "425572d8-8f96-4c64-88f3-5fa07592140c",
-    "vid": "19820",
+    "nid": "23738",
+    "uuid": "00c4cd59-8b87-4af0-ad9e-03684e99b7aa",
+    "vid": "23738",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "652",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOGENT LE ROTROU vers MONTLANDON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.88783 48.37594)",
-    "radarInstallDate": "2006-02-21T16:19:58",
-    "radarPlace": "SABLONS SUR HUISNE",
+    "radarInstallDate": "2006-02-21T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RD923",
     "radarTronconKm": [],
     "radarType": [

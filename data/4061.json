@@ -1,14 +1,14 @@
 {
-    "nid": "19935",
-    "uuid": "f859720b-4065-4367-9bc3-e9f16d2b8b2b",
-    "vid": "19935",
+    "nid": "23827",
+    "uuid": "46688e6d-3779-4054-9df3-42a80d825532",
+    "vid": "23827",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4061",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "REIMS vers VAL DE LIVRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.09565 49.14952)",
-    "radarInstallDate": "2008-06-30T16:20:08",
-    "radarPlace": "LUDES",
+    "radarInstallDate": "2008-06-30T16:06:28",
+    "radarPlace": [],
     "radarRoad": "RD9",
     "radarTronconKm": [],
     "radarType": [

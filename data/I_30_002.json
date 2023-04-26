@@ -1,14 +1,14 @@
 {
-    "nid": "22756",
-    "uuid": "18ff62c0-fd27-487c-9d1c-d2b7e9781cb6",
-    "vid": "22756",
+    "nid": "26284",
+    "uuid": "d3d7ac96-3448-40e5-bbbe-0100fe06911c",
+    "vid": "26284",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229219",
+    "revisionTimestamp": "1681741042",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_30_002",
-    "created": "1637229219",
-    "changed": "1637229219",
+    "created": "1681741042",
+    "changed": "1681741042",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "30 - Gard",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (43.704766 4.192282)",
-    "radarInstallDate": "2017-10-09T10:53:40",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.061782 47.267355)",
+    "radarInstallDate": "2017-10-05T16:17:23",
     "radarPlace": "-",
     "radarRoad": "D979, D6572, D979A, D6313, D46, D62",
-    "radarTronconKm": "25.00",
+    "radarTronconKm": "25",
     "radarType": [
         {
             "tid": "19",

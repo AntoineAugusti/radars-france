@@ -1,14 +1,14 @@
 {
-    "nid": "21677",
-    "uuid": "22cea695-2de4-4295-8abc-25dc57c7c930",
-    "vid": "21677",
+    "nid": "23345",
+    "uuid": "c5e17cad-8825-4175-93a1-2c44c7eec2b9",
+    "vid": "23345",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12400",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COLLIOURE vers PERPIGNAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.0272 42.5381)",
-    "radarInstallDate": "2016-06-24T16:24:50",
-    "radarPlace": "ARGELES SUR MER",
+    "radarInstallDate": "2016-06-24T16:05:43",
+    "radarPlace": [],
     "radarRoad": "RD914",
     "radarTronconKm": [],
     "radarType": [

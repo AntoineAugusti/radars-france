@@ -1,14 +1,14 @@
 {
-    "nid": "22552",
-    "uuid": "f39ccf78-da6e-468a-85ed-c924cadbd155",
-    "vid": "22552",
+    "nid": "26032",
+    "uuid": "44dc488f-14ef-4ae9-a43b-9b9623ed6cc3",
+    "vid": "26032",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE366016",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avenue Torreilles vers le Nord",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.87247 42.69394)",
-    "radarInstallDate": "2012-01-03T16:28:36",
-    "radarPlace": "PERPIGNAN",
+    "radarInstallDate": "2012-01-03T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

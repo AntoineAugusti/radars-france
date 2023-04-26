@@ -1,14 +1,14 @@
 {
-    "nid": "21492",
-    "uuid": "7e938377-00c0-4f22-a057-96f419620f83",
-    "vid": "21492",
+    "nid": "23165",
+    "uuid": "041d514a-c902-40ef-a2bd-085ff09a0042",
+    "vid": "23165",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12099",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers BORDEAUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.7295 47.415)",
-    "radarInstallDate": "2013-01-23T16:24:10",
-    "radarPlace": "TOURS",
+    "radarInstallDate": "2013-01-23T16:05:31",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

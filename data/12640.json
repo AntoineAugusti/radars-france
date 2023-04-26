@@ -1,14 +1,14 @@
 {
-    "nid": "21861",
-    "uuid": "30c05029-a5b2-48df-b49e-c0817364d10a",
-    "vid": "21861",
+    "nid": "23541",
+    "uuid": "3c122429-ea15-4f31-bc9a-d10ed0703110",
+    "vid": "23541",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740359",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12640",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740359",
+    "changed": "1681740359",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AIX EN PROVENCE vers MARSEILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.421242 43.511386)",
-    "radarInstallDate": "2020-12-03T16:25:38",
-    "radarPlace": "AIX EN PROVENCE",
+    "radarInstallDate": "2020-12-03T16:06:00",
+    "radarPlace": [],
     "radarRoad": "A51",
     "radarTronconKm": [],
     "radarType": [

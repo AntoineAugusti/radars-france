@@ -1,14 +1,14 @@
 {
-    "nid": "21155",
-    "uuid": "0072ce25-d2ca-46ed-80d1-9c9203eb3785",
-    "vid": "21155",
+    "nid": "25166",
+    "uuid": "0bf0ec4b-2c09-4f33-861f-479a5ebf2298",
+    "vid": "25166",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55119",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AIGUILLON vers AGEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.35346 44.2589)",
-    "radarInstallDate": "2019-12-16T16:23:02",
-    "radarPlace": "PORT STE MARIE",
+    "radarInstallDate": "2019-12-16T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD813",
     "radarTronconKm": [],
     "radarType": [

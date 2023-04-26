@@ -1,14 +1,14 @@
 {
-    "nid": "21051",
-    "uuid": "e6918a9d-958b-4ea2-a8a7-ce469087c64e",
-    "vid": "21051",
+    "nid": "25064",
+    "uuid": "d0b6fa83-5946-42c3-84ee-7dc7598d2430",
+    "vid": "25064",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55014",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST PAULIEN vers FELINES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.817237 45.209832)",
-    "radarInstallDate": "2019-08-19T16:22:43",
-    "radarPlace": "BELLEVUE LA MONTAGNE",
+    "radarInstallDate": "2019-08-19T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD906",
     "radarTronconKm": [],
     "radarType": [

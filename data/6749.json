@@ -1,14 +1,14 @@
 {
-    "nid": "20188",
-    "uuid": "0eca93ba-7917-4c5b-9746-cb9539110046",
-    "vid": "20188",
+    "nid": "24064",
+    "uuid": "079b8df2-deba-447f-84df-7cd9d5221805",
+    "vid": "24064",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6749",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTAUBAN vers LAFRANCAISE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.28336 44.07468)",
-    "radarInstallDate": "2008-02-25T16:20:35",
-    "radarPlace": "VILLEMADE",
+    "radarInstallDate": "2008-02-25T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD927",
     "radarTronconKm": [],
     "radarType": [

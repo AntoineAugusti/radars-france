@@ -1,14 +1,14 @@
 {
-    "nid": "21471",
-    "uuid": "1ae0eb48-ee48-408e-bc25-1a6b9e515044",
-    "vid": "21471",
+    "nid": "23144",
+    "uuid": "4a9005ad-0fef-431f-ab62-e50caf22fc94",
+    "vid": "23144",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12070",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.8358 46.734)",
-    "radarInstallDate": "2013-10-04T16:24:09",
-    "radarPlace": "SEVREY",
+    "radarInstallDate": "2013-10-04T16:05:30",
+    "radarPlace": [],
     "radarRoad": "A6",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22110",
-    "uuid": "46075694-5fa4-42ab-a60a-f143aec8cc60",
-    "vid": "22110",
+    "nid": "25726",
+    "uuid": "54e1cfb3-616e-4bb1-ba92-935404f12864",
+    "vid": "25726",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178001",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Le Vesinet vers Chatou",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.14076 48.89287)",
-    "radarInstallDate": "2009-07-07T16:26:35",
-    "radarPlace": "LE VESINET",
+    "radarInstallDate": "2009-07-07T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

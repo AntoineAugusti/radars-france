@@ -1,14 +1,14 @@
 {
-    "nid": "20562",
-    "uuid": "050e8ee2-98f3-4017-82d1-c600feb2ee57",
-    "vid": "20562",
+    "nid": "24391",
+    "uuid": "8ae5a555-f881-4dcc-8c5c-4003a478d9e0",
+    "vid": "24391",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11212",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROYE VERS BAPAUME",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.9226 49.898)",
-    "radarInstallDate": "2012-10-12T16:21:22",
-    "radarPlace": "PERONNE",
+    "radarInstallDate": "2012-10-12T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RD1017",
     "radarTronconKm": [],
     "radarType": [

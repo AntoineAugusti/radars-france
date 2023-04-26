@@ -1,14 +1,14 @@
 {
-    "nid": "21589",
-    "uuid": "02a97e25-6f37-414f-9859-58b27e654d86",
-    "vid": "21589",
+    "nid": "23258",
+    "uuid": "c9e73d6b-d910-443f-a89b-0ba3e3593201",
+    "vid": "23258",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12272",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAEN vers CHERBOURG OCTEVILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.564 49.556)",
-    "radarInstallDate": "2014-05-19T16:24:35",
-    "radarPlace": "BRIX",
+    "radarInstallDate": "2014-05-19T16:05:37",
+    "radarPlace": [],
     "radarRoad": "RN13",
     "radarTronconKm": [],
     "radarType": [

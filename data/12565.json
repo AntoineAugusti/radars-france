@@ -1,14 +1,14 @@
 {
-    "nid": "21814",
-    "uuid": "e37ea845-2c6c-45f9-b40b-faa0e6776802",
-    "vid": "21814",
+    "nid": "23485",
+    "uuid": "fcbc23b5-68ff-46df-be39-200d6e4db689",
+    "vid": "23485",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12565",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTES vers VANNES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.67926 47.25249)",
-    "radarInstallDate": "2021-06-25T16:25:25",
-    "radarPlace": "COUERON",
+    "radarInstallDate": "2021-06-25T16:05:55",
+    "radarPlace": [],
     "radarRoad": "RN444",
     "radarTronconKm": [],
     "radarType": [

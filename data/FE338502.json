@@ -1,14 +1,14 @@
 {
-    "nid": "22485",
-    "uuid": "502f3d01-8c8c-4f03-b6f0-f558305b377b",
-    "vid": "22485",
+    "nid": "26070",
+    "uuid": "09512303-cb23-4675-91f5-1750468aa568",
+    "vid": "26070",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE338502",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (5.15192 45.62673)",
-    "radarInstallDate": "2014-11-24T16:28:11",
-    "radarPlace": "LA VERPILLIERE",
+    "radarInstallDate": "2014-11-24T16:13:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

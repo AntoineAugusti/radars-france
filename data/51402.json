@@ -1,14 +1,14 @@
 {
-    "nid": "21017",
-    "uuid": "57a35ded-83d1-4e79-b63b-43a681a5d24a",
-    "vid": "21017",
+    "nid": "24962",
+    "uuid": "afdd8695-c6d5-483a-aeb1-b10a2b9a8fac",
+    "vid": "24962",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51402",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUVAIS vers MARSEILLE EN BEAUVAISIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.016528 49.508427)",
-    "radarInstallDate": "2021-09-16T16:22:33",
-    "radarPlace": "MILLY SUR THERAIN",
+    "radarInstallDate": "2021-09-16T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD901",
     "radarTronconKm": [],
     "radarType": [

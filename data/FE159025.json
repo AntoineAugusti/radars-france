@@ -1,14 +1,14 @@
 {
-    "nid": "21993",
-    "uuid": "8486413a-3af1-4169-b1c7-1a1bc7bcffe8",
-    "vid": "21993",
+    "nid": "25629",
+    "uuid": "57896414-391b-41c9-96b5-7ceaa37910af",
+    "vid": "25629",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159025",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue Massena vers Boulevard Vauban",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.05247 50.63242)",
-    "radarInstallDate": "2011-09-09T16:26:07",
-    "radarPlace": "LILLE",
+    "radarInstallDate": "2011-09-09T16:11:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22466",
-    "uuid": "4f2c5049-990a-4c9b-aebe-e16580b6cc10",
-    "vid": "22466",
+    "nid": "25982",
+    "uuid": "016f7abb-f10a-455c-b753-41de9744c29c",
+    "vid": "25982",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE334015",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Castelnau le Lez vers Lav\u00e9rune",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.86508 43.61974)",
-    "radarInstallDate": "2011-07-06T16:28:10",
-    "radarPlace": "MONTPELLIER",
+    "radarInstallDate": "2011-07-06T16:13:25",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

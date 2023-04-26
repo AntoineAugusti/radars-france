@@ -1,14 +1,14 @@
 {
-    "nid": "21691",
-    "uuid": "46d9bc4f-1031-4b56-bb48-c344b7b59427",
-    "vid": "21691",
+    "nid": "23359",
+    "uuid": "c1f00573-cd96-434f-a184-137b75b919fd",
+    "vid": "23359",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12414",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "OLIVET vers ORLEANS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.85813 47.89004)",
-    "radarInstallDate": "2016-09-30T16:24:56",
-    "radarPlace": "ST PRYVE ST MESMIN",
+    "radarInstallDate": "2016-09-30T16:05:45",
+    "radarPlace": [],
     "radarRoad": "A71",
     "radarTronconKm": [],
     "radarType": [

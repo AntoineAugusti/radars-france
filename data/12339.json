@@ -1,14 +1,14 @@
 {
-    "nid": "21626",
-    "uuid": "b5efc8e3-888c-4071-9af4-9e056d736141",
-    "vid": "21626",
+    "nid": "23294",
+    "uuid": "f4adda80-e813-4d5b-be34-b99e88bb18b6",
+    "vid": "23294",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12339",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BELGIQUE vers FRANCE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.38797 51.01468)",
-    "radarInstallDate": "2016-05-17T16:24:42",
-    "radarPlace": "COUDEKERQUE BRANCHE",
+    "radarInstallDate": "2016-05-17T16:05:40",
+    "radarPlace": [],
     "radarRoad": "A16",
     "radarTronconKm": [],
     "radarType": [

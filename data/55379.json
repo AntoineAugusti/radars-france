@@ -1,14 +1,14 @@
 {
-    "nid": "21400",
-    "uuid": "90844f47-189e-4650-8a20-2fffc37c7bd9",
-    "vid": "21400",
+    "nid": "25416",
+    "uuid": "c4e2f085-33a0-4340-b07b-902a11f26bec",
+    "vid": "25416",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55379",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAULT DE NAVAILLES vers MOMUY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.657069 43.577281)",
-    "radarInstallDate": "2021-05-27T16:23:51",
-    "radarPlace": "CASTAIGNOS SOUSLENS",
+    "radarInstallDate": "2021-05-27T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD933S",
     "radarTronconKm": [],
     "radarType": [

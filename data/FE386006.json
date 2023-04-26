@@ -1,14 +1,14 @@
 {
-    "nid": "22583",
-    "uuid": "649f5408-af84-4375-90d0-2e4a219ed82a",
-    "vid": "22583",
+    "nid": "26047",
+    "uuid": "3ebf5cc3-fdc6-450d-9e0c-2277bbd7bc58",
+    "vid": "26047",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE386006",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Limoges vers Poitiers",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.41506 46.54325)",
-    "radarInstallDate": "2010-09-17T16:28:44",
-    "radarPlace": "MIGNALOUX BEAUVOIR",
+    "radarInstallDate": "2010-09-17T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

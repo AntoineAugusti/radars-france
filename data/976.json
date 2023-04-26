@@ -1,14 +1,14 @@
 {
-    "nid": "19880",
-    "uuid": "6c9f3c3d-4bc8-4aae-9811-2c892ddcc40c",
-    "vid": "19880",
+    "nid": "23782",
+    "uuid": "2d26e05b-75fc-4fda-84b7-9ba80cb9d237",
+    "vid": "23782",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "976",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRANZAY GRIPT vers EPANNES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.52535 46.24247)",
-    "radarInstallDate": "2005-08-01T16:20:04",
-    "radarPlace": "FRONTENAY ROHAN ROHAN",
+    "radarInstallDate": "2005-08-01T16:06:23",
+    "radarPlace": [],
     "radarRoad": "RN248",
     "radarTronconKm": [],
     "radarType": [

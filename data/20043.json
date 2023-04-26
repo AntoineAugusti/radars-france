@@ -1,14 +1,14 @@
 {
-    "nid": "22613",
-    "uuid": "b001afa2-51c8-4474-a15b-c505ee35577d",
-    "vid": "22613",
+    "nid": "26138",
+    "uuid": "ee0857c6-719f-4e6b-9112-384b3bf26dd7",
+    "vid": "26138",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20043",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "ALTECKENDORF vers WASSELONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.56854 48.74764)",
-    "radarInstallDate": "2013-06-28T10:53:35",
+    "radarInstallDate": "2013-06-28T16:17:06",
     "radarPlace": "HOCHFELDEN",
-    "radarRoad": "RD25",
+    "radarRoad": "RD 25",
     "radarTronconKm": "1,3",
     "radarType": [
         {

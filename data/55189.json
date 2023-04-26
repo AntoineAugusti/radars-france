@@ -1,14 +1,14 @@
 {
-    "nid": "21225",
-    "uuid": "e26f1212-eadb-4b99-9ca3-7eca2a31b49c",
-    "vid": "21225",
+    "nid": "25236",
+    "uuid": "49664fa5-c2b9-4267-8d6e-2121e0f836fa",
+    "vid": "25236",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55189",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUREDON vers DIGNE LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.2068 44.05884)",
-    "radarInstallDate": "2020-02-10T16:23:14",
-    "radarPlace": "DIGNE LES BAINS",
+    "radarInstallDate": "2020-02-10T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RN85",
     "radarTronconKm": [],
     "radarType": [

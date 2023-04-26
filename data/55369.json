@@ -1,14 +1,14 @@
 {
-    "nid": "21393",
-    "uuid": "d2ca5f8f-ec5f-423e-9532-1816a0709f85",
-    "vid": "21393",
+    "nid": "25408",
+    "uuid": "32e68750-3aea-4cc8-9712-6dab2cf5e184",
+    "vid": "25408",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55369",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NEUVILLE LES DAMES vers BOURG EN BRESSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.10749 46.185325)",
-    "radarInstallDate": "2021-01-04T16:23:51",
-    "radarPlace": "MONTRACOL",
+    "radarInstallDate": "2021-01-04T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD936",
     "radarTronconKm": [],
     "radarType": [

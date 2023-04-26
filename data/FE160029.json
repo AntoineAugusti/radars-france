@@ -1,14 +1,14 @@
 {
-    "nid": "22028",
-    "uuid": "568be471-41d8-4b7f-9bd3-c39aeb153c89",
-    "vid": "22028",
+    "nid": "25647",
+    "uuid": "86166ffa-fa50-402b-a086-7812eaf94946",
+    "vid": "25647",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229180",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE160029",
-    "created": "1637229180",
-    "changed": "1675869968",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Chambly centre vers M\u00e9ru",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.23887 49.16911)",
-    "radarInstallDate": "2010-12-20T16:26:15",
-    "radarPlace": "CHAMBLY",
+    "radarInstallDate": "2010-12-20T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

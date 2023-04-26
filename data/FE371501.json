@@ -1,14 +1,14 @@
 {
-    "nid": "22560",
-    "uuid": "296179d8-e960-4001-9644-790f3a19d2bd",
-    "vid": "22560",
+    "nid": "26101",
+    "uuid": "53d5284a-ebeb-4b01-87ba-2d098f730ca2",
+    "vid": "26101",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE371501",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ETANG SUR ARROUX vers MARMAGNE",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (4.24566 46.86264)",
-    "radarInstallDate": "2015-06-19T16:28:36",
-    "radarPlace": "MESVRES",
+    "radarInstallDate": "2015-06-19T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

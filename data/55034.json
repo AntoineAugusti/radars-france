@@ -1,14 +1,14 @@
 {
-    "nid": "21071",
-    "uuid": "bc8e1e1d-5cc5-4c63-9d3a-ecbd205dd623",
-    "vid": "21071",
+    "nid": "25084",
+    "uuid": "75946bc6-0975-4a05-bdf1-3dd6bb732a0d",
+    "vid": "25084",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55034",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GAILLAC vers GRAULHET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.988357 43.782304)",
-    "radarInstallDate": "2019-11-29T16:22:44",
-    "radarPlace": "LABESSIERE CANDEIL",
+    "radarInstallDate": "2019-11-29T16:09:42",
+    "radarPlace": [],
     "radarRoad": "RD964",
     "radarTronconKm": [],
     "radarType": [

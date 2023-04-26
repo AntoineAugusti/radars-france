@@ -1,14 +1,14 @@
 {
-    "nid": "21758",
-    "uuid": "82043638-1678-4a4c-9ed8-1b2e699b2cbc",
-    "vid": "21758",
+    "nid": "23427",
+    "uuid": "04b087b4-3fc8-4538-8191-809fc35f00e1",
+    "vid": "23427",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12496",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BREST vers LORIENT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-4.076303 48.038988)",
-    "radarInstallDate": "2016-12-15T16:25:11",
-    "radarPlace": "QUIMPER",
+    "radarInstallDate": "2016-12-15T16:05:50",
+    "radarPlace": [],
     "radarRoad": "RN165",
     "radarTronconKm": [],
     "radarType": [

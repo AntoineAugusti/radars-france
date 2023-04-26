@@ -1,14 +1,14 @@
 {
-    "nid": "21745",
-    "uuid": "c03f4b6d-7fd3-4024-86b0-c33c81e214b8",
-    "vid": "21745",
+    "nid": "23413",
+    "uuid": "ac6f502a-e7d4-4b0a-ad02-e21a30821102",
+    "vid": "23413",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12480",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX vers PERIGUEUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.482946 45.097643)",
-    "radarInstallDate": "2019-11-15T16:25:11",
-    "radarPlace": "NEUVIC",
+    "radarInstallDate": "2019-11-15T16:05:48",
+    "radarPlace": [],
     "radarRoad": "A89",
     "radarTronconKm": [],
     "radarType": [

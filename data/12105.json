@@ -1,14 +1,14 @@
 {
-    "nid": "21495",
-    "uuid": "93c3e311-ba1a-46c2-ae54-262056da7373",
-    "vid": "21495",
+    "nid": "23168",
+    "uuid": "1b55c516-8caf-44ce-8245-b3f863890232",
+    "vid": "23168",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12105",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX vers TOULOUSE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.2796 44.266)",
-    "radarInstallDate": "2012-05-16T16:24:10",
-    "radarPlace": "ST PIERRE DE BUZET",
+    "radarInstallDate": "2012-05-16T16:05:31",
+    "radarPlace": [],
     "radarRoad": "A62",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22188",
-    "uuid": "87abc03b-6e04-4126-b884-8d7b0f13cffa",
-    "vid": "22188",
+    "nid": "25803",
+    "uuid": "9087f056-d1b3-4269-ba34-bb754a5bd612",
+    "vid": "25803",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195020",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Pierrelaye vers Franconville",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.19419 48.99453)",
-    "radarInstallDate": "2010-03-22T16:26:51",
-    "radarPlace": "MONTIGNY LES CORMEILLES",
+    "radarInstallDate": "2010-03-22T16:12:32",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

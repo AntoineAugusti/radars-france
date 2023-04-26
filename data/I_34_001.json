@@ -1,14 +1,14 @@
 {
-    "nid": "22765",
-    "uuid": "387173c9-c6e7-4919-94da-3c7a50f2eb1e",
-    "vid": "22765",
+    "nid": "26300",
+    "uuid": "98b2dafe-4396-4f63-a24f-b8e27db13d86",
+    "vid": "26300",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229219",
+    "revisionTimestamp": "1681741045",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_34_001",
-    "created": "1637229219",
-    "changed": "1637229219",
+    "created": "1681741045",
+    "changed": "1681741045",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "34 - H\u00e9rault",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (43.317994 3.005514)",
-    "radarInstallDate": "2017-10-05T10:53:40",
-    "radarPlace": "-",
-    "radarRoad": "D11",
-    "radarTronconKm": "14.80",
+    "radarDirection": "46.732570, 6.383002",
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": [],
+    "radarInstallDate": "2017-10-06T16:17:26",
+    "radarPlace": "D11\"",
+    "radarRoad": "\"300",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

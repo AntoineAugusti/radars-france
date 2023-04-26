@@ -1,14 +1,14 @@
 {
-    "nid": "22311",
-    "uuid": "bc603b01-657d-49e8-a98b-f2d3e6d4661d",
-    "vid": "22311",
+    "nid": "25870",
+    "uuid": "545711fb-42a9-4868-867f-fcdc267bbb77",
+    "vid": "25870",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE274010",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Annecy vers Thonon les Bains",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.23654 46.18588)",
-    "radarInstallDate": "2011-07-06T16:27:29",
-    "radarPlace": "ANNEMASSE",
+    "radarInstallDate": "2011-07-06T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

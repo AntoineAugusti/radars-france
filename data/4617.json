@@ -1,14 +1,14 @@
 {
-    "nid": "20050",
-    "uuid": "c708fef0-2d30-4424-92a6-d88fbb980f94",
-    "vid": "20050",
+    "nid": "23935",
+    "uuid": "2934b9e6-eaf6-415c-a9b7-b24171903ecd",
+    "vid": "23935",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4617",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORLEANS vers CHARTRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.84875 48.14173)",
-    "radarInstallDate": "2009-03-20T16:20:20",
-    "radarPlace": "SANTILLY",
+    "radarInstallDate": "2009-03-20T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD954",
     "radarTronconKm": [],
     "radarType": [

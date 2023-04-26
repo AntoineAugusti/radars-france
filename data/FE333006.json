@@ -1,14 +1,14 @@
 {
-    "nid": "22450",
-    "uuid": "51c145bf-ce3b-46cd-9dec-02ad3c0f4d51",
-    "vid": "22450",
+    "nid": "25966",
+    "uuid": "17a5a607-2e2d-405b-9689-f4beda79d810",
+    "vid": "25966",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE333006",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Villenave d'Ornon vers Bordeaux Centre",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.57268 44.81436)",
-    "radarInstallDate": "2009-11-03T16:28:02",
-    "radarPlace": "BORDEAUX",
+    "radarInstallDate": "2009-11-03T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

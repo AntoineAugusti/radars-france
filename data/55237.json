@@ -1,14 +1,14 @@
 {
-    "nid": "21272",
-    "uuid": "652e50d4-3991-4fdb-bbe5-fb98037d8b6e",
-    "vid": "21272",
+    "nid": "25283",
+    "uuid": "cedb81bc-4d7d-4349-9ff1-1df7a8f1d99c",
+    "vid": "25283",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55237",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON vers GRENOBLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.50762 45.34614)",
-    "radarInstallDate": "2020-09-28T16:23:26",
-    "radarPlace": "RIVES SUR FURE",
+    "radarInstallDate": "2020-09-28T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD1085",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22048",
-    "uuid": "79048349-b86d-4c80-93b0-f7cb006dded8",
-    "vid": "22048",
+    "nid": "25665",
+    "uuid": "ca3fa4ca-bd16-4e37-9352-6fcaf8c6d8ab",
+    "vid": "25665",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE167004",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Eckbolsheim vers Strasbourg",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.70858 48.57854)",
-    "radarInstallDate": "2010-01-08T16:26:21",
-    "radarPlace": "STRASBOURG",
+    "radarInstallDate": "2010-01-08T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

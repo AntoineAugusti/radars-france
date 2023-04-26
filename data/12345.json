@@ -1,14 +1,14 @@
 {
-    "nid": "21632",
-    "uuid": "f9a7dc8a-c8bd-4800-aace-f7ae2453dd34",
-    "vid": "21632",
+    "nid": "23300",
+    "uuid": "65bd6498-a0f4-462e-aa6c-9989d19f0b51",
+    "vid": "23300",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12345",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers CERGY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.1454 49.01541)",
-    "radarInstallDate": "2016-04-14T16:24:42",
-    "radarPlace": "PIERRELAYE",
+    "radarInstallDate": "2016-04-14T16:05:40",
+    "radarPlace": [],
     "radarRoad": "A15",
     "radarTronconKm": [],
     "radarType": [

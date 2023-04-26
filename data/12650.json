@@ -1,14 +1,14 @@
 {
-    "nid": "21869",
-    "uuid": "2a34e9d1-4be2-45af-9456-c4b0fc44bdee",
-    "vid": "21869",
+    "nid": "23550",
+    "uuid": "734fcde4-a178-4187-ac5b-c49ba5809c57",
+    "vid": "23550",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740359",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12650",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740359",
+    "changed": "1681740359",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FALAISE vers CAEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.226211 48.957902)",
-    "radarInstallDate": "2020-12-11T16:25:38",
-    "radarPlace": "BONS TASSILLY",
+    "radarInstallDate": "2020-12-11T16:06:00",
+    "radarPlace": [],
     "radarRoad": "RN158",
     "radarTronconKm": [],
     "radarType": [

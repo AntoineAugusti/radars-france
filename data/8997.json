@@ -1,14 +1,14 @@
 {
-    "nid": "20488",
-    "uuid": "fc2b19c1-3a5a-43e5-a1d6-0cfd7d6d0f88",
-    "vid": "20488",
+    "nid": "24330",
+    "uuid": "0e36d036-f652-4592-904f-3b33e7f331d9",
+    "vid": "24330",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8997",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ITALIE vers MENTON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.5157 43.783)",
-    "radarInstallDate": "2012-03-08T16:21:14",
-    "radarPlace": "MENTON",
+    "radarInstallDate": "2012-03-08T16:07:32",
+    "radarPlace": [],
     "radarRoad": "Avenue de la Porte de France",
     "radarTronconKm": [],
     "radarType": [

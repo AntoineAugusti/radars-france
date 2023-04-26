@@ -1,14 +1,14 @@
 {
-    "nid": "22733",
-    "uuid": "97300f6d-9526-4928-91b1-61d23b41679b",
-    "vid": "22733",
+    "nid": "26253",
+    "uuid": "59cc0309-bee3-4d39-ba6f-2a4327f9cbfb",
+    "vid": "26253",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741038",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_22_003",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741038",
+    "changed": "1681741038",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "22 - C\u00f4tes-d'armor",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.367455 -2.627768)",
-    "radarInstallDate": "2017-10-05T10:53:39",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.022464 43.204975)",
+    "radarInstallDate": "2017-10-05T16:17:19",
     "radarPlace": "-",
     "radarRoad": "D28, D80, D765, D35, D81",
-    "radarTronconKm": "13.34",
+    "radarTronconKm": "13,3",
     "radarType": [
         {
             "tid": "19",

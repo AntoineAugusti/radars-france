@@ -1,14 +1,14 @@
 {
-    "nid": "22577",
-    "uuid": "256c0857-cf03-4d23-ab62-20fd8ac507b4",
-    "vid": "22577",
+    "nid": "26041",
+    "uuid": "db885b0c-7359-489b-ad6d-61d62f25e21e",
+    "vid": "26041",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE382003",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Fonneuve vers le centre ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.37074 44.0358)",
-    "radarInstallDate": "2010-01-15T16:28:37",
-    "radarPlace": "MONTAUBAN",
+    "radarInstallDate": "2010-01-15T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

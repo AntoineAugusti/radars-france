@@ -1,14 +1,14 @@
 {
-    "nid": "19840",
-    "uuid": "6faef5b9-31ab-43f3-ba38-76d17d67b4d2",
-    "vid": "19840",
+    "nid": "23752",
+    "uuid": "7f653976-702e-4b43-9b75-38572f0ad3e5",
+    "vid": "23752",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "743",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHOLET vers ANGERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.65008 47.28696)",
-    "radarInstallDate": "2005-06-15T16:19:59",
-    "radarPlace": "VAL DU LAYON",
+    "radarInstallDate": "2005-06-15T16:06:20",
+    "radarPlace": [],
     "radarRoad": "RD160",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20251",
-    "uuid": "e3a203f7-fcb3-403a-abc0-a9b15af2ac77",
-    "vid": "20251",
+    "nid": "24119",
+    "uuid": "ce94aa7b-555d-44aa-8fa6-70ae869230b4",
+    "vid": "24119",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7150",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NICE vers DIGNE LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.73998 43.96279)",
-    "radarInstallDate": "2007-11-23T16:20:41",
-    "radarPlace": "ST BENOIT",
+    "radarInstallDate": "2007-11-23T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RN202",
     "radarTronconKm": [],
     "radarType": [

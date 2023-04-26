@@ -1,14 +1,14 @@
 {
-    "nid": "22189",
-    "uuid": "ab7630a5-39f5-4e0b-a9f5-0c9897a6e80b",
-    "vid": "22189",
+    "nid": "25804",
+    "uuid": "05552861-519d-46a6-8c99-ebc47bcd2e44",
+    "vid": "25804",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229186",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195021",
-    "created": "1637229186",
-    "changed": "1675870011",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CONFLANS STE HONORINE vers CERGY",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.07466 49.0154)",
-    "radarInstallDate": "2010-12-13T16:26:57",
-    "radarPlace": "NEUVILLE SUR OISE",
+    "radarInstallDate": "2010-12-13T16:12:39",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

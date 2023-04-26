@@ -1,14 +1,14 @@
 {
-    "nid": "22454",
-    "uuid": "e58de57d-b48b-4f14-9d2a-9657e7ee6e88",
-    "vid": "22454",
+    "nid": "25970",
+    "uuid": "dca1bc6b-848a-4833-8e7a-e21ad01023da",
+    "vid": "25970",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE333016",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue El Alamein vers cours Gallieni",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.59722 44.82026)",
-    "radarInstallDate": "2012-06-07T16:28:03",
-    "radarPlace": "BORDEAUX",
+    "radarInstallDate": "2012-06-07T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

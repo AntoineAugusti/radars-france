@@ -1,14 +1,14 @@
 {
-    "nid": "22001",
-    "uuid": "482827d5-8492-4ba4-82c8-9dc4e06a8691",
-    "vid": "22001",
+    "nid": "25636",
+    "uuid": "99cd38f7-a81e-4277-80ab-181e921c13a8",
+    "vid": "25636",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159037",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "H\u00e9lesmes vers Bellaing",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (3.39236 50.37334)",
-    "radarInstallDate": "2011-05-25T16:26:08",
-    "radarPlace": "WALLERS",
+    "radarInstallDate": "2011-05-25T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

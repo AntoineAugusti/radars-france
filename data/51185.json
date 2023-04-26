@@ -1,14 +1,14 @@
 {
-    "nid": "20833",
-    "uuid": "b9077d1e-1f5e-4c2b-aa19-c644bf15b5a1",
-    "vid": "20833",
+    "nid": "24757",
+    "uuid": "8c7bae81-5d4b-456c-a8d3-28b394e3cc47",
+    "vid": "24757",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51185",
-    "created": "1637229141",
-    "changed": "1675869719",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "02-AISNE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "LAON  vers ST QUENTIN",
+    "radarDirection": "ST QUENTIN vers LAON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.459102 49.618422)",
-    "radarInstallDate": "2020-02-11T16:22:03",
-    "radarPlace": "FOURDRAIN",
+    "radarInstallDate": "2020-02-11T16:08:41",
+    "radarPlace": [],
     "radarRoad": "RD1044",
     "radarTronconKm": [],
     "radarType": [

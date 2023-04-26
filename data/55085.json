@@ -1,14 +1,14 @@
 {
-    "nid": "21122",
-    "uuid": "660dd0c1-33a1-426d-bba1-19e2609ad764",
-    "vid": "21122",
+    "nid": "25133",
+    "uuid": "39a7f018-0ac1-43d5-9c36-9f7b4e0733e3",
+    "vid": "25133",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55085",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POITIERS vers NIORT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.191801 46.418158)",
-    "radarInstallDate": "2019-11-04T16:22:55",
-    "radarPlace": "NANTEUIL",
+    "radarInstallDate": "2019-11-04T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD611",
     "radarTronconKm": [],
     "radarType": [

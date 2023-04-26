@@ -1,14 +1,14 @@
 {
-    "nid": "21569",
-    "uuid": "fc5e5191-67fc-4a39-b8e3-2b319c1991e3",
-    "vid": "21569",
+    "nid": "23239",
+    "uuid": "11fbfaf8-d035-43bb-9527-ef97766c9bbd",
+    "vid": "23239",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12241",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.7134 47.363)",
-    "radarInstallDate": "2013-10-25T16:24:29",
-    "radarPlace": "ST AVERTIN",
+    "radarInstallDate": "2013-10-25T16:05:36",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

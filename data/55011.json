@@ -1,14 +1,14 @@
 {
-    "nid": "21048",
-    "uuid": "526d7954-6eea-4292-a721-229a4677f3b0",
-    "vid": "21048",
+    "nid": "25061",
+    "uuid": "fb53536f-1d3e-453e-bf3b-447904423aea",
+    "vid": "25061",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55011",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FIX ST GENEYS vers LOUDES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.707258 45.123921)",
-    "radarInstallDate": "2019-08-07T16:22:38",
-    "radarPlace": "VAZEILLES LIMANDRE",
+    "radarInstallDate": "2019-08-07T16:09:40",
+    "radarPlace": [],
     "radarRoad": "RN102",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21517",
-    "uuid": "05cf2054-2600-4c6f-88a3-6576745cb455",
-    "vid": "21517",
+    "nid": "23190",
+    "uuid": "b40783ac-e72d-4cfa-b74b-37f316028b46",
+    "vid": "23190",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12145",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGOULEME vers BORDEAUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.10097 45.6177)",
-    "radarInstallDate": "2012-08-10T16:24:16",
-    "radarPlace": "LA COURONNE",
+    "radarInstallDate": "2012-08-10T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

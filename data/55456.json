@@ -1,14 +1,14 @@
 {
-    "nid": "21431",
-    "uuid": "c8f8fe94-e1a3-4fe7-8504-3de31bac7772",
-    "vid": "21431",
+    "nid": "25482",
+    "uuid": "13ca2c25-08f6-4f34-a345-69fdc4de891d",
+    "vid": "25482",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740665",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55456",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740665",
+    "changed": "1681740665",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARBUS vers ABOS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.533289 43.354327)",
-    "radarInstallDate": "2021-08-13T16:23:57",
-    "radarPlace": "TARSACQ",
+    "radarInstallDate": "2021-08-13T16:11:12",
+    "radarPlace": [],
     "radarRoad": "RD2",
     "radarTronconKm": [],
     "radarType": [

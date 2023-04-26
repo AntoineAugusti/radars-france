@@ -1,14 +1,14 @@
 {
-    "nid": "21002",
-    "uuid": "3848333a-0c30-451f-a804-62c857127b02",
-    "vid": "21002",
+    "nid": "24945",
+    "uuid": "a8e16f8c-75d0-4c50-8440-6942a9d46386",
+    "vid": "24945",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51385",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VANNES vers AURAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.897014 47.622068)",
-    "radarInstallDate": "2021-04-06T16:22:33",
-    "radarPlace": "BADEN",
+    "radarInstallDate": "2021-04-06T16:09:16",
+    "radarPlace": [],
     "radarRoad": "RD101",
     "radarTronconKm": [],
     "radarType": [

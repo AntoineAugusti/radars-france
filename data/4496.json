@@ -1,14 +1,14 @@
 {
-    "nid": "20026",
-    "uuid": "87bd1292-c9c1-4898-a4e5-7bdd46185a70",
-    "vid": "20026",
+    "nid": "23912",
+    "uuid": "067795e1-5132-407f-a3dc-967513f86be6",
+    "vid": "23912",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4496",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST PRIEST VERS RILLIEUX LA PAPE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.97613 45.77717)",
-    "radarInstallDate": "2009-03-20T16:20:18",
-    "radarPlace": "DECINES CHARPIEU",
+    "radarInstallDate": "2009-03-20T16:06:36",
+    "radarPlace": [],
     "radarRoad": "RN346",
     "radarTronconKm": [],
     "radarType": [

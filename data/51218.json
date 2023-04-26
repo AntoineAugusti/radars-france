@@ -1,14 +1,14 @@
 {
-    "nid": "20862",
-    "uuid": "a784b572-e726-4c14-ae78-7881dbf161d8",
-    "vid": "20862",
+    "nid": "24787",
+    "uuid": "b47aa0a4-79b7-4888-9654-c74f7cbf24cf",
+    "vid": "24787",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51218",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LURE vers MELISEY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.522589 47.711803)",
-    "radarInstallDate": "2020-02-21T16:22:08",
-    "radarPlace": "ST GERMAIN",
+    "radarInstallDate": "2020-02-21T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RD486",
     "radarTronconKm": [],
     "radarType": [

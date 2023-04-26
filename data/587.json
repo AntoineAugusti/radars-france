@@ -1,14 +1,14 @@
 {
-    "nid": "19794",
-    "uuid": "df79ce2f-ece5-4b95-b097-dc71d67b23fe",
-    "vid": "19794",
+    "nid": "23717",
+    "uuid": "20783fd8-8c14-4f8d-9a27-693e6cdf7745",
+    "vid": "23717",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "587",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS EVRY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.37065 48.71969)",
-    "radarInstallDate": "2005-10-10T16:19:55",
-    "radarPlace": "PARAY VIEILLE POSTE",
+    "radarInstallDate": "2005-10-10T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

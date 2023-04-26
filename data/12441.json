@@ -1,14 +1,14 @@
 {
-    "nid": "21715",
-    "uuid": "979e85a1-9ddd-4ba1-8d8b-4af4a43efbe4",
-    "vid": "21715",
+    "nid": "23383",
+    "uuid": "1ae21238-f2b3-4f35-8565-880a43ba0f63",
+    "vid": "23383",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12441",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VALENCIENNES vers MAUBEUGE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.60362 50.319937)",
-    "radarInstallDate": "2016-07-11T16:25:03",
-    "radarPlace": "CURGIES",
+    "radarInstallDate": "2016-07-11T16:05:46",
+    "radarPlace": [],
     "radarRoad": "RD649",
     "radarTronconKm": [],
     "radarType": [

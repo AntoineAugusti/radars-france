@@ -1,14 +1,14 @@
 {
-    "nid": "21417",
-    "uuid": "c9c05dc8-eebf-4ac4-9f7c-40cee73365b0",
-    "vid": "21417",
+    "nid": "25446",
+    "uuid": "bcca9a32-80e4-4946-be1e-09e021c749b2",
+    "vid": "25446",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55415",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LAVELANET vers MIREPOIX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.89735 43.03484)",
-    "radarInstallDate": "2021-06-29T16:23:56",
-    "radarPlace": "ST QUENTIN LA TOUR",
+    "radarInstallDate": "2021-06-29T16:11:03",
+    "radarPlace": [],
     "radarRoad": "RD625",
     "radarTronconKm": [],
     "radarType": [

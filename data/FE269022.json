@@ -1,14 +1,14 @@
 {
-    "nid": "22298",
-    "uuid": "2806b0dd-7359-4c81-a3bc-94c31bd8112c",
-    "vid": "22298",
+    "nid": "25860",
+    "uuid": "e52d3f0f-283f-41d8-b58b-88e278142b92",
+    "vid": "25860",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE269022",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Francheville vers Ecully",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.77445 45.75788)",
-    "radarInstallDate": "2012-03-09T16:27:20",
-    "radarPlace": "TASSIN LA DEMI LUNE",
+    "radarInstallDate": "2012-03-09T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

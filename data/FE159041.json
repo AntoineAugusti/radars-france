@@ -1,14 +1,14 @@
 {
-    "nid": "22003",
-    "uuid": "8e27ef77-165e-4101-9d84-6bc75dc27876",
-    "vid": "22003",
+    "nid": "25638",
+    "uuid": "18d62fec-f6fb-4e9e-a4ce-7297564ab04b",
+    "vid": "25638",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740705",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE159041",
-    "created": "1637229178",
-    "changed": "1675869961",
+    "created": "1681740705",
+    "changed": "1681740705",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.34978 51.03116)",
-    "radarInstallDate": "2012-01-30T16:26:08",
-    "radarPlace": "DUNKERQUE",
+    "radarInstallDate": "2012-01-30T16:11:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22174",
-    "uuid": "72e87233-74d0-4198-87cf-63f3179f12d6",
-    "vid": "22174",
+    "nid": "25789",
+    "uuid": "ecd72c25-0e35-445a-a6b9-b981704b368f",
+    "vid": "25789",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE194021",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Province vers Paris",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.44562 48.72769)",
-    "radarInstallDate": "2011-04-04T16:26:50",
-    "radarPlace": "VILLENEUVE ST GEORGES",
+    "radarInstallDate": "2011-04-04T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22598",
-    "uuid": "f4149bc0-69be-4705-a771-f03f1a6ef4b8",
-    "vid": "22598",
+    "nid": "26123",
+    "uuid": "3fc384c2-27e3-47b5-a4c6-f6cf6dc64f32",
+    "vid": "26123",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20008",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "St Antoine de Ficalba vers Pujols",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.71799 44.3661)",
-    "radarInstallDate": "2012-10-19T10:53:35",
+    "radarInstallDate": "2012-10-19T16:17:04",
     "radarPlace": "PUJOLS",
-    "radarRoad": "RN21",
+    "radarRoad": "RN 21",
     "radarTronconKm": "3,4",
     "radarType": [
         {

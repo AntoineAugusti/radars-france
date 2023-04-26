@@ -1,14 +1,14 @@
 {
-    "nid": "22149",
-    "uuid": "f06c1bcd-5ca1-42d3-85eb-05968171138c",
-    "vid": "22149",
+    "nid": "25765",
+    "uuid": "5cab6e79-87f3-4bcf-ae7c-7a28410ab0ec",
+    "vid": "25765",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE191008",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avenue De Gaulle vers Boulevard Li\u00e9vain",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.2987 48.69568)",
-    "radarInstallDate": "2010-10-20T16:26:43",
-    "radarPlace": "LONGJUMEAU",
+    "radarInstallDate": "2010-10-20T16:12:23",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

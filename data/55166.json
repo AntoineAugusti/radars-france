@@ -1,14 +1,14 @@
 {
-    "nid": "21202",
-    "uuid": "a75ebd12-87cc-4432-ac9f-18e1c27d3e65",
-    "vid": "21202",
+    "nid": "25213",
+    "uuid": "2980bce5-5204-4e3b-9df1-1625e0374cc8",
+    "vid": "25213",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55166",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LACABAREDE vers SAINT AMANS SOULT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.538703 43.469929)",
-    "radarInstallDate": "2020-07-20T16:23:13",
-    "radarPlace": "SAUVETERRE",
+    "radarInstallDate": "2020-07-20T16:10:07",
+    "radarPlace": [],
     "radarRoad": "RD612",
     "radarTronconKm": [],
     "radarType": [

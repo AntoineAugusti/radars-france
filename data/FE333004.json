@@ -1,14 +1,14 @@
 {
-    "nid": "22448",
-    "uuid": "df2911c5-1207-4d09-be16-296c8bec1f18",
-    "vid": "22448",
+    "nid": "25964",
+    "uuid": "e7378076-a7d3-4f05-8bab-fc93bedceb59",
+    "vid": "25964",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE333004",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avenue Emile Counord vers le Quai des Chartrons",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.57261 44.85439)",
-    "radarInstallDate": "2009-07-17T16:28:02",
-    "radarPlace": "BORDEAUX",
+    "radarInstallDate": "2009-07-17T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

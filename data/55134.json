@@ -1,14 +1,14 @@
 {
-    "nid": "21170",
-    "uuid": "63c9d7c2-47a6-4c59-bb4e-6e1ab9928e08",
-    "vid": "21170",
+    "nid": "25181",
+    "uuid": "f6e5156d-7584-4838-bf9b-a502dff7a37a",
+    "vid": "25181",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55134",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA GARDE vers LA LONDE LES MAURES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.17853 43.125)",
-    "radarInstallDate": "2021-02-24T16:23:07",
-    "radarPlace": "HYERES",
+    "radarInstallDate": "2021-02-24T16:10:01",
+    "radarPlace": [],
     "radarRoad": "RD98",
     "radarTronconKm": [],
     "radarType": [

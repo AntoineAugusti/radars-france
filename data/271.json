@@ -1,14 +1,14 @@
 {
-    "nid": "19704",
-    "uuid": "f491afe5-b79d-4aaa-8606-ace0b668fd8a",
-    "vid": "19704",
+    "nid": "23635",
+    "uuid": "8377f839-f3f8-48d3-9f64-47e7122e4969",
+    "vid": "23635",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "271",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TALANT VERS ST APOLLINAIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.03369 47.33701)",
-    "radarInstallDate": "2004-12-10T16:19:48",
-    "radarPlace": "FONTAINE LES DIJON",
+    "radarInstallDate": "2004-12-10T16:06:09",
+    "radarPlace": [],
     "radarRoad": "48, BD DES ALLOBROGES",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21867",
-    "uuid": "1869839d-2607-4c10-a4c3-690bd032bd0a",
-    "vid": "21867",
+    "nid": "23548",
+    "uuid": "71359b47-be12-453d-a7e4-d92afbb3db79",
+    "vid": "23548",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740359",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12648",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740359",
+    "changed": "1681740359",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COLMAR vers MULHOUSE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.37191 47.971316)",
-    "radarInstallDate": "2021-04-21T16:25:38",
-    "radarPlace": "OBERHERGHEIM",
+    "radarInstallDate": "2021-04-21T16:06:00",
+    "radarPlace": [],
     "radarRoad": "A35",
     "radarTronconKm": [],
     "radarType": [

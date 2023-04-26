@@ -1,14 +1,14 @@
 {
-    "nid": "22040",
-    "uuid": "7c9e66f9-931c-46af-9f77-14f75e5efa86",
-    "vid": "22040",
+    "nid": "25657",
+    "uuid": "7645d704-433d-49ed-94d4-fdcbc80bec51",
+    "vid": "25657",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162016",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ESQUERCHIN vers BILLY MONTIGNY",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.93464 50.41011)",
-    "radarInstallDate": "2012-03-29T16:26:21",
-    "radarPlace": "HENIN BEAUMONT",
+    "radarInstallDate": "2012-03-29T16:11:59",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

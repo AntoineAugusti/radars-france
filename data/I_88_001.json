@@ -1,14 +1,14 @@
 {
-    "nid": "22892",
-    "uuid": "1497b6d4-7050-4c06-a4f3-5f7f78967bbf",
-    "vid": "22892",
+    "nid": "26452",
+    "uuid": "4e3d40c3-3982-4843-9a7b-18bac8a6b92d",
+    "vid": "26452",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741082",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_88_001",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741082",
+    "changed": "1681741082",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "88 - Vosges",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.202152 6.482321)",
-    "radarInstallDate": "2017-10-09T10:53:49",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.588284 49.052998)",
+    "radarInstallDate": "2017-10-06T16:18:03",
     "radarPlace": "-",
     "radarRoad": "D46C, D246, D66, D52, D46, D10, D159, D46B, D46A",
-    "radarTronconKm": "20.91",
+    "radarTronconKm": "20,9",
     "radarType": [
         {
             "tid": "19",

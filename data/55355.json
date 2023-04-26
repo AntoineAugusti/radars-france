@@ -1,14 +1,14 @@
 {
-    "nid": "21381",
-    "uuid": "5815ec06-8835-4a1a-ac57-32781d18bb4d",
-    "vid": "21381",
+    "nid": "25395",
+    "uuid": "1f67b53e-203f-4cb4-8217-0f2053f77aad",
+    "vid": "25395",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55355",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "URT vers BAYONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.367499 43.492683)",
-    "radarInstallDate": "2020-12-21T16:23:50",
-    "radarPlace": "URCUIT",
+    "radarInstallDate": "2020-12-21T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD261",
     "radarTronconKm": [],
     "radarType": [

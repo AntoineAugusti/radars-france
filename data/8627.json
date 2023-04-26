@@ -1,14 +1,14 @@
 {
-    "nid": "20370",
-    "uuid": "9994440b-e776-4e9f-886f-9f87bb670692",
-    "vid": "20370",
+    "nid": "24224",
+    "uuid": "2440f1f5-add4-43cf-b86f-a87cda759847",
+    "vid": "24224",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8627",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Paris vers Province",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2014 48.991)",
-    "radarInstallDate": "2010-10-08T16:20:57",
-    "radarPlace": "MONTIGNY LES CORMEILLES",
+    "radarInstallDate": "2010-10-08T16:07:17",
+    "radarPlace": [],
     "radarRoad": "RD14",
     "radarTronconKm": [],
     "radarType": [

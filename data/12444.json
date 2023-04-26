@@ -1,14 +1,14 @@
 {
-    "nid": "21717",
-    "uuid": "7dbb156f-d6e2-4578-80de-548bd3d4aa26",
-    "vid": "21717",
+    "nid": "23385",
+    "uuid": "d2fa66dd-a7ff-4d79-868b-3d6775395fac",
+    "vid": "23385",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12444",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTES vers NIORT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.36723 46.38436)",
-    "radarInstallDate": "2016-07-25T16:25:03",
-    "radarPlace": "ST GELAIS",
+    "radarInstallDate": "2016-07-25T16:05:46",
+    "radarPlace": [],
     "radarRoad": "A83",
     "radarTronconKm": [],
     "radarType": [

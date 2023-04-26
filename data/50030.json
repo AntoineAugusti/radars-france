@@ -1,14 +1,14 @@
 {
-    "nid": "20607",
-    "uuid": "8175e4f2-a14d-4e77-ad58-54607289cdbe",
-    "vid": "20607",
+    "nid": "24523",
+    "uuid": "4c1fd369-8e9b-432c-ba1e-2a588d91675c",
+    "vid": "24523",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50030",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE GOSIER vers POINTE A PITRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.516 16.2194)",
-    "radarInstallDate": "2019-10-28T16:21:30",
-    "radarPlace": "LE GOSIER",
+    "radarInstallDate": "2019-10-28T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

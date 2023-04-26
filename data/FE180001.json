@@ -1,14 +1,14 @@
 {
-    "nid": "22128",
-    "uuid": "c3dcc989-68dd-45ea-882b-d15e3973922e",
-    "vid": "22128",
+    "nid": "25744",
+    "uuid": "19eb665d-3098-4eb6-8977-18dc3d945316",
+    "vid": "25744",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE180001",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Cagny vers Amiens",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.32955 49.87529)",
-    "radarInstallDate": "2011-02-28T16:26:36",
-    "radarPlace": "AMIENS",
+    "radarInstallDate": "2011-02-28T16:12:22",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

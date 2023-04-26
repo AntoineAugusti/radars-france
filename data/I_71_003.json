@@ -1,14 +1,14 @@
 {
-    "nid": "22859",
-    "uuid": "45be0c04-01cd-4bde-a993-6b44ef4e004e",
-    "vid": "22859",
+    "nid": "26409",
+    "uuid": "90e950fe-6baa-466d-bfb8-70f6dfa4328b",
+    "vid": "26409",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229226",
+    "revisionTimestamp": "1681741069",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_71_003",
-    "created": "1637229226",
-    "changed": "1637229226",
+    "created": "1681741069",
+    "changed": "1681741069",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "71 - Sa\u00f4ne-et-Loire",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (46.785299 4.910532)",
-    "radarInstallDate": "2017-10-09T10:53:46",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.84999 45.067463)",
+    "radarInstallDate": "2017-10-05T16:17:51",
     "radarPlace": "-",
     "radarRoad": "D973, D73, D292, D503, D35, D454, D203, D72, D293, D996, D970, D139, D673, , D63, D384, D115",
-    "radarTronconKm": "35.33",
+    "radarTronconKm": "35,3",
     "radarType": [
         {
             "tid": "19",

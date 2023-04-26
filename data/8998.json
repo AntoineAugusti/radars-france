@@ -1,14 +1,14 @@
 {
-    "nid": "20489",
-    "uuid": "ee8acd70-214c-4781-a309-f6a3d28597c9",
-    "vid": "20489",
+    "nid": "24331",
+    "uuid": "f0e3e244-017c-4018-aa70-a8fe736ea560",
+    "vid": "24331",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8998",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Menton vers Monaco",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.470991 43.758122)",
-    "radarInstallDate": "2012-04-13T16:21:14",
-    "radarPlace": "ROQUEBRUNE CAP MARTIN",
+    "radarInstallDate": "2012-04-13T16:07:32",
+    "radarPlace": [],
     "radarRoad": "Face au n\u00b0 29 de l'avenue Paul Doumer",
     "radarTronconKm": [],
     "radarType": [

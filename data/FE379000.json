@@ -1,14 +1,14 @@
 {
-    "nid": "22570",
-    "uuid": "771fbbe0-4859-469b-af2f-3dd023eb1f9b",
-    "vid": "22570",
+    "nid": "26034",
+    "uuid": "754a4d63-7787-4bfd-8158-036ff2ec82ac",
+    "vid": "26034",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE379000",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Magn\u00e9 vers Niort",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.50317 46.31552)",
-    "radarInstallDate": "2010-12-28T16:28:37",
-    "radarPlace": "NIORT",
+    "radarInstallDate": "2010-12-28T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21189",
-    "uuid": "abcf6800-1629-4b2e-975d-12c083b1a710",
-    "vid": "21189",
+    "nid": "25200",
+    "uuid": "299886f5-db62-4112-ac48-23129ae4ea1a",
+    "vid": "25200",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55153",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALES vers BAGNOLS SUR CEZE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.2819 44.115)",
-    "radarInstallDate": "2019-12-16T16:23:08",
-    "radarPlace": "SEYNES",
+    "radarInstallDate": "2019-12-16T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD6",
     "radarTronconKm": [],
     "radarType": [

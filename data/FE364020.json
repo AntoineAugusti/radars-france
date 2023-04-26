@@ -1,14 +1,14 @@
 {
-    "nid": "22533",
-    "uuid": "9c6068a3-b9e7-4e09-94d7-b98726f8ec4c",
-    "vid": "22533",
+    "nid": "26013",
+    "uuid": "ceff5de5-915b-4f6b-ac30-bded7b5660a2",
+    "vid": "26013",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364020",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LESCAR vers PAU",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.41791 43.3139)",
-    "radarInstallDate": "2010-10-11T16:28:28",
-    "radarPlace": "LONS",
+    "radarInstallDate": "2010-10-11T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

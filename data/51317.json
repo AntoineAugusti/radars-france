@@ -1,14 +1,14 @@
 {
-    "nid": "20955",
-    "uuid": "1ec03170-0e3c-4cfc-a43f-1908b4cf0ee2",
-    "vid": "20955",
+    "nid": "24882",
+    "uuid": "33d89bb3-3491-49c1-b919-4522cda5d57e",
+    "vid": "24882",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51317",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COMPIEGNE vers SOISSONS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.06283 49.396919)",
-    "radarInstallDate": "2021-05-14T16:22:23",
-    "radarPlace": "JAULZY",
+    "radarInstallDate": "2021-05-14T16:09:04",
+    "radarPlace": [],
     "radarRoad": "RN31",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21220",
-    "uuid": "8d0d113b-a4a8-42f3-8f27-f41e22c11e32",
-    "vid": "21220",
+    "nid": "25231",
+    "uuid": "c6bfdebe-b55f-442c-a4eb-5155552f5d60",
+    "vid": "25231",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55184",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers FRONTON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.4068 43.767)",
-    "radarInstallDate": "2021-01-13T16:23:14",
-    "radarPlace": "VILLENEUVE LES BOULOC",
+    "radarInstallDate": "2021-01-13T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RD4",
     "radarTronconKm": [],
     "radarType": [

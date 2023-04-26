@@ -1,14 +1,14 @@
 {
-    "nid": "20420",
-    "uuid": "636270b3-53db-4e87-811f-ecd955705ffa",
-    "vid": "20420",
+    "nid": "24267",
+    "uuid": "7c238822-1152-4caf-90ad-befff235ee14",
+    "vid": "24267",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8782",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUVAIS vers AMIENS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.25 49.778)",
-    "radarInstallDate": "2010-11-10T16:21:05",
-    "radarPlace": "ST SAUFLIEU",
+    "radarInstallDate": "2010-11-10T16:07:22",
+    "radarPlace": [],
     "radarRoad": "RD1001",
     "radarTronconKm": [],
     "radarType": [

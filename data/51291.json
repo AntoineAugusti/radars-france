@@ -1,14 +1,14 @@
 {
-    "nid": "20930",
-    "uuid": "031c6ec9-58e2-46e8-bf35-32cdfc320634",
-    "vid": "20930",
+    "nid": "24857",
+    "uuid": "ab581d4b-d3db-4d54-bc81-5815fb8f73e2",
+    "vid": "24857",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51291",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "88-VOSGES",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "MOYENMOUTIER vers SENONES",
+    "radarDirection": "SENONES vers MOYENMOUTIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.944089 48.385123)",
-    "radarInstallDate": "2020-12-08T16:22:22",
-    "radarPlace": "MOYENMOUTIER",
+    "radarInstallDate": "2020-12-08T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD424",
     "radarTronconKm": [],
     "radarType": [

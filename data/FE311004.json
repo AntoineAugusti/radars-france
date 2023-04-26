@@ -1,14 +1,14 @@
 {
-    "nid": "22366",
-    "uuid": "16794b7b-8921-498f-a2dc-a93d9ea3f050",
-    "vid": "22366",
+    "nid": "25893",
+    "uuid": "83196353-0111-46fe-b69f-f5754cff9912",
+    "vid": "25893",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229194",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE311004",
-    "created": "1637229194",
-    "changed": "1675870051",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Narbonne vers Toulouse",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.3526 43.21639)",
-    "radarInstallDate": "2011-04-05T16:27:39",
-    "radarPlace": "CARCASSONNE",
+    "radarInstallDate": "2011-04-05T16:12:58",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

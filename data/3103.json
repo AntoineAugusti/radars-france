@@ -1,14 +1,14 @@
 {
-    "nid": "19898",
-    "uuid": "169f329c-9bd4-4ba0-b91e-cfc1d0347e70",
-    "vid": "19898",
+    "nid": "23797",
+    "uuid": "45bf8343-41d8-4435-ad03-bfd189abff79",
+    "vid": "23797",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3103",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "REDON vers RENNES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.93972 47.76133)",
-    "radarInstallDate": "2006-01-16T16:20:05",
-    "radarPlace": "ST JUST",
+    "radarInstallDate": "2006-01-16T16:06:25",
+    "radarPlace": [],
     "radarRoad": "Voie parall\u00e8le RD177",
     "radarTronconKm": [],
     "radarType": [

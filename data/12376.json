@@ -1,14 +1,14 @@
 {
-    "nid": "21656",
-    "uuid": "15db6440-bfa4-4f4e-abc4-7cfc1485261a",
-    "vid": "21656",
+    "nid": "23324",
+    "uuid": "032cddc3-ac5e-48a3-95ec-0b1e7659a20d",
+    "vid": "23324",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12376",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON vers CHAMBERY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.82376 45.5784)",
-    "radarInstallDate": "2016-05-06T16:24:49",
-    "radarPlace": "NANCES",
+    "radarInstallDate": "2016-05-06T16:05:42",
+    "radarPlace": [],
     "radarRoad": "A43",
     "radarTronconKm": [],
     "radarType": [

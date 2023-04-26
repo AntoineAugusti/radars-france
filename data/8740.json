@@ -1,14 +1,14 @@
 {
-    "nid": "20406",
-    "uuid": "362990f6-77c3-460d-b845-4861314f3506",
-    "vid": "20406",
+    "nid": "24255",
+    "uuid": "33474a07-8b22-4ac2-99c9-f79a36d73b69",
+    "vid": "24255",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8740",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Porte de la Muette vers Porte Maillot",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.268784 48.866458)",
-    "radarInstallDate": "2013-07-08T16:21:02",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2013-07-08T16:07:22",
+    "radarPlace": [],
     "radarRoad": "Bd P\u00e9riph\u00e9rique Int\u00e9rieur - Porte Dauphine",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20702",
-    "uuid": "428eafb2-2d04-4940-b0e8-a852cdc9fd8a",
-    "vid": "20702",
+    "nid": "24628",
+    "uuid": "837cece6-ab97-43d1-a9eb-66f61b196371",
+    "vid": "24628",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51054",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LOUDEAC vers MERDRIGNAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.619712 48.170004)",
-    "radarInstallDate": "2020-02-06T16:21:42",
-    "radarPlace": "PLEMET",
+    "radarInstallDate": "2020-02-06T16:08:19",
+    "radarPlace": [],
     "radarRoad": "RN164",
     "radarTronconKm": [],
     "radarType": [

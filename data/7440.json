@@ -1,14 +1,14 @@
 {
-    "nid": "20325",
-    "uuid": "f207a004-661a-4e53-8f8e-1a3e3804a4e1",
-    "vid": "20325",
+    "nid": "24183",
+    "uuid": "b7b1e462-9077-4f9d-8e4b-056a695e69e5",
+    "vid": "24183",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7440",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Alen\u00e7on vers Rouen",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.16232 48.53353)",
-    "radarInstallDate": "2008-04-14T16:20:50",
-    "radarPlace": "ST GERVAIS DU PERRON",
+    "radarInstallDate": "2008-04-14T16:07:10",
+    "radarPlace": [],
     "radarRoad": "A28",
     "radarTronconKm": [],
     "radarType": [

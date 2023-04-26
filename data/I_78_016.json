@@ -1,14 +1,14 @@
 {
-    "nid": "22881",
-    "uuid": "417b7bfb-33bd-4681-8dd1-0cb5879b20a7",
-    "vid": "22881",
+    "nid": "26436",
+    "uuid": "6c592197-ca22-4282-a3b2-2d911038c3fe",
+    "vid": "26436",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741077",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_78_016",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741077",
+    "changed": "1681741077",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "78 - Yvelines",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (48.710783 1.869887)",
-    "radarInstallDate": "2018-07-18T10:53:49",
-    "radarPlace": "-",
-    "radarRoad": "D191",
-    "radarTronconKm": "18.10",
+    "radarDirection": "44.018318, 0.353847",
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": [],
+    "radarInstallDate": "2021-03-02T16:17:58",
+    "radarPlace": "D191\"",
+    "radarRoad": "\"300",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

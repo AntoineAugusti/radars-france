@@ -1,14 +1,14 @@
 {
-    "nid": "22138",
-    "uuid": "a0b0e55e-9f7a-41d0-aac5-fd10b088d4bb",
-    "vid": "22138",
+    "nid": "25754",
+    "uuid": "7f52d24c-aa84-42e4-82c1-d27f8fb27cd1",
+    "vid": "25754",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE180012",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Place du Mar\u00e9chal Foch vers le Carrefour de la Lib\u00e9ration",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.28117 49.88915)",
-    "radarInstallDate": "2011-06-02T16:26:42",
-    "radarPlace": "AMIENS",
+    "radarInstallDate": "2011-06-02T16:12:23",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

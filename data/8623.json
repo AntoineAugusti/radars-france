@@ -1,14 +1,14 @@
 {
-    "nid": "20368",
-    "uuid": "58320aea-5832-4ff4-a369-16697a669882",
-    "vid": "20368",
+    "nid": "24222",
+    "uuid": "f8e06c50-7f89-4413-9695-bbc18bdf0b2d",
+    "vid": "24222",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8623",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Corbie vers Amiens",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.4868 49.897)",
-    "radarInstallDate": "2010-09-23T16:20:57",
-    "radarPlace": "AUBIGNY",
+    "radarInstallDate": "2010-09-23T16:07:15",
+    "radarPlace": [],
     "radarRoad": "RD1",
     "radarTronconKm": [],
     "radarType": [

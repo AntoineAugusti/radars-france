@@ -1,14 +1,14 @@
 {
-    "nid": "21101",
-    "uuid": "5e4b947f-f4a7-4822-9814-fc6996507b5f",
-    "vid": "21101",
+    "nid": "25114",
+    "uuid": "cd8d4857-ce32-4e9d-94ef-ab559e5dea85",
+    "vid": "25114",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55064",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ISTRES vers MIRAMAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.955922 43.542804)",
-    "radarInstallDate": "2019-11-08T16:22:50",
-    "radarPlace": "ISTRES",
+    "radarInstallDate": "2019-11-08T16:09:48",
+    "radarPlace": [],
     "radarRoad": "RN569",
     "radarTronconKm": [],
     "radarType": [

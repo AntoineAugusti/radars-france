@@ -1,14 +1,14 @@
 {
-    "nid": "21335",
-    "uuid": "8e6b0caf-aa23-41e9-bfa7-eea515e4d9db",
-    "vid": "21335",
+    "nid": "25349",
+    "uuid": "739702df-2711-48dd-9c2e-389f77352d49",
+    "vid": "25349",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55307",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GEX vers FERNEY VOLTAIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.066132 46.306553)",
-    "radarInstallDate": "2020-10-09T16:23:38",
-    "radarPlace": "CESSY",
+    "radarInstallDate": "2020-10-09T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD1005",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21778",
-    "uuid": "d7cd38f9-6546-47c1-ad70-d70245424605",
-    "vid": "21778",
+    "nid": "23447",
+    "uuid": "920574f8-4533-4ff8-9e4b-28ddde8d88f5",
+    "vid": "23447",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12516",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RETHEL vers CHARLEVILLE MEZIERES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.4246 49.534)",
-    "radarInstallDate": "2016-11-14T16:25:17",
-    "radarPlace": "DOUX",
+    "radarInstallDate": "2016-11-14T16:05:51",
+    "radarPlace": [],
     "radarRoad": "A34",
     "radarTronconKm": [],
     "radarType": [

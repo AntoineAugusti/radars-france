@@ -1,14 +1,14 @@
 {
-    "nid": "20846",
-    "uuid": "d382844e-3e71-4c61-b510-a273d7f92d80",
-    "vid": "20846",
+    "nid": "24770",
+    "uuid": "1aa25840-f33e-4a32-8673-5b70fdc871cc",
+    "vid": "24770",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51199",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TROYES vers SENS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.699671 48.242516)",
-    "radarInstallDate": "2020-06-17T16:22:07",
-    "radarPlace": "PAISY COSDON",
+    "radarInstallDate": "2020-06-17T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD660",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22573",
-    "uuid": "f61f55ae-1d1c-474d-8ee5-2bd3afa19151",
-    "vid": "22573",
+    "nid": "26037",
+    "uuid": "dc01771f-cf73-4ba3-91e5-5767f3150140",
+    "vid": "26037",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE379009",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Parthenay vers Niort",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.44639 46.33938)",
-    "radarInstallDate": "2010-12-28T16:28:37",
-    "radarPlace": "NIORT",
+    "radarInstallDate": "2010-12-28T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22137",
-    "uuid": "40c3d4c7-06bf-4545-b5bc-731ee03bd7d5",
-    "vid": "22137",
+    "nid": "25753",
+    "uuid": "b1e81af1-dde8-4992-a93e-adda4f139c53",
+    "vid": "25753",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE180011",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUVAIS vers ABBEVILLE",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.2789 49.86795)",
-    "radarInstallDate": "2012-03-09T16:26:42",
-    "radarPlace": "AMIENS",
+    "radarInstallDate": "2012-03-09T16:12:23",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

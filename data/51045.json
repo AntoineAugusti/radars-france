@@ -1,14 +1,14 @@
 {
-    "nid": "20693",
-    "uuid": "093c3c52-4e35-4fbd-a582-10ae42d1081e",
-    "vid": "20693",
+    "nid": "24619",
+    "uuid": "cf404fb3-3c29-46ca-b99f-56354f7c4215",
+    "vid": "24619",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51045",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIGNIERES vers SAINT AMANT MONTROND",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.362512 46.736161)",
-    "radarInstallDate": "2019-09-02T16:21:42",
-    "radarPlace": "MARCAIS",
+    "radarInstallDate": "2019-09-02T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD925",
     "radarTronconKm": [],
     "radarType": [

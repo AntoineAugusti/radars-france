@@ -1,14 +1,14 @@
 {
-    "nid": "21006",
-    "uuid": "768b69de-627e-4c28-8290-2c1a8b72ffdb",
-    "vid": "21006",
+    "nid": "24949",
+    "uuid": "bd9fd091-0fbb-4121-a218-3d2ca97d27a6",
+    "vid": "24949",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51389",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTOIS LA MONTAGNE vers ROMBAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.067102 49.23847)",
-    "radarInstallDate": "2021-05-19T16:22:33",
-    "radarPlace": "ROMBAS",
+    "radarInstallDate": "2021-05-19T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD181",
     "radarTronconKm": [],
     "radarType": [

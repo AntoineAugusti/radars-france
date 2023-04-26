@@ -1,14 +1,14 @@
 {
-    "nid": "22528",
-    "uuid": "b413692c-590e-466c-a6f0-184dd4a1a496",
-    "vid": "22528",
+    "nid": "26008",
+    "uuid": "3dfc981f-bb25-45a4-b86a-2de17fb965d2",
+    "vid": "26008",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364005",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Biarritz vers Bayonne",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.53665 43.487)",
-    "radarInstallDate": "2010-05-19T16:28:28",
-    "radarPlace": "ANGLET",
+    "radarInstallDate": "2010-05-19T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

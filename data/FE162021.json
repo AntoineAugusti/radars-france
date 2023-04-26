@@ -1,14 +1,14 @@
 {
-    "nid": "22044",
-    "uuid": "7398a8cb-cf01-40d6-9ecb-3f5bde5b3251",
-    "vid": "22044",
+    "nid": "25661",
+    "uuid": "283374dc-0393-4610-9722-e9b52c85adba",
+    "vid": "25661",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162021",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Av. Antoine de Saint-Exup\u00e9ry vers Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.88849 50.94613)",
-    "radarInstallDate": "2012-12-20T16:26:21",
-    "radarPlace": "CALAIS",
+    "radarInstallDate": "2012-12-20T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

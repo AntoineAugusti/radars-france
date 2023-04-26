@@ -1,14 +1,14 @@
 {
-    "nid": "21124",
-    "uuid": "1fec8bef-5693-479f-8fa7-11dbd2aa030b",
-    "vid": "21124",
+    "nid": "25135",
+    "uuid": "ee29a476-fc2c-4e0e-a39d-fa88e87ed2fe",
+    "vid": "25135",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55087",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRION PRES THOUET vers THOUARS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.19585 47.026481)",
-    "radarInstallDate": "2019-11-04T16:22:55",
-    "radarPlace": "LOUZY",
+    "radarInstallDate": "2019-11-04T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD938",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22379",
-    "uuid": "eced4e76-f9f2-4ed6-b862-9b02954ba7d2",
-    "vid": "22379",
+    "nid": "25904",
+    "uuid": "6cfdd3f0-1fcd-4d91-8965-7fe4eb52d959",
+    "vid": "25904",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316028",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Segonzac vers Cognac",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.30645 45.67241)",
-    "radarInstallDate": "2010-09-17T16:27:46",
-    "radarPlace": "CHATEAUBERNARD",
+    "radarInstallDate": "2010-09-17T16:13:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

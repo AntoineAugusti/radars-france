@@ -1,14 +1,14 @@
 {
-    "nid": "20219",
-    "uuid": "de377ae8-16e6-4b74-a901-4dade2e883ae",
-    "vid": "20219",
+    "nid": "24091",
+    "uuid": "f14b1631-c547-4be6-865a-5bc76d10fd24",
+    "vid": "24091",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7012",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "chatellerault vers richelieu",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.49934 46.84953)",
-    "radarInstallDate": "2007-12-11T16:20:38",
-    "radarPlace": "CHATELLERAULT",
+    "radarInstallDate": "2007-12-11T16:06:58",
+    "radarPlace": [],
     "radarRoad": "RD749",
     "radarTronconKm": [],
     "radarType": [

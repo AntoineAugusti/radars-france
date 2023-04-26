@@ -1,14 +1,14 @@
 {
-    "nid": "20087",
-    "uuid": "9cc1f239-4d0f-4363-9dd3-bb44456ccd91",
-    "vid": "20087",
+    "nid": "23971",
+    "uuid": "d7f7722d-c94b-44eb-b949-03b93addeba4",
+    "vid": "23971",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "5112",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rueil vers Versailles",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.14524 48.83959)",
-    "radarInstallDate": "2009-06-26T16:20:24",
-    "radarPlace": "LA CELLE ST CLOUD",
+    "radarInstallDate": "2009-06-26T16:06:43",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

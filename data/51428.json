@@ -1,14 +1,14 @@
 {
-    "nid": "21035",
-    "uuid": "401b88c5-d8e2-48b1-af46-e7b98631b610",
-    "vid": "21035",
+    "nid": "24987",
+    "uuid": "03d01d6a-5a7c-463f-a1e6-aabfe2075e82",
+    "vid": "24987",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51428",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROUEN vers DUCLAIR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.950324 49.469401)",
-    "radarInstallDate": "2021-08-25T16:22:38",
-    "radarPlace": "HENOUVILLE",
+    "radarInstallDate": "2021-08-25T16:09:23",
+    "radarPlace": [],
     "radarRoad": "RD 982",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22596",
-    "uuid": "1b1d6b38-f3b6-40a3-9dad-82945f5ddf53",
-    "vid": "22596",
+    "nid": "26121",
+    "uuid": "87d0b599-bcc1-43d3-848c-361be4008c28",
+    "vid": "26121",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20006",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "Vallorbe vers Nancy",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.010006 47.215305)",
-    "radarInstallDate": "2012-08-25T10:53:35",
+    "radarInstallDate": "2012-08-25T16:17:04",
     "radarPlace": "BEURE",
     "radarRoad": "RN57",
     "radarTronconKm": "1,8",

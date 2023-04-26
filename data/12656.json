@@ -1,14 +1,14 @@
 {
-    "nid": "21874",
-    "uuid": "244020bd-84fa-4d6f-8ba8-b0b9218e87fc",
-    "vid": "21874",
+    "nid": "23555",
+    "uuid": "4bbaa48f-c0cc-425d-a5e0-41e3cde44da7",
+    "vid": "23555",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740359",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12656",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740359",
+    "changed": "1681740359",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CLERMONT FERRAND vers SAINT ETIENNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.579395 45.884318)",
-    "radarInstallDate": "2020-11-27T16:25:39",
-    "radarPlace": "THIERS",
+    "radarInstallDate": "2020-11-27T16:06:01",
+    "radarPlace": [],
     "radarRoad": "A89",
     "radarTronconKm": [],
     "radarType": [

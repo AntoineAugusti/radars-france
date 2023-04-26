@@ -1,14 +1,14 @@
 {
-    "nid": "21463",
-    "uuid": "03a24c2c-9053-4608-b03b-c59338f17ee4",
-    "vid": "21463",
+    "nid": "23136",
+    "uuid": "da05f8b4-de06-4784-ad8b-ef580f4593a9",
+    "vid": "23136",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12055",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGERS vers TOURS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.066891 47.343933)",
-    "radarInstallDate": "2013-07-22T16:24:04",
-    "radarPlace": "VIVY",
+    "radarInstallDate": "2013-07-22T16:05:29",
+    "radarPlace": [],
     "radarRoad": "A85",
     "radarTronconKm": [],
     "radarType": [

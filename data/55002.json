@@ -1,14 +1,14 @@
 {
-    "nid": "21040",
-    "uuid": "d74a9f18-9035-40ea-bd81-af66f52d724b",
-    "vid": "21040",
+    "nid": "25053",
+    "uuid": "f4216fdd-3167-4ad2-801d-96d04261732a",
+    "vid": "25053",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740570",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55002",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740570",
+    "changed": "1681740570",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LORMONT vers VILLENAVE D ORNON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.50204 44.844571)",
-    "radarInstallDate": "2019-08-07T16:22:38",
-    "radarPlace": "FLOIRAC",
+    "radarInstallDate": "2019-08-07T16:09:35",
+    "radarPlace": [],
     "radarRoad": "RN230",
     "radarTronconKm": [],
     "radarType": [

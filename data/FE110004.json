@@ -1,14 +1,14 @@
 {
-    "nid": "21880",
-    "uuid": "77f34b7b-42e3-4f1c-94c1-b4fa32dc67c9",
-    "vid": "21880",
+    "nid": "25520",
+    "uuid": "21a05bb6-cb6f-4f6d-afc3-7886fa77cf35",
+    "vid": "25520",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740673",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE110004",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740673",
+    "changed": "1681740673",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bd Pompidou vers l'Est",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (4.08385 48.2887)",
-    "radarInstallDate": "2011-06-15T16:25:39",
-    "radarPlace": "TROYES",
+    "radarInstallDate": "2011-06-15T16:11:20",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

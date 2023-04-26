@@ -1,14 +1,14 @@
 {
-    "nid": "22501",
-    "uuid": "c37f6b0b-08b7-4181-b5d4-c4d20efdfda3",
-    "vid": "22501",
+    "nid": "25996",
+    "uuid": "63d5290a-ff8e-4401-bf29-68a54214ab42",
+    "vid": "25996",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE347005",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Toulouse vers Bordeaux",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.62899 44.19424)",
-    "radarInstallDate": "2011-04-04T16:28:19",
-    "radarPlace": "AGEN",
+    "radarInstallDate": "2011-04-04T16:13:33",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

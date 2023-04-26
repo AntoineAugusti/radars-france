@@ -1,14 +1,14 @@
 {
-    "nid": "20152",
-    "uuid": "983046d0-2a26-437c-8cef-cab5d23d7312",
-    "vid": "20152",
+    "nid": "24030",
+    "uuid": "f2a77340-f506-43db-b0ac-ba916d6621c1",
+    "vid": "24030",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6560",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.52507 44.88037)",
-    "radarInstallDate": "2007-03-30T16:20:32",
-    "radarPlace": "LORMONT",
+    "radarInstallDate": "2007-03-30T16:06:50",
+    "radarPlace": [],
     "radarRoad": "A630",
     "radarTronconKm": [],
     "radarType": [

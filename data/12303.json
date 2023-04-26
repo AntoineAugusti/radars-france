@@ -1,14 +1,14 @@
 {
-    "nid": "21604",
-    "uuid": "f00b276b-06ac-47b9-9269-68103664d598",
-    "vid": "21604",
+    "nid": "23273",
+    "uuid": "e01797c2-71d6-4ab6-ae2d-17c860752227",
+    "vid": "23273",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12303",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GONESSE vers VILLEPINTE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.510128 48.967674)",
-    "radarInstallDate": "2018-05-25T16:24:36",
-    "radarPlace": "VILLEPINTE",
+    "radarInstallDate": "2018-05-25T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A104 int\u00e9rieur",
     "radarTronconKm": [],
     "radarType": [

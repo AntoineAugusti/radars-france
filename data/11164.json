@@ -1,14 +1,14 @@
 {
-    "nid": "20543",
-    "uuid": "a3e886cf-2505-482e-b9f3-90c3c135bff6",
-    "vid": "20543",
+    "nid": "24372",
+    "uuid": "d01712ab-367f-4920-819b-0f2b43f87c1c",
+    "vid": "24372",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11164",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MAULEON vers CERIZAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.68316 46.83729)",
-    "radarInstallDate": "2012-11-27T16:21:21",
-    "radarPlace": "CERIZAY",
+    "radarInstallDate": "2012-11-27T16:07:37",
+    "radarPlace": [],
     "radarRoad": "RD744",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20046",
-    "uuid": "b000925c-6298-403a-9da7-4e116a53e159",
-    "vid": "20046",
+    "nid": "23931",
+    "uuid": "8ea99ff3-4c85-49e2-b4c7-dc6e4df7341b",
+    "vid": "23931",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4581",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GUEUGNON vers DIGOIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.04349 46.53839)",
-    "radarInstallDate": "2009-02-05T16:20:20",
-    "radarPlace": "RIGNY SUR ARROUX",
+    "radarInstallDate": "2009-02-05T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD994",
     "radarTronconKm": [],
     "radarType": [

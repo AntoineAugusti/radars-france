@@ -1,14 +1,14 @@
 {
-    "nid": "19983",
-    "uuid": "38bf3c14-c7af-431d-9896-215060e03bbf",
-    "vid": "19983",
+    "nid": "23871",
+    "uuid": "5f0d8b06-6f4c-4040-9b30-9dca532d1d89",
+    "vid": "23871",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4317",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Le Mans vers Laval",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.02107 48.0218)",
-    "radarInstallDate": "2008-11-17T16:20:13",
-    "radarPlace": "COULANS SUR GEE",
+    "radarInstallDate": "2008-11-17T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD357",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22229",
-    "uuid": "d42d22e0-584c-4eb7-a861-5450838834dc",
-    "vid": "22229",
+    "nid": "25829",
+    "uuid": "b7f2ce70-e1c3-4442-b66c-8249681ae415",
+    "vid": "25829",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229188",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE213007",
-    "created": "1637229188",
-    "changed": "1675870018",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "St LOUP vers DROMEL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.41774 43.27617)",
-    "radarInstallDate": "2009-12-05T16:27:05",
-    "radarPlace": "MARSEILLE",
+    "radarInstallDate": "2009-12-05T16:12:40",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

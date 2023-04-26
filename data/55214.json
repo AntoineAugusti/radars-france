@@ -1,14 +1,14 @@
 {
-    "nid": "21249",
-    "uuid": "e12293d3-04bc-43d0-90fd-51db3de5aef8",
-    "vid": "21249",
+    "nid": "25260",
+    "uuid": "5f309263-02f6-4632-b901-193154894b55",
+    "vid": "25260",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55214",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAPTIEUX vers ROQUEFORT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.28801 44.15049)",
-    "radarInstallDate": "2020-03-05T16:23:20",
-    "radarPlace": "RETJONS",
+    "radarInstallDate": "2020-03-05T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD932",
     "radarTronconKm": [],
     "radarType": [

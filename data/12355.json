@@ -1,14 +1,14 @@
 {
-    "nid": "21639",
-    "uuid": "26444728-5b9d-4783-8dd1-958ed1b93afe",
-    "vid": "21639",
+    "nid": "23307",
+    "uuid": "bcc2173c-9766-47ee-bc1d-dc6738b72457",
+    "vid": "23307",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12355",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PONTORSON vers AVRANCHES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.41286 48.59375)",
-    "radarInstallDate": "2016-08-12T16:24:43",
-    "radarPlace": "SERVON",
+    "radarInstallDate": "2016-08-12T16:05:40",
+    "radarPlace": [],
     "radarRoad": "RN175",
     "radarTronconKm": [],
     "radarType": [

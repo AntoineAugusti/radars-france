@@ -1,14 +1,14 @@
 {
-    "nid": "19732",
-    "uuid": "761c0ad9-2f60-4342-aae7-496c20b74554",
-    "vid": "19732",
+    "nid": "23660",
+    "uuid": "27a68d7d-4bd3-473d-b41c-5000cd23db5a",
+    "vid": "23660",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "353",
-    "created": "1637229109",
-    "changed": "1675869590",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALENCON VERS MAYENNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.19704 48.46027)",
-    "radarInstallDate": "2005-08-31T16:19:50",
-    "radarPlace": "PRE EN PAIL ST SAMSON",
+    "radarInstallDate": "2005-08-31T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

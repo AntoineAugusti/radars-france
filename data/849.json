@@ -1,14 +1,14 @@
 {
-    "nid": "19863",
-    "uuid": "8b3638b7-2e4b-40bc-836f-824b15fd356a",
-    "vid": "19863",
+    "nid": "23769",
+    "uuid": "8cbab18b-c7b1-4829-a371-243e2cd930ce",
+    "vid": "23769",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "849",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SARCELLES VERS LE MESNIL AUBRY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.38499 49.00193)",
-    "radarInstallDate": "2005-08-10T16:20:01",
-    "radarPlace": "VILLIERS LE BEL",
+    "radarInstallDate": "2005-08-10T16:06:22",
+    "radarPlace": [],
     "radarRoad": "RD316",
     "radarTronconKm": [],
     "radarType": [

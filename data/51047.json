@@ -1,14 +1,14 @@
 {
-    "nid": "20695",
-    "uuid": "b1d6b489-a5ef-4d16-83ed-2e90c87ae0f7",
-    "vid": "20695",
+    "nid": "24621",
+    "uuid": "7451212e-9927-4eae-b966-f8a5d1b8964e",
+    "vid": "24621",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51047",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAUMONT vers BOURBONNE LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.402872 48.03731)",
-    "radarInstallDate": "2019-11-27T16:21:42",
-    "radarPlace": "NOGENT",
+    "radarInstallDate": "2019-11-27T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD417",
     "radarTronconKm": [],
     "radarType": [

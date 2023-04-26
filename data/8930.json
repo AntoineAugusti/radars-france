@@ -1,14 +1,14 @@
 {
-    "nid": "20463",
-    "uuid": "75a7dbe6-211c-41b1-acfa-759e161d2ded",
-    "vid": "20463",
+    "nid": "24306",
+    "uuid": "61e76daa-9413-4bef-91e9-6b985c8b88fa",
+    "vid": "24306",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8930",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Mortain vers St-Hilaire du Harcou\u00ebt",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.06128 48.60069)",
-    "radarInstallDate": "2011-05-13T16:21:10",
-    "radarPlace": "GRANDPARIGNY",
+    "radarInstallDate": "2011-05-13T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD977",
     "radarTronconKm": [],
     "radarType": [

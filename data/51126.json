@@ -1,14 +1,14 @@
 {
-    "nid": "20774",
-    "uuid": "e24a9004-4b66-4878-9775-aa1562e9863a",
-    "vid": "20774",
+    "nid": "24698",
+    "uuid": "1bc11e03-6505-422b-853e-de2c95a50c65",
+    "vid": "24698",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51126",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GERSTHEIM vers STRASBOURG",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.71673 48.452793)",
-    "radarInstallDate": "2019-11-20T16:21:53",
-    "radarPlace": "PLOBSHEIM",
+    "radarInstallDate": "2019-11-20T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RM468",
     "radarTronconKm": [],
     "radarType": [

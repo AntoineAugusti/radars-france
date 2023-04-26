@@ -1,14 +1,14 @@
 {
-    "nid": "20882",
-    "uuid": "2af4b9fa-57f1-48b4-b2f3-17c76bced2db",
-    "vid": "20882",
+    "nid": "24809",
+    "uuid": "104798d0-2365-47ed-87c7-03675e32715e",
+    "vid": "24809",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51240",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CARIGNAN vers SEDAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.092511 49.675369)",
-    "radarInstallDate": "2020-11-27T16:22:13",
-    "radarPlace": "POURU ST REMY",
+    "radarInstallDate": "2020-11-27T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD8043",
     "radarTronconKm": [],
     "radarType": [

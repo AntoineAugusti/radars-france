@@ -1,14 +1,14 @@
 {
-    "nid": "22563",
-    "uuid": "65f4758f-9e9c-4864-b92a-9cfa2bab0d81",
-    "vid": "22563",
+    "nid": "26104",
+    "uuid": "6a47954b-8221-4899-8409-f14924976a05",
+    "vid": "26104",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE372502",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.2007 47.97961)",
-    "radarInstallDate": "2013-08-29T16:28:36",
-    "radarPlace": "LE MANS",
+    "radarInstallDate": "2013-08-29T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

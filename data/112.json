@@ -1,14 +1,14 @@
 {
-    "nid": "19646",
-    "uuid": "cffb772b-4cc0-461e-8b7d-ca22a1b958f2",
-    "vid": "19646",
+    "nid": "23586",
+    "uuid": "7e8903ab-e14d-42e3-817d-f488d44f8653",
+    "vid": "23586",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "112",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "THIONVILLE vers METZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.17428 49.27277)",
-    "radarInstallDate": "2003-11-06T16:19:45",
-    "radarPlace": "RICHEMONT",
+    "radarInstallDate": "2003-11-06T16:06:03",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

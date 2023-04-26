@@ -1,14 +1,14 @@
 {
-    "nid": "22675",
-    "uuid": "673df3aa-a8cf-4f2c-b7b2-77659942fcc3",
-    "vid": "22675",
+    "nid": "26187",
+    "uuid": "52d48c13-c5a4-4b0f-a271-08555f20749c",
+    "vid": "26187",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741029",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20175",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741029",
+    "changed": "1681741029",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "GRENOBLE vers BOURGOIN JALLIEU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.35899 45.55432)",
-    "radarInstallDate": "2014-09-26T10:53:37",
+    "radarInstallDate": "2014-09-26T16:17:10",
     "radarPlace": "SEREZIN DE LA TOUR",
     "radarRoad": "A48",
     "radarTronconKm": "2,7",

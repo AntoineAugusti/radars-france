@@ -1,14 +1,14 @@
 {
-    "nid": "21507",
-    "uuid": "aee7633d-d636-49c3-8c01-d1d534750365",
-    "vid": "21507",
+    "nid": "23180",
+    "uuid": "f2fb8e09-a9c9-411f-87a8-7cb00809d3ec",
+    "vid": "23180",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12130",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALBERT vers PERONNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.8766 49.957)",
-    "radarInstallDate": "2012-09-17T16:24:16",
-    "radarPlace": "CLERY SUR SOMME",
+    "radarInstallDate": "2012-09-17T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RD938",
     "radarTronconKm": [],
     "radarType": [

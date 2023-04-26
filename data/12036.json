@@ -1,14 +1,14 @@
 {
-    "nid": "21449",
-    "uuid": "64da9e22-5639-4b80-b5b4-9b4f62fc39b2",
-    "vid": "21449",
+    "nid": "23123",
+    "uuid": "2103c604-db97-4b0a-9b78-5eb48796d8aa",
+    "vid": "23123",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12036",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers PROVINCE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.4822 48.997)",
-    "radarInstallDate": "2013-10-04T16:24:03",
-    "radarPlace": "LE THILLAY",
+    "radarInstallDate": "2013-10-04T16:05:28",
+    "radarPlace": [],
     "radarRoad": "D317",
     "radarTronconKm": [],
     "radarType": [

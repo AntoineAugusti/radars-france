@@ -1,14 +1,14 @@
 {
-    "nid": "20356",
-    "uuid": "255220e1-b990-4655-8807-f2c261e5f000",
-    "vid": "20356",
+    "nid": "24210",
+    "uuid": "aed2602d-aefe-4993-980d-12d38e6d87e5",
+    "vid": "24210",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8579",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Le Mesnil en Thelle vers Neuilly en Thelle",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.282 49.198)",
-    "radarInstallDate": "2010-09-23T16:20:54",
-    "radarPlace": "FRESNOY EN THELLE",
+    "radarInstallDate": "2010-09-23T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD929",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19934",
-    "uuid": "cc743edf-c4ff-4929-8365-d06bc7decebb",
-    "vid": "19934",
+    "nid": "23826",
+    "uuid": "a759e22d-97b2-47b2-9b78-25dd58e148bc",
+    "vid": "23826",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4060",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "REIMS vers EPERNAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.96495 49.07762)",
-    "radarInstallDate": "2008-11-12T16:20:08",
-    "radarPlace": "DIZY",
+    "radarInstallDate": "2008-11-12T16:06:28",
+    "radarPlace": [],
     "radarRoad": "RD951",
     "radarTronconKm": [],
     "radarType": [

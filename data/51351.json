@@ -1,14 +1,14 @@
 {
-    "nid": "20977",
-    "uuid": "a7afe732-3abb-4b84-82a2-f4799ce1d5a0",
-    "vid": "20977",
+    "nid": "24914",
+    "uuid": "e4b1d522-07e6-4be1-8d2a-ca5792d10c55",
+    "vid": "24914",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51351",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT CALAIS vers LE MANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.370729 48.004992)",
-    "radarInstallDate": "2020-08-03T16:22:28",
-    "radarPlace": "SAINT MARS LA BRIERE",
+    "radarInstallDate": "2020-08-03T16:09:10",
+    "radarPlace": [],
     "radarRoad": "RD357",
     "radarTronconKm": [],
     "radarType": [

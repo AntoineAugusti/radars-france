@@ -1,14 +1,14 @@
 {
-    "nid": "21547",
-    "uuid": "bbe51019-f944-4040-be45-2d9a7ccd13b1",
-    "vid": "21547",
+    "nid": "23218",
+    "uuid": "e5b450fc-f4f6-4566-a0c8-c2f2660f4664",
+    "vid": "23218",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12198",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROCHEFORT vers La ROCHELLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.106 46.126)",
-    "radarInstallDate": "2013-02-21T16:24:22",
-    "radarPlace": "AYTRE",
+    "radarInstallDate": "2013-02-21T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RN137",
     "radarTronconKm": [],
     "radarType": [

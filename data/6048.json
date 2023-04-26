@@ -1,14 +1,14 @@
 {
-    "nid": "20121",
-    "uuid": "9e3ca4d1-b38e-4d65-8935-9d32c140ade9",
-    "vid": "20121",
+    "nid": "24004",
+    "uuid": "44377e25-93ac-4ff6-b717-aab51877de6b",
+    "vid": "24004",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6048",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST QUENTIN vers BOHAIN EN VERMANDOIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.34225 49.9093)",
-    "radarInstallDate": "2006-11-01T16:20:28",
-    "radarPlace": "REMAUCOURT",
+    "radarInstallDate": "2006-11-01T16:06:47",
+    "radarPlace": [],
     "radarRoad": "RD8",
     "radarTronconKm": [],
     "radarType": [

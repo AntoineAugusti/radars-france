@@ -1,14 +1,14 @@
 {
-    "nid": "20547",
-    "uuid": "da7291d0-e414-46f4-a1bc-1f6bcfd6a369",
-    "vid": "20547",
+    "nid": "24376",
+    "uuid": "9c8d59d2-af82-4728-83bd-40b3074d8cd9",
+    "vid": "24376",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11176",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Moissac vers Montauban",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.1878 44.133)",
-    "radarInstallDate": "2012-06-15T16:21:22",
-    "radarPlace": "LAFRANCAISE",
+    "radarInstallDate": "2012-06-15T16:07:37",
+    "radarPlace": [],
     "radarRoad": "RD927",
     "radarTronconKm": [],
     "radarType": [

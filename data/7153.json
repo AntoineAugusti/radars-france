@@ -1,14 +1,14 @@
 {
-    "nid": "20253",
-    "uuid": "6bc61230-3253-439d-9f13-09953db534dc",
-    "vid": "20253",
+    "nid": "24121",
+    "uuid": "f5e1efd6-345b-4e06-968f-636dd1d52b30",
+    "vid": "24121",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7153",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DUCEY VERS ST HILAIRE DU HARCOUET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.13328 48.58703)",
-    "radarInstallDate": "2008-01-03T16:20:41",
-    "radarPlace": "ST HILAIRE DU HARCOUET",
+    "radarInstallDate": "2008-01-03T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RD976",
     "radarTronconKm": [],
     "radarType": [

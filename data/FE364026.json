@@ -1,14 +1,14 @@
 {
-    "nid": "22538",
-    "uuid": "055b4398-c146-475e-bdc1-cffb09542346",
-    "vid": "22538",
+    "nid": "26018",
+    "uuid": "89534328-6023-4f0b-9070-37643547aabd",
+    "vid": "26018",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364026",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bayonne vers Landes",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.46966 43.50358)",
-    "radarInstallDate": "2012-01-19T16:28:28",
-    "radarPlace": "BAYONNE",
+    "radarInstallDate": "2012-01-19T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

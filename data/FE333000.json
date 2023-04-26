@@ -1,14 +1,14 @@
 {
-    "nid": "22444",
-    "uuid": "f68189a3-6d5c-42e9-90a4-787ee0f8a4f1",
-    "vid": "22444",
+    "nid": "25961",
+    "uuid": "2347d088-7866-4703-a260-2881028a4fef",
+    "vid": "25961",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE333000",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Route du bord de l'eau vers le Pont Saint Jean",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.53973 44.82817)",
-    "radarInstallDate": "2009-10-28T16:28:02",
-    "radarPlace": "BORDEAUX",
+    "radarInstallDate": "2009-10-28T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21682",
-    "uuid": "6871fc1b-fa13-4dab-a88f-7a9e11b97861",
-    "vid": "21682",
+    "nid": "23350",
+    "uuid": "4fbc27e9-47b6-4e5d-9387-e87134caf87e",
+    "vid": "23350",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12405",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LE MANS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.830108 48.192497)",
-    "radarInstallDate": "2016-10-24T16:24:56",
-    "radarPlace": "ST BOMER",
+    "radarInstallDate": "2016-10-24T16:05:43",
+    "radarPlace": [],
     "radarRoad": "A11",
     "radarTronconKm": [],
     "radarType": [

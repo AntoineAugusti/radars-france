@@ -1,14 +1,14 @@
 {
-    "nid": "19987",
-    "uuid": "e75e9a4f-8a95-46ba-870e-031257d8857b",
-    "vid": "19987",
+    "nid": "23875",
+    "uuid": "95bc5f97-8c02-423d-9b90-313b73913723",
+    "vid": "23875",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4352",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Quimper vers Lorient",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.59516 47.87)",
-    "radarInstallDate": "2009-02-19T16:20:14",
-    "radarPlace": "MELLAC",
+    "radarInstallDate": "2009-02-19T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RN165",
     "radarTronconKm": [],
     "radarType": [

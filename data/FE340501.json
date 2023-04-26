@@ -1,14 +1,14 @@
 {
-    "nid": "22489",
-    "uuid": "0f0854c9-7050-4a28-b948-ea0d1a60982b",
-    "vid": "22489",
+    "nid": "26071",
+    "uuid": "8c56b47e-a64e-43ea-9f2c-c4f64799ab9a",
+    "vid": "26071",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE340501",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord Ouest vers Sud Est",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.91751 43.91955)",
-    "radarInstallDate": "2013-08-01T16:28:19",
-    "radarPlace": "RION DES LANDES",
+    "radarInstallDate": "2013-08-01T16:13:52",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

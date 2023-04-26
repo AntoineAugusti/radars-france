@@ -1,14 +1,14 @@
 {
-    "nid": "20060",
-    "uuid": "6dcb1b6e-7c26-4e12-bf47-f9f90eacb864",
-    "vid": "20060",
+    "nid": "23944",
+    "uuid": "672b4e74-92ee-4131-91d9-0793445628a8",
+    "vid": "23944",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740400",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4686",
-    "created": "1637229116",
-    "changed": "1675869621",
+    "created": "1681740400",
+    "changed": "1681740400",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE BOURGET vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.37925 48.93356)",
-    "radarInstallDate": "2010-03-26T16:20:22",
-    "radarPlace": "ST DENIS",
+    "radarInstallDate": "2010-03-26T16:06:42",
+    "radarPlace": [],
     "radarRoad": "A1",
     "radarTronconKm": [],
     "radarType": [

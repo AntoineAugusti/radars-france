@@ -1,14 +1,14 @@
 {
-    "nid": "20239",
-    "uuid": "6f2ac693-44c0-4da7-a350-eec19a8a87f6",
-    "vid": "20239",
+    "nid": "24108",
+    "uuid": "de73c5de-2ebc-4712-91cd-211938e9cf91",
+    "vid": "24108",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7087",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Albi vers Carmaux",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.17115 43.96119)",
-    "radarInstallDate": "2007-11-18T16:20:41",
-    "radarPlace": "LESCURE D ALBIGEOIS",
+    "radarInstallDate": "2007-11-18T16:07:01",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

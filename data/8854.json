@@ -1,14 +1,14 @@
 {
-    "nid": "20443",
-    "uuid": "7072e2ce-ded4-44f9-b2ec-6c7560c19e0d",
-    "vid": "20443",
+    "nid": "24289",
+    "uuid": "76ba1478-1509-4b82-a293-8cef96da5972",
+    "vid": "24289",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8854",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANNECY vers GENEVE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.0962 46.145)",
-    "radarInstallDate": "2011-02-03T16:21:06",
-    "radarPlace": "ST JULIEN EN GENEVOIS",
+    "radarInstallDate": "2011-02-03T16:07:26",
+    "radarPlace": [],
     "radarRoad": "A41",
     "radarTronconKm": [],
     "radarType": [

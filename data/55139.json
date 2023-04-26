@@ -1,14 +1,14 @@
 {
-    "nid": "21175",
-    "uuid": "64b9f185-22fc-41a5-9f1c-cec10d5d0ffc",
-    "vid": "21175",
+    "nid": "25186",
+    "uuid": "a49784b8-0ef0-4b6d-8503-9c3fe03fb3a6",
+    "vid": "25186",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55139",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POITIERS vers GENCAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.39163 46.4052)",
-    "radarInstallDate": "2020-01-24T16:23:07",
-    "radarPlace": "ST MAURICE LA CLOUERE",
+    "radarInstallDate": "2020-01-24T16:10:05",
+    "radarPlace": [],
     "radarRoad": "RD741",
     "radarTronconKm": [],
     "radarType": [

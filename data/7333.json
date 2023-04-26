@@ -1,14 +1,14 @@
 {
-    "nid": "20301",
-    "uuid": "4bf057e0-00ba-4bb1-b31a-3a36e6e2f1a4",
-    "vid": "20301",
+    "nid": "24164",
+    "uuid": "8ae0f1a5-d3ea-417f-a452-f5ab275d313b",
+    "vid": "24164",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7333",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOLE vers BELFORT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.00963 47.25103)",
-    "radarInstallDate": "2009-10-07T16:20:49",
-    "radarPlace": "BESANCON",
+    "radarInstallDate": "2009-10-07T16:07:09",
+    "radarPlace": [],
     "radarRoad": "Bld Churchill, 15 m apr\u00e8s crf. rue Fontaine Ecu",
     "radarTronconKm": [],
     "radarType": [

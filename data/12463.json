@@ -1,14 +1,14 @@
 {
-    "nid": "21730",
-    "uuid": "a4bdb852-ee1a-4806-bfd9-5a41d7bbb74e",
-    "vid": "21730",
+    "nid": "23398",
+    "uuid": "e958e59f-86a3-47b0-bad0-7b267abc6b4c",
+    "vid": "23398",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12463",
-    "created": "1637229169",
-    "changed": "1675869898",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHALONS EN CHAMPAGNE vers TROYES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.16042 48.3647)",
-    "radarInstallDate": "2016-12-05T16:25:04",
-    "radarPlace": "LUYERES",
+    "radarInstallDate": "2016-12-05T16:05:47",
+    "radarPlace": [],
     "radarRoad": "A26",
     "radarTronconKm": [],
     "radarType": [

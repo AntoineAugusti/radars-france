@@ -1,14 +1,14 @@
 {
-    "nid": "20172",
-    "uuid": "b5de4e50-c671-4c83-8747-b1422f2a80de",
-    "vid": "20172",
+    "nid": "24049",
+    "uuid": "3e313e53-040c-488b-b6a6-ce5db12ce794",
+    "vid": "24049",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6668",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARPAJON vers MONTLHERY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.25471 48.61327)",
-    "radarInstallDate": "2007-02-09T16:20:32",
-    "radarPlace": "ST GERMAIN LES ARPAJON",
+    "radarInstallDate": "2007-02-09T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RN20",
     "radarTronconKm": [],
     "radarType": [

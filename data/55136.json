@@ -1,14 +1,14 @@
 {
-    "nid": "21172",
-    "uuid": "1f6e7f70-60d2-4b25-9b08-ef10c32d87e7",
-    "vid": "21172",
+    "nid": "25183",
+    "uuid": "70690de8-f573-44af-bb0b-80ad7b5690da",
+    "vid": "25183",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55136",
-    "created": "1637229152",
-    "changed": "1675869783",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA ROCHE POSAY vers CHATELLERAULT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.6463 46.82493)",
-    "radarInstallDate": "2020-01-02T16:23:07",
-    "radarPlace": "SENILLE ST SAUVEUR",
+    "radarInstallDate": "2020-01-02T16:10:01",
+    "radarPlace": [],
     "radarRoad": "RD725",
     "radarTronconKm": [],
     "radarType": [

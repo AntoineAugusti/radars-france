@@ -1,14 +1,14 @@
 {
-    "nid": "20856",
-    "uuid": "b2f3b251-9891-4f1b-b0bd-edbd25479f71",
-    "vid": "20856",
+    "nid": "24781",
+    "uuid": "3f139172-968c-4601-b274-f6ea083123e1",
+    "vid": "24781",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51211",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "QUEND vers LE CROTOY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.661584 50.254136)",
-    "radarInstallDate": "2020-08-07T16:22:08",
-    "radarPlace": "RUE",
+    "radarInstallDate": "2020-08-07T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RD 940",
     "radarTronconKm": [],
     "radarType": [

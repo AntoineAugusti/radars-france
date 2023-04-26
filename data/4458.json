@@ -1,14 +1,14 @@
 {
-    "nid": "20012",
-    "uuid": "82a8eb7e-13a9-4195-8979-2e9410ade876",
-    "vid": "20012",
+    "nid": "23899",
+    "uuid": "2fcf9c73-62a9-4f79-8d31-89330c8f1d4f",
+    "vid": "23899",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4458",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MARSEILLE vers LYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.94321 44.93929)",
-    "radarInstallDate": "2008-12-30T16:20:17",
-    "radarPlace": "VALENCE",
+    "radarInstallDate": "2008-12-30T16:06:35",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

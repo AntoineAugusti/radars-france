@@ -1,14 +1,14 @@
 {
-    "nid": "21099",
-    "uuid": "687a6a4f-09ec-424a-b777-39f3c078bbdd",
-    "vid": "21099",
+    "nid": "25112",
+    "uuid": "4143634e-6752-4daa-8b01-e567099bb38f",
+    "vid": "25112",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55062",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOVES vers ST ANDIOL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.930531 43.846771)",
-    "radarInstallDate": "2020-02-19T16:22:50",
-    "radarPlace": "VERQUIERES",
+    "radarInstallDate": "2020-02-19T16:09:48",
+    "radarPlace": [],
     "radarRoad": "RD7N",
     "radarTronconKm": [],
     "radarType": [

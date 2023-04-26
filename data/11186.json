@@ -1,14 +1,14 @@
 {
-    "nid": "20552",
-    "uuid": "48bf2b7b-a561-4117-9239-f0de5688c576",
-    "vid": "20552",
+    "nid": "24381",
+    "uuid": "5f9f3f70-598e-490f-bd96-0ceb1de731cc",
+    "vid": "24381",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11186",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Epinal vers Archettes",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.4545 48.164)",
-    "radarInstallDate": "2012-06-29T16:21:22",
-    "radarPlace": "EPINAL",
+    "radarInstallDate": "2012-06-29T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RD42",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20099",
-    "uuid": "92880fce-9f62-4789-8b65-2d46276d99b8",
-    "vid": "20099",
+    "nid": "23983",
+    "uuid": "45615d14-19c2-478d-a55b-c5687aa2f517",
+    "vid": "23983",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "5124",
-    "created": "1637229118",
-    "changed": "1675869624",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTERRE vers CRETEIL",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.15924 48.81291)",
-    "radarInstallDate": "2011-01-09T16:20:26",
-    "radarPlace": "VERSAILLES",
+    "radarInstallDate": "2011-01-09T16:06:46",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

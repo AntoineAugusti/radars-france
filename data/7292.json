@@ -1,14 +1,14 @@
 {
-    "nid": "20295",
-    "uuid": "d0b96c9d-84c1-4205-88f8-3d02cd61b1f8",
-    "vid": "20295",
+    "nid": "24159",
+    "uuid": "43794550-72c8-4caa-8b00-25edc2098fde",
+    "vid": "24159",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7292",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Province vers Paris",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.33759 48.81114)",
-    "radarInstallDate": "2010-07-08T16:20:46",
-    "radarPlace": "ARCUEIL",
+    "radarInstallDate": "2010-07-08T16:07:06",
+    "radarPlace": [],
     "radarRoad": "A6a",
     "radarTronconKm": [],
     "radarType": [

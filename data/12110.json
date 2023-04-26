@@ -1,14 +1,14 @@
 {
-    "nid": "21497",
-    "uuid": "0f9370fa-91eb-443d-bce3-2c4712cf9366",
-    "vid": "21497",
+    "nid": "23170",
+    "uuid": "dbe3ef0c-7c97-4dc8-94b1-125272bccb84",
+    "vid": "23170",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12110",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST DIZIER vers CHAUMONT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.1119 48.277)",
-    "radarInstallDate": "2012-03-21T16:24:10",
-    "radarPlace": "VIGNORY",
+    "radarInstallDate": "2012-03-21T16:05:31",
+    "radarPlace": [],
     "radarRoad": "RN67",
     "radarTronconKm": [],
     "radarType": [

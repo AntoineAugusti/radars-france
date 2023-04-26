@@ -1,14 +1,14 @@
 {
-    "nid": "21816",
-    "uuid": "79cfbc09-d2ac-453c-ad9f-27cce1cd9fd9",
-    "vid": "21816",
+    "nid": "23489",
+    "uuid": "f15de3ef-21e1-4333-9322-2ff649e45183",
+    "vid": "23489",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12571",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ERAGNY SUR OISE vers SAINT GERMAIN EN LAY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.080437 48.997626)",
-    "radarInstallDate": "2020-12-02T16:25:25",
-    "radarPlace": "CONFLANS STE HONORINE",
+    "radarInstallDate": "2020-12-02T16:05:55",
+    "radarPlace": [],
     "radarRoad": "RN184",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20874",
-    "uuid": "a6a6f3ad-81a8-4627-8f8d-50c54263edc0",
-    "vid": "20874",
+    "nid": "24801",
+    "uuid": "c62df646-9906-4655-aadb-b26f98947029",
+    "vid": "24801",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51232",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COMPIEGNE vers SENLIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.611601 49.223201)",
-    "radarInstallDate": "2020-02-10T16:22:12",
-    "radarPlace": "CHAMANT",
+    "radarInstallDate": "2020-02-10T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD932A",
     "radarTronconKm": [],
     "radarType": [

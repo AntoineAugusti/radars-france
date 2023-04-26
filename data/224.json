@@ -1,14 +1,14 @@
 {
-    "nid": "19694",
-    "uuid": "ade60d55-a3e9-4255-8ffc-cfff51d16a21",
-    "vid": "19694",
+    "nid": "23625",
+    "uuid": "96111fce-8504-4da8-a461-98dc3f924443",
+    "vid": "23625",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "224",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VIENNE VERS VALENCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.8323 45.48273)",
-    "radarInstallDate": "2004-11-18T16:19:48",
-    "radarPlace": "REVENTIN VAUGRIS",
+    "radarInstallDate": "2004-11-18T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

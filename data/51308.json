@@ -1,14 +1,14 @@
 {
-    "nid": "20947",
-    "uuid": "c17ba1bc-4afe-4a2d-8716-d795b4e4f36d",
-    "vid": "20947",
+    "nid": "24874",
+    "uuid": "f4aeca4b-c3aa-496a-8340-f9d71dd3dd66",
+    "vid": "24874",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51308",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NONANCOURT vers VERNEUIL D AVRE ET D ITON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.98941 48.746216)",
-    "radarInstallDate": "2020-12-18T16:22:23",
-    "radarPlace": "BALINES",
+    "radarInstallDate": "2020-12-18T16:09:04",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

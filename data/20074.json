@@ -1,14 +1,14 @@
 {
-    "nid": "22627",
-    "uuid": "26a15b59-6962-412c-8a9c-80e6ca6fa497",
-    "vid": "22627",
+    "nid": "26151",
+    "uuid": "12fca234-842d-4ef6-946e-681c94be4f3c",
+    "vid": "26151",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20074",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "NICE vers AIX EN PROVENCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.37457 43.40185)",
-    "radarInstallDate": "2014-01-27T10:53:36",
+    "radarInstallDate": "2014-01-27T16:17:06",
     "radarPlace": "LE CANNET DES MAURES",
     "radarRoad": "A8",
     "radarTronconKm": "5,9",

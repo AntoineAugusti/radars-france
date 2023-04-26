@@ -1,14 +1,14 @@
 {
-    "nid": "20996",
-    "uuid": "90973059-ab5d-4847-bc9d-c1714377e742",
-    "vid": "20996",
+    "nid": "24934",
+    "uuid": "e6b862f8-8797-455c-98fa-adfa634698e2",
+    "vid": "24934",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51374",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRANVILLE vers AVRANCHES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.40957 48.719)",
-    "radarInstallDate": "2020-12-08T16:22:33",
-    "radarPlace": "LOLIF",
+    "radarInstallDate": "2020-12-08T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD973",
     "radarTronconKm": [],
     "radarType": [

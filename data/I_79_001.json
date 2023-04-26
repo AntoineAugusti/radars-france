@@ -1,14 +1,14 @@
 {
-    "nid": "22882",
-    "uuid": "73de89c8-d0df-46c2-868a-e0021420bb14",
-    "vid": "22882",
+    "nid": "26437",
+    "uuid": "5312b49d-7fbd-4f54-a36d-1e10b0b2fe7f",
+    "vid": "26437",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741078",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_79_001",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741078",
+    "changed": "1681741078",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "79 - Deux-S\u00e8vres",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (46.318092 -0.403406)",
-    "radarInstallDate": "2017-10-06T10:53:49",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (0.996987 44.405963)",
+    "radarInstallDate": "2021-07-20T16:17:59",
     "radarPlace": "-",
     "radarRoad": "D112, D948E3, D44, D304, A10, D948D, D54, D324, D173, D113, D948E2, D45, D948E5, D101, D105, D103, D948E1, D950, , D15, D948, D125, D737, D124, D1, D108, D948E4, D948E6, D110, D174",
-    "radarTronconKm": "53.57",
+    "radarTronconKm": "53,6",
     "radarType": [
         {
             "tid": "19",

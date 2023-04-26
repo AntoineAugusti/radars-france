@@ -1,14 +1,14 @@
 {
-    "nid": "20548",
-    "uuid": "1214af7c-a90d-4369-8079-cedced92d599",
-    "vid": "20548",
+    "nid": "24377",
+    "uuid": "cedbdafd-eea6-4dba-ae02-4de4e5755b35",
+    "vid": "24377",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11177",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Castelsarrasin vers Montauban",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.1635 44.033)",
-    "radarInstallDate": "2012-10-24T16:21:22",
-    "radarPlace": "CASTELSARRASIN",
+    "radarInstallDate": "2012-10-24T16:07:37",
+    "radarPlace": [],
     "radarRoad": "RD958",
     "radarTronconKm": [],
     "radarType": [

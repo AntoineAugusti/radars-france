@@ -1,14 +1,14 @@
 {
-    "nid": "20670",
-    "uuid": "da37d600-f423-4ba6-8d69-f4d22782292c",
-    "vid": "20670",
+    "nid": "24595",
+    "uuid": "f69359e4-c1a1-452a-9472-10187a41512a",
+    "vid": "24595",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51020",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTARGIS vers ORLEANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.356094 47.940248)",
-    "radarInstallDate": "2019-07-16T16:21:38",
-    "radarPlace": "SURY AUX BOIS",
+    "radarInstallDate": "2019-07-16T16:08:14",
+    "radarPlace": [],
     "radarRoad": "RD2060",
     "radarTronconKm": [],
     "radarType": [

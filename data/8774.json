@@ -1,14 +1,14 @@
 {
-    "nid": "20417",
-    "uuid": "876a5298-5356-4b61-917b-7f210f59c541",
-    "vid": "20417",
+    "nid": "24264",
+    "uuid": "dc1311d0-ded5-4f9f-b457-80725f7eab02",
+    "vid": "24264",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8774",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MARSEILLE vers LYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.8355 45.7)",
-    "radarInstallDate": "2011-06-16T16:21:02",
-    "radarPlace": "PIERRE BENITE",
+    "radarInstallDate": "2011-06-16T16:07:22",
+    "radarPlace": [],
     "radarRoad": "A7",
     "radarTronconKm": [],
     "radarType": [

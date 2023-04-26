@@ -1,14 +1,14 @@
 {
-    "nid": "20769",
-    "uuid": "d9da570b-514d-4a98-a03e-a58993c89f9b",
-    "vid": "20769",
+    "nid": "24693",
+    "uuid": "8e521f4f-5b78-40dd-8eb5-2fd015d1c61b",
+    "vid": "24693",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51121",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "WITTERSDORF vers RANSPACH LE BAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.385392 47.599404)",
-    "radarInstallDate": "2020-08-31T16:21:53",
-    "radarPlace": "JETTINGEN",
+    "radarInstallDate": "2020-08-31T16:08:30",
+    "radarPlace": [],
     "radarRoad": "RD419",
     "radarTronconKm": [],
     "radarType": [

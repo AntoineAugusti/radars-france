@@ -1,14 +1,14 @@
 {
-    "nid": "22672",
-    "uuid": "d2207b6d-aaa5-437e-908b-169dcc65bad9",
-    "vid": "22672",
+    "nid": "26185",
+    "uuid": "5490fb01-5e71-45ba-aad2-fc0098950905",
+    "vid": "26185",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741029",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20167",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741029",
+    "changed": "1681741029",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "TALANT vers PLOMBIERES LES DIJON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.98498 47.33677)",
-    "radarInstallDate": "2014-03-24T10:53:37",
+    "radarInstallDate": "2014-03-24T16:17:10",
     "radarPlace": "PLOMBIERES LES DIJON",
     "radarRoad": "RN274",
     "radarTronconKm": "1,5",

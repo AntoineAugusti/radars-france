@@ -1,14 +1,14 @@
 {
-    "nid": "21654",
-    "uuid": "7fcde50e-c933-4afb-9269-9ca0fdfb5249",
-    "vid": "21654",
+    "nid": "23322",
+    "uuid": "688a6a3e-2e75-4a7a-a712-5c5b1bda8c36",
+    "vid": "23322",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12373",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHERBOURG OCTEVILLE vers CAEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.34994 49.45061)",
-    "radarInstallDate": "2016-10-07T16:24:49",
-    "radarPlace": "FRESVILLE",
+    "radarInstallDate": "2016-10-07T16:05:41",
+    "radarPlace": [],
     "radarRoad": "RN13",
     "radarTronconKm": [],
     "radarType": [

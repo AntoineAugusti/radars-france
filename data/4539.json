@@ -1,14 +1,14 @@
 {
-    "nid": "20037",
-    "uuid": "2f6b54d3-f53e-48c3-b351-33d76cfd1c93",
-    "vid": "20037",
+    "nid": "23923",
+    "uuid": "5f038966-b8bb-4136-b243-d14caa760204",
+    "vid": "23923",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4539",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRENOBLE vers GAP",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.08086 44.60632)",
-    "radarInstallDate": "2009-10-02T16:20:19",
-    "radarPlace": "GAP",
+    "radarInstallDate": "2009-10-02T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RN85",
     "radarTronconKm": [],
     "radarType": [

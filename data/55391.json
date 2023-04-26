@@ -1,14 +1,14 @@
 {
-    "nid": "21409",
-    "uuid": "374547c2-09e5-4c7a-bf6f-9c389b0ce9bb",
-    "vid": "21409",
+    "nid": "25426",
+    "uuid": "f8758cfb-d376-4e57-8d20-594df2e4083e",
+    "vid": "25426",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55391",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA ROCHE DES ARNAUDS vers VEYNES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.919797 44.561991)",
-    "radarInstallDate": "2020-12-24T16:23:56",
-    "radarPlace": "LA ROCHE DES ARNAUDS",
+    "radarInstallDate": "2020-12-24T16:10:56",
+    "radarPlace": [],
     "radarRoad": "RD994",
     "radarTronconKm": [],
     "radarType": [

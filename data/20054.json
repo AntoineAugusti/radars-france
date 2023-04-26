@@ -1,14 +1,14 @@
 {
-    "nid": "22616",
-    "uuid": "e4ef2242-a9d9-4b53-9d87-fe199d9754d7",
-    "vid": "22616",
+    "nid": "26141",
+    "uuid": "e29dcdae-febc-4feb-a1c2-90c9ef85a755",
+    "vid": "26141",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20054",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "FOIX vers TOULOUSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.6163 43.38309)",
-    "radarInstallDate": "2014-03-14T10:53:35",
+    "radarInstallDate": "2014-03-14T16:17:06",
     "radarPlace": "MONTESQUIEU LAURAGAIS",
     "radarRoad": "A66",
     "radarTronconKm": "12",

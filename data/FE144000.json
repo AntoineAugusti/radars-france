@@ -1,14 +1,14 @@
 {
-    "nid": "21923",
-    "uuid": "c987b379-ae75-42b1-a9f3-f69658603875",
-    "vid": "21923",
+    "nid": "25562",
+    "uuid": "7289206b-5326-4c38-b12d-bef35825a940",
+    "vid": "25562",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE144000",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue Mathurin Brissoneau vers le quai de la Fosse",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-1.56936 47.2086)",
-    "radarInstallDate": "2010-05-19T16:25:52",
-    "radarPlace": "NANTES",
+    "radarInstallDate": "2010-05-19T16:11:35",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

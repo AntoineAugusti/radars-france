@@ -1,14 +1,14 @@
 {
-    "nid": "21251",
-    "uuid": "6e338f41-9fd1-4373-b445-b2d43057831c",
-    "vid": "21251",
+    "nid": "25262",
+    "uuid": "1fbbc0f0-4fe6-495a-8f7d-d8dcce207b2b",
+    "vid": "25262",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55216",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POUYDESSEAUX vers MARMANDE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.2927 43.971)",
-    "radarInstallDate": "2020-03-10T16:23:20",
-    "radarPlace": "LACQUY",
+    "radarInstallDate": "2020-03-10T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD933N",
     "radarTronconKm": [],
     "radarType": [

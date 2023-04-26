@@ -1,14 +1,14 @@
 {
-    "nid": "21157",
-    "uuid": "d4bbac77-ee85-4ed6-b737-1c64d431a8b9",
-    "vid": "21157",
+    "nid": "25168",
+    "uuid": "977e7120-ca20-48b6-b8df-2e1351417de1",
+    "vid": "25168",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55121",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TONNEINS vers MARMANDE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.262 44.434)",
-    "radarInstallDate": "2020-07-03T16:23:02",
-    "radarPlace": "GONTAUD DE NOGARET",
+    "radarInstallDate": "2020-07-03T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD813",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21028",
-    "uuid": "46ec285c-c5d2-4d13-964b-3b890f8342fb",
-    "vid": "21028",
+    "nid": "24975",
+    "uuid": "370042e0-69bc-4c79-8c7f-f5a31760ba30",
+    "vid": "24975",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51416",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GISORS vers SERIFONTAINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.774467 49.317395)",
-    "radarInstallDate": "2021-08-02T16:22:37",
-    "radarPlace": "ERAGNY SUR EPTE",
+    "radarInstallDate": "2021-08-02T16:09:22",
+    "radarPlace": [],
     "radarRoad": "RD915",
     "radarTronconKm": [],
     "radarType": [

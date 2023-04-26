@@ -1,14 +1,14 @@
 {
-    "nid": "20328",
-    "uuid": "719a1d7d-a316-4265-a23d-b4138d2cce61",
-    "vid": "20328",
+    "nid": "24185",
+    "uuid": "89cdb765-aec6-4aee-a104-e0c77b07bb57",
+    "vid": "24185",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7467",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Argentan vers Sees",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.12979 48.62715)",
-    "radarInstallDate": "2008-04-11T16:20:50",
-    "radarPlace": "BELFONDS",
+    "radarInstallDate": "2008-04-11T16:07:10",
+    "radarPlace": [],
     "radarRoad": "RD958",
     "radarTronconKm": [],
     "radarType": [

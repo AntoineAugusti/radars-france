@@ -1,14 +1,14 @@
 {
-    "nid": "21849",
-    "uuid": "0bb30b7e-ccc8-4098-b947-fa77403e90f5",
-    "vid": "21849",
+    "nid": "23527",
+    "uuid": "adb22b1d-b180-490f-839b-10c430167dd3",
+    "vid": "23527",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12623",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.57369 48.72874)",
-    "radarInstallDate": "2020-03-20T16:25:32",
-    "radarPlace": "ESTERNAY",
+    "radarInstallDate": "2020-03-20T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

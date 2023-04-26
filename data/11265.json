@@ -1,14 +1,14 @@
 {
-    "nid": "20578",
-    "uuid": "e45cf980-6e90-4de5-b116-21ffffac3eae",
-    "vid": "20578",
+    "nid": "24406",
+    "uuid": "dc9252a4-ccbb-410f-8498-b70277c968d4",
+    "vid": "24406",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11265",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "quai saint Bernard vers quai de la Tournelle",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.36061 48.84709)",
-    "radarInstallDate": "2014-01-27T16:21:26",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2014-01-27T16:07:42",
+    "radarPlace": [],
     "radarRoad": "Vis \u00e0 vis du n\u00b0 5 quai Saint Bernard",
     "radarTronconKm": [],
     "radarType": [

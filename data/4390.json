@@ -1,14 +1,14 @@
 {
-    "nid": "19999",
-    "uuid": "507ffd0d-7267-413a-af0b-6e26c9c558af",
-    "vid": "19999",
+    "nid": "23886",
+    "uuid": "e114deb5-196d-44d4-939f-cdba76e6698c",
+    "vid": "23886",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4390",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST GERMAIN EN LAYE vers TRIEL SUR SEINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.0532 48.9246)",
-    "radarInstallDate": "2008-12-24T16:20:17",
-    "radarPlace": "POISSY",
+    "radarInstallDate": "2008-12-24T16:06:35",
+    "radarPlace": [],
     "radarRoad": "RD190",
     "radarTronconKm": [],
     "radarType": [
@@ -115,9 +115,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "5",
-            "uuid": "45e527ec-7c1f-4fd3-ad4e-fdf43bd3c688",
-            "revisionId": "5",
+            "tid": "4",
+            "uuid": "937f2563-479f-4dfd-84c3-0e8599ed3752",
+            "revisionId": "4",
             "langcode": "fr",
             "vid": [
                 {
@@ -128,7 +128,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 50",
+            "name": "Vitesse VL 30",
             "description": [
                 {
                     "value": null,
@@ -141,7 +141,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154429",
+            "changed": "1515154425",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -153,30 +153,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-50.png?itok=Tq7k-JhP",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-30.png?itok=y0JR0H-m",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-50.png?itok=WnbSkqJL",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-30.png?itok=xiB3QsMO",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-50.png?itok=E16zFtv9",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-30.png?itok=NAkjC9_w",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-50.png",
-                        "fileCreated": "1515154342",
-                        "fileSize": "3506",
+                        "fileName": "vitesse-30.png",
+                        "fileCreated": "1515154328",
+                        "fileSize": "3546",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_50",
+            "macineName": "vitesse_vl_30",
             "ruleLabel": "Vitesse"
         }
     ],

@@ -1,14 +1,14 @@
 {
-    "nid": "22524",
-    "uuid": "34651b9b-3a0c-4d82-af24-e90ef6436cfb",
-    "vid": "22524",
+    "nid": "26004",
+    "uuid": "9f6bc8f4-69a8-4350-8887-601456aa73c7",
+    "vid": "26004",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364001",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "St Jean de Luz vers Bayonne",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.60707 43.42037)",
-    "radarInstallDate": "2010-02-05T16:28:28",
-    "radarPlace": "GUETHARY",
+    "radarInstallDate": "2010-02-05T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

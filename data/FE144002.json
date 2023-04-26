@@ -1,14 +1,14 @@
 {
-    "nid": "21925",
-    "uuid": "b3a31cba-11c6-4dcf-8473-ffc90c2eb868",
-    "vid": "21925",
+    "nid": "25564",
+    "uuid": "2ca83dd0-7e8c-4a7d-b3d6-f959c370ff45",
+    "vid": "25564",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE144002",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-1.54126 47.23515)",
-    "radarInstallDate": "2010-11-05T16:25:53",
-    "radarPlace": "NANTES",
+    "radarInstallDate": "2010-11-05T16:11:35",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20268",
-    "uuid": "008f8947-beb3-41c6-9c06-707b0cfc69f3",
-    "vid": "20268",
+    "nid": "24135",
+    "uuid": "11d331f0-1574-4050-b824-6057ab7d0a9b",
+    "vid": "24135",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7204",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DEAUVILLE vers PONT L EVEQUE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.13222 49.3195)",
-    "radarInstallDate": "2008-03-12T16:20:42",
-    "radarPlace": "CANAPVILLE",
+    "radarInstallDate": "2008-03-12T16:07:05",
+    "radarPlace": [],
     "radarRoad": "RD677",
     "radarTronconKm": [],
     "radarType": [

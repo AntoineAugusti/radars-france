@@ -1,14 +1,14 @@
 {
-    "nid": "22398",
-    "uuid": "5272c728-2946-49d7-ad9e-ab37bd2f7595",
-    "vid": "22398",
+    "nid": "25922",
+    "uuid": "afdec49a-be58-4d82-8420-dcccb30a8b1e",
+    "vid": "25922",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229196",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE319000",
-    "created": "1637229196",
-    "changed": "1675870067",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Centre ville vers Avenue Jean Charles RIVET",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (1.52408 45.15757)",
-    "radarInstallDate": "2010-07-23T16:27:54",
-    "radarPlace": "BRIVE LA GAILLARDE",
+    "radarInstallDate": "2010-07-23T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22619",
-    "uuid": "feb6b515-879f-4259-b03d-68c9cecac83f",
-    "vid": "22619",
+    "nid": "26144",
+    "uuid": "424e39f2-27b5-4a20-83a8-2e7f1e0831d7",
+    "vid": "26144",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741025",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20059",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741025",
+    "changed": "1681741025",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -33,13 +33,13 @@
             "langcode": "fr"
         }
     ],
-    "department": "08-ARDENNES",
+    "department": "51-MARNE",
     "itineraireEntree": [],
     "itineraireSortie": [],
     "radarDirection": "Ardennes vers Marne",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.20701 49.35733)",
-    "radarInstallDate": "2013-11-04T10:53:35",
+    "radarInstallDate": "2013-11-04T16:17:06",
     "radarPlace": "ISLES SUR SUIPPE",
     "radarRoad": "RN51",
     "radarTronconKm": "7,8",

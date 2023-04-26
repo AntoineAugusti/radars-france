@@ -1,14 +1,14 @@
 {
-    "nid": "19693",
-    "uuid": "2ea441f6-a341-43e7-b61f-28c468d1fb2a",
-    "vid": "19693",
+    "nid": "23624",
+    "uuid": "6dc7d0fe-e64e-4bfe-a36a-9c126ec15de0",
+    "vid": "23624",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "223",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGOIN JALLIEU VERS LYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.11342 45.65505)",
-    "radarInstallDate": "2005-03-07T16:19:48",
-    "radarPlace": "ST QUENTIN FALLAVIER",
+    "radarInstallDate": "2005-03-07T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RD1006",
     "radarTronconKm": [],
     "radarType": [

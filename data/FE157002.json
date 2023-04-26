@@ -1,14 +1,14 @@
 {
-    "nid": "21974",
-    "uuid": "de458408-948c-48d4-a101-feae6ca9fe0e",
-    "vid": "21974",
+    "nid": "25611",
+    "uuid": "bc698635-e637-4508-9b5a-f3758be86f39",
+    "vid": "25611",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE157002",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sens Ouest vers Est",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (6.17849 49.11152)",
-    "radarInstallDate": "2013-03-14T16:26:01",
-    "radarPlace": "METZ",
+    "radarInstallDate": "2013-03-14T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

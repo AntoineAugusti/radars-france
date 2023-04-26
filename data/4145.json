@@ -1,14 +1,14 @@
 {
-    "nid": "19953",
-    "uuid": "e0739e44-7df4-40b5-9735-8a1711944a02",
-    "vid": "19953",
+    "nid": "23844",
+    "uuid": "8798e80b-a391-4a21-b89d-58c2b67f1ab2",
+    "vid": "23844",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4145",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIMEIL BREVANNES VERS BRUNOY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.49999 48.71977)",
-    "radarInstallDate": "2008-12-04T16:20:11",
-    "radarPlace": "YERRES",
+    "radarInstallDate": "2008-12-04T16:06:29",
+    "radarPlace": [],
     "radarRoad": "RD94",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19990",
-    "uuid": "bfd57675-2d59-4a6b-b2c9-34fe00aad93a",
-    "vid": "19990",
+    "nid": "23878",
+    "uuid": "b6bf5ebb-fd91-4330-8ed2-88c1598a0e68",
+    "vid": "23878",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4369",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOULOGNE SUR MER vers ST OMER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.87366 50.73835)",
-    "radarInstallDate": "2009-02-04T16:20:14",
-    "radarPlace": "NABRINGHEN",
+    "radarInstallDate": "2009-02-04T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RN42",
     "radarTronconKm": [],
     "radarType": [

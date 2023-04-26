@@ -1,14 +1,14 @@
 {
-    "nid": "20341",
-    "uuid": "4cfe161c-a662-460a-87b4-c06eba1e79f1",
-    "vid": "20341",
+    "nid": "24196",
+    "uuid": "b0d0eec0-638e-49f5-a3fc-7a3721661531",
+    "vid": "24196",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8509",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LISSES vers ST GERMAIN LES CORBEIL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.4557 48.616)",
-    "radarInstallDate": "2011-05-27T16:20:53",
-    "radarPlace": "CORBEIL ESSONNES",
+    "radarInstallDate": "2011-05-27T16:07:13",
+    "radarPlace": [],
     "radarRoad": "RN104",
     "radarTronconKm": [],
     "radarType": [

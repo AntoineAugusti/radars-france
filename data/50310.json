@@ -1,14 +1,14 @@
 {
-    "nid": "20636",
-    "uuid": "88d05dc4-e084-4261-bf56-51af147e85a6",
-    "vid": "20636",
+    "nid": "24554",
+    "uuid": "b875a0cd-8075-4599-9c8e-e83a319fef58",
+    "vid": "24554",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740480",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50310",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740480",
+    "changed": "1681740480",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FORT DE FRANCE vers LE LAMENTIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.04221 14.608)",
-    "radarInstallDate": "2021-03-11T16:21:34",
-    "radarPlace": "FORT DE FRANCE",
+    "radarInstallDate": "2021-03-11T16:08:05",
+    "radarPlace": [],
     "radarRoad": "RN9",
     "radarTronconKm": [],
     "radarType": [

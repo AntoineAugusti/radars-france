@@ -1,14 +1,14 @@
 {
-    "nid": "20933",
-    "uuid": "0f91a786-1f6c-4ecc-8e41-dba0b46f0b90",
-    "vid": "20933",
+    "nid": "24860",
+    "uuid": "c4d5a75a-1154-4bd9-bb3b-f78aa6807304",
+    "vid": "24860",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51294",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROCHE SUR YON (LA) vers HERBIERS (LES)",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.350469 46.698486)",
-    "radarInstallDate": "2020-03-06T16:22:22",
-    "radarPlace": "FERRIERE (LA)",
+    "radarInstallDate": "2020-03-06T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD160",
     "radarTronconKm": [],
     "radarType": [

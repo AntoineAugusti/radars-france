@@ -1,14 +1,14 @@
 {
-    "nid": "21599",
-    "uuid": "4f6aa9f9-713e-4fd7-8db4-834dbda5b00b",
-    "vid": "21599",
+    "nid": "23268",
+    "uuid": "39d63ef9-2ce5-467b-a122-015eba740e06",
+    "vid": "23268",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12298",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BAYONNE vers BORDEAUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.083 43.943)",
-    "radarInstallDate": "2014-05-15T16:24:35",
-    "radarPlace": "LESPERON",
+    "radarInstallDate": "2014-05-15T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A63",
     "radarTronconKm": [],
     "radarType": [

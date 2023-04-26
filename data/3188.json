@@ -1,14 +1,14 @@
 {
-    "nid": "19909",
-    "uuid": "c2790122-6f30-4228-b270-565c7c167951",
-    "vid": "19909",
+    "nid": "23806",
+    "uuid": "e20c1448-5836-489c-8c18-31ac579108a8",
+    "vid": "23806",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3188",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHAUMONT VERS ST DIZIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.1565 48.37656)",
-    "radarInstallDate": "2005-12-01T16:20:07",
-    "radarPlace": "MUSSEY SUR MARNE",
+    "radarInstallDate": "2005-12-01T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RN67",
     "radarTronconKm": [],
     "radarType": [

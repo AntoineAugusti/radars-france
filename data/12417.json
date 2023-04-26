@@ -1,14 +1,14 @@
 {
-    "nid": "21694",
-    "uuid": "6f4091a7-c1d7-4f9d-ad89-58a581890b9a",
-    "vid": "21694",
+    "nid": "23362",
+    "uuid": "153202ce-4029-442e-b511-40fd5383c00c",
+    "vid": "23362",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12417",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRIE COMTE ROBERT vers MELUN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.63788 48.57917)",
-    "radarInstallDate": "2017-04-28T16:24:57",
-    "radarPlace": "VERT ST DENIS",
+    "radarInstallDate": "2017-04-28T16:05:45",
+    "radarPlace": [],
     "radarRoad": "A5B",
     "radarTronconKm": [],
     "radarType": [

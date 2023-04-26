@@ -1,14 +1,14 @@
 {
-    "nid": "20751",
-    "uuid": "fd3f0b04-679c-494c-9bde-983c440fc132",
-    "vid": "20751",
+    "nid": "24675",
+    "uuid": "b82924a5-0c8a-4389-aa8d-c5b7786307c9",
+    "vid": "24675",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51103",
-    "created": "1637229140",
-    "changed": "1675869709",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOGENT SUR OISE vers MONTATAIRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.456052 49.266024)",
-    "radarInstallDate": "2020-06-05T16:21:52",
-    "radarPlace": "NOGENT SUR OISE",
+    "radarInstallDate": "2020-06-05T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RD200",
     "radarTronconKm": [],
     "radarType": [

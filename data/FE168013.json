@@ -1,14 +1,14 @@
 {
-    "nid": "22066",
-    "uuid": "990b5bc6-ff07-4111-80bc-c2abcdcf70ce",
-    "vid": "22066",
+    "nid": "25683",
+    "uuid": "0afffe07-447d-44b0-a4c7-aa2cd1b7fa83",
+    "vid": "25683",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE168013",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vers les nouveaux bassins",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (7.3392 47.7605)",
-    "radarInstallDate": "2011-08-08T16:26:22",
-    "radarPlace": "MULHOUSE",
+    "radarInstallDate": "2011-08-08T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

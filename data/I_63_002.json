@@ -1,14 +1,14 @@
 {
-    "nid": "22836",
-    "uuid": "448de84b-408c-4f49-8e85-fbabaf9f693a",
-    "vid": "22836",
+    "nid": "26383",
+    "uuid": "e40ac9c2-b182-4add-93c5-1c94de0bf35b",
+    "vid": "26383",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229224",
+    "revisionTimestamp": "1681741063",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_63_002",
-    "created": "1637229224",
-    "changed": "1637229224",
+    "created": "1681741063",
+    "changed": "1681741063",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "63 - Puy-de-D\u00f4me",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (45.847446 3.168677)",
-    "radarInstallDate": "2017-10-06T10:53:45",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.264097 46.960949)",
+    "radarInstallDate": "2017-10-05T16:17:44",
     "radarPlace": "-",
     "radarRoad": "D107, D224, D431, D427, D210E, D20, D428, D6, D210, D84, D12, D17, D429, D63, D91, D211, D445",
-    "radarTronconKm": "26.89",
+    "radarTronconKm": "26,9",
     "radarType": [
         {
             "tid": "19",

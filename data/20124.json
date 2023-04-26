@@ -1,14 +1,14 @@
 {
-    "nid": "22654",
-    "uuid": "eb0c5a81-6ecf-4380-8e57-1de231cbd809",
-    "vid": "22654",
+    "nid": "26173",
+    "uuid": "21fa87d9-6edb-4db5-9690-346b8e7e53ae",
+    "vid": "26173",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20124",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "A6 VERS A10",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.25702 48.62861)",
-    "radarInstallDate": "2014-08-04T10:53:37",
+    "radarInstallDate": "2014-08-04T16:17:09",
     "radarPlace": "MARCOUSSIS",
     "radarRoad": "RN104",
     "radarTronconKm": "3",

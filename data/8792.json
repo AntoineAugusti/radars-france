@@ -1,14 +1,14 @@
 {
-    "nid": "20422",
-    "uuid": "6255d366-81fd-4c3a-afea-1ae578353526",
-    "vid": "20422",
+    "nid": "24269",
+    "uuid": "f70bd6fb-eea0-43ea-ad52-7fa7e18066ac",
+    "vid": "24269",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8792",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GERARDMER vers BRUYERES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.7762 48.166)",
-    "radarInstallDate": "2011-05-26T16:21:05",
-    "radarPlace": "GRANGES AUMONTZEY",
+    "radarInstallDate": "2011-05-26T16:07:22",
+    "radarPlace": [],
     "radarRoad": "RD423",
     "radarTronconKm": [],
     "radarType": [

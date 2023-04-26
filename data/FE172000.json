@@ -1,14 +1,14 @@
 {
-    "nid": "22074",
-    "uuid": "beb5958f-a826-48e7-8b75-158598184166",
-    "vid": "22074",
+    "nid": "25691",
+    "uuid": "a280b43a-5754-4407-9698-36d566609191",
+    "vid": "25691",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE172000",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (0.21026 47.96879)",
-    "radarInstallDate": "2010-08-10T16:26:28",
-    "radarPlace": "LE MANS",
+    "radarInstallDate": "2010-08-10T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

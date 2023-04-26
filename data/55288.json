@@ -1,14 +1,14 @@
 {
-    "nid": "21320",
-    "uuid": "6039d6b4-29b4-4fcc-9b72-12d3e45755c4",
-    "vid": "21320",
+    "nid": "25332",
+    "uuid": "4cd5d523-05d4-457c-a6ee-a2075f8bd5ef",
+    "vid": "25332",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55288",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "05-HAUTES-ALPES",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "EMBRUN vers BRIANCON",
+    "radarDirection": "BRIANCON vers EMBRUN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.5753 44.645)",
-    "radarInstallDate": "2021-05-06T16:23:37",
-    "radarPlace": "SAINT CLEMENT SUR DURANCE",
+    "radarInstallDate": "2021-05-06T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RN94",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22080",
-    "uuid": "7f354f74-c0a5-4507-9944-d804a81e47b7",
-    "vid": "22080",
+    "nid": "25697",
+    "uuid": "9c6f9555-3b5f-4bc5-a941-8e2644d77d2f",
+    "vid": "25697",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740721",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE172006",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740721",
+    "changed": "1681740721",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bd Pierre Lefaucheux vers Le Mans",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (0.17729 47.96239)",
-    "radarInstallDate": "2011-04-18T16:26:28",
-    "radarPlace": "LE MANS",
+    "radarInstallDate": "2011-04-18T16:12:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

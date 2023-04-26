@@ -1,14 +1,14 @@
 {
-    "nid": "22516",
-    "uuid": "348703ed-565a-49d4-a265-da4c7a1e586b",
-    "vid": "22516",
+    "nid": "26088",
+    "uuid": "688174a0-7a9e-4a06-83cb-db957baf2ea0",
+    "vid": "26088",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE359510",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud vers Nord",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.48682 50.38977)",
-    "radarInstallDate": "2013-07-29T16:28:20",
-    "radarPlace": "RAISMES",
+    "radarInstallDate": "2013-07-29T16:14:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

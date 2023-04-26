@@ -1,14 +1,14 @@
 {
-    "nid": "21831",
-    "uuid": "f73812e2-c45f-418d-9b8e-254edb0972e0",
-    "vid": "21831",
+    "nid": "23506",
+    "uuid": "7137dc38-9c9d-4d62-82a6-c4db11d1e2c2",
+    "vid": "23506",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12594",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT ETIENNE vers LE PUY EN VELAY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.25068 45.34126)",
-    "radarInstallDate": "2020-11-30T16:25:31",
-    "radarPlace": "PONT SALOMON",
+    "radarInstallDate": "2020-11-30T16:05:56",
+    "radarPlace": [],
     "radarRoad": "RN88",
     "radarTronconKm": [],
     "radarType": [

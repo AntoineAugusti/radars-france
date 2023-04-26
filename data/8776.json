@@ -1,14 +1,14 @@
 {
-    "nid": "20418",
-    "uuid": "17e013f0-8e5b-485e-b967-7b6a7f81ca95",
-    "vid": "20418",
+    "nid": "24265",
+    "uuid": "3c5af327-b737-4b58-a71e-38e79015b4ae",
+    "vid": "24265",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8776",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRON vers ST FONS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.846 45.716)",
-    "radarInstallDate": "2011-01-03T16:21:03",
-    "radarPlace": "ST FONS",
+    "radarInstallDate": "2011-01-03T16:07:22",
+    "radarPlace": [],
     "radarRoad": "RD383",
     "radarTronconKm": [],
     "radarType": [

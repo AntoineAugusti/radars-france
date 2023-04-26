@@ -1,14 +1,14 @@
 {
-    "nid": "20348",
-    "uuid": "8dec8595-2306-49c4-bd47-59aeac5d8561",
-    "vid": "20348",
+    "nid": "24202",
+    "uuid": "a3292cf5-8fc9-4595-be31-0421c5540403",
+    "vid": "24202",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8547",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POULX vers MARGUERITTES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.43746 43.88506)",
-    "radarInstallDate": "2011-01-26T16:20:54",
-    "radarPlace": "MARGUERITTES",
+    "radarInstallDate": "2011-01-26T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD135",
     "radarTronconKm": [],
     "radarType": [

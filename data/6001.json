@@ -1,14 +1,14 @@
 {
-    "nid": "20111",
-    "uuid": "31f8e6b0-14b4-4789-be03-acba1aa37d88",
-    "vid": "20111",
+    "nid": "23995",
+    "uuid": "5ee471f1-4606-473f-bffc-84b9473515fd",
+    "vid": "23995",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6001",
-    "created": "1637229118",
-    "changed": "1675869624",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "JOUE LES TOURS VERS LA RICHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.64905 47.36322)",
-    "radarInstallDate": "2006-08-09T16:20:26",
-    "radarPlace": "JOUE LES TOURS",
+    "radarInstallDate": "2006-08-09T16:06:47",
+    "radarPlace": [],
     "radarRoad": "RD37",
     "radarTronconKm": [],
     "radarType": [

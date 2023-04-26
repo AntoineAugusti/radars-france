@@ -1,14 +1,14 @@
 {
-    "nid": "20946",
-    "uuid": "be3a1e3d-d915-41ad-835b-0af934b9a562",
-    "vid": "20946",
+    "nid": "24873",
+    "uuid": "fbeca98a-e8be-406b-9ef0-c7f3af4ff05a",
+    "vid": "24873",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51307",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FALAISE vers LISIEUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.048771 49.003139)",
-    "radarInstallDate": "2020-07-20T16:22:23",
-    "radarPlace": "SAINT PIERRE EN AUGE",
+    "radarInstallDate": "2020-07-20T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD511",
     "radarTronconKm": [],
     "radarType": [

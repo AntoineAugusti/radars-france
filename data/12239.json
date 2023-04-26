@@ -1,14 +1,14 @@
 {
-    "nid": "21567",
-    "uuid": "378fb489-cb90-4fb7-90fe-42940bd0a968",
-    "vid": "21567",
+    "nid": "23237",
+    "uuid": "0d7e348c-6e04-4298-b16c-a59e4a0cc139",
+    "vid": "23237",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12239",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.3376 48.693)",
-    "radarInstallDate": "2014-01-02T16:24:29",
-    "radarPlace": "LIGNY EN BARROIS",
+    "radarInstallDate": "2014-01-02T16:05:36",
+    "radarPlace": [],
     "radarRoad": "RN 4",
     "radarTronconKm": [],
     "radarType": [

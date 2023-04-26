@@ -1,14 +1,14 @@
 {
-    "nid": "21329",
-    "uuid": "d0d7b1e5-5606-4245-a9df-b002c4282e53",
-    "vid": "21329",
+    "nid": "25342",
+    "uuid": "fa30a8ea-75d8-412e-b2f3-2815ed0aa5fb",
+    "vid": "25342",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55300",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINTES vers ST JEAN D ANGELY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.525631 45.919944)",
-    "radarInstallDate": "2020-12-23T16:23:37",
-    "radarPlace": "ST JEAN D ANGELY",
+    "radarInstallDate": "2020-12-23T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD150",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22691",
-    "uuid": "b503ce12-4bc9-481c-95f8-816d22c61bdd",
-    "vid": "22691",
+    "nid": "26199",
+    "uuid": "2d7ff0d2-2b7a-451a-9ec5-8afb01fe73b0",
+    "vid": "26199",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741031",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20211",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741031",
+    "changed": "1681741031",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,9 +39,9 @@
     "radarDirection": "BEZIERS vers NIMES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.00788 43.66702)",
-    "radarInstallDate": "2018-01-02T10:53:38",
+    "radarInstallDate": "2018-01-02T16:17:12",
     "radarPlace": "BAILLARGUES",
-    "radarRoad": "-",
+    "radarRoad": "A9",
     "radarTronconKm": "18,2",
     "radarType": [
         {

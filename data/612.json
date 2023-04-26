@@ -1,14 +1,14 @@
 {
-    "nid": "19805",
-    "uuid": "56a246f4-c411-4d04-94b6-e32ffea2fcd3",
-    "vid": "19805",
+    "nid": "23726",
+    "uuid": "0f76ea8d-94db-4e04-bff3-a89c6f857e46",
+    "vid": "23726",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "612",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PERIGUEUX VERS BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.66946 45.18742)",
-    "radarInstallDate": "2005-06-09T16:19:55",
-    "radarPlace": "MARSAC SUR L ISLE",
+    "radarInstallDate": "2005-06-09T16:06:17",
+    "radarPlace": [],
     "radarRoad": "RD6089",
     "radarTronconKm": [],
     "radarType": [

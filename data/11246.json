@@ -1,14 +1,14 @@
 {
-    "nid": "20572",
-    "uuid": "56a7c834-56e8-42aa-b123-2c00ae247ac3",
-    "vid": "20572",
+    "nid": "24401",
+    "uuid": "9fc8413b-8c96-4dea-9ec0-cf5794c8c8f0",
+    "vid": "24401",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11246",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LAON vers REIMS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.754 49.525)",
-    "radarInstallDate": "2013-12-20T16:21:26",
-    "radarPlace": "FESTIEUX",
+    "radarInstallDate": "2013-12-20T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RD1044",
     "radarTronconKm": [],
     "radarType": [

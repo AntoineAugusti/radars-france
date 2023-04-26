@@ -1,14 +1,14 @@
 {
-    "nid": "21557",
-    "uuid": "de742dc0-b61b-4eac-be93-482784c34256",
-    "vid": "21557",
+    "nid": "23228",
+    "uuid": "5d2c5a23-cd87-4ba8-a1c3-80ac07dc194f",
+    "vid": "23228",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12220",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BORDEAUX vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.5191 46.824)",
-    "radarInstallDate": "2013-05-24T16:24:23",
-    "radarPlace": "CHATELLERAULT",
+    "radarInstallDate": "2013-05-24T16:05:35",
+    "radarPlace": [],
     "radarRoad": "A10",
     "radarTronconKm": [],
     "radarType": [

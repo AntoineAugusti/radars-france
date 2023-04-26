@@ -1,14 +1,14 @@
 {
-    "nid": "22889",
-    "uuid": "969bf446-b55e-47c2-9a5e-5ef2c46988c3",
-    "vid": "22889",
+    "nid": "26449",
+    "uuid": "3667b568-8593-44e2-a5d8-4ab12a6c694f",
+    "vid": "26449",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741082",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_86_002",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741082",
+    "changed": "1681741082",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "86 - Vienne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (46.508773 0.471124)",
-    "radarInstallDate": "2017-10-06T10:53:49",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (3.735347 48.726062)",
+    "radarInstallDate": "2017-10-06T16:18:03",
     "radarPlace": "-",
     "radarRoad": "N147",
-    "radarTronconKm": "5.29",
+    "radarTronconKm": "5,3",
     "radarType": [
         {
             "tid": "19",

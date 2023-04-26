@@ -1,14 +1,14 @@
 {
-    "nid": "20866",
-    "uuid": "4c3317fc-bc5b-4240-8cf6-4c5b5c647322",
-    "vid": "20866",
+    "nid": "24791",
+    "uuid": "78c8d11a-32a1-4daf-b9bf-22952f5af823",
+    "vid": "24791",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51222",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers CHANTILLY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.415471 49.088679)",
-    "radarInstallDate": "2020-09-09T16:22:08",
-    "radarPlace": "EPINAY CHAMPLATREUX",
+    "radarInstallDate": "2020-09-09T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RD316",
     "radarTronconKm": [],
     "radarType": [
@@ -115,9 +115,9 @@
     ],
     "rulesMesured": [
         {
-            "tid": "6",
-            "uuid": "36ad74ff-0928-45de-a485-65acf0ce8bab",
-            "revisionId": "6",
+            "tid": "7",
+            "uuid": "c447707a-c428-4166-ac14-c667a8cdcb41",
+            "revisionId": "7",
             "langcode": "fr",
             "vid": [
                 {
@@ -128,7 +128,7 @@
             "revisionUser": [],
             "revisionLogMessage": [],
             "status": "1",
-            "name": "Vitesse VL 70",
+            "name": "Vitesse VL 80",
             "description": [
                 {
                     "value": null,
@@ -141,7 +141,7 @@
                     "target_id": "0"
                 }
             ],
-            "changed": "1515154422",
+            "changed": "1515154470",
             "defaultLangcode": "1",
             "revisionTranslationAffected": "1",
             "path": [
@@ -153,30 +153,30 @@
                 {
                     "styles": {
                         "large": {
-                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-70.png?itok=MwLJaTo3",
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-80.png?itok=TcuP772z",
                             "height": "70",
                             "width": "70"
                         },
                         "medium": {
-                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-70.png?itok=Ysf5V2xf",
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-80.png?itok=TK2yJ19C",
                             "height": "70",
                             "width": "70"
                         },
                         "thumbnail": {
-                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-70.png?itok=g4VQHCOS",
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-80.png?itok=thPluA0X",
                             "height": "70",
                             "width": "70"
                         }
                     },
                     "infos": {
-                        "fileName": "vitesse-70.png",
-                        "fileCreated": "1515154374",
-                        "fileSize": "3375",
+                        "fileName": "vitesse-80.png",
+                        "fileCreated": "1515154465",
+                        "fileSize": "4045",
                         "fileExtension": "png"
                     }
                 }
             ],
-            "macineName": "vitesse_vl_70",
+            "macineName": "vitesse_vl_80",
             "ruleLabel": "Vitesse"
         }
     ],

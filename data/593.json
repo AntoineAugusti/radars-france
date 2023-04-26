@@ -1,14 +1,14 @@
 {
-    "nid": "19798",
-    "uuid": "23204d64-4078-4e60-b654-3411c207f4cc",
-    "vid": "19798",
+    "nid": "23719",
+    "uuid": "b2bfc78e-bf39-4342-9fb8-1fd803e8123c",
+    "vid": "23719",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "593",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RENNES VERS BREST",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.48069 48.44619)",
-    "radarInstallDate": "2005-04-05T16:19:55",
-    "radarPlace": "NOYAL",
+    "radarInstallDate": "2005-04-05T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RN12",
     "radarTronconKm": [],
     "radarType": [

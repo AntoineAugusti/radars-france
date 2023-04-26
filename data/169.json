@@ -1,14 +1,14 @@
 {
-    "nid": "19675",
-    "uuid": "117d5bef-7164-45e1-8a65-02597081b62e",
-    "vid": "19675",
+    "nid": "23611",
+    "uuid": "055f2cd0-f86f-4320-973e-a03212fba240",
+    "vid": "23611",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "169",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LILLE VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.36345 48.92981)",
-    "radarInstallDate": "2003-12-31T16:19:47",
-    "radarPlace": "ST DENIS",
+    "radarInstallDate": "2003-12-31T16:06:06",
+    "radarPlace": [],
     "radarRoad": "A1",
     "radarTronconKm": [],
     "radarType": [

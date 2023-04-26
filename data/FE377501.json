@@ -1,14 +1,14 @@
 {
-    "nid": "22568",
-    "uuid": "02c46262-99e7-4798-95e4-5623facf89da",
-    "vid": "22568",
+    "nid": "26109",
+    "uuid": "863b6cb8-3d78-406e-b9f7-97dc50ce3a78",
+    "vid": "26109",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE377501",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.68601 48.26675)",
-    "radarInstallDate": "2015-11-25T16:28:36",
-    "radarPlace": "ST PIERRE LES NEMOURS",
+    "radarInstallDate": "2015-11-25T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

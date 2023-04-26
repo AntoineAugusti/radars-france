@@ -1,14 +1,14 @@
 {
-    "nid": "21596",
-    "uuid": "86449b69-00a6-4e96-9efe-5d8492c38f21",
-    "vid": "21596",
+    "nid": "23265",
+    "uuid": "e33d0b27-f964-4713-9ab9-51e1b898f1ec",
+    "vid": "23265",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12293",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "BAYONNE vers BORDEAUX",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (-0.9731 44.139)",
-    "radarInstallDate": "2014-06-06T16:24:35",
-    "radarPlace": "SOLFERINO",
+    "radarGeolocalisation": "POINT (-0.973174 44.139732)",
+    "radarInstallDate": "2014-06-06T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A63",
     "radarTronconKm": [],
     "radarType": [

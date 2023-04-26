@@ -1,14 +1,14 @@
 {
-    "nid": "22460",
-    "uuid": "390bf079-6613-4658-a111-748fc85e187b",
-    "vid": "22460",
+    "nid": "25976",
+    "uuid": "dfebd15e-cf35-414a-9c57-d1ea9eb3932e",
+    "vid": "25976",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE334007",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord-Ouest vers Sud-Est",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (3.86399 43.58181)",
-    "radarInstallDate": "2012-09-20T16:28:10",
-    "radarPlace": "MONTPELLIER",
+    "radarInstallDate": "2012-09-20T16:13:25",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

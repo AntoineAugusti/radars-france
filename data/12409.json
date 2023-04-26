@@ -1,14 +1,14 @@
 {
-    "nid": "21686",
-    "uuid": "5c91b4af-6754-40a2-8d00-3d3c1e601d20",
-    "vid": "21686",
+    "nid": "23354",
+    "uuid": "cb7cad16-9b1b-4c64-9052-806e42e64f3b",
+    "vid": "23354",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12409",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers ST AMAND MONTROND",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.274846 47.075636)",
-    "radarInstallDate": "2017-01-19T16:24:56",
-    "radarPlace": "MARMAGNE",
+    "radarInstallDate": "2017-01-19T16:05:43",
+    "radarPlace": [],
     "radarRoad": "A71",
     "radarTronconKm": [],
     "radarType": [

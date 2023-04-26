@@ -1,14 +1,14 @@
 {
-    "nid": "21030",
-    "uuid": "f3e216ac-43c9-4010-8884-a274180a5392",
-    "vid": "21030",
+    "nid": "24979",
+    "uuid": "d7464fb1-b3d3-452d-a2dd-4edcd70e326f",
+    "vid": "24979",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51420",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERSAILLES vers JOUY EN JOSAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.150212 48.77442)",
-    "radarInstallDate": "2021-07-12T16:22:37",
-    "radarPlace": "JOUY EN JOSAS",
+    "radarInstallDate": "2021-07-12T16:09:22",
+    "radarPlace": [],
     "radarRoad": "RD446",
     "radarTronconKm": [],
     "radarType": [

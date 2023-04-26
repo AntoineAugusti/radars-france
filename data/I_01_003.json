@@ -1,14 +1,14 @@
 {
-    "nid": "22695",
-    "uuid": "22ef1d2f-dbc0-4185-b1ac-e8cde01f6ef3",
-    "vid": "22695",
+    "nid": "26203",
+    "uuid": "7117c3b0-19d4-4022-862f-145c2cef956d",
+    "vid": "26203",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741032",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_01_003",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741032",
+    "changed": "1681741032",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "01 - Ain",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (45.883279 5.343185)",
-    "radarInstallDate": "2017-10-05T10:53:38",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.343185 45.883279)",
+    "radarInstallDate": "2017-10-05T16:17:12",
     "radarPlace": "-",
     "radarRoad": "D84A, D124, D20",
-    "radarTronconKm": "15.78",
+    "radarTronconKm": "15,8",
     "radarType": [
         {
             "tid": "19",

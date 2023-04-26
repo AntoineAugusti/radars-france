@@ -1,14 +1,14 @@
 {
-    "nid": "21219",
-    "uuid": "41a60884-a63b-4284-a41e-701eea3d4e6a",
-    "vid": "21219",
+    "nid": "25230",
+    "uuid": "28760a41-4b44-4e8b-968b-5d62dcff3e53",
+    "vid": "25230",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55183",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers CINTEGABELLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.42984 43.39407)",
-    "radarInstallDate": "2020-06-10T16:23:14",
-    "radarPlace": "MIREMONT",
+    "radarInstallDate": "2020-06-10T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RD820",
     "radarTronconKm": [],
     "radarType": [

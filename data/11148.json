@@ -1,14 +1,14 @@
 {
-    "nid": "20538",
-    "uuid": "2a2b2a8a-acac-4500-bf27-2e42b7531040",
-    "vid": "20538",
+    "nid": "24369",
+    "uuid": "6b50fad0-42a6-4758-8630-20e0f2644418",
+    "vid": "24369",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11148",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AZE vers GENNES SUR GLAIZE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.6512 47.842)",
-    "radarInstallDate": "2012-07-30T16:21:19",
-    "radarPlace": "AZE",
+    "radarInstallDate": "2012-07-30T16:07:37",
+    "radarPlace": [],
     "radarRoad": "RD28",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21314",
-    "uuid": "a5afe50f-eee2-462b-9fa3-e41e121ec31f",
-    "vid": "21314",
+    "nid": "25326",
+    "uuid": "81e08ce5-c04f-429a-b094-82cfb3d365b6",
+    "vid": "25326",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55282",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GAP vers SISTERON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.03457 44.47583)",
-    "radarInstallDate": "2020-06-23T16:23:32",
-    "radarPlace": "TALLARD",
+    "radarInstallDate": "2020-06-23T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RN85",
     "radarTronconKm": [],
     "radarType": [

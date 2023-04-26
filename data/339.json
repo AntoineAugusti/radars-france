@@ -1,14 +1,14 @@
 {
-    "nid": "19725",
-    "uuid": "ba17c0a5-9490-42ca-a87d-cf1fd8f69229",
-    "vid": "19725",
+    "nid": "23653",
+    "uuid": "ac0cb6bd-2fc7-4ea7-8762-ab78d10e04f9",
+    "vid": "23653",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "339",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "REMIREMONT vers BUSSANG",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.83843 47.87434)",
-    "radarInstallDate": "2005-02-22T16:19:49",
-    "radarPlace": "BUSSANG",
+    "radarInstallDate": "2005-02-22T16:06:10",
+    "radarPlace": [],
     "radarRoad": "RN66",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21084",
-    "uuid": "b33545ea-c2a8-40b8-afe5-a791294a0062",
-    "vid": "21084",
+    "nid": "25097",
+    "uuid": "25f0dc07-ea52-4763-891d-b4d80ad5ac9e",
+    "vid": "25097",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55047",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BELLAC vers CONFOLENS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.838483 46.092215)",
-    "radarInstallDate": "2019-11-04T16:22:49",
-    "radarPlace": "GAJOUBERT",
+    "radarInstallDate": "2019-11-04T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD951",
     "radarTronconKm": [],
     "radarType": [

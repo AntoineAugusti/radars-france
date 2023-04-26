@@ -1,14 +1,14 @@
 {
-    "nid": "21227",
-    "uuid": "6f753332-b0b0-4d66-bbc9-bd562847b903",
-    "vid": "21227",
+    "nid": "25238",
+    "uuid": "bfb19bb3-cc3d-4265-8f0f-01a8dbc53cc4",
+    "vid": "25238",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740607",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55191",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740607",
+    "changed": "1681740607",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MENTON vers NICE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.4211 43.74378)",
-    "radarInstallDate": "2020-12-24T16:23:14",
-    "radarPlace": "BEAUSOLEIL",
+    "radarInstallDate": "2020-12-24T16:10:13",
+    "radarPlace": [],
     "radarRoad": "RD6007",
     "radarTronconKm": [],
     "radarType": [

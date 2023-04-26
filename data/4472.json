@@ -1,14 +1,14 @@
 {
-    "nid": "20017",
-    "uuid": "d92ea92b-d6cc-4c9c-a60e-2f0df0225b53",
-    "vid": "20017",
+    "nid": "23903",
+    "uuid": "b414e56e-f78e-4e19-a0da-bbb04de4a9ab",
+    "vid": "23903",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4472",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAUMUR vers MONTREUIL BELLAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.12506 47.19669)",
-    "radarInstallDate": "2009-01-07T16:20:17",
-    "radarPlace": "LE COUDRAY MACOUARD",
+    "radarInstallDate": "2009-01-07T16:06:36",
+    "radarPlace": [],
     "radarRoad": "RD347",
     "radarTronconKm": [],
     "radarType": [

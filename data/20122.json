@@ -1,14 +1,14 @@
 {
-    "nid": "22652",
-    "uuid": "17cd36c2-9943-433e-85de-e9488c9031e3",
-    "vid": "22652",
+    "nid": "26171",
+    "uuid": "e8b9a4cb-42c8-49d5-bc05-9d655d3df07a",
+    "vid": "26171",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20122",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "LIMOGES vers RAZES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.33829 46.00271)",
-    "radarInstallDate": "2014-04-18T10:53:37",
+    "radarInstallDate": "2014-04-18T16:17:09",
     "radarPlace": "ST SYLVESTRE",
     "radarRoad": "A20",
     "radarTronconKm": "5,2",

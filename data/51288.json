@@ -1,14 +1,14 @@
 {
-    "nid": "20927",
-    "uuid": "479a4460-4788-4fbe-8203-31bb44dcfc22",
-    "vid": "20927",
+    "nid": "24854",
+    "uuid": "03091a54-29ec-4de0-bb23-af47486ab180",
+    "vid": "24854",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51288",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MAINTENON vers CHARTRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.546044 48.542907)",
-    "radarInstallDate": "2020-12-21T16:22:18",
-    "radarPlace": "CHARTAINVILLIERS",
+    "radarInstallDate": "2020-12-21T16:08:59",
+    "radarPlace": [],
     "radarRoad": "RD906",
     "radarTronconKm": [],
     "radarType": [

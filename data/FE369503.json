@@ -1,14 +1,14 @@
 {
-    "nid": "22558",
-    "uuid": "4288c260-5f5f-41de-a2c0-ea1fd7451572",
-    "vid": "22558",
+    "nid": "26099",
+    "uuid": "3b093030-b8b6-4b8c-a459-f5ad462fc137",
+    "vid": "26099",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229202",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE369503",
-    "created": "1637229202",
-    "changed": "1675870109",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord Est vers Sud Ouest, TUPIN ET SEMONS vers VERIN",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (4.76249 45.45942)",
-    "radarInstallDate": "2013-04-29T16:28:36",
-    "radarPlace": "CONDRIEU",
+    "radarInstallDate": "2013-04-29T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21089",
-    "uuid": "e0dcc966-1b83-49f1-a1f5-0916fce8a0f4",
-    "vid": "21089",
+    "nid": "25102",
+    "uuid": "8446f57a-a9a7-4e4a-9158-ae5795cc410e",
+    "vid": "25102",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55052",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SETE vers MONTPELLIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.776113 43.494099)",
-    "radarInstallDate": "2019-08-05T16:22:49",
-    "radarPlace": "VIC LA GARDIOLE",
+    "radarInstallDate": "2019-08-05T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD612",
     "radarTronconKm": [],
     "radarType": [

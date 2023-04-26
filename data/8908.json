@@ -1,14 +1,14 @@
 {
-    "nid": "20455",
-    "uuid": "d480fad2-bfac-4438-a558-84687e465a1e",
-    "vid": "20455",
+    "nid": "24299",
+    "uuid": "ea46559f-62d0-4d0a-a4d8-45753fea86b6",
+    "vid": "24299",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8908",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOYAL CHATILLON SUR SEICHE vers CHAVAGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.7224 48.052)",
-    "radarInstallDate": "2011-08-22T16:21:09",
-    "radarPlace": "CHARTRES DE BRETAGNE",
+    "radarInstallDate": "2011-08-22T16:07:27",
+    "radarPlace": [],
     "radarRoad": "RD34",
     "radarTronconKm": [],
     "radarType": [

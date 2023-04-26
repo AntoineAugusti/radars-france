@@ -1,14 +1,14 @@
 {
-    "nid": "22370",
-    "uuid": "cd2286dd-da27-4a7c-9bb2-2ff44db448e2",
-    "vid": "22370",
+    "nid": "26053",
+    "uuid": "db79c5b9-7c26-479c-ba26-936c14948f13",
+    "vid": "26053",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE313502",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PEYROLLES EN PROVENCE vers MEYRARGUES",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (5.54583 43.64836)",
-    "radarInstallDate": "2015-12-01T16:27:46",
-    "radarPlace": "PEYROLLES EN PROVENCE",
+    "radarInstallDate": "2015-12-01T16:13:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

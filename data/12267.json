@@ -1,14 +1,14 @@
 {
-    "nid": "21585",
-    "uuid": "be0fb120-dd6e-4f7f-8640-ee81be4b5388",
-    "vid": "21585",
+    "nid": "23255",
+    "uuid": "f3a75a62-c8a1-4f90-b6a8-f61b01f86fa1",
+    "vid": "23255",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740335",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12267",
-    "created": "1637229163",
-    "changed": "1675869863",
+    "created": "1681740335",
+    "changed": "1681740335",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TARBES vers MONTAUBAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.39882 43.59225)",
-    "radarInstallDate": "2014-01-02T16:24:29",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2014-01-02T16:05:37",
+    "radarPlace": [],
     "radarRoad": "A620",
     "radarTronconKm": [],
     "radarType": [

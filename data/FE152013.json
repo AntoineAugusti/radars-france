@@ -1,14 +1,14 @@
 {
-    "nid": "21954",
-    "uuid": "d9fee4fb-ba37-406f-9be9-cb9b7156c9a1",
-    "vid": "21954",
+    "nid": "25592",
+    "uuid": "815e59ff-9a5a-446a-9d17-1d0a84c71007",
+    "vid": "25592",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE152013",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Langres vers St Dizier",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (5.14388 48.11455)",
-    "radarInstallDate": "2011-05-20T16:26:00",
-    "radarPlace": "CHAUMONT",
+    "radarInstallDate": "2011-05-20T16:11:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

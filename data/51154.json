@@ -1,14 +1,14 @@
 {
-    "nid": "20802",
-    "uuid": "45ee59ff-095c-4281-877b-89cd4a683606",
-    "vid": "20802",
+    "nid": "24726",
+    "uuid": "bac90a26-da6c-4e87-9677-c1583de3b95a",
+    "vid": "24726",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51154",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VERDUN vers LUXEMBOURG",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.862701 49.352998)",
-    "radarInstallDate": "2020-01-23T16:21:58",
-    "radarPlace": "MALAVILLERS",
+    "radarInstallDate": "2020-01-23T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD156",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22779",
-    "uuid": "0cae426d-9938-43e2-9c17-6cea89c870b7",
-    "vid": "22779",
+    "nid": "26316",
+    "uuid": "7fa4d7f3-f5f8-4cca-b543-0e54800dd19c",
+    "vid": "26316",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229221",
+    "revisionTimestamp": "1681741048",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_41_001",
-    "created": "1637229221",
-    "changed": "1637229221",
+    "created": "1681741048",
+    "changed": "1681741048",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "41 - Loir-et-Cher",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (47.57786 1.320719)",
-    "radarInstallDate": "2017-10-05T10:53:41",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (1.516034 48.42707)",
+    "radarInstallDate": "2017-10-06T16:17:29",
     "radarPlace": "-",
     "radarRoad": "D1, D952, D65, D58",
-    "radarTronconKm": "23.10",
+    "radarTronconKm": "23,1",
     "radarType": [
         {
             "tid": "19",

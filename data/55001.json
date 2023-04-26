@@ -1,14 +1,14 @@
 {
-    "nid": "21039",
-    "uuid": "490f8a37-e814-4deb-88b9-a6cd12182175",
-    "vid": "21039",
+    "nid": "25052",
+    "uuid": "c1cdb49c-7e91-4e06-8667-f04f6495af26",
+    "vid": "25052",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740570",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55001",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740570",
+    "changed": "1681740570",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LES ARNAVAUX (A7) vers ECHANGEUR DE FLORIAN (A50)",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.42486 43.28697)",
-    "radarInstallDate": "2019-10-07T16:22:38",
-    "radarPlace": "MARSEILLE",
+    "radarInstallDate": "2019-10-07T16:09:35",
+    "radarPlace": [],
     "radarRoad": "A507 (Rocade L2)",
     "radarTronconKm": [],
     "radarType": [

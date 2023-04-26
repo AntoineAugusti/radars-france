@@ -1,14 +1,14 @@
 {
-    "nid": "20555",
-    "uuid": "594725e0-4905-4a67-96d3-57dbe173016d",
-    "vid": "20555",
+    "nid": "24384",
+    "uuid": "649109e8-feec-4d29-8791-de23a6983d2b",
+    "vid": "24384",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740457",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11193",
-    "created": "1637229132",
-    "changed": "1675869679",
+    "created": "1681740457",
+    "changed": "1681740457",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MEUDON VERS CHAVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.19792 48.8089)",
-    "radarInstallDate": "2012-10-12T16:21:22",
-    "radarPlace": "CHAVILLE",
+    "radarInstallDate": "2012-10-12T16:07:41",
+    "radarPlace": [],
     "radarRoad": "RD181",
     "radarTronconKm": [],
     "radarType": [

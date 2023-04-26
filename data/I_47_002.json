@@ -1,14 +1,14 @@
 {
-    "nid": "22793",
-    "uuid": "7e36993c-5040-403f-8911-7d476f836399",
-    "vid": "22793",
+    "nid": "26333",
+    "uuid": "2636beb3-5688-4bcb-b8e9-3dbb20837205",
+    "vid": "26333",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229221",
+    "revisionTimestamp": "1681741052",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_47_002",
-    "created": "1637229221",
-    "changed": "1637229221",
+    "created": "1681741052",
+    "changed": "1681741052",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "47 - Lot-et-Garonne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (44.42922 0.494311)",
-    "radarInstallDate": "2017-10-06T10:53:41",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.308833 43.813444)",
+    "radarInstallDate": "2017-10-09T16:17:33",
     "radarPlace": "-",
     "radarRoad": "D202, D301, D120E, D266, D113, D275, D101, D254, D667, D210, D124, D160, D120",
-    "radarTronconKm": "14.69",
+    "radarTronconKm": "14,7",
     "radarType": [
         {
             "tid": "19",

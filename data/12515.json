@@ -1,14 +1,14 @@
 {
-    "nid": "21777",
-    "uuid": "0a8ec2e7-e4f3-4156-bb45-9b79eccf5579",
-    "vid": "21777",
+    "nid": "23446",
+    "uuid": "c6c9a3c5-3f81-46d7-8e4a-54b74104b51d",
+    "vid": "23446",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12515",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PROVINCE vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.154142 48.832194)",
-    "radarInstallDate": "2017-04-17T16:25:17",
-    "radarPlace": "MARNES LA COQUETTE",
+    "radarInstallDate": "2017-04-17T16:05:51",
+    "radarPlace": [],
     "radarRoad": "A13",
     "radarTronconKm": [],
     "radarType": [

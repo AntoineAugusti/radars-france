@@ -1,14 +1,14 @@
 {
-    "nid": "21420",
-    "uuid": "3302c8ef-b45c-4b01-84d0-de429e0ecea5",
-    "vid": "21420",
+    "nid": "25449",
+    "uuid": "f9361125-c558-4d66-ae6d-ca93b7b36b94",
+    "vid": "25449",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55420",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AJACCIO vers BASTIA",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (8.744156 41.933514)",
-    "radarInstallDate": "2021-06-30T16:23:57",
-    "radarPlace": "AJACCIO",
+    "radarInstallDate": "2021-06-30T16:11:04",
+    "radarPlace": [],
     "radarRoad": "RT21",
     "radarTronconKm": [],
     "radarType": [

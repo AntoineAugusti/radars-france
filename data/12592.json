@@ -1,14 +1,14 @@
 {
-    "nid": "21829",
-    "uuid": "213c4f1c-dbf2-45c0-9f54-f92c1a2f7bae",
-    "vid": "21829",
+    "nid": "23504",
+    "uuid": "b71f16ca-89d3-4941-8869-1f17e5443e1f",
+    "vid": "23504",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12592",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LYON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.78431 45.78817)",
-    "radarInstallDate": "2020-03-11T16:25:31",
-    "radarPlace": "ECULLY",
+    "radarInstallDate": "2020-03-11T16:05:56",
+    "radarPlace": [],
     "radarRoad": "M6 (ex A6)",
     "radarTronconKm": [],
     "radarType": [

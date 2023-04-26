@@ -1,14 +1,14 @@
 {
-    "nid": "20224",
-    "uuid": "b7e51b3b-0b9f-4bc1-b11d-93cf0ec04356",
-    "vid": "20224",
+    "nid": "24096",
+    "uuid": "d17b20cb-7dc7-4146-af9c-eb864ea3611c",
+    "vid": "24096",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7037",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTAIGU VERS NANTES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.36625 47.05021)",
-    "radarInstallDate": "2008-04-18T16:20:38",
-    "radarPlace": "REMOUILLE",
+    "radarInstallDate": "2008-04-18T16:06:58",
+    "radarPlace": [],
     "radarRoad": "RD137",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22343",
-    "uuid": "94eeb136-0dfe-4b48-b0cb-2ec6d4db17d2",
-    "vid": "22343",
+    "nid": "25885",
+    "uuid": "b478e202-1b00-48b0-a3b3-aa62a8ae1b09",
+    "vid": "25885",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229194",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE284005",
-    "created": "1637229194",
-    "changed": "1675870051",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avignon vers Orange",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.86416 43.9922)",
-    "radarInstallDate": "2010-02-17T16:27:38",
-    "radarPlace": "SORGUES",
+    "radarInstallDate": "2010-02-17T16:12:58",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

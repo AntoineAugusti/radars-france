@@ -1,14 +1,14 @@
 {
-    "nid": "22523",
-    "uuid": "e6d6fbfa-7bd8-4dfc-8467-b9ce84d619f4",
-    "vid": "22523",
+    "nid": "26003",
+    "uuid": "880abc79-36c6-4cf6-b6cd-8af9b32dfaee",
+    "vid": "26003",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE364000",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Est vers Ouest",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.37013 43.30487)",
-    "radarInstallDate": "2010-02-02T16:28:28",
-    "radarPlace": "PAU",
+    "radarInstallDate": "2010-02-02T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

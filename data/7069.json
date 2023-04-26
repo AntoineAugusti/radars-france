@@ -1,14 +1,14 @@
 {
-    "nid": "20233",
-    "uuid": "1ea21686-9a2e-4132-b01c-4c847e0eea03",
-    "vid": "20233",
+    "nid": "24105",
+    "uuid": "c12361e8-896b-4986-b510-35da3d9cbc4f",
+    "vid": "24105",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7069",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "La Rochette vers Chamoux",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.14529 45.48539)",
-    "radarInstallDate": "2007-10-15T16:20:39",
-    "radarPlace": "VILLARD SALLET",
+    "radarInstallDate": "2007-10-15T16:07:01",
+    "radarPlace": [],
     "radarRoad": "RD925",
     "radarTronconKm": [],
     "radarType": [

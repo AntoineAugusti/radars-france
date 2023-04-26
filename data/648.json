@@ -1,14 +1,14 @@
 {
-    "nid": "19817",
-    "uuid": "feef863b-8b6a-4393-a787-eb9618c3b274",
-    "vid": "19817",
+    "nid": "23735",
+    "uuid": "ddc47273-e59c-496c-99f5-18e3a13be67e",
+    "vid": "23735",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "648",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AUXERRE vers CLAMECY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.49286 47.63893)",
-    "radarInstallDate": "2005-06-25T16:19:56",
-    "radarPlace": "MERRY SEC",
+    "radarInstallDate": "2005-06-25T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RN151",
     "radarTronconKm": [],
     "radarType": [

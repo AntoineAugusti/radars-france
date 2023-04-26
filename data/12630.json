@@ -1,14 +1,14 @@
 {
-    "nid": "21855",
-    "uuid": "4ab2ef51-8346-4c5e-9221-8f368679bac0",
-    "vid": "21855",
+    "nid": "23533",
+    "uuid": "91a97765-c020-4cb0-9352-78e1a528d4fd",
+    "vid": "23533",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12630",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOL DE BRETAGNE vers LAMBALLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-2.079864 48.456213)",
-    "radarInstallDate": "2020-09-18T16:25:32",
-    "radarPlace": "QUEVERT",
+    "radarInstallDate": "2020-09-18T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RN176",
     "radarTronconKm": [],
     "radarType": [

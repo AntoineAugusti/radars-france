@@ -1,14 +1,14 @@
 {
-    "nid": "20912",
-    "uuid": "d3482efa-a3de-480b-b343-6f3c1f93ba4b",
-    "vid": "20912",
+    "nid": "24839",
+    "uuid": "1577e680-e18e-4b4a-801f-1d9f516407b1",
+    "vid": "24839",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51273",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PONTARLIER vers SUISSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.363665 46.812857)",
-    "radarInstallDate": "2020-08-12T16:22:18",
-    "radarPlace": "TOUILLON ET LOUTELET",
+    "radarInstallDate": "2020-08-12T16:08:54",
+    "radarPlace": [],
     "radarRoad": "RN57",
     "radarTronconKm": [],
     "radarType": [

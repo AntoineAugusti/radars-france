@@ -1,14 +1,14 @@
 {
-    "nid": "21289",
-    "uuid": "a6b472ff-4a51-452c-bb6d-889ce14b7600",
-    "vid": "21289",
+    "nid": "25302",
+    "uuid": "c0027cbd-bbd8-445c-b3ef-e55d12009dc6",
+    "vid": "25302",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55256",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GAN vers OLORON SAINTE MARIE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.478433 43.160875)",
-    "radarInstallDate": "2020-12-16T16:23:31",
-    "radarPlace": "OGEU LES BAINS",
+    "radarInstallDate": "2020-12-16T16:10:28",
+    "radarPlace": [],
     "radarRoad": "RN134",
     "radarTronconKm": [],
     "radarType": [

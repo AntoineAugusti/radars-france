@@ -1,14 +1,14 @@
 {
-    "nid": "20043",
-    "uuid": "0b2a4aaa-06f3-4222-b8e5-d2fb2d39d225",
-    "vid": "20043",
+    "nid": "23928",
+    "uuid": "e34c26ac-358e-4af4-8b5b-6016a549aa87",
+    "vid": "23928",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4573",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE MANS vers ORLEANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.48771 47.9063)",
-    "radarInstallDate": "2009-07-07T16:20:20",
-    "radarPlace": "BINAS",
+    "radarInstallDate": "2009-07-07T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD357",
     "radarTronconKm": [],
     "radarType": [

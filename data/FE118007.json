@@ -1,14 +1,14 @@
 {
-    "nid": "21888",
-    "uuid": "19468427-9880-4aa9-9b4a-f43f73c46151",
-    "vid": "21888",
+    "nid": "25527",
+    "uuid": "8e35a069-2885-4beb-ac3f-7b1957d2052d",
+    "vid": "25527",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE118007",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bourges vers Mehun-sur-Y\u00e8vre",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.38126 47.09983)",
-    "radarInstallDate": "2010-10-11T16:25:39",
-    "radarPlace": "ST DOULCHARD",
+    "radarInstallDate": "2010-10-11T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

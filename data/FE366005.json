@@ -1,14 +1,14 @@
 {
-    "nid": "22544",
-    "uuid": "ee4fe3c8-a177-4b9f-abc8-cb64d7d2e22d",
-    "vid": "22544",
+    "nid": "26024",
+    "uuid": "14eaf5a8-b3ca-40ff-b7fa-88cee1c80671",
+    "vid": "26024",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE366005",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "Avenue Victor Dalbiez vers Centre ville",
     "radarEquipment": "AXIMUM",
-    "radarGeolocalisation": "POINT (2.88496 42.68933)",
-    "radarInstallDate": "2010-06-02T16:28:29",
-    "radarPlace": "PERPIGNAN",
+    "radarGeolocalisation": "POINT (2.881799 42.681403)",
+    "radarInstallDate": "2010-06-02T16:13:42",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

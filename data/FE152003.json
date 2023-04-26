@@ -1,14 +1,14 @@
 {
-    "nid": "21949",
-    "uuid": "63717368-b3d3-4bc7-a594-3243c88c3cc8",
-    "vid": "21949",
+    "nid": "25587",
+    "uuid": "d423fd51-795a-42e0-8385-1209d6ac2ee2",
+    "vid": "25587",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE152003",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nancy vers Bar le Duc",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (4.977213 48.642169)",
-    "radarInstallDate": "2010-06-08T16:26:00",
-    "radarPlace": "ST DIZIER",
+    "radarInstallDate": "2010-06-08T16:11:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21825",
-    "uuid": "d82aea71-f28d-4c0c-a1b4-40ed42234d7b",
-    "vid": "21825",
+    "nid": "23500",
+    "uuid": "7791bc40-b3d0-4a7c-aac0-61ee3f08f44c",
+    "vid": "23500",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12588",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LIMOGES vers VIERZON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.62776 46.75071)",
-    "radarInstallDate": "2020-02-27T16:25:25",
-    "radarPlace": "ST MAUR",
+    "radarInstallDate": "2020-02-27T16:05:56",
+    "radarPlace": [],
     "radarRoad": "A20",
     "radarTronconKm": [],
     "radarType": [

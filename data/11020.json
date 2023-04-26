@@ -1,14 +1,14 @@
 {
-    "nid": "20498",
-    "uuid": "210e0b38-a3c4-459f-85eb-fbecf4b71fb5",
-    "vid": "20498",
+    "nid": "24340",
+    "uuid": "d2c50c8c-09ba-4321-a93f-f31186c28e74",
+    "vid": "24340",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11020",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rennes vers Guer",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.9418 47.93)",
-    "radarInstallDate": "2012-02-13T16:21:14",
-    "radarPlace": "LA CHAPELLE BOUEXIC",
+    "radarInstallDate": "2012-02-13T16:07:32",
+    "radarPlace": [],
     "radarRoad": "RD776",
     "radarTronconKm": [],
     "radarType": [

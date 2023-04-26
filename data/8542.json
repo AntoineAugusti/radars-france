@@ -1,14 +1,14 @@
 {
-    "nid": "20347",
-    "uuid": "1cbf9d33-17d4-437e-beda-8f52de829872",
-    "vid": "20347",
+    "nid": "24201",
+    "uuid": "38a4ead7-1635-496c-b266-9d6d5f2054a7",
+    "vid": "24201",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8542",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGOIN JALLIEU vers LYON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.13707 45.6292)",
-    "radarInstallDate": "2010-11-12T16:20:54",
-    "radarPlace": "LA VERPILLIERE",
+    "radarInstallDate": "2010-11-12T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD313",
     "radarTronconKm": [],
     "radarType": [

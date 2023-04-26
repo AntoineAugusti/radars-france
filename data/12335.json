@@ -1,14 +1,14 @@
 {
-    "nid": "21622",
-    "uuid": "a076c66c-86f1-4c78-a857-82340edbd6e7",
-    "vid": "21622",
+    "nid": "23290",
+    "uuid": "6161f681-33ea-4e4c-8d62-a65ef215c8d5",
+    "vid": "23290",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12335",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTPELLIER vers PERPIGNAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (3.06719 43.1907)",
-    "radarInstallDate": "2016-04-04T16:24:42",
-    "radarPlace": "ARMISSAN",
+    "radarInstallDate": "2016-04-04T16:05:39",
+    "radarPlace": [],
     "radarRoad": "A9",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22301",
-    "uuid": "9fa4d17e-0638-4289-b982-a6c1df69c759",
-    "vid": "22301",
+    "nid": "25861",
+    "uuid": "13422877-dc79-4523-879c-64220c7b79b9",
+    "vid": "25861",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229190",
+    "revisionTimestamp": "1681740761",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE269028",
-    "created": "1637229190",
-    "changed": "1675870033",
+    "created": "1681740761",
+    "changed": "1681740761",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRIGNY vers ST ROMAIN EN GAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.77085 45.58865)",
-    "radarInstallDate": "2012-05-14T16:27:20",
-    "radarPlace": "GIVORS",
+    "radarInstallDate": "2012-05-14T16:12:49",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

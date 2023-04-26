@@ -1,14 +1,14 @@
 {
-    "nid": "22632",
-    "uuid": "34bcba68-d782-4bc0-84ae-70846a33a7f0",
-    "vid": "22632",
+    "nid": "26154",
+    "uuid": "df46e1b6-e48c-4cc9-bee3-99599c95bac3",
+    "vid": "26154",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741027",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20084",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741027",
+    "changed": "1681741027",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "Grenoble vers Vizille",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.70554 45.10449)",
-    "radarInstallDate": "2013-03-25T10:53:36",
+    "radarInstallDate": "2013-03-25T16:17:07",
     "radarPlace": "CHAMPAGNIER",
     "radarRoad": "RN85",
     "radarTronconKm": "1,8",

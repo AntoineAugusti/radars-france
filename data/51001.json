@@ -1,14 +1,14 @@
 {
-    "nid": "20651",
-    "uuid": "051d172f-c4b1-486b-b087-a260651029f4",
-    "vid": "20651",
+    "nid": "24576",
+    "uuid": "c63b0531-7055-4227-a33d-62e72561c6fd",
+    "vid": "24576",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51001",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "THIONVILLE vers ANGEVILLERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.123833 49.363062)",
-    "radarInstallDate": "2019-08-26T16:21:35",
-    "radarPlace": "THIONVILLE",
+    "radarInstallDate": "2019-08-26T16:08:09",
+    "radarPlace": [],
     "radarRoad": "Route d'Arlon (RD14)",
     "radarTronconKm": [],
     "radarType": [

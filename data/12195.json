@@ -1,14 +1,14 @@
 {
-    "nid": "21544",
-    "uuid": "79d520c6-b089-47e3-b955-2a1058e8e491",
-    "vid": "21544",
+    "nid": "23215",
+    "uuid": "8916d5eb-1094-4ce0-8a10-cc1091dad8b1",
+    "vid": "23215",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12195",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LEPRON LES VALLEES vers WAGNON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.42786 49.72738)",
-    "radarInstallDate": "2014-02-14T16:24:22",
-    "radarPlace": "SIGNY L ABBAYE",
+    "radarInstallDate": "2014-02-14T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RD985",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20438",
-    "uuid": "f66fbbde-bdc3-4b7e-8ea8-40d5644783bd",
-    "vid": "20438",
+    "nid": "24284",
+    "uuid": "64f1ce42-ddf8-4f74-bca6-d0c9d84094ff",
+    "vid": "24284",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8847",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AUTUN vers LE CREUSOT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.395298 46.883234)",
-    "radarInstallDate": "2011-03-23T16:21:06",
-    "radarPlace": "ANTULLY",
+    "radarInstallDate": "2011-03-23T16:07:23",
+    "radarPlace": [],
     "radarRoad": "RD680",
     "radarTronconKm": [],
     "radarType": [

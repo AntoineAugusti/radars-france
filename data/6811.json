@@ -1,14 +1,14 @@
 {
-    "nid": "20197",
-    "uuid": "a9f4fd89-649e-466b-b560-82c5459a0690",
-    "vid": "20197",
+    "nid": "24071",
+    "uuid": "8e86ff92-d972-4ef0-98ec-556ff2afe412",
+    "vid": "24071",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6811",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Matoury vers cayenne",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-52.3294 4.91361)",
-    "radarInstallDate": "2007-08-06T16:20:35",
-    "radarPlace": "CAYENNE",
+    "radarInstallDate": "2007-08-06T16:06:57",
+    "radarPlace": [],
     "radarRoad": "RN1",
     "radarTronconKm": [],
     "radarType": [

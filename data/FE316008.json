@@ -1,14 +1,14 @@
 {
-    "nid": "22373",
-    "uuid": "6986e1e2-7a3f-46ca-bacb-372e2750c440",
-    "vid": "22373",
+    "nid": "25898",
+    "uuid": "bb95bd76-4f3d-483c-b713-7ddc34033487",
+    "vid": "25898",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316008",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GOND PONTOUVRE vers MONTIGNAC",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.15949 45.67155)",
-    "radarInstallDate": "2010-08-13T16:27:46",
-    "radarPlace": "GOND PONTOUVRE",
+    "radarInstallDate": "2010-08-13T16:13:06",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

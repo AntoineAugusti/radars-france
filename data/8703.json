@@ -1,14 +1,14 @@
 {
-    "nid": "20394",
-    "uuid": "a4f00502-2cb4-4f6e-b3f9-8d965e4de8ae",
-    "vid": "20394",
+    "nid": "24245",
+    "uuid": "4a0cbeb1-9371-469d-9ea8-506e056734b5",
+    "vid": "24245",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8703",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SENS vers PONT SUR YONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.26651 48.2279)",
-    "radarInstallDate": "2010-12-10T16:21:01",
-    "radarPlace": "ST DENIS LES SENS",
+    "radarInstallDate": "2010-12-10T16:07:18",
+    "radarPlace": [],
     "radarRoad": "RD606b",
     "radarTronconKm": [],
     "radarType": [

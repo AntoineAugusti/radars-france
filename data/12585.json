@@ -1,14 +1,14 @@
 {
-    "nid": "21823",
-    "uuid": "9041280e-d59d-4f54-aa00-6dc7deb69e37",
-    "vid": "21823",
+    "nid": "23498",
+    "uuid": "b5e18db4-4bf9-48b2-bb22-d0e28e0af5e5",
+    "vid": "23498",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12585",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "COLLONGES vers ST JEAN DE GONVILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (5.921 46.17674)",
-    "radarInstallDate": "2021-05-26T16:25:25",
-    "radarPlace": "PERON",
+    "radarInstallDate": "2021-05-26T16:05:56",
+    "radarPlace": [],
     "radarRoad": "RD884",
     "radarTronconKm": [],
     "radarType": [

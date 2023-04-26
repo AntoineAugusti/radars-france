@@ -1,14 +1,14 @@
 {
-    "nid": "22043",
-    "uuid": "2bae82be-9ca3-4897-908b-68f30d7dcc51",
-    "vid": "22043",
+    "nid": "25660",
+    "uuid": "188abf27-54ea-44b3-a8f1-ff269a1c7c65",
+    "vid": "25660",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162020",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOURGES vers ROUVROY",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.93454 50.41056)",
-    "radarInstallDate": "2012-03-09T16:26:21",
-    "radarPlace": "HENIN BEAUMONT",
+    "radarInstallDate": "2012-03-09T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22200",
-    "uuid": "05fad0fb-5fcb-4175-8f65-7f880316cfd8",
-    "vid": "22200",
+    "nid": "25815",
+    "uuid": "f4596705-a94d-4080-bcc8-47ab45095b27",
+    "vid": "25815",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229186",
+    "revisionTimestamp": "1681740752",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE195038",
-    "created": "1637229186",
-    "changed": "1675870011",
+    "created": "1681740752",
+    "changed": "1681740752",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VILLIERS-LE-BEL vers PIERREFITTE-SUR-SEINE",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.37904 48.99505)",
-    "radarInstallDate": "2011-01-05T16:26:57",
-    "radarPlace": "SARCELLES",
+    "radarInstallDate": "2011-01-05T16:12:39",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

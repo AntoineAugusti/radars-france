@@ -1,14 +1,14 @@
 {
-    "nid": "22640",
-    "uuid": "e1664fc6-af55-4edf-94be-08a0d4316671",
-    "vid": "22640",
+    "nid": "26159",
+    "uuid": "7a4ce7ef-5dc3-4b16-92ab-165cb5d48798",
+    "vid": "26159",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741027",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20096",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741027",
+    "changed": "1681741027",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "Frapelle vers Raves",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.07053 48.28992)",
-    "radarInstallDate": "2013-02-15T10:53:36",
+    "radarInstallDate": "2013-02-15T16:17:07",
     "radarPlace": "BERTRIMOUTIER",
     "radarRoad": "RN159",
     "radarTronconKm": "2,3",

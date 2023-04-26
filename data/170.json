@@ -1,14 +1,14 @@
 {
-    "nid": "19676",
-    "uuid": "b3b3754c-fa1e-43e0-accc-66a15c214897",
-    "vid": "19676",
+    "nid": "23612",
+    "uuid": "ec917d19-f291-4f13-ab1f-236dde723175",
+    "vid": "23612",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "170",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "PORTE MAILLOT VERS PONT DE NEUILLY",
     "radarEquipment": "MORPHO",
-    "radarGeolocalisation": "POINT (2.26472 48.88333)",
-    "radarInstallDate": "2004-01-09T16:19:47",
-    "radarPlace": "NEUILLY SUR SEINE",
+    "radarGeolocalisation": "POINT (2.264745 48.883412)",
+    "radarInstallDate": "2004-01-09T16:06:06",
+    "radarPlace": [],
     "radarRoad": "RN13",
     "radarTronconKm": [],
     "radarType": [

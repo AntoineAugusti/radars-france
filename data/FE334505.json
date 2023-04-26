@@ -1,14 +1,14 @@
 {
-    "nid": "22476",
-    "uuid": "462da3de-feb5-4762-b6ea-a1f960a86d88",
-    "vid": "22476",
+    "nid": "26063",
+    "uuid": "84f3eace-36c7-4846-ac5b-7a3ea7552c3b",
+    "vid": "26063",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229199",
+    "revisionTimestamp": "1681740824",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE334505",
-    "created": "1637229199",
-    "changed": "1675870083",
+    "created": "1681740824",
+    "changed": "1681740824",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (4.12201 43.67965)",
-    "radarInstallDate": "2013-08-19T16:28:11",
-    "radarPlace": "LUNEL",
+    "radarInstallDate": "2013-08-19T16:13:51",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

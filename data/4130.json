@@ -1,14 +1,14 @@
 {
-    "nid": "19950",
-    "uuid": "8b72f89c-7980-498a-83a4-3ceea5b03e08",
-    "vid": "19950",
+    "nid": "23841",
+    "uuid": "c413d048-790e-4782-b6b2-41f5bd34798f",
+    "vid": "23841",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4130",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAUSSADE vers MONTAUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.50614 44.13588)",
-    "radarInstallDate": "2009-01-28T16:20:11",
-    "radarPlace": "REALVILLE",
+    "radarInstallDate": "2009-01-28T16:06:29",
+    "radarPlace": [],
     "radarRoad": "RD820",
     "radarTronconKm": [],
     "radarType": [

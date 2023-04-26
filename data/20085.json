@@ -1,14 +1,14 @@
 {
-    "nid": "22633",
-    "uuid": "09e81ce8-bf49-40a9-8399-14bb841d6300",
-    "vid": "22633",
+    "nid": "26155",
+    "uuid": "51e858d6-55ab-473f-b9d8-394735ce3fbb",
+    "vid": "26155",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741027",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20085",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741027",
+    "changed": "1681741027",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "Vizille vers Grenoble",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.69777 45.1195)",
-    "radarInstallDate": "2013-03-25T10:53:36",
+    "radarInstallDate": "2013-03-25T16:17:07",
     "radarPlace": "LE PONT DE CLAIX",
     "radarRoad": "RN85",
     "radarTronconKm": "1,8",

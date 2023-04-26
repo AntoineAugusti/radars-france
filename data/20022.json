@@ -1,14 +1,14 @@
 {
-    "nid": "22604",
-    "uuid": "46e7d626-f501-48bb-9102-2bf0e9080afb",
-    "vid": "22604",
+    "nid": "26129",
+    "uuid": "5e597ec7-ed12-4686-98f3-9dfd474d5bfd",
+    "vid": "26129",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20022",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "St Brevin les Pins vers Saint Nazaire (Sud / Nord)",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.1784 47.2986)",
-    "radarInstallDate": "2012-09-07T10:53:35",
+    "radarInstallDate": "2012-09-07T16:17:05",
     "radarPlace": "MONTOIR DE BRETAGNE",
     "radarRoad": "RD 213",
     "radarTronconKm": "3,5",

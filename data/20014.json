@@ -1,14 +1,14 @@
 {
-    "nid": "22602",
-    "uuid": "d0eef7a5-3ee9-4a7f-a1cf-17d1c90c41e0",
-    "vid": "22602",
+    "nid": "26127",
+    "uuid": "7a0b65af-80a0-4162-9748-c4a8b94cabf7",
+    "vid": "26127",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20014",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "BEAUCAIRE vers FOURQUES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.60756 43.72674)",
-    "radarInstallDate": "2013-03-20T10:53:35",
+    "radarInstallDate": "2013-03-20T16:17:04",
     "radarPlace": "BEAUCAIRE",
     "radarRoad": "RD15",
     "radarTronconKm": "6,6",

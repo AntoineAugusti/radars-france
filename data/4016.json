@@ -1,14 +1,14 @@
 {
-    "nid": "19925",
-    "uuid": "c10d018a-4027-44b8-97e1-945acbeb7e4a",
-    "vid": "19925",
+    "nid": "23817",
+    "uuid": "c57b7d11-7717-4a52-b155-5106cf3a9939",
+    "vid": "23817",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4016",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "OLLIOULES vers TOULON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.86711 43.13211)",
-    "radarInstallDate": "2008-10-08T16:20:08",
-    "radarPlace": "OLLIOULES",
+    "radarInstallDate": "2008-10-08T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RDN8",
     "radarTronconKm": [],
     "radarType": [

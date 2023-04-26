@@ -1,14 +1,14 @@
 {
-    "nid": "20871",
-    "uuid": "39e691d9-5839-4f81-880c-67f522f8e48e",
-    "vid": "20871",
+    "nid": "24796",
+    "uuid": "138836d9-a53a-448f-a7d9-919db86b2a2c",
+    "vid": "24796",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51227",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LURE vers VESOUL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.364061 47.658535)",
-    "radarInstallDate": "2020-03-13T16:22:12",
-    "radarPlace": "POMOY",
+    "radarInstallDate": "2020-03-13T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RN19",
     "radarTronconKm": [],
     "radarType": [

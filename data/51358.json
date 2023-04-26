@@ -1,14 +1,14 @@
 {
-    "nid": "20984",
-    "uuid": "d5846899-b41d-4a9e-a0dc-77d34d864acf",
-    "vid": "20984",
+    "nid": "24921",
+    "uuid": "c87376e2-631c-4f3d-a228-d54ee8496f41",
+    "vid": "24921",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740545",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51358",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740545",
+    "changed": "1681740545",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA ROCHEPOT vers SAINT AUBIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.669236 46.935249)",
-    "radarInstallDate": "2020-10-21T16:22:29",
-    "radarPlace": "LA ROCHEPOT",
+    "radarInstallDate": "2020-10-21T16:09:11",
+    "radarPlace": [],
     "radarRoad": "RD906",
     "radarTronconKm": [],
     "radarType": [

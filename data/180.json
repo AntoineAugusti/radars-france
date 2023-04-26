@@ -1,14 +1,14 @@
 {
-    "nid": "19681",
-    "uuid": "aa0ae6b7-48ab-4538-8964-bb1963888279",
-    "vid": "19681",
+    "nid": "23616",
+    "uuid": "97bbc975-a302-41e4-85bd-2bf240da194d",
+    "vid": "23616",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "180",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PERIPHERIQUE VERS CENTRE VILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.41945 43.61005)",
-    "radarInstallDate": "2005-12-05T16:19:47",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2005-12-05T16:06:06",
+    "radarPlace": [],
     "radarRoad": "N 129 - ALLEES DE BRIENNE",
     "radarTronconKm": [],
     "radarType": [

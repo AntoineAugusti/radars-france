@@ -1,14 +1,14 @@
 {
-    "nid": "20808",
-    "uuid": "d64175f2-0abc-4bfe-a526-d4b0462ce13d",
-    "vid": "20808",
+    "nid": "24732",
+    "uuid": "9e3c9fbd-180d-4162-9a72-1064ffee3cc7",
+    "vid": "24732",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740511",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51160",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740511",
+    "changed": "1681740511",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTARGIS vers SOLTERRE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.73875 47.974854)",
-    "radarInstallDate": "2020-08-20T16:21:59",
-    "radarPlace": "AMILLY",
+    "radarInstallDate": "2020-08-20T16:08:36",
+    "radarPlace": [],
     "radarRoad": "RD2007",
     "radarTronconKm": [],
     "radarType": [

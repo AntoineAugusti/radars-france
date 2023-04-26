@@ -1,14 +1,14 @@
 {
-    "nid": "21674",
-    "uuid": "5b0c036c-d6c8-4e80-9de8-553c48199d7e",
-    "vid": "21674",
+    "nid": "23342",
+    "uuid": "e4a6ac18-38d9-49e5-ac7c-4ea884d3e0b9",
+    "vid": "23342",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12397",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOZAY vers CHATEAUBRIANT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.46141 47.67987)",
-    "radarInstallDate": "2016-11-28T16:24:50",
-    "radarPlace": "LOUISFERT",
+    "radarInstallDate": "2016-11-28T16:05:43",
+    "radarPlace": [],
     "radarRoad": "RD771",
     "radarTronconKm": [],
     "radarType": [

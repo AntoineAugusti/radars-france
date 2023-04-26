@@ -1,14 +1,14 @@
 {
-    "nid": "22861",
-    "uuid": "6902db94-35cd-44be-a149-9f7d26147d76",
-    "vid": "22861",
+    "nid": "26414",
+    "uuid": "98414777-d711-4580-aef4-cc7f34bafbc6",
+    "vid": "26414",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229226",
+    "revisionTimestamp": "1681741071",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_73_001",
-    "created": "1637229226",
-    "changed": "1637229226",
+    "created": "1681741071",
+    "changed": "1681741071",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "73 - Savoie",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (45.931928 5.835098)",
-    "radarInstallDate": "2017-10-09T10:53:46",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (1.928299 47.81348)",
+    "radarInstallDate": "2017-10-05T16:17:52",
     "radarPlace": "-",
     "radarRoad": "D48, D914, D56, , D904, D56E, D991, D57",
-    "radarTronconKm": "27.90",
+    "radarTronconKm": "27,9",
     "radarType": [
         {
             "tid": "19",

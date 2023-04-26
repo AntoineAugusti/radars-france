@@ -1,14 +1,14 @@
 {
-    "nid": "20039",
-    "uuid": "800d42ac-907f-422f-9644-61c52c6870fc",
-    "vid": "20039",
+    "nid": "23925",
+    "uuid": "70292943-756c-4f34-a0f5-8e55af518adf",
+    "vid": "23925",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229116",
+    "revisionTimestamp": "1681740396",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4543",
-    "created": "1637229116",
-    "changed": "1675869618",
+    "created": "1681740396",
+    "changed": "1681740396",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LAMBALLE vers ST ALBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.52985 48.52779)",
-    "radarInstallDate": "2009-07-01T16:20:20",
-    "radarPlace": "PLANGUENOUAL",
+    "radarInstallDate": "2009-07-01T16:06:39",
+    "radarPlace": [],
     "radarRoad": "RD791",
     "radarTronconKm": [],
     "radarType": [

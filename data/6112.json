@@ -1,14 +1,14 @@
 {
-    "nid": "20137",
-    "uuid": "ead87aac-6687-45e2-8ac3-666fc36c3e29",
-    "vid": "20137",
+    "nid": "24018",
+    "uuid": "62e23397-00ef-499b-8ede-85eb8c98aa62",
+    "vid": "24018",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6112",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SOISSONS VERS REIMS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.88627 49.2731)",
-    "radarInstallDate": "2006-06-26T16:20:29",
-    "radarPlace": "MUIZON",
+    "radarInstallDate": "2006-06-26T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RN31",
     "radarTronconKm": [],
     "radarType": [

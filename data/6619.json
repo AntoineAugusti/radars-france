@@ -1,14 +1,14 @@
 {
-    "nid": "20163",
-    "uuid": "d270bd04-880a-4205-84be-38848711f23d",
-    "vid": "20163",
+    "nid": "24040",
+    "uuid": "46cf9ecb-19b3-43f7-a165-5781d4fdb155",
+    "vid": "24040",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6619",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PAU vers TARBES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.072138 43.24853)",
-    "radarInstallDate": "2008-04-30T16:20:32",
-    "radarPlace": "GER",
+    "radarInstallDate": "2008-04-30T16:06:53",
+    "radarPlace": [],
     "radarRoad": "RD817",
     "radarTronconKm": [],
     "radarType": [

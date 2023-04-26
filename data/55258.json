@@ -1,14 +1,14 @@
 {
-    "nid": "21290",
-    "uuid": "9caeb2d0-6fa6-4dcc-a1f5-b7e474aa7215",
-    "vid": "21290",
+    "nid": "25303",
+    "uuid": "681b0708-ba0c-42a2-a816-191c5a444911",
+    "vid": "25303",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55258",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROANNE vers MOULINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.489024 46.268588)",
-    "radarInstallDate": "2020-06-19T16:23:31",
-    "radarPlace": "SAINT GERAND LE PUY",
+    "radarInstallDate": "2020-06-19T16:10:28",
+    "radarPlace": [],
     "radarRoad": "RN7",
     "radarTronconKm": [],
     "radarType": [

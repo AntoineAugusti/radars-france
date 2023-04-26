@@ -1,14 +1,14 @@
 {
-    "nid": "19659",
-    "uuid": "dc271fa5-d4d6-41e2-ad71-e224addf25bf",
-    "vid": "19659",
+    "nid": "23598",
+    "uuid": "382d85ec-40a4-4b45-a2e0-4bb0a9902c59",
+    "vid": "23598",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "135",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY vers THIONVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.14738 49.1069)",
-    "radarInstallDate": "2003-12-18T16:19:46",
-    "radarPlace": "MONTIGNY LES METZ",
+    "radarInstallDate": "2003-12-18T16:06:04",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

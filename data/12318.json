@@ -1,14 +1,14 @@
 {
-    "nid": "21612",
-    "uuid": "c0b874f6-9c23-4a18-bd67-ab569ea675ab",
-    "vid": "21612",
+    "nid": "23281",
+    "uuid": "a016c946-7f73-408a-a3fc-60fe05575779",
+    "vid": "23281",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12318",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGOULEME vers POITIERS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.26737 46.46028)",
-    "radarInstallDate": "2015-03-20T16:24:36",
-    "radarPlace": "VIVONNE",
+    "radarInstallDate": "2015-03-20T16:05:38",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

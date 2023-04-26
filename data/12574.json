@@ -1,14 +1,14 @@
 {
-    "nid": "21818",
-    "uuid": "9caf7369-e44c-40df-b972-fe1cacbe82a5",
-    "vid": "21818",
+    "nid": "23491",
+    "uuid": "1e75a913-d216-40f8-a696-db7c6c64c984",
+    "vid": "23491",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12574",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHARLEVILLE MEZIERES vers SEDAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.70325 49.748722)",
-    "radarInstallDate": "2020-09-01T16:25:25",
-    "radarPlace": "CHARLEVILLE MEZIERES",
+    "radarInstallDate": "2020-09-01T16:05:55",
+    "radarPlace": [],
     "radarRoad": "RN43",
     "radarTronconKm": [],
     "radarType": [

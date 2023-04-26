@@ -1,14 +1,14 @@
 {
-    "nid": "21382",
-    "uuid": "08878bf7-34bd-4e0b-b7a7-801396cdc809",
-    "vid": "21382",
+    "nid": "25396",
+    "uuid": "3effe0b9-fda5-4697-95e9-de44cb0b5043",
+    "vid": "25396",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55356",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINTE MARIE LA MER vers ST LAURENT DE LA SALANQUE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.021237 42.75375)",
-    "radarInstallDate": "2020-10-09T16:23:50",
-    "radarPlace": "TORREILLES",
+    "radarInstallDate": "2020-10-09T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD81",
     "radarTronconKm": [],
     "radarType": [

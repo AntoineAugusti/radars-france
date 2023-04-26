@@ -1,14 +1,14 @@
 {
-    "nid": "20135",
-    "uuid": "5a214c7d-c0fd-492e-979c-24663a0c1829",
-    "vid": "20135",
+    "nid": "24016",
+    "uuid": "8a606292-199a-4967-ba46-e3e466894bc3",
+    "vid": "24016",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740407",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6105",
-    "created": "1637229118",
-    "changed": "1675869627",
+    "created": "1681740407",
+    "changed": "1681740407",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTES VERS PORNIC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.96884 47.11228)",
-    "radarInstallDate": "2006-08-29T16:20:29",
-    "radarPlace": "PORNIC",
+    "radarInstallDate": "2006-08-29T16:06:50",
+    "radarPlace": [],
     "radarRoad": "RD751",
     "radarTronconKm": [],
     "radarType": [

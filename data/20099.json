@@ -1,14 +1,14 @@
 {
-    "nid": "22643",
-    "uuid": "85be04fd-098c-49dc-b298-052269881b66",
-    "vid": "22643",
+    "nid": "26162",
+    "uuid": "dd9062f3-6a45-4f87-8876-116aa0ae639e",
+    "vid": "26162",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741027",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20099",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741027",
+    "changed": "1681741027",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "LE CHATEAU D OLERON vers BOURCEFRANC LE CHAPUS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.16425 45.84573)",
-    "radarInstallDate": "2013-03-14T10:53:36",
+    "radarInstallDate": "2013-03-14T16:17:08",
     "radarPlace": "BOURCEFRANC LE CHAPUS",
     "radarRoad": "RD26",
     "radarTronconKm": "3,1",

@@ -1,14 +1,14 @@
 {
-    "nid": "22584",
-    "uuid": "244f4f70-3dfe-4ee7-9a3f-756c4196db95",
-    "vid": "22584",
+    "nid": "26048",
+    "uuid": "b253e3af-dbd0-4de7-9c07-fd3bf246b0e2",
+    "vid": "26048",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229203",
+    "revisionTimestamp": "1681740815",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE386009",
-    "created": "1637229203",
-    "changed": "1675870117",
+    "created": "1681740815",
+    "changed": "1681740815",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Tours vers Poitiers",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.35816 46.63813)",
-    "radarInstallDate": "2010-09-17T16:28:44",
-    "radarPlace": "CHASSENEUIL DU POITOU",
+    "radarInstallDate": "2010-09-17T16:13:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

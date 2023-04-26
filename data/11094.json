@@ -1,14 +1,14 @@
 {
-    "nid": "20523",
-    "uuid": "24ebfbd5-546e-4027-b09d-1434fc5a8d3d",
-    "vid": "20523",
+    "nid": "24357",
+    "uuid": "d94b6318-0c46-4c81-95f5-b197956d1550",
+    "vid": "24357",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11094",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Lanester vers Merlevenez",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-3.239926 47.755658)",
-    "radarInstallDate": "2012-01-10T16:21:18",
-    "radarPlace": "KERVIGNAC",
+    "radarInstallDate": "2012-01-10T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD194",
     "radarTronconKm": [],
     "radarType": [

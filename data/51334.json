@@ -1,14 +1,14 @@
 {
-    "nid": "20964",
-    "uuid": "b5c0f57f-8921-4414-8a0e-551cb871ea10",
-    "vid": "20964",
+    "nid": "24897",
+    "uuid": "8765dcce-e112-4e7c-8bf2-55dc78489849",
+    "vid": "24897",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51334",
-    "created": "1637229145",
-    "changed": "1675869744",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "60-OISE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "PARIS vers SENLIS",
+    "radarDirection": "SENLIS vers PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.533166 49.122743)",
-    "radarInstallDate": "2021-07-13T16:22:28",
-    "radarPlace": "LA CHAPELLE EN SERVAL",
+    "radarInstallDate": "2021-07-13T16:09:05",
+    "radarPlace": [],
     "radarRoad": "RD1017",
     "radarTronconKm": [],
     "radarType": [

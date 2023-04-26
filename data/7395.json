@@ -1,14 +1,14 @@
 {
-    "nid": "20315",
-    "uuid": "0671a63e-1e03-4076-a7ee-efa1c184b87e",
-    "vid": "20315",
+    "nid": "24175",
+    "uuid": "bec7bf9d-0da9-4111-a856-5dff2055a2de",
+    "vid": "24175",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7395",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers CHARTRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.01914 48.7812)",
-    "radarInstallDate": "2008-07-28T16:20:50",
-    "radarPlace": "TRAPPES",
+    "radarInstallDate": "2008-07-28T16:07:10",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21378",
-    "uuid": "edc4c609-5e4b-417e-839c-e41714c3ae0b",
-    "vid": "21378",
+    "nid": "25392",
+    "uuid": "f6ef0545-8486-4aaf-9367-08395651fbd1",
+    "vid": "25392",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55352",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTESCOT vers PERPIGNAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.921275 42.623765)",
-    "radarInstallDate": "2020-10-21T16:23:45",
-    "radarPlace": "VILLENEUVE DE LA RAHO",
+    "radarInstallDate": "2020-10-21T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD8",
     "radarTronconKm": [],
     "radarType": [

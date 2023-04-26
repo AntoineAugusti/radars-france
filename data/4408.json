@@ -1,14 +1,14 @@
 {
-    "nid": "20003",
-    "uuid": "8830262b-d578-4c97-ba0b-99b43c0102ff",
-    "vid": "20003",
+    "nid": "23890",
+    "uuid": "97a6ac2c-c54c-422b-8027-ffdd60641e4b",
+    "vid": "23890",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4408",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SURESNES VERS PUTEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2386 48.8754)",
-    "radarInstallDate": "2009-01-13T16:20:17",
-    "radarPlace": "PUTEAUX",
+    "radarInstallDate": "2009-01-13T16:06:35",
+    "radarPlace": [],
     "radarRoad": "RD7, hauteur n\u00b08 du quai de Dion Bouton",
     "radarTronconKm": [],
     "radarType": [

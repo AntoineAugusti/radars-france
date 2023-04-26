@@ -1,14 +1,14 @@
 {
-    "nid": "21299",
-    "uuid": "780b6388-cc27-418d-aabc-236acabf4db7",
-    "vid": "21299",
+    "nid": "25311",
+    "uuid": "1040d05b-7727-43e3-8522-e3f5f5ad8ab9",
+    "vid": "25311",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55267",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CONCEZE vers ST YRIEIX LA PERCHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.389889 45.484427)",
-    "radarInstallDate": "2021-03-19T16:23:32",
-    "radarPlace": "LUBERSAC",
+    "radarInstallDate": "2021-03-19T16:10:33",
+    "radarPlace": [],
     "radarRoad": "RD901",
     "radarTronconKm": [],
     "radarType": [

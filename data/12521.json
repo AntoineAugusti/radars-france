@@ -1,14 +1,14 @@
 {
-    "nid": "21782",
-    "uuid": "b4ca31a0-76ce-4dcc-b97c-116d368964db",
-    "vid": "21782",
+    "nid": "23451",
+    "uuid": "19f7d8f7-f9c5-4756-a1d1-6937711dff41",
+    "vid": "23451",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12521",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MAULEON vers PARTHENAY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.423377 46.827144)",
-    "radarInstallDate": "2017-08-21T16:25:17",
-    "radarPlace": "BRESSUIRE",
+    "radarInstallDate": "2017-08-21T16:05:52",
+    "radarPlace": [],
     "radarRoad": "RN149",
     "radarTronconKm": [],
     "radarType": [

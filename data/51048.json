@@ -1,14 +1,14 @@
 {
-    "nid": "20696",
-    "uuid": "6c9e7cb1-bf3d-4e17-8fc1-4ed19eb30b47",
-    "vid": "20696",
+    "nid": "24622",
+    "uuid": "da084226-5186-4d41-b17b-79f421e1fa2b",
+    "vid": "24622",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51048",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FAYL BILLOT vers LANGRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.36933 47.857508)",
-    "radarInstallDate": "2019-11-14T16:21:42",
-    "radarPlace": "LANGRES",
+    "radarInstallDate": "2019-11-14T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RN19",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "19701",
-    "uuid": "ba2001d0-a836-4abc-b661-dea8c1d264ae",
-    "vid": "19701",
+    "nid": "23632",
+    "uuid": "992d1ac1-080d-4ef1-8c91-78f033fa3ff4",
+    "vid": "23632",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "259",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "RODEZ vers DECAZEVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.3331 44.52474)",
-    "radarInstallDate": "2004-10-15T16:19:48",
-    "radarPlace": "FIRMI",
+    "radarInstallDate": "2004-10-15T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RD840",
     "radarTronconKm": [],
     "radarType": [

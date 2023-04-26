@@ -1,14 +1,14 @@
 {
-    "nid": "21631",
-    "uuid": "29d58128-8506-48bf-bef6-2380e84f517e",
-    "vid": "21631",
+    "nid": "23299",
+    "uuid": "e6027499-ccbf-422a-9675-02f97ab6dd2f",
+    "vid": "23299",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740339",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12344",
-    "created": "1637229165",
-    "changed": "1675869877",
+    "created": "1681740339",
+    "changed": "1681740339",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FESQUES vers NEUFCHATEL EN BRAY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.4865 49.7861)",
-    "radarInstallDate": "2016-07-01T16:24:42",
-    "radarPlace": "FESQUES",
+    "radarInstallDate": "2016-07-01T16:05:40",
+    "radarPlace": [],
     "radarRoad": "A28",
     "radarTronconKm": [],
     "radarType": [

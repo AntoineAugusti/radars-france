@@ -1,14 +1,14 @@
 {
-    "nid": "19945",
-    "uuid": "889e2db4-794f-4878-8557-037180880954",
-    "vid": "19945",
+    "nid": "23837",
+    "uuid": "350a74fd-1efa-4d04-9d72-60f94ced3ae8",
+    "vid": "23837",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740387",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4112",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740387",
+    "changed": "1681740387",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TIGERY vers MONTEREAU FAULT YONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.55414 48.61834)",
-    "radarInstallDate": "2009-09-16T16:20:10",
-    "radarPlace": "LIEUSAINT",
+    "radarInstallDate": "2009-09-16T16:06:29",
+    "radarPlace": [],
     "radarRoad": "A5a",
     "radarTronconKm": [],
     "radarType": [

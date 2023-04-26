@@ -1,14 +1,14 @@
 {
-    "nid": "20199",
-    "uuid": "6134e0c5-a8f6-4b0b-8f8f-7dc4767dd579",
-    "vid": "20199",
+    "nid": "24073",
+    "uuid": "a6f762e7-9921-4a96-a17c-5b10b42eadc5",
+    "vid": "24073",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6825",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VENDOME VERS ROMORANTIN LANTHENAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.34772 47.60314)",
-    "radarInstallDate": "2007-05-09T16:20:35",
-    "radarPlace": "LA CHAUSSEE ST VICTOR",
+    "radarInstallDate": "2007-05-09T16:06:57",
+    "radarPlace": [],
     "radarRoad": "RD956",
     "radarTronconKm": [],
     "radarType": [

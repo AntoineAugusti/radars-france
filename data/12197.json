@@ -1,14 +1,14 @@
 {
-    "nid": "21546",
-    "uuid": "d1eba31c-011d-45c0-9a29-73981532c103",
-    "vid": "21546",
+    "nid": "23217",
+    "uuid": "b9250603-8a88-4072-9494-43520c392b23",
+    "vid": "23217",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12197",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA ROCHELLE vers NIORT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.0354 46.199)",
-    "radarInstallDate": "2013-02-21T16:24:22",
-    "radarPlace": "STE SOULLE",
+    "radarInstallDate": "2013-02-21T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RN11",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20468",
-    "uuid": "8535b3fd-547d-493b-84bc-9296d66a267c",
-    "vid": "20468",
+    "nid": "24311",
+    "uuid": "55cfb292-2d81-4b95-8954-b4f3fa40bb50",
+    "vid": "24311",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8941",
-    "created": "1637229130",
-    "changed": "1675869667",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROCHEFORT MONTAGNE vers TAUVES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.6978 45.604)",
-    "radarInstallDate": "2011-07-29T16:21:10",
-    "radarPlace": "ST SAUVES D AUVERGNE",
+    "radarInstallDate": "2011-07-29T16:07:28",
+    "radarPlace": [],
     "radarRoad": "RD922",
     "radarTronconKm": [],
     "radarType": [

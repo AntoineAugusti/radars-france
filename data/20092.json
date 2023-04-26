@@ -1,14 +1,14 @@
 {
-    "nid": "22637",
-    "uuid": "93ee5152-27a7-442c-a133-b9030349d2ff",
-    "vid": "22637",
+    "nid": "26158",
+    "uuid": "d5a9b382-62ca-4957-b235-9f46798b83ca",
+    "vid": "26158",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741027",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20092",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741027",
+    "changed": "1681741027",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "ST PAUL DE FENOUILLET vers MAURY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.58284 42.8106)",
-    "radarInstallDate": "2013-09-16T10:53:36",
+    "radarInstallDate": "2013-09-16T16:17:07",
     "radarPlace": "MAURY",
     "radarRoad": "RD117",
     "radarTronconKm": "5,5",

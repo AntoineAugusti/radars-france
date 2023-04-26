@@ -1,14 +1,14 @@
 {
-    "nid": "19663",
-    "uuid": "96627aad-11f1-45f4-ad3d-1f6589ceb364",
-    "vid": "19663",
+    "nid": "23602",
+    "uuid": "910941be-c61a-438a-8f5d-500fcf2e19b7",
+    "vid": "23602",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "143",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EXTERIEUR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.39613 48.89004)",
-    "radarInstallDate": "2004-01-10T16:19:46",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2004-01-10T16:06:04",
+    "radarPlace": [],
     "radarRoad": "BP-PANTIN",
     "radarTronconKm": [],
     "radarType": [

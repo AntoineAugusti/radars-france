@@ -1,14 +1,14 @@
 {
-    "nid": "20667",
-    "uuid": "1bb5ddfe-88e3-44a9-aec6-35b00c42486e",
-    "vid": "20667",
+    "nid": "24592",
+    "uuid": "e0074bc8-5ee2-4731-93f5-9b6fc5a4346b",
+    "vid": "24592",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51017",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORLEANS vers MONTARGIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.279703 47.897559)",
-    "radarInstallDate": "2019-07-16T16:21:38",
-    "radarPlace": "CHATEAUNEUF SUR LOIRE",
+    "radarInstallDate": "2019-07-16T16:08:10",
+    "radarPlace": [],
     "radarRoad": "RD2060",
     "radarTronconKm": [],
     "radarType": [

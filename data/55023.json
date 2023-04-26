@@ -1,14 +1,14 @@
 {
-    "nid": "21060",
-    "uuid": "49cceab9-11b2-4326-bf8a-752c717cf6df",
-    "vid": "21060",
+    "nid": "25073",
+    "uuid": "38e08d26-63e0-4412-a076-808ec75f7cf9",
+    "vid": "25073",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55023",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAMBO LES BAINS vers ST JEAN PIED DE PORT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.357057 43.308444)",
-    "radarInstallDate": "2019-10-21T16:22:43",
-    "radarPlace": "LOUHOSSOA",
+    "radarInstallDate": "2019-10-21T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD918",
     "radarTronconKm": [],
     "radarType": [

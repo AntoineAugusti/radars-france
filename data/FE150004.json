@@ -1,14 +1,14 @@
 {
-    "nid": "21944",
-    "uuid": "e8359525-912a-4fd6-92ec-4b4dafa2cb8a",
-    "vid": "21944",
+    "nid": "25582",
+    "uuid": "42180f68-09f2-44ac-a786-db4e1b9e30ab",
+    "vid": "25582",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE150004",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TORIGNI vers CARENTAN LES MARAIS",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-1.07941 49.11324)",
-    "radarInstallDate": "2010-12-20T16:25:53",
-    "radarPlace": "ST LO",
+    "radarInstallDate": "2010-12-20T16:11:36",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

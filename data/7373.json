@@ -1,14 +1,14 @@
 {
-    "nid": "20312",
-    "uuid": "e5182bc9-8b0c-4839-bf10-37e0967c5ab7",
-    "vid": "20312",
+    "nid": "24174",
+    "uuid": "837fff0a-c9f4-4b57-adb4-cd0212927d4f",
+    "vid": "24174",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7373",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TRUN vers ARGENTAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.00732 48.79806)",
-    "radarInstallDate": "2008-04-07T16:20:50",
-    "radarPlace": "BAILLEUL",
+    "radarInstallDate": "2008-04-07T16:07:10",
+    "radarPlace": [],
     "radarRoad": "RD916",
     "radarTronconKm": [],
     "radarType": [

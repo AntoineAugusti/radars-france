@@ -1,14 +1,14 @@
 {
-    "nid": "21455",
-    "uuid": "892b52a1-6a2e-49e3-a5dd-a33d596404ca",
-    "vid": "21455",
+    "nid": "23128",
+    "uuid": "922536f0-090e-4849-a93e-5d0e300f6b25",
+    "vid": "23128",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12046",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA CHAPELLE ST LUC vers PARRES AUX TERTRES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.093514 48.332771)",
-    "radarInstallDate": "2012-05-29T16:24:03",
-    "radarPlace": "LAVAU",
+    "radarInstallDate": "2012-05-29T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RD610",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22095",
-    "uuid": "7bd890cb-da0c-4d8f-a74f-484e56a1cff5",
-    "vid": "22095",
+    "nid": "25712",
+    "uuid": "443ff62c-ee51-4ddb-ac59-fd51cf5fe146",
+    "vid": "25712",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE176000",
-    "created": "1637229182",
-    "changed": "1675869982",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Darnetal vers Rouen",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.13427 49.4365)",
-    "radarInstallDate": "2011-04-28T16:26:29",
-    "radarPlace": "ROUEN",
+    "radarInstallDate": "2011-04-28T16:12:14",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

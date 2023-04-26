@@ -1,14 +1,14 @@
 {
-    "nid": "20715",
-    "uuid": "b58e7429-ee3b-4a43-a164-57d0a55c105d",
-    "vid": "20715",
+    "nid": "24641",
+    "uuid": "a135cfbb-7ccb-4b50-9c8a-f1607f97864c",
+    "vid": "24641",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51067",
-    "created": "1637229138",
-    "changed": "1675869699",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NOYON vers ROYE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.970228 49.599559)",
-    "radarInstallDate": "2019-12-03T16:21:43",
-    "radarPlace": "BEAURAINS LES NOYON",
+    "radarInstallDate": "2019-12-03T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD934",
     "radarTronconKm": [],
     "radarType": [

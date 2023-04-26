@@ -1,14 +1,14 @@
 {
-    "nid": "20727",
-    "uuid": "db221c4a-6be3-494c-81c3-420a4ebc7b77",
-    "vid": "20727",
+    "nid": "24652",
+    "uuid": "3f12a68b-d838-47c3-870d-7c698f09ce8b",
+    "vid": "24652",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740496",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51079",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740496",
+    "changed": "1681740496",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CLUNY vers CORMATIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.669973 46.471857)",
-    "radarInstallDate": "2019-09-23T16:21:47",
-    "radarPlace": "LOURNAND",
+    "radarInstallDate": "2019-09-23T16:08:20",
+    "radarPlace": [],
     "radarRoad": "RD981",
     "radarTronconKm": [],
     "radarType": [

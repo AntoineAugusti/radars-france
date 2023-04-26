@@ -1,14 +1,14 @@
 {
-    "nid": "20923",
-    "uuid": "0a5b93cf-4d8a-4af6-bcc7-dfd144f5448c",
-    "vid": "20923",
+    "nid": "24850",
+    "uuid": "fa1dadb1-b3f8-4b39-9d29-3480cb8d66d6",
+    "vid": "24850",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740534",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51284",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740534",
+    "changed": "1681740534",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DOLE vers BESANCON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.961589 47.222135)",
-    "radarInstallDate": "2020-12-01T16:22:18",
-    "radarPlace": "BESANCON",
+    "radarInstallDate": "2020-12-01T16:08:58",
+    "radarPlace": [],
     "radarRoad": "RD673",
     "radarTronconKm": [],
     "radarType": [

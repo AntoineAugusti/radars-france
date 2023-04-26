@@ -1,14 +1,14 @@
 {
-    "nid": "20175",
-    "uuid": "e2cbcf6b-e654-4266-aa4c-1fc9acb148d4",
-    "vid": "20175",
+    "nid": "24052",
+    "uuid": "739990bc-b8ec-4efb-b9ae-f4fb9033f810",
+    "vid": "24052",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6673",
-    "created": "1637229120",
-    "changed": "1675869630",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHANTILLY VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.3788 48.9866)",
-    "radarInstallDate": "2007-01-29T16:20:33",
-    "radarPlace": "SARCELLES",
+    "radarInstallDate": "2007-01-29T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD316",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20492",
-    "uuid": "fd080960-4603-4cdb-b83d-910482e83e8e",
-    "vid": "20492",
+    "nid": "24334",
+    "uuid": "c2362377-d874-4744-96ce-f7da0a51a6be",
+    "vid": "24334",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229130",
+    "revisionTimestamp": "1681740448",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11001",
-    "created": "1637229130",
-    "changed": "1675869671",
+    "created": "1681740448",
+    "changed": "1681740448",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Avenue Georges 5 vers bd Dubouchage",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.2714 43.712)",
-    "radarInstallDate": "2012-03-05T16:21:14",
-    "radarPlace": "NICE",
+    "radarInstallDate": "2012-03-05T16:07:32",
+    "radarPlace": [],
     "radarRoad": "Face au 37 Boulevard de Cimiez",
     "radarTronconKm": [],
     "radarType": [

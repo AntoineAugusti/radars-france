@@ -1,14 +1,14 @@
 {
-    "nid": "19685",
-    "uuid": "337fffd3-9cd7-4dec-804b-c53c18b90c17",
-    "vid": "19685",
+    "nid": "23620",
+    "uuid": "228b9293-dc2b-4cfd-a26c-4b21b2d6ea4c",
+    "vid": "23620",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740364",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "199",
-    "created": "1637229107",
-    "changed": "1675869586",
+    "created": "1681740364",
+    "changed": "1681740364",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NEMOURS VERS CHALETTE SUR LOING",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.76366 48.15247)",
-    "radarInstallDate": "2004-10-01T16:19:47",
-    "radarPlace": "DORDIVES",
+    "radarInstallDate": "2004-10-01T16:06:07",
+    "radarPlace": [],
     "radarRoad": "RD2007",
     "radarTronconKm": [],
     "radarType": [

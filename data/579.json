@@ -1,14 +1,14 @@
 {
-    "nid": "19792",
-    "uuid": "eb507857-aca1-4f7e-ba33-fad6e9d6f661",
-    "vid": "19792",
+    "nid": "23715",
+    "uuid": "c3e320fc-6d70-4709-8eaa-76080e895402",
+    "vid": "23715",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740373",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "579",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740373",
+    "changed": "1681740373",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA FERTE ST AUBIN VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.89552 47.89776)",
-    "radarInstallDate": "2005-12-12T16:19:55",
-    "radarPlace": "ORLEANS",
+    "radarInstallDate": "2005-12-12T16:06:16",
+    "radarPlace": [],
     "radarRoad": "RD2020",
     "radarTronconKm": [],
     "radarType": [

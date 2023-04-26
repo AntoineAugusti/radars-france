@@ -1,14 +1,14 @@
 {
-    "nid": "21618",
-    "uuid": "76bc5b46-e970-4ceb-bbab-c92df36144e0",
-    "vid": "21618",
+    "nid": "23286",
+    "uuid": "c75b92bc-ffc2-4d24-ab91-a9cc4beda2bd",
+    "vid": "23286",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12330",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers TARBES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.31168 43.13936)",
-    "radarInstallDate": "2016-03-25T16:24:36",
-    "radarPlace": "LUTILHOUS",
+    "radarInstallDate": "2016-03-25T16:05:39",
+    "radarPlace": [],
     "radarRoad": "A64",
     "radarTronconKm": [],
     "radarType": [

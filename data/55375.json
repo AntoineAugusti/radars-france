@@ -1,14 +1,14 @@
 {
-    "nid": "21397",
-    "uuid": "bf022d5f-e79c-45f4-98f2-b0ae592c9756",
-    "vid": "21397",
+    "nid": "25412",
+    "uuid": "79723c8e-840b-4d41-90ab-9c311eec4b6f",
+    "vid": "25412",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55375",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MESTES vers BORT LES ORGUES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.366049 45.470038)",
-    "radarInstallDate": "2021-09-29T16:23:51",
-    "radarPlace": "SAINT VICTOUR",
+    "radarInstallDate": "2021-09-29T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD979",
     "radarTronconKm": [],
     "radarType": [

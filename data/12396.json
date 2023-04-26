@@ -1,14 +1,14 @@
 {
-    "nid": "21673",
-    "uuid": "a39dc3a4-eac5-44f3-aa24-45291e186863",
-    "vid": "21673",
+    "nid": "23341",
+    "uuid": "de36901f-566c-4ab8-afc4-fe29a228bf47",
+    "vid": "23341",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12396",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NARBONNE vers PERPIGNAN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.89969 42.76709)",
-    "radarInstallDate": "2017-01-25T16:24:50",
-    "radarPlace": "PIA",
+    "radarInstallDate": "2017-01-25T16:05:43",
+    "radarPlace": [],
     "radarRoad": "RD900",
     "radarTronconKm": [],
     "radarType": [

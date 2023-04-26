@@ -1,14 +1,14 @@
 {
-    "nid": "22814",
-    "uuid": "963ff357-f17c-4765-a8bd-df88abdff063",
-    "vid": "22814",
+    "nid": "26358",
+    "uuid": "445d69f1-9cd7-4995-afc9-4c67caea9d10",
+    "vid": "26358",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229222",
+    "revisionTimestamp": "1681741058",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_56_001",
-    "created": "1637229222",
-    "changed": "1637229222",
+    "created": "1681741058",
+    "changed": "1681741058",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "56 - Morbihan",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (47.783368 -3.338539)",
-    "radarInstallDate": "2017-10-09T10:53:43",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (-0.069677 44.854147)",
+    "radarInstallDate": "2018-09-27T16:17:39",
     "radarPlace": "-",
     "radarRoad": "D326, D769, D26, N165, D2, D113, D769B, D724",
-    "radarTronconKm": "20.28",
+    "radarTronconKm": "20,3",
     "radarType": [
         {
             "tid": "19",

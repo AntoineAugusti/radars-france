@@ -1,14 +1,14 @@
 {
-    "nid": "21441",
-    "uuid": "e2668d90-4214-435c-8e5e-7e260a754240",
-    "vid": "21441",
+    "nid": "23115",
+    "uuid": "fbd1f3a9-c27e-404d-808c-8b58b328c18c",
+    "vid": "23115",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12024",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHARTRES vers DREUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.4759 48.416)",
-    "radarInstallDate": "2012-03-28T16:24:03",
-    "radarPlace": "LUISANT",
+    "radarInstallDate": "2012-03-28T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RN123",
     "radarTronconKm": [],
     "radarType": [

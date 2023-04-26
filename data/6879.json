@@ -1,14 +1,14 @@
 {
-    "nid": "20212",
-    "uuid": "28ff2dfe-dc8d-4a30-adf1-88c76c3a416d",
-    "vid": "20212",
+    "nid": "24085",
+    "uuid": "bcd50fe0-1165-4ed4-9c07-d224386cec46",
+    "vid": "24085",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6879",
-    "created": "1637229122",
-    "changed": "1675869636",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CORBEIL-ESSONNES vers MELUN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.5256 48.6319)",
-    "radarInstallDate": "2008-03-25T16:20:38",
-    "radarPlace": "LIEUSAINT",
+    "radarInstallDate": "2008-03-25T16:06:58",
+    "radarPlace": [],
     "radarRoad": "RN104",
     "radarTronconKm": [],
     "radarType": [

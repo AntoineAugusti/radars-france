@@ -1,14 +1,14 @@
 {
-    "nid": "22721",
-    "uuid": "4851ee01-0d05-4e6d-a4dc-d381045fb934",
-    "vid": "22721",
+    "nid": "26237",
+    "uuid": "014774cd-14b2-4895-a979-77fb741a5f43",
+    "vid": "26237",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229218",
+    "revisionTimestamp": "1681741037",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_13_007",
-    "created": "1637229218",
-    "changed": "1637229218",
+    "created": "1681741037",
+    "changed": "1681741037",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "13 - Bouches-du-Rh\u00f4ne",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (43.514607 5.002747)",
-    "radarInstallDate": "2018-04-17T10:53:39",
-    "radarPlace": "-",
-    "radarRoad": "D16",
-    "radarTronconKm": "6.88",
+    "radarDirection": "45.005716, 4.403189",
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": [],
+    "radarInstallDate": "2017-10-05T16:17:17",
+    "radarPlace": "D16\"",
+    "radarRoad": "\"300",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

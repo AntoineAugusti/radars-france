@@ -1,14 +1,14 @@
 {
-    "nid": "20660",
-    "uuid": "bd38852b-6d3c-4c23-a7ff-3f623f4dbb11",
-    "vid": "20660",
+    "nid": "24585",
+    "uuid": "d5f23f04-3c43-47d1-8896-b548cbfbc216",
+    "vid": "24585",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51010",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONTLUCON vers MONTGIVRAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.012493 46.576805)",
-    "radarInstallDate": "2019-09-25T16:21:37",
-    "radarPlace": "LACS",
+    "radarInstallDate": "2019-09-25T16:08:10",
+    "radarPlace": [],
     "radarRoad": "RD943",
     "radarTronconKm": [],
     "radarType": [

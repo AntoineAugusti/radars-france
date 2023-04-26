@@ -1,14 +1,14 @@
 {
-    "nid": "20303",
-    "uuid": "09c8b15e-2c76-4aae-9d74-57e7a51fa955",
-    "vid": "20303",
+    "nid": "24166",
+    "uuid": "4167351b-82f4-4f1e-a671-2b5ec8d70b79",
+    "vid": "24166",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7339",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Paris vers Caen",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.5142 49.3905)",
-    "radarInstallDate": "2009-02-13T16:20:49",
-    "radarPlace": "ST MARDS DE BLACARVILLE",
+    "radarInstallDate": "2009-02-13T16:07:09",
+    "radarPlace": [],
     "radarRoad": "A13",
     "radarTronconKm": [],
     "radarType": [

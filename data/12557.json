@@ -1,14 +1,14 @@
 {
-    "nid": "21807",
-    "uuid": "bdf74475-d74a-48c7-a9ed-92ab78a81634",
-    "vid": "21807",
+    "nid": "23477",
+    "uuid": "001d234b-a515-47eb-861a-04dbcb5d0181",
+    "vid": "23477",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12557",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VANNES vers NANTES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-2.07799 47.44073)",
-    "radarInstallDate": "2019-07-22T16:25:24",
-    "radarPlace": "STE ANNE SUR BRIVET",
+    "radarInstallDate": "2019-07-22T16:05:53",
+    "radarPlace": [],
     "radarRoad": "RN165",
     "radarTronconKm": [],
     "radarType": [

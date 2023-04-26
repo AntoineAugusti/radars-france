@@ -1,14 +1,14 @@
 {
-    "nid": "20390",
-    "uuid": "6e558a9d-2365-4705-bdd8-09d389c6fd05",
-    "vid": "20390",
+    "nid": "24241",
+    "uuid": "7cf30c7a-9567-4395-9581-ba8051522d5c",
+    "vid": "24241",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8683",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PORTE DE CHATILLON vers PORTE DE VERSAILLES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2988 48.826)",
-    "radarInstallDate": "2014-01-31T16:21:01",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2014-01-31T16:07:18",
+    "radarPlace": [],
     "radarRoad": "BP int\u00e9rieur - Porte de Vanves/Brancion",
     "radarTronconKm": [],
     "radarType": [

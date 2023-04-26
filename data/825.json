@@ -1,14 +1,14 @@
 {
-    "nid": "19858",
-    "uuid": "0dd1adb3-1fed-4d5f-92ae-1043f2b1e38c",
-    "vid": "19858",
+    "nid": "23766",
+    "uuid": "dcf16cb2-92a6-492b-973e-d7d3e83c1e8f",
+    "vid": "23766",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "825",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CASTRES vers ALBI",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.17063 43.88208)",
-    "radarInstallDate": "2005-10-17T16:20:01",
-    "radarPlace": "PUYGOUZON",
+    "radarInstallDate": "2005-10-17T16:06:22",
+    "radarPlace": [],
     "radarRoad": "RD612",
     "radarTronconKm": [],
     "radarType": [

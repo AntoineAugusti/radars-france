@@ -1,14 +1,14 @@
 {
-    "nid": "22771",
-    "uuid": "5ee27c71-c374-4241-8086-b04edcf82671",
-    "vid": "22771",
+    "nid": "26306",
+    "uuid": "301afc1f-5ef6-4e9d-8596-731eb097824a",
+    "vid": "26306",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229221",
+    "revisionTimestamp": "1681741046",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_36_005",
-    "created": "1637229221",
-    "changed": "1637229221",
+    "created": "1681741046",
+    "changed": "1681741046",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "36 - Indre",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (46.790833 1.601765)",
-    "radarInstallDate": "2017-10-05T10:53:41",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (4.818207 45.300959)",
+    "radarInstallDate": "2017-10-18T16:17:28",
     "radarPlace": "-",
     "radarRoad": "D11, D43C, D1, D1E, D926, D43, D6, D125, D24, D15, D15C, D11A, D925, D14B, D121, D18, D27, , D80, D67A, D111",
-    "radarTronconKm": "42.80",
+    "radarTronconKm": "42,8",
     "radarType": [
         {
             "tid": "19",

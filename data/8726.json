@@ -1,14 +1,14 @@
 {
-    "nid": "20402",
-    "uuid": "205fb1b0-f1e0-4ffa-b5ad-9b5b2095015f",
-    "vid": "20402",
+    "nid": "24251",
+    "uuid": "95a64d46-fda0-4db9-8b6d-6b1e13a87ece",
+    "vid": "24251",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8726",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PORTO VECCHIO vers BASTIA",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (9.5466 42.257)",
-    "radarInstallDate": "2011-03-10T16:21:02",
-    "radarPlace": "SAN GIULIANO",
+    "radarInstallDate": "2011-03-10T16:07:19",
+    "radarPlace": [],
     "radarRoad": "RT10",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22320",
-    "uuid": "0ba2ccfa-0c4d-46de-8eae-4c51f3f2ff0b",
-    "vid": "22320",
+    "nid": "25877",
+    "uuid": "026faa5a-6d01-4b20-9b69-f71038518f4f",
+    "vid": "25877",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE283028",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Ouest vers Est",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.75722 43.43455)",
-    "radarInstallDate": "2011-01-10T16:27:30",
-    "radarPlace": "FREJUS",
+    "radarInstallDate": "2011-01-10T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

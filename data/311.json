@@ -1,14 +1,14 @@
 {
-    "nid": "19717",
-    "uuid": "85b88ef0-ef43-40f0-a83a-6d17c219ef85",
-    "vid": "19717",
+    "nid": "23645",
+    "uuid": "ab310e14-415e-4bd9-aeb9-5147a28a0d47",
+    "vid": "23645",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229109",
+    "revisionTimestamp": "1681740367",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "311",
-    "created": "1637229109",
-    "changed": "1675869588",
+    "created": "1681740367",
+    "changed": "1681740367",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VIERZON vers TOURS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.20635 47.33407)",
-    "radarInstallDate": "2005-03-22T16:19:49",
-    "radarPlace": "ST JULIEN DE CHEDON",
+    "radarInstallDate": "2005-03-22T16:06:09",
+    "radarPlace": [],
     "radarRoad": "RD976",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21484",
-    "uuid": "550a588e-c57a-4972-9743-a5ed63597879",
-    "vid": "21484",
+    "nid": "23157",
+    "uuid": "88298eea-a78f-4a30-a49a-91ec16b05dbc",
+    "vid": "23157",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12089",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CLERMONT FERRAND vers BORDEAUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.339 45.5273)",
-    "radarInstallDate": "2012-10-01T16:24:10",
-    "radarPlace": "ST EXUPERY LES ROCHES",
+    "radarInstallDate": "2012-10-01T16:05:30",
+    "radarPlace": [],
     "radarRoad": "A89",
     "radarTronconKm": [],
     "radarType": [

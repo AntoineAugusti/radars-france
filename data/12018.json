@@ -1,14 +1,14 @@
 {
-    "nid": "21439",
-    "uuid": "062b0d63-8332-4162-a05f-2be654c91256",
-    "vid": "21439",
+    "nid": "23113",
+    "uuid": "f2b5f8c4-6703-449c-b6e0-af2d65ce0bec",
+    "vid": "23113",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12018",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST JEAN DE COLE vers THIVIERS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (0.85801 45.41358)",
-    "radarInstallDate": "2011-10-10T16:24:02",
-    "radarPlace": "ST ROMAIN ET ST CLEMENT",
+    "radarInstallDate": "2011-10-10T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RD707",
     "radarTronconKm": [],
     "radarType": [

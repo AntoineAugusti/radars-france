@@ -1,14 +1,14 @@
 {
-    "nid": "22041",
-    "uuid": "102312d5-689a-44cc-8873-9aeb88690875",
-    "vid": "22041",
+    "nid": "25658",
+    "uuid": "a6d7a41d-f2f0-4915-8f8d-96b44bd53aab",
+    "vid": "25658",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229181",
+    "revisionTimestamp": "1681740713",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE162017",
-    "created": "1637229181",
-    "changed": "1675869975",
+    "created": "1681740713",
+    "changed": "1681740713",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SANGATTE vers MARCK",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.88964 50.94629)",
-    "radarInstallDate": "2012-12-20T16:26:21",
-    "radarPlace": "CALAIS",
+    "radarInstallDate": "2012-12-20T16:12:00",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

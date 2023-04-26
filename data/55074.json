@@ -1,14 +1,14 @@
 {
-    "nid": "21111",
-    "uuid": "2ee4b188-0aaa-4fca-acde-c3336907d0a4",
-    "vid": "21111",
+    "nid": "25124",
+    "uuid": "3d8734b4-868f-4d1f-be12-f8ad52ca797f",
+    "vid": "25124",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55074",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURG ARGENTAL vers ANNONAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.619286 45.29283)",
-    "radarInstallDate": "2020-01-23T16:22:55",
-    "radarPlace": "ST JULIEN MOLIN MOLETTE",
+    "radarInstallDate": "2020-01-23T16:09:53",
+    "radarPlace": [],
     "radarRoad": "RD1082",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20682",
-    "uuid": "884870d6-1cc3-47ad-8e17-7b7c0af01fa5",
-    "vid": "20682",
+    "nid": "24607",
+    "uuid": "8cecee7d-d2f7-4f4c-880e-be71582c26e1",
+    "vid": "24607",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740490",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51033",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740490",
+    "changed": "1681740490",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AMIENS vers CONTAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.405889 49.970045)",
-    "radarInstallDate": "2019-09-10T16:21:38",
-    "radarPlace": "ST GRATIEN",
+    "radarInstallDate": "2019-09-10T16:08:15",
+    "radarPlace": [],
     "radarRoad": "RD919",
     "radarTronconKm": [],
     "radarType": [

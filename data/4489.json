@@ -1,14 +1,14 @@
 {
-    "nid": "20024",
-    "uuid": "88008535-f7bb-4638-8a36-4eb255fd1878",
-    "vid": "20024",
+    "nid": "23910",
+    "uuid": "2ef81a6b-a4a6-4f12-8369-7cffa6aaa829",
+    "vid": "23910",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4489",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA BASSEE VERS LILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.86406 50.57415)",
-    "radarInstallDate": "2008-12-22T16:20:18",
-    "radarPlace": "WICRES",
+    "radarInstallDate": "2008-12-22T16:06:36",
+    "radarPlace": [],
     "radarRoad": "RN41",
     "radarTronconKm": [],
     "radarType": [

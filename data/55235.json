@@ -1,14 +1,14 @@
 {
-    "nid": "21270",
-    "uuid": "29c6dc68-ee91-482a-991a-f147189868c2",
-    "vid": "21270",
+    "nid": "25281",
+    "uuid": "8f588834-10c0-4976-ade2-7ad10cdd2292",
+    "vid": "25281",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55235",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers PAMIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.60989 43.19666)",
-    "radarInstallDate": "2020-06-23T16:23:26",
-    "radarPlace": "LE VERNET",
+    "radarInstallDate": "2020-06-23T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD820",
     "radarTronconKm": [],
     "radarType": [

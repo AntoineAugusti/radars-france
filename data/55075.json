@@ -1,14 +1,14 @@
 {
-    "nid": "21112",
-    "uuid": "d0b05f35-d5c7-41a4-9145-b592c80420bd",
-    "vid": "21112",
+    "nid": "25125",
+    "uuid": "68dca592-e55e-465e-9fdc-e83520dde58d",
+    "vid": "25125",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55075",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "FEURS vers BOEN SUR LIGNON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.094343 45.738268)",
-    "radarInstallDate": "2019-12-12T16:22:55",
-    "radarPlace": "ST ETIENNE LE MOLARD",
+    "radarInstallDate": "2019-12-12T16:09:53",
+    "radarPlace": [],
     "radarRoad": "RD1089",
     "radarTronconKm": [],
     "radarType": [

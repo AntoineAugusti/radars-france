@@ -1,14 +1,14 @@
 {
-    "nid": "21277",
-    "uuid": "678e370a-87b2-4eca-9198-c2073ce918c3",
-    "vid": "21277",
+    "nid": "25290",
+    "uuid": "a2edd5dd-9c1b-4bcc-b140-12dc77cf01ab",
+    "vid": "25290",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55244",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BIRIATOU vers SAINT JEAN DE LUZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.73538 43.356944)",
-    "radarInstallDate": "2020-03-17T16:23:26",
-    "radarPlace": "URRUGNE",
+    "radarInstallDate": "2020-03-17T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RD810",
     "radarTronconKm": [],
     "radarType": [

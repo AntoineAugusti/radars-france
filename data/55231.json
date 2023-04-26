@@ -1,14 +1,14 @@
 {
-    "nid": "21266",
-    "uuid": "b307723e-b9b1-4f38-a72f-6f06bf3cb69d",
-    "vid": "21266",
+    "nid": "25277",
+    "uuid": "3d941e3c-5f23-4889-9b47-6cb8b7437fab",
+    "vid": "25277",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55231",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TOULOUSE vers MONTAUBAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.321547 43.807487)",
-    "radarInstallDate": "2020-06-17T16:23:26",
-    "radarPlace": "POMPIGNAN",
+    "radarInstallDate": "2020-06-17T16:10:26",
+    "radarPlace": [],
     "radarRoad": "RD820",
     "radarTronconKm": [],
     "radarType": [

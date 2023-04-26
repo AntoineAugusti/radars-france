@@ -1,14 +1,14 @@
 {
-    "nid": "20669",
-    "uuid": "7ded66c0-f2cb-4c08-af75-d53667e10da9",
-    "vid": "20669",
+    "nid": "24594",
+    "uuid": "a14fb45d-6d73-4614-ae98-5a49533b318c",
+    "vid": "24594",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51019",
-    "created": "1637229136",
-    "changed": "1675869695",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PITHIVIERS vers ORLEANS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.110277 48.01632)",
-    "radarInstallDate": "2019-07-26T16:21:38",
-    "radarPlace": "LOURY",
+    "radarInstallDate": "2019-07-26T16:08:10",
+    "radarPlace": [],
     "radarRoad": "RD2152",
     "radarTronconKm": [],
     "radarType": [

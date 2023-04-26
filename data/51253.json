@@ -1,14 +1,14 @@
 {
-    "nid": "20894",
-    "uuid": "a2d01938-2bc3-463a-aaa2-1e1cc2542271",
-    "vid": "20894",
+    "nid": "24821",
+    "uuid": "81e2ef7d-c7b4-4bb8-8f83-42a490a77ad3",
+    "vid": "24821",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51253",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LUCON vers ROCHE SUR YON (LA)",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.355113 46.615584)",
-    "radarInstallDate": "2020-03-06T16:22:13",
-    "radarPlace": "RIVES DE L YON",
+    "radarInstallDate": "2020-03-06T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RD746",
     "radarTronconKm": [],
     "radarType": [

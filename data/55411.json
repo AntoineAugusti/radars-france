@@ -1,14 +1,14 @@
 {
-    "nid": "21415",
-    "uuid": "0b48935c-96dc-4de2-8836-a7967a3a96c9",
-    "vid": "21415",
+    "nid": "25442",
+    "uuid": "172ccbc8-d8c9-4659-8817-2ba3e8125d54",
+    "vid": "25442",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740657",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55411",
-    "created": "1637229160",
-    "changed": "1675869832",
+    "created": "1681740657",
+    "changed": "1681740657",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AIGUEPERSE vers RIOM",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.158438 45.946264)",
-    "radarInstallDate": "2021-06-24T16:23:56",
-    "radarPlace": "CHAMBARON SUR MORGE",
+    "radarInstallDate": "2021-06-24T16:11:03",
+    "radarPlace": [],
     "radarRoad": "RD2009",
     "radarTronconKm": [],
     "radarType": [

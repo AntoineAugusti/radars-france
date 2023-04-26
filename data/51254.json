@@ -1,14 +1,14 @@
 {
-    "nid": "20895",
-    "uuid": "a0277734-0815-4ced-bd0d-49693b30436c",
-    "vid": "20895",
+    "nid": "24822",
+    "uuid": "2606ff5b-4ec5-4190-ad33-a5442d80b8ea",
+    "vid": "24822",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51254",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANCY vers PHALSBOURG",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.90494 48.640378)",
-    "radarInstallDate": "2020-03-03T16:22:13",
-    "radarPlace": "RICHEVAL",
+    "radarInstallDate": "2020-03-03T16:08:53",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

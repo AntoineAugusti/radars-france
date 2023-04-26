@@ -1,14 +1,14 @@
 {
-    "nid": "21757",
-    "uuid": "3e9ce758-e90c-4e7c-b4a1-dc13367883ed",
-    "vid": "21757",
+    "nid": "23426",
+    "uuid": "c6629bc1-f620-4ba4-a5ed-ab17523478aa",
+    "vid": "23426",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740348",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12495",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740348",
+    "changed": "1681740348",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LYON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.73286 46.0038)",
-    "radarInstallDate": "2016-10-31T16:25:11",
-    "radarPlace": "ARNAS",
+    "radarInstallDate": "2016-10-31T16:05:50",
+    "radarPlace": [],
     "radarRoad": "A6",
     "radarTronconKm": [],
     "radarType": [

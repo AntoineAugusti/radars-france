@@ -1,14 +1,14 @@
 {
-    "nid": "19853",
-    "uuid": "33680888-fd2f-47e0-af2e-a1e259088ec9",
-    "vid": "19853",
+    "nid": "23761",
+    "uuid": "4367adf4-d3e1-44c1-a254-9c25a39d7fa8",
+    "vid": "23761",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "798",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS VERS REIMS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.47952 48.829)",
-    "radarInstallDate": "2006-03-30T16:20:01",
-    "radarPlace": "CHAMPIGNY SUR MARNE",
+    "radarInstallDate": "2006-03-30T16:06:22",
+    "radarPlace": [],
     "radarRoad": "A4",
     "radarTronconKm": [],
     "radarType": [

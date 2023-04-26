@@ -1,14 +1,14 @@
 {
-    "nid": "21844",
-    "uuid": "2677170d-ab8a-41f7-afbf-b02bb579abd7",
-    "vid": "21844",
+    "nid": "23522",
+    "uuid": "7ecf2aeb-c31e-48b0-a339-ad684f8d489b",
+    "vid": "23522",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740356",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12616",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740356",
+    "changed": "1681740356",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "THANN vers MULHOUSE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (7.22538 47.77297)",
-    "radarInstallDate": "2020-12-15T16:25:32",
-    "radarPlace": "WITTELSHEIM",
+    "radarInstallDate": "2020-12-15T16:05:58",
+    "radarPlace": [],
     "radarRoad": "RN66",
     "radarTronconKm": [],
     "radarType": [

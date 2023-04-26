@@ -1,14 +1,14 @@
 {
-    "nid": "20110",
-    "uuid": "b14e1c9f-2cb0-4115-a704-8d874d48dbf8",
-    "vid": "20110",
+    "nid": "23994",
+    "uuid": "6fd03775-904e-4076-bc6a-1cb62a8c201f",
+    "vid": "23994",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229118",
+    "revisionTimestamp": "1681740404",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "5135",
-    "created": "1637229118",
-    "changed": "1675869624",
+    "created": "1681740404",
+    "changed": "1681740404",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NANTERRE vers CRETEIL",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.15623 48.78416)",
-    "radarInstallDate": "2011-01-09T16:20:26",
-    "radarPlace": "JOUY EN JOSAS",
+    "radarInstallDate": "2011-01-09T16:06:47",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

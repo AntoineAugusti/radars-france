@@ -1,14 +1,14 @@
 {
-    "nid": "21702",
-    "uuid": "369b9001-be02-4feb-a411-6a7070024c22",
-    "vid": "21702",
+    "nid": "23370",
+    "uuid": "3bbec8b5-8248-4538-aaf6-ce8b420c3a11",
+    "vid": "23370",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740344",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12427",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740344",
+    "changed": "1681740344",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DIVION vers AIX NOULETTE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.58465 50.4485)",
-    "radarInstallDate": "2016-10-03T16:24:57",
-    "radarPlace": "MAISNIL LES RUITZ",
+    "radarInstallDate": "2016-10-03T16:05:45",
+    "radarPlace": [],
     "radarRoad": "RD301",
     "radarTronconKm": [],
     "radarType": [

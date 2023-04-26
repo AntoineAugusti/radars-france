@@ -1,14 +1,14 @@
 {
-    "nid": "20512",
-    "uuid": "26a88e69-7b57-4701-abe8-fc295871cb31",
-    "vid": "20512",
+    "nid": "24348",
+    "uuid": "57a1cc85-afa6-4670-80c1-0036dad69e67",
+    "vid": "24348",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11073",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LUIGNY vers NOGENT LE ROTROU",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.91608 48.26078)",
-    "radarInstallDate": "2012-02-03T16:21:17",
-    "radarPlace": "VICHERES",
+    "radarInstallDate": "2012-02-03T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD955",
     "radarTronconKm": [],
     "radarType": [

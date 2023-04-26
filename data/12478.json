@@ -1,14 +1,14 @@
 {
-    "nid": "21743",
-    "uuid": "278ed153-9bc0-46b2-ad8d-03d05529d936",
-    "vid": "21743",
+    "nid": "23411",
+    "uuid": "385fda05-4a13-4b39-bbbb-eed06d958adc",
+    "vid": "23411",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229169",
+    "revisionTimestamp": "1681740346",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12478",
-    "created": "1637229169",
-    "changed": "1675869905",
+    "created": "1681740346",
+    "changed": "1681740346",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANNECY vers GENEVE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.088236 46.085752)",
-    "radarInstallDate": "2016-11-07T16:25:10",
-    "radarPlace": "PRESILLY",
+    "radarInstallDate": "2016-11-07T16:05:48",
+    "radarPlace": [],
     "radarRoad": "A41",
     "radarTronconKm": [],
     "radarType": [

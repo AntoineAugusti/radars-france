@@ -1,14 +1,14 @@
 {
-    "nid": "21804",
-    "uuid": "5aa33273-0761-475e-80b5-98c8fcc19f99",
-    "vid": "21804",
+    "nid": "23474",
+    "uuid": "3511838a-1084-485b-bdc5-bbdeb1820b17",
+    "vid": "23474",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12552",
-    "created": "1637229171",
-    "changed": "1675869919",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALES vers NIMES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.135386 44.043481)",
-    "radarInstallDate": "2019-07-19T16:25:24",
-    "radarPlace": "VEZENOBRES",
+    "radarInstallDate": "2019-07-19T16:05:53",
+    "radarPlace": [],
     "radarRoad": "RN106",
     "radarTronconKm": [],
     "radarType": [

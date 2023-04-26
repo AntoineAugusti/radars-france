@@ -1,14 +1,14 @@
 {
-    "nid": "22888",
-    "uuid": "a47c9a16-d367-4c63-8a08-f751a8fd437e",
-    "vid": "22888",
+    "nid": "26447",
+    "uuid": "c88b9ba9-7432-4928-a42f-cc7f078c3def",
+    "vid": "26447",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741080",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_84_002",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741080",
+    "changed": "1681741080",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "84 - Vaucluse",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "4.888447, 44.051939",
-    "radarEquipment": "-",
+    "radarDirection": "49.292879, 4.556708",
+    "radarEquipment": "AXIMUM",
     "radarGeolocalisation": [],
-    "radarInstallDate": "2017-10-06T10:53:49",
+    "radarInstallDate": "2017-10-06T16:18:01",
     "radarPlace": "D907\"",
     "radarRoad": "\"300",
-    "radarTronconKm": "-",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

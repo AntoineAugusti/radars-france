@@ -1,14 +1,14 @@
 {
-    "nid": "22507",
-    "uuid": "ce7d5653-fa85-4d61-896e-51dbe5d433cd",
-    "vid": "22507",
+    "nid": "26002",
+    "uuid": "6814f2f4-9875-406c-9b19-956593d73011",
+    "vid": "26002",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE347013",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bordeaux vers Toulouse",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.15814 44.50161)",
-    "radarInstallDate": "2011-05-13T16:28:20",
-    "radarPlace": "MARMANDE",
+    "radarInstallDate": "2011-05-13T16:13:34",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

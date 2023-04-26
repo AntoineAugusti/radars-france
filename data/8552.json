@@ -1,14 +1,14 @@
 {
-    "nid": "20349",
-    "uuid": "a0df6526-03bb-4d30-bb4b-5eb54fdadfbf",
-    "vid": "20349",
+    "nid": "24203",
+    "uuid": "4feed158-debc-4737-85fd-9540fac87258",
+    "vid": "24203",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8552",
-    "created": "1637229126",
-    "changed": "1675869651",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST SIMON vers AURILLAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.4606 44.9445)",
-    "radarInstallDate": "2010-09-09T16:20:54",
-    "radarPlace": "AURILLAC",
+    "radarInstallDate": "2010-09-09T16:07:14",
+    "radarPlace": [],
     "radarRoad": "RD17",
     "radarTronconKm": [],
     "radarType": [

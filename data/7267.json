@@ -1,14 +1,14 @@
 {
-    "nid": "20287",
-    "uuid": "0165b09b-49d5-45f7-8b65-c1b31bd264f1",
-    "vid": "20287",
+    "nid": "24151",
+    "uuid": "d42e0e9c-305c-44c3-9b59-a969f3650a67",
+    "vid": "24151",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7267",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANNECY vers UGINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.38952 45.76082)",
-    "radarInstallDate": "2007-12-07T16:20:46",
-    "radarPlace": "UGINE",
+    "radarInstallDate": "2007-12-07T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RD1508",
     "radarTronconKm": [],
     "radarType": [

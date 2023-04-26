@@ -1,14 +1,14 @@
 {
-    "nid": "19968",
-    "uuid": "4d827aee-71c5-4b0a-bc42-d426c565913d",
-    "vid": "19968",
+    "nid": "23859",
+    "uuid": "436d9945-2757-48df-a8c6-c3c2e9dd73d8",
+    "vid": "23859",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4231",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "AGEN vers CAHORS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.64731 44.21169)",
-    "radarInstallDate": "2009-02-27T16:20:11",
-    "radarPlace": "AGEN",
+    "radarInstallDate": "2009-02-27T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD656",
     "radarTronconKm": [],
     "radarType": [

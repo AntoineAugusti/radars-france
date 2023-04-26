@@ -1,14 +1,14 @@
 {
-    "nid": "21271",
-    "uuid": "e3f8cd5b-666f-4ca4-a43a-d23a352c2de4",
-    "vid": "21271",
+    "nid": "25282",
+    "uuid": "45020879-1479-41a0-a411-161a501bf6ce",
+    "vid": "25282",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55236",
-    "created": "1637229153",
-    "changed": "1675869801",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "REMOULINS vers AVIGNON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.675428 43.948812)",
-    "radarInstallDate": "2020-01-31T16:23:26",
-    "radarPlace": "SAZE",
+    "radarInstallDate": "2020-01-31T16:10:27",
+    "radarPlace": [],
     "radarRoad": "RN100",
     "radarTronconKm": [],
     "radarType": [

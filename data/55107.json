@@ -1,14 +1,14 @@
 {
-    "nid": "21144",
-    "uuid": "76e3af25-f125-4cc5-bdc8-3864d9d07adb",
-    "vid": "21144",
+    "nid": "25155",
+    "uuid": "62737742-99f8-4ac2-98e9-d4b5e724dca6",
+    "vid": "25155",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740595",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55107",
-    "created": "1637229149",
-    "changed": "1675869777",
+    "created": "1681740595",
+    "changed": "1681740595",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SETE vers MONTPELLIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.74408 43.42333)",
-    "radarInstallDate": "2020-02-20T16:23:01",
-    "radarPlace": "FRONTIGNAN",
+    "radarInstallDate": "2020-02-20T16:10:00",
+    "radarPlace": [],
     "radarRoad": "RD612",
     "radarTronconKm": [],
     "radarType": [

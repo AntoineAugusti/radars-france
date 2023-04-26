@@ -1,14 +1,14 @@
 {
-    "nid": "22488",
-    "uuid": "6f0431ce-39c4-45c3-b409-9e2ed22289cf",
-    "vid": "22488",
+    "nid": "25992",
+    "uuid": "decf00df-d23e-4bf9-b6a4-33e91cf9030e",
+    "vid": "25992",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740806",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE340002",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740806",
+    "changed": "1681740806",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Vers centre ville",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.47799 43.87838)",
-    "radarInstallDate": "2010-01-18T16:28:19",
-    "radarPlace": "MONT DE MARSAN",
+    "radarInstallDate": "2010-01-18T16:13:33",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

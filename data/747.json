@@ -1,14 +1,14 @@
 {
-    "nid": "19843",
-    "uuid": "0d8bc15f-0d75-45e9-84f9-9bfdb1fcdf35",
-    "vid": "19843",
+    "nid": "23755",
+    "uuid": "fb5efc67-51c6-4658-acfc-30f1309f52d9",
+    "vid": "23755",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "747",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LONGWY VERS METZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.08166 49.3172)",
-    "radarInstallDate": "2005-01-03T16:19:59",
-    "radarPlace": "SEREMANGE ERZANGE",
+    "radarInstallDate": "2005-01-03T16:06:20",
+    "radarPlace": [],
     "radarRoad": "A30",
     "radarTronconKm": [],
     "radarType": [

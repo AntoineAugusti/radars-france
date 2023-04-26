@@ -1,14 +1,14 @@
 {
-    "nid": "21886",
-    "uuid": "875f6cdc-2afc-4497-9f88-7ac91ace4904",
-    "vid": "21886",
+    "nid": "25525",
+    "uuid": "35525c32-5eb9-483b-b2d7-04e6d52b1013",
+    "vid": "25525",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740681",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE118005",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740681",
+    "changed": "1681740681",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Fussy vers Bourges",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.40944 47.10346)",
-    "radarInstallDate": "2010-10-11T16:25:39",
-    "radarPlace": "BOURGES",
+    "radarInstallDate": "2010-10-11T16:11:27",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

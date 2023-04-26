@@ -1,14 +1,14 @@
 {
-    "nid": "20365",
-    "uuid": "af9fdcd7-9265-4c61-9e14-a285e65de7eb",
-    "vid": "20365",
+    "nid": "24219",
+    "uuid": "0dcc19c0-967b-4f2c-9039-9ca90ffcd640",
+    "vid": "24219",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740431",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8614",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740431",
+    "changed": "1681740431",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LES PIEUX vers CHERBOURG EN COTENTIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.6336 49.6294)",
-    "radarInstallDate": "2010-10-29T16:20:57",
-    "radarPlace": "CHERBOURG EN COTENTIN",
+    "radarInstallDate": "2010-10-29T16:07:14",
+    "radarPlace": [],
     "radarRoad": "Bd de l'Atlantique",
     "radarTronconKm": [],
     "radarType": [

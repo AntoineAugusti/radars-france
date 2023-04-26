@@ -1,14 +1,14 @@
 {
-    "nid": "19901",
-    "uuid": "6ab6a3e2-b3fd-434a-bb7e-04e267660cd7",
-    "vid": "19901",
+    "nid": "23800",
+    "uuid": "051e2dbf-e07a-4c7c-a40a-5094b27b3d18",
+    "vid": "23800",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3111",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ROANNE vers DIGOIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.04019 46.2394)",
-    "radarInstallDate": "2006-03-06T16:20:05",
-    "radarPlace": "ST MARTIN DU LAC",
+    "radarInstallDate": "2006-03-06T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RD982",
     "radarTronconKm": [],
     "radarType": [

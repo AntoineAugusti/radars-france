@@ -1,14 +1,14 @@
 {
-    "nid": "21018",
-    "uuid": "b3cb3cf4-d328-4224-85ba-51b84dcab10b",
-    "vid": "21018",
+    "nid": "24963",
+    "uuid": "2f86fe74-835d-43d8-8f1f-e8cfaae7825d",
+    "vid": "24963",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51403",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MARSEILLE EN BEAUVAISIS vers SONGEONS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.911258 49.562244)",
-    "radarInstallDate": "2021-09-07T16:22:33",
-    "radarPlace": "GREMEVILLERS",
+    "radarInstallDate": "2021-09-07T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD 930",
     "radarTronconKm": [],
     "radarType": [

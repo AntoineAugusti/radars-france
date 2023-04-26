@@ -1,14 +1,14 @@
 {
-    "nid": "21032",
-    "uuid": "2651d081-5a9e-429b-a209-359132264926",
-    "vid": "21032",
+    "nid": "24981",
+    "uuid": "5fe4250d-ac31-487c-927d-f79696b8aa50",
+    "vid": "24981",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51422",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LILLERS vers BETHUNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.605234 50.533493)",
-    "radarInstallDate": "2021-06-28T16:22:38",
-    "radarPlace": "ANNEZIN",
+    "radarInstallDate": "2021-06-28T16:09:22",
+    "radarPlace": [],
     "radarRoad": "RD943",
     "radarTronconKm": [],
     "radarType": [

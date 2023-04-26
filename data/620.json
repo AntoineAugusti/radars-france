@@ -1,14 +1,14 @@
 {
-    "nid": "19808",
-    "uuid": "422527f0-b9b1-4384-9e50-b5b3b0147802",
-    "vid": "19808",
+    "nid": "23729",
+    "uuid": "d6cfec2a-dbfc-4361-b93d-5591c52ac2d1",
+    "vid": "23729",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "620",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGES VERS CHATEAUROUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.80215 46.86848)",
-    "radarInstallDate": "2005-11-07T16:19:55",
-    "radarPlace": "MONTIERCHAUME",
+    "radarInstallDate": "2005-11-07T16:06:18",
+    "radarPlace": [],
     "radarRoad": "RN151",
     "radarTronconKm": [],
     "radarType": [

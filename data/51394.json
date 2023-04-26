@@ -1,14 +1,14 @@
 {
-    "nid": "21010",
-    "uuid": "45678e74-d086-4d74-b849-6df1412adad4",
-    "vid": "21010",
+    "nid": "24954",
+    "uuid": "25eae849-0a5f-432d-a5a9-f12210d15420",
+    "vid": "24954",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51394",
-    "created": "1637229146",
-    "changed": "1675869749",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SARCUS vers GRANDVILLIERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.910639 49.674682)",
-    "radarInstallDate": "2021-05-05T16:22:33",
-    "radarPlace": "SARNOIS",
+    "radarInstallDate": "2021-05-05T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD315",
     "radarTronconKm": [],
     "radarType": [

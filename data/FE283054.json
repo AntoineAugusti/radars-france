@@ -1,14 +1,14 @@
 {
-    "nid": "22326",
-    "uuid": "c6c5dd8f-231e-4d1c-8fb3-5bcd18be31ec",
-    "vid": "22326",
+    "nid": "25882",
+    "uuid": "3affa0de-ef37-4bb8-b69c-d90c4f54ffc3",
+    "vid": "25882",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE283054",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nord vers Sud",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.12852 43.11793)",
-    "radarInstallDate": "2012-11-23T16:27:30",
-    "radarPlace": "HYERES",
+    "radarInstallDate": "2012-11-23T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20245",
-    "uuid": "3bfc0f69-2c1c-4ed0-8cbf-0397470c18bd",
-    "vid": "20245",
+    "nid": "24113",
+    "uuid": "7e8d4877-bc86-418f-87d1-0d1a420c35ff",
+    "vid": "24113",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7125",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Toulouse vers Bayonne",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.06637 43.22008)",
-    "radarInstallDate": "2008-04-11T16:20:41",
-    "radarPlace": "TARBES",
+    "radarInstallDate": "2008-04-11T16:07:02",
+    "radarPlace": [],
     "radarRoad": "RN21",
     "radarTronconKm": [],
     "radarType": [

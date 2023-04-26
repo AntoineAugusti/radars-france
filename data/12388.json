@@ -1,14 +1,14 @@
 {
-    "nid": "21667",
-    "uuid": "b60c0539-2872-4dd9-b99f-beac970d610e",
-    "vid": "21667",
+    "nid": "23335",
+    "uuid": "3a849248-10d4-4fd7-a81f-c82251a59af1",
+    "vid": "23335",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12388",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "STRASBOURG vers NANCY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.971603 48.700083)",
-    "radarInstallDate": "2017-06-09T16:24:50",
-    "radarPlace": "HEMING",
+    "radarInstallDate": "2017-06-09T16:05:42",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21123",
-    "uuid": "b1008be2-1876-4762-a6cf-aef80518c8b5",
-    "vid": "21123",
+    "nid": "25134",
+    "uuid": "9c378b41-21a1-4cde-b8e7-d88853b92a71",
+    "vid": "25134",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229149",
+    "revisionTimestamp": "1681740588",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55086",
-    "created": "1637229149",
-    "changed": "1675869771",
+    "created": "1681740588",
+    "changed": "1681740588",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BRESSUIRE vers THOUARS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.358785 46.873703)",
-    "radarInstallDate": "2020-02-25T16:22:55",
-    "radarPlace": "GEAY",
+    "radarInstallDate": "2020-02-25T16:09:54",
+    "radarPlace": [],
     "radarRoad": "RD938TER",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21883",
-    "uuid": "ddf344f0-afdf-49d5-a85a-1c4a13ab0278",
-    "vid": "21883",
+    "nid": "25523",
+    "uuid": "34df6382-5dd4-4071-977c-e75e4fd2df96",
+    "vid": "25523",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740673",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE118002",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740673",
+    "changed": "1681740673",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Dun sur Auron vers Bourges",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.4065 47.07557)",
-    "radarInstallDate": "2010-11-05T16:25:39",
-    "radarPlace": "BOURGES",
+    "radarInstallDate": "2010-11-05T16:11:20",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

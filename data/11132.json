@@ -1,14 +1,14 @@
 {
-    "nid": "20533",
-    "uuid": "9efaebb1-4acc-4891-b7fd-eb131741cb68",
-    "vid": "20533",
+    "nid": "24365",
+    "uuid": "e06a8ea1-e06a-4372-b345-80f4a9dfcf69",
+    "vid": "24365",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229132",
+    "revisionTimestamp": "1681740453",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "11132",
-    "created": "1637229132",
-    "changed": "1675869675",
+    "created": "1681740453",
+    "changed": "1681740453",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Bordeaux vers Martignas sur Jalle",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.7254 44.845)",
-    "radarInstallDate": "2012-09-21T16:21:18",
-    "radarPlace": "MERIGNAC",
+    "radarInstallDate": "2012-09-21T16:07:36",
+    "radarPlace": [],
     "radarRoad": "RD213",
     "radarTronconKm": [],
     "radarType": [

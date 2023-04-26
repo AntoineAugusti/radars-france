@@ -1,14 +1,14 @@
 {
-    "nid": "21536",
-    "uuid": "e1eb883e-5d5d-477c-9148-0f1006fa0e92",
-    "vid": "21536",
+    "nid": "23207",
+    "uuid": "3fbaab42-80fe-45eb-bec1-98f97402aeda",
+    "vid": "23207",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12179",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MELLE vers CIVRAY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.0572 46.191)",
-    "radarInstallDate": "2013-02-11T16:24:22",
-    "radarPlace": "MAISONNAY",
+    "radarInstallDate": "2013-02-11T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RD948",
     "radarTronconKm": [],
     "radarType": [

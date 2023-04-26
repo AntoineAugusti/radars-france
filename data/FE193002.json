@@ -1,14 +1,14 @@
 {
-    "nid": "22166",
-    "uuid": "4b4719d3-d29c-4e93-925c-244c5c0ed237",
-    "vid": "22166",
+    "nid": "25781",
+    "uuid": "0d4a1776-8d4c-4dc8-9d99-969afcf55791",
+    "vid": "25781",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229185",
+    "revisionTimestamp": "1681740744",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE193002",
-    "created": "1637229185",
-    "changed": "1675870003",
+    "created": "1681740744",
+    "changed": "1681740744",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Province vers Paris",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.41414 48.9021)",
-    "radarInstallDate": "2011-11-17T16:26:50",
-    "radarPlace": "PANTIN",
+    "radarInstallDate": "2011-11-17T16:12:31",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

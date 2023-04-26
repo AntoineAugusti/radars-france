@@ -1,14 +1,14 @@
 {
-    "nid": "19856",
-    "uuid": "44077b11-94ed-4f2f-96b8-d69fe67154b4",
-    "vid": "19856",
+    "nid": "23764",
+    "uuid": "001eba10-dd46-44c8-a2e5-0d903da90d33",
+    "vid": "23764",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "816",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NICE VERS DIGNE LES BAINS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.19763 43.68589)",
-    "radarInstallDate": "2006-02-09T16:20:01",
-    "radarPlace": "NICE",
+    "radarInstallDate": "2006-02-09T16:06:22",
+    "radarPlace": [],
     "radarRoad": "RD6202",
     "radarTronconKm": [],
     "radarType": [

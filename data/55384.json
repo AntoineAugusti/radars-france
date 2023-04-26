@@ -1,14 +1,14 @@
 {
-    "nid": "21403",
-    "uuid": "3b9f65c0-660e-4f51-b120-3997b7440ffb",
-    "vid": "21403",
+    "nid": "25420",
+    "uuid": "467e5de2-b756-461d-a9ad-1d108c9cda43",
+    "vid": "25420",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55384",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ASCAIN vers SAINT JEAN DE LUZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.637173 43.369541)",
-    "radarInstallDate": "2021-06-03T16:23:51",
-    "radarPlace": "SAINT JEAN DE LUZ",
+    "radarInstallDate": "2021-06-03T16:10:56",
+    "radarPlace": [],
     "radarRoad": "RD918",
     "radarTronconKm": [],
     "radarType": [

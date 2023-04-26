@@ -1,14 +1,14 @@
 {
-    "nid": "22517",
-    "uuid": "038d575d-35c9-4010-890b-29b93b9aa884",
-    "vid": "22517",
+    "nid": "26089",
+    "uuid": "15513407-5bac-42e1-bf87-49cebc02237f",
+    "vid": "26089",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229200",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE359511",
-    "created": "1637229200",
-    "changed": "1675870092",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "HAUBOURDIN vers EMMERIN",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.98773 50.60643)",
-    "radarInstallDate": "2015-09-28T16:28:20",
-    "radarPlace": "HAUBOURDIN",
+    "radarInstallDate": "2015-09-28T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

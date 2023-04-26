@@ -1,14 +1,14 @@
 {
-    "nid": "22151",
-    "uuid": "e08e7732-2c31-464f-8b31-c922d661fa4f",
-    "vid": "22151",
+    "nid": "25767",
+    "uuid": "6fd20f4b-f2a6-441b-b98a-e53d80b53fd9",
+    "vid": "25767",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229184",
+    "revisionTimestamp": "1681740736",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE191010",
-    "created": "1637229184",
-    "changed": "1675869996",
+    "created": "1681740736",
+    "changed": "1681740736",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ORMOY vers ST GERMAIN LES CORBEIL",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (2.4805 48.59986)",
-    "radarInstallDate": "2013-01-07T16:26:43",
-    "radarPlace": "CORBEIL ESSONNES",
+    "radarInstallDate": "2013-01-07T16:12:23",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

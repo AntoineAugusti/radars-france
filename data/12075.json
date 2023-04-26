@@ -1,14 +1,14 @@
 {
-    "nid": "21475",
-    "uuid": "8485b3f6-3937-4090-8ba4-1566c1f9ca51",
-    "vid": "21475",
+    "nid": "23148",
+    "uuid": "c7323f9c-890e-4386-a85b-555f18ea54b7",
+    "vid": "23148",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12075",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PROVINCE vers PARIS",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.8357 48.506)",
-    "radarInstallDate": "2012-08-10T16:24:09",
-    "radarPlace": "ABLIS",
+    "radarInstallDate": "2012-08-10T16:05:30",
+    "radarPlace": [],
     "radarRoad": "RN191",
     "radarTronconKm": [],
     "radarType": [

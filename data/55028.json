@@ -1,14 +1,14 @@
 {
-    "nid": "21065",
-    "uuid": "6372a24d-b7eb-4dc1-99da-aaa2ad027c28",
-    "vid": "21065",
+    "nid": "25078",
+    "uuid": "b0baabf7-60b3-48d0-a08c-cce4047036ce",
+    "vid": "25078",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740576",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55028",
-    "created": "1637229148",
-    "changed": "1675869759",
+    "created": "1681740576",
+    "changed": "1681740576",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST CHRISTOPHE SUR GUIERS vers CHAMBERY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.811667 45.461352)",
-    "radarInstallDate": "2019-10-21T16:22:43",
-    "radarPlace": "ST JEAN DE COUZ",
+    "radarInstallDate": "2019-10-21T16:09:41",
+    "radarPlace": [],
     "radarRoad": "RD1006",
     "radarTronconKm": [],
     "radarType": [

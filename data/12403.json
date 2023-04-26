@@ -1,14 +1,14 @@
 {
-    "nid": "21680",
-    "uuid": "0a3a67af-3422-4b51-8f74-cc01a02f18eb",
-    "vid": "21680",
+    "nid": "23348",
+    "uuid": "c53c7e15-ad87-4228-995b-69d39beb46d7",
+    "vid": "23348",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12403",
-    "created": "1637229167",
-    "changed": "1675869891",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "OISSEL vers ROUEN",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.0827 49.3546)",
-    "radarInstallDate": "2016-07-13T16:24:56",
-    "radarPlace": "OISSEL",
+    "radarInstallDate": "2016-07-13T16:05:43",
+    "radarPlace": [],
     "radarRoad": "RD18E",
     "radarTronconKm": [],
     "radarType": [

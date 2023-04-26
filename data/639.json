@@ -1,14 +1,14 @@
 {
-    "nid": "19814",
-    "uuid": "1a7e30d6-2d2b-4f4d-a527-e8d692477515",
-    "vid": "19814",
+    "nid": "23732",
+    "uuid": "b2a703e7-7847-4a0f-8b0f-eaf2adefd81f",
+    "vid": "23732",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "639",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALENCON vers ROUEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.31502 48.81643)",
-    "radarInstallDate": "2005-05-18T16:19:56",
-    "radarPlace": "ST EVROULT DE MONTFORT",
+    "radarInstallDate": "2005-05-18T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RD438",
     "radarTronconKm": [],
     "radarType": [

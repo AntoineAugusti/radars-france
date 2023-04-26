@@ -1,14 +1,14 @@
 {
-    "nid": "22520",
-    "uuid": "51cdaf4b-4813-4eee-9526-d8d776c7e568",
-    "vid": "22520",
+    "nid": "26092",
+    "uuid": "0907c351-2d82-49b0-ac9c-3bed1bc62f2e",
+    "vid": "26092",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229201",
+    "revisionTimestamp": "1681740833",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE360502",
-    "created": "1637229201",
-    "changed": "1675870101",
+    "created": "1681740833",
+    "changed": "1681740833",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MEAUX vers ERMENONVILLE",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (2.74575 49.0945)",
-    "radarInstallDate": "2012-10-12T16:28:28",
-    "radarPlace": "LE PLESSIS BELLEVILLE",
+    "radarInstallDate": "2012-10-12T16:14:01",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

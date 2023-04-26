@@ -1,14 +1,14 @@
 {
-    "nid": "20001",
-    "uuid": "99f9afcb-73b4-4338-a0a3-2834a7f1a6f6",
-    "vid": "20001",
+    "nid": "23888",
+    "uuid": "f0962876-812a-4835-8b71-c99912ebf73c",
+    "vid": "23888",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4403",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Paris vers Province",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.2106 48.8864)",
-    "radarInstallDate": "2009-03-05T16:20:17",
-    "radarPlace": "NANTERRE",
+    "radarInstallDate": "2009-03-05T16:06:35",
+    "radarPlace": [],
     "radarRoad": "Avenue G.Cl\u00e9menceau, face au n\u00b0133 BIS",
     "radarTronconKm": [],
     "radarType": [

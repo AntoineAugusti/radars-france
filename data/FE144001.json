@@ -1,14 +1,14 @@
 {
-    "nid": "21924",
-    "uuid": "1b6f2676-e4c4-4963-beaf-cedb458d7d9b",
-    "vid": "21924",
+    "nid": "25563",
+    "uuid": "d7b13b82-5b83-48c8-b5d3-d0de61a1ce22",
+    "vid": "25563",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229176",
+    "revisionTimestamp": "1681740689",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE144001",
-    "created": "1637229176",
-    "changed": "1675869947",
+    "created": "1681740689",
+    "changed": "1681740689",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Rue de l'H\u00f4tel de Ville vers la rue du g\u00e9n\u00e9ral Leclerc de Hautecloque",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (-1.55533 47.21771)",
-    "radarInstallDate": "2010-06-18T16:25:52",
-    "radarPlace": "NANTES",
+    "radarInstallDate": "2010-06-18T16:11:35",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

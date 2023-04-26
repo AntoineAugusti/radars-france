@@ -1,14 +1,14 @@
 {
-    "nid": "19652",
-    "uuid": "8e5ed993-f031-46d6-9daa-666ef3e78e4f",
-    "vid": "19652",
+    "nid": "23592",
+    "uuid": "68a9d678-7f16-4c2f-a623-916cdb25826f",
+    "vid": "23592",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229107",
+    "revisionTimestamp": "1681740362",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "121",
-    "created": "1637229107",
-    "changed": "1675869583",
+    "created": "1681740362",
+    "changed": "1681740362",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "INTERIEUR",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.37965 48.822)",
-    "radarInstallDate": "2004-01-24T16:19:45",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2004-01-24T16:06:04",
+    "radarPlace": [],
     "radarRoad": "BP-QUAI D'IVRY",
     "radarTronconKm": [],
     "radarType": [

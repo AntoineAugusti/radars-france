@@ -1,14 +1,14 @@
 {
-    "nid": "21019",
-    "uuid": "2d436534-0218-4db8-a4cb-2d47cfe32275",
-    "vid": "21019",
+    "nid": "24964",
+    "uuid": "905bf35e-1ecb-4ff6-b2a0-490683045dad",
+    "vid": "24964",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740552",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51404",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740552",
+    "changed": "1681740552",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BEAUVAIS vers ONS EN BRAY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.043956 49.432336)",
-    "radarInstallDate": "2021-05-05T16:22:37",
-    "radarPlace": "GOINCOURT",
+    "radarInstallDate": "2021-05-05T16:09:17",
+    "radarPlace": [],
     "radarRoad": "RD931",
     "radarTronconKm": [],
     "radarType": [

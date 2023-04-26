@@ -1,14 +1,14 @@
 {
-    "nid": "20913",
-    "uuid": "bf5941d8-7a3b-4b4d-90e4-79be66d3ec2b",
-    "vid": "20913",
+    "nid": "24840",
+    "uuid": "27e78ecb-72fd-4ec9-850e-4b5a45385801",
+    "vid": "24840",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740528",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51274",
-    "created": "1637229143",
-    "changed": "1675869734",
+    "created": "1681740528",
+    "changed": "1681740528",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MAICHE vers SAINT HIPPOLYTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.821357 47.283775)",
-    "radarInstallDate": "2020-07-06T16:22:18",
-    "radarPlace": "MONTANDON",
+    "radarInstallDate": "2020-07-06T16:08:54",
+    "radarPlace": [],
     "radarRoad": "RD437",
     "radarTronconKm": [],
     "radarType": [

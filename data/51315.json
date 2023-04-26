@@ -1,14 +1,14 @@
 {
-    "nid": "20953",
-    "uuid": "3b0a147d-47b4-4309-b2df-7bb867ed09e4",
-    "vid": "20953",
+    "nid": "24880",
+    "uuid": "de7b8e49-65ac-48c7-b7ba-a1f6980de498",
+    "vid": "24880",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229145",
+    "revisionTimestamp": "1681740540",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51315",
-    "created": "1637229145",
-    "changed": "1675869739",
+    "created": "1681740540",
+    "changed": "1681740540",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GISORS vers BOUCONVILLERS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.864966 49.204557)",
-    "radarInstallDate": "2021-06-17T16:22:23",
-    "radarPlace": "BOUBIERS",
+    "radarInstallDate": "2021-06-17T16:09:04",
+    "radarPlace": [],
     "radarRoad": "RD915",
     "radarTronconKm": [],
     "radarType": [

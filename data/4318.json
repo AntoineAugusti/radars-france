@@ -1,14 +1,14 @@
 {
-    "nid": "19984",
-    "uuid": "e66f4b28-73d9-4322-b738-17bba3d001f1",
-    "vid": "19984",
+    "nid": "23872",
+    "uuid": "35c6eed9-142a-4a8b-a174-821e062c8aea",
+    "vid": "23872",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4318",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Le Mans vers Alen\u00e7on",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.08881 48.37464)",
-    "radarInstallDate": "2008-11-13T16:20:13",
-    "radarPlace": "BERUS",
+    "radarInstallDate": "2008-11-13T16:06:32",
+    "radarPlace": [],
     "radarRoad": "RD338",
     "radarTronconKm": [],
     "radarType": [

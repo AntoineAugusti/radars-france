@@ -1,14 +1,14 @@
 {
-    "nid": "20840",
-    "uuid": "45d4e74a-5082-4e48-a6b1-4a7ae1b6df27",
-    "vid": "20840",
+    "nid": "24763",
+    "uuid": "fbdacd30-c064-460a-b5a1-7fac9a077a94",
+    "vid": "24763",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740517",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51192",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740517",
+    "changed": "1681740517",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PONT D OUILLY vers FALAISE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.238231 48.886362)",
-    "radarInstallDate": "2020-01-16T16:22:07",
-    "radarPlace": "NORON L ABBAYE",
+    "radarInstallDate": "2020-01-16T16:08:42",
+    "radarPlace": [],
     "radarRoad": "RD511",
     "radarTronconKm": [],
     "radarType": [

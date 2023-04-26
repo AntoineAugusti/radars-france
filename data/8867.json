@@ -1,14 +1,14 @@
 {
-    "nid": "20446",
-    "uuid": "37fc6364-7584-49a9-9c1a-7c28e90d371b",
-    "vid": "20446",
+    "nid": "24292",
+    "uuid": "97a4a584-839a-4309-8f6e-c11999cc0ab6",
+    "vid": "24292",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740443",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8867",
-    "created": "1637229128",
-    "changed": "1675869663",
+    "created": "1681740443",
+    "changed": "1681740443",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Porte de Vincennes vers place de la Nation",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.410152 48.847217)",
-    "radarInstallDate": "2012-12-11T16:21:06",
-    "radarPlace": "PARIS",
+    "radarInstallDate": "2012-12-11T16:07:27",
+    "radarPlace": [],
     "radarRoad": "Cours de Vincennes, face au 107",
     "radarTronconKm": [],
     "radarType": [

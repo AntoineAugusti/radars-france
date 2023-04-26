@@ -1,14 +1,14 @@
 {
-    "nid": "20785",
-    "uuid": "240608f5-d6d5-4377-a958-b8bc2a4858b1",
-    "vid": "20785",
+    "nid": "24709",
+    "uuid": "9a3c672d-5d3a-429a-a94c-5d51d73d96e2",
+    "vid": "24709",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229140",
+    "revisionTimestamp": "1681740506",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51137",
-    "created": "1637229140",
-    "changed": "1675869714",
+    "created": "1681740506",
+    "changed": "1681740506",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "85-VENDEE",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "LA ROCHE SUR YON  vers LA TRANCHE SUR MER",
+    "radarDirection": "LA ROCHE SUR YON vers LA TRANCHE SUR MER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.432076 46.518705)",
-    "radarInstallDate": "2020-02-20T16:21:58",
-    "radarPlace": "ST VINCENT SUR GRAON",
+    "radarInstallDate": "2020-02-20T16:08:31",
+    "radarPlace": [],
     "radarRoad": "RD747",
     "radarTronconKm": [],
     "radarType": [

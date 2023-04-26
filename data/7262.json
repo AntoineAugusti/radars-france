@@ -1,14 +1,14 @@
 {
-    "nid": "20284",
-    "uuid": "26496fa0-d92b-4268-8b04-cd88f7c4e770",
-    "vid": "20284",
+    "nid": "24148",
+    "uuid": "c2224e32-b508-4481-931d-0edcc6c9f1d0",
+    "vid": "24148",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7262",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CANET EN ROUSSILLON vers ST CYPRIEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.0331 42.63772)",
-    "radarInstallDate": "2008-09-10T16:20:46",
-    "radarPlace": "ST CYPRIEN",
+    "radarInstallDate": "2008-09-10T16:07:06",
+    "radarPlace": [],
     "radarRoad": "RD81A",
     "radarTronconKm": [],
     "radarType": [

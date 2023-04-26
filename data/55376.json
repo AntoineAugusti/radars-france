@@ -1,14 +1,14 @@
 {
-    "nid": "21398",
-    "uuid": "35bcd300-09f7-4ec8-807c-da0301c4382b",
-    "vid": "21398",
+    "nid": "25413",
+    "uuid": "5d79e0d3-b7e8-48dd-9165-cac5bb642629",
+    "vid": "25413",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55376",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GANGES vers LE VIGAN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.691066 43.970715)",
-    "radarInstallDate": "2021-03-22T16:23:51",
-    "radarPlace": "SAINT JULIEN DE LA NEF",
+    "radarInstallDate": "2021-03-22T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

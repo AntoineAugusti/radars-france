@@ -1,14 +1,14 @@
 {
-    "nid": "19815",
-    "uuid": "69b323f6-8042-4c96-ae24-745e87c34de4",
-    "vid": "19815",
+    "nid": "23733",
+    "uuid": "5e695e32-6948-4339-94ee-c78c1193f6ca",
+    "vid": "23733",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "643",
-    "created": "1637229110",
-    "changed": "1675869594",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MASSIAC vers AURILLAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.6541 45.00616)",
-    "radarInstallDate": "2005-06-17T16:19:56",
-    "radarPlace": "THIEZAC",
+    "radarInstallDate": "2005-06-17T16:06:19",
+    "radarPlace": [],
     "radarRoad": "RN122",
     "radarTronconKm": [],
     "radarType": [

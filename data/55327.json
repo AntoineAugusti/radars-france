@@ -1,14 +1,14 @@
 {
-    "nid": "21355",
-    "uuid": "8fff4345-e16b-4d25-9dea-a8412e11a2dc",
-    "vid": "21355",
+    "nid": "25369",
+    "uuid": "787b1be3-fe75-4870-bdc5-c60c6e1138a3",
+    "vid": "25369",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55327",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TERRASSON LAVILLEDIEU vers PAZAYAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.334733 45.127939)",
-    "radarInstallDate": "2020-12-18T16:23:44",
-    "radarPlace": "TERRASSON LAVILLEDIEU",
+    "radarInstallDate": "2020-12-18T16:10:42",
+    "radarPlace": [],
     "radarRoad": "RD6089",
     "radarTronconKm": [],
     "radarType": [

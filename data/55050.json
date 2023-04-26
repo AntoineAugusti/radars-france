@@ -1,14 +1,14 @@
 {
-    "nid": "21087",
-    "uuid": "8c12d3e1-3fce-4afd-9ce6-8d5e70ad7a64",
-    "vid": "21087",
+    "nid": "25100",
+    "uuid": "b2d4d94b-1c19-48a2-a16e-9512ca6b5b9d",
+    "vid": "25100",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55050",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GRUISSAN vers NARBONNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.060141 43.127427)",
-    "radarInstallDate": "2019-08-07T16:22:49",
-    "radarPlace": "NARBONNE",
+    "radarInstallDate": "2019-08-07T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD32",
     "radarTronconKm": [],
     "radarType": [

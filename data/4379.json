@@ -1,14 +1,14 @@
 {
-    "nid": "19994",
-    "uuid": "dfe55c91-8c4c-48bb-a956-abad201d6bd9",
-    "vid": "19994",
+    "nid": "23882",
+    "uuid": "f7214e77-8de5-4ef9-bf9e-cc6ce0599249",
+    "vid": "23882",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4379",
-    "created": "1637229114",
-    "changed": "1675869612",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Strasbourg vers Paris",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.72771 48.63794)",
-    "radarInstallDate": "2009-03-03T16:20:14",
-    "radarPlace": "SOUFFELWEYERSHEIM",
+    "radarInstallDate": "2009-03-03T16:06:35",
+    "radarPlace": [],
     "radarRoad": "A4",
     "radarTronconKm": [],
     "radarType": [

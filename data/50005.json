@@ -1,14 +1,14 @@
 {
-    "nid": "20593",
-    "uuid": "5ab6cc82-451c-4c5f-9318-83cbfb4246da",
-    "vid": "20593",
+    "nid": "24508",
+    "uuid": "e7631cb9-bd0f-4413-a625-113b2bcc7076",
+    "vid": "24508",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50005",
-    "created": "1637229134",
-    "changed": "1675869683",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE GOSIER vers POINTE A PITRE PRINCIPAL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.48463 16.24172)",
-    "radarInstallDate": "2021-03-22T16:21:26",
-    "radarPlace": "LE GOSIER",
+    "radarInstallDate": "2021-03-22T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RD103 - Route de Cocoyer",
     "radarTronconKm": [],
     "radarType": [

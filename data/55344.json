@@ -1,14 +1,14 @@
 {
-    "nid": "21371",
-    "uuid": "67a11fa1-c9cd-4bc3-813c-48d32fbe9689",
-    "vid": "21371",
+    "nid": "25385",
+    "uuid": "4fc012c6-c921-4a97-bbf7-046f54194096",
+    "vid": "25385",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55344",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURG EN BRESSE vers PONT D AIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.310093 46.098988)",
-    "radarInstallDate": "2020-07-17T16:23:45",
-    "radarPlace": "SAINT MARTIN DU MONT",
+    "radarInstallDate": "2020-07-17T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD1075",
     "radarTronconKm": [],
     "radarType": [

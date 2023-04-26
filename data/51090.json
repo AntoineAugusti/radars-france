@@ -1,14 +1,14 @@
 {
-    "nid": "20738",
-    "uuid": "086d3a1c-f815-4501-b4a4-3289c6fa5b30",
-    "vid": "20738",
+    "nid": "24663",
+    "uuid": "ecf02be8-d0cf-4975-9c72-054f400fd29a",
+    "vid": "24663",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51090",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VITRE vers LA GUERCHE DE BRETAGNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-1.195666 48.022738)",
-    "radarInstallDate": "2020-02-13T16:21:48",
-    "radarPlace": "DOMALAIN",
+    "radarInstallDate": "2020-02-13T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RD178",
     "radarTronconKm": [],
     "radarType": [

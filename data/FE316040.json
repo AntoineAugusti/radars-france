@@ -1,14 +1,14 @@
 {
-    "nid": "22390",
-    "uuid": "4f55d1c0-d54c-4c68-98a2-3e661a6900bc",
-    "vid": "22390",
+    "nid": "25915",
+    "uuid": "2ef75f4b-fc30-4a78-88bb-9fdfe013da0a",
+    "vid": "25915",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE316040",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Place Victor hugo vers Bld LIEDOT",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (0.17282 45.6468)",
-    "radarInstallDate": "2010-10-11T16:27:47",
-    "radarPlace": "ANGOULEME",
+    "radarInstallDate": "2010-10-11T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

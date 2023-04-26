@@ -1,14 +1,14 @@
 {
-    "nid": "20319",
-    "uuid": "66fd1e96-c25e-421f-8070-bfd9228b22e8",
-    "vid": "20319",
+    "nid": "24179",
+    "uuid": "ff694e95-3499-4fc0-853f-e2e38037a561",
+    "vid": "24179",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740427",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7416",
-    "created": "1637229124",
-    "changed": "1675869647",
+    "created": "1681740427",
+    "changed": "1681740427",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TASSIN LA DEMI LUNE vers VILLEURBANNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.81196 45.79046)",
-    "radarInstallDate": "2009-02-20T16:20:50",
-    "radarPlace": "LYON",
+    "radarInstallDate": "2009-02-20T16:07:10",
+    "radarPlace": [],
     "radarRoad": "BPNL",
     "radarTronconKm": [],
     "radarType": [

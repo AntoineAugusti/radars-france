@@ -1,14 +1,14 @@
 {
-    "nid": "19918",
-    "uuid": "62e15050-b6be-4570-85a5-29a8145d3a14",
-    "vid": "19918",
+    "nid": "23811",
+    "uuid": "ec5fb542-9414-4dd0-aff0-ce9dcef31852",
+    "vid": "23811",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3253",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ALENCON VERS ROUEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.70935 49.16313)",
-    "radarInstallDate": "2006-02-27T16:20:07",
-    "radarPlace": "ACLOU",
+    "radarInstallDate": "2006-02-27T16:06:26",
+    "radarPlace": [],
     "radarRoad": "A28",
     "radarTronconKm": [],
     "radarType": [

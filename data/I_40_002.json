@@ -1,14 +1,14 @@
 {
-    "nid": "22777",
-    "uuid": "68c0511d-765c-4b30-ae55-bafdaef110fd",
-    "vid": "22777",
+    "nid": "26314",
+    "uuid": "9794c229-2525-4355-8f2b-e56e40a52e20",
+    "vid": "26314",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229221",
+    "revisionTimestamp": "1681741048",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_40_002",
-    "created": "1637229221",
-    "changed": "1637229221",
+    "created": "1681741048",
+    "changed": "1681741048",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "40 - Landes",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (43.869307 -1.132637)",
-    "radarInstallDate": "2017-10-05T10:53:41",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (1.483383 49.103331)",
+    "radarInstallDate": "2017-11-23T16:17:29",
     "radarPlace": "-",
     "radarRoad": "D342, D401, D947, D150",
-    "radarTronconKm": "14.87",
+    "radarTronconKm": "14,9",
     "radarType": [
         {
             "tid": "19",

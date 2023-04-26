@@ -1,14 +1,14 @@
 {
-    "nid": "19964",
-    "uuid": "69808802-a261-425c-940f-ea50c87b5251",
-    "vid": "19964",
+    "nid": "23855",
+    "uuid": "a4e3efd6-8427-4712-ad86-a63e7998afb5",
+    "vid": "23855",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740390",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4219",
-    "created": "1637229112",
-    "changed": "1675869609",
+    "created": "1681740390",
+    "changed": "1681740390",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUROUX vers ISSOUDUN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.87875 46.90086)",
-    "radarInstallDate": "2008-12-29T16:20:11",
-    "radarPlace": "NEUVY PAILLOUX",
+    "radarInstallDate": "2008-12-29T16:06:31",
+    "radarPlace": [],
     "radarRoad": "RN151",
     "radarTronconKm": [],
     "radarType": [

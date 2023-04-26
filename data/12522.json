@@ -1,14 +1,14 @@
 {
-    "nid": "21783",
-    "uuid": "34f2e154-269e-43a8-8752-6cec61054fec",
-    "vid": "21783",
+    "nid": "23452",
+    "uuid": "8832aaad-470d-4adf-a1e2-08ea1024fb72",
+    "vid": "23452",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12522",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SALON DE PROVENCE vers NIMES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.63362 43.664306)",
-    "radarInstallDate": "2021-05-20T16:25:17",
-    "radarPlace": "ARLES",
+    "radarInstallDate": "2021-05-20T16:05:52",
+    "radarPlace": [],
     "radarRoad": "RN113",
     "radarTronconKm": [],
     "radarType": [

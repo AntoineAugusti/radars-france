@@ -1,14 +1,14 @@
 {
-    "nid": "20733",
-    "uuid": "c92753b5-41aa-4ef8-9e25-1e37eb395c67",
-    "vid": "20733",
+    "nid": "24658",
+    "uuid": "dac0aeae-f971-43cc-bd18-b556bded888a",
+    "vid": "24658",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51085",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "DELLE vers BELFORT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.927857 47.565157)",
-    "radarInstallDate": "2020-06-18T16:21:48",
-    "radarPlace": "BOUROGNE",
+    "radarInstallDate": "2020-06-18T16:08:24",
+    "radarPlace": [],
     "radarRoad": "RN1019",
     "radarTronconKm": [],
     "radarType": [

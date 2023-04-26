@@ -1,14 +1,14 @@
 {
-    "nid": "22118",
-    "uuid": "898487a6-67ed-4f07-a4e2-161bb1045ab8",
-    "vid": "22118",
+    "nid": "25734",
+    "uuid": "d164c52e-07cf-46a1-b0f0-af6b46fe4ecf",
+    "vid": "25734",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229182",
+    "revisionTimestamp": "1681740728",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE178012",
-    "created": "1637229182",
-    "changed": "1675869989",
+    "created": "1681740728",
+    "changed": "1681740728",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Sud-Est vers Nord-Ouest",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (1.94786 48.76926)",
-    "radarInstallDate": "2011-10-03T16:26:35",
-    "radarPlace": "ELANCOURT",
+    "radarInstallDate": "2011-10-03T16:12:15",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21872",
-    "uuid": "aa406a6a-7e75-4fe1-86d4-8665f5790ac6",
-    "vid": "21872",
+    "nid": "23553",
+    "uuid": "7ab1c25c-d0ec-4b03-bc5f-f55889d9f467",
+    "vid": "23553",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229174",
+    "revisionTimestamp": "1681740359",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12653",
-    "created": "1637229174",
-    "changed": "1675869933",
+    "created": "1681740359",
+    "changed": "1681740359",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "A20 vers LIMOGES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.27662 45.86653)",
-    "radarInstallDate": "2020-11-10T16:25:39",
-    "radarPlace": "LIMOGES",
+    "radarInstallDate": "2020-11-10T16:06:01",
+    "radarPlace": [],
     "radarRoad": "Boulevard Robert Schuman",
     "radarTronconKm": [],
     "radarType": [

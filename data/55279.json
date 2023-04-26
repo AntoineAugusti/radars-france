@@ -1,14 +1,14 @@
 {
-    "nid": "21311",
-    "uuid": "dd5c6a8f-53d6-4d78-ac73-920a1ad28504",
-    "vid": "21311",
+    "nid": "25323",
+    "uuid": "11e224d1-7d10-44ca-bf15-9f6cd35280b9",
+    "vid": "25323",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740628",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55279",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740628",
+    "changed": "1681740628",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LA BATIE NEUVE vers VALSERRES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.1607 44.506)",
-    "radarInstallDate": "2020-10-07T16:23:32",
-    "radarPlace": "SAINT ETIENNE LE LAUS",
+    "radarInstallDate": "2020-10-07T16:10:34",
+    "radarPlace": [],
     "radarRoad": "RD942",
     "radarTronconKm": [],
     "radarType": [

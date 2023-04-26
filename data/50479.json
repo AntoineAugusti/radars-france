@@ -1,14 +1,14 @@
 {
-    "nid": "20650",
-    "uuid": "697db77b-a64d-4d6a-8d4f-523e8074444a",
-    "vid": "20650",
+    "nid": "24575",
+    "uuid": "224e99d3-5c9a-46e5-985c-03fec24c88c3",
+    "vid": "24575",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229136",
+    "revisionTimestamp": "1681740485",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50479",
-    "created": "1637229136",
-    "changed": "1675869691",
+    "created": "1681740485",
+    "changed": "1681740485",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SAINT DENIS vers SAINTE MARIE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (55.54945 -20.90268)",
-    "radarInstallDate": "2020-12-21T16:21:34",
-    "radarPlace": "SAINTE MARIE",
+    "radarInstallDate": "2020-12-21T16:08:09",
+    "radarPlace": [],
     "radarRoad": "RN2",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21540",
-    "uuid": "1b16e42e-14c6-4e31-903c-679ac5ce996a",
-    "vid": "21540",
+    "nid": "23211",
+    "uuid": "8a158249-21be-492f-b343-49a47290ab77",
+    "vid": "23211",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229163",
+    "revisionTimestamp": "1681740333",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12186",
-    "created": "1637229163",
-    "changed": "1675869857",
+    "created": "1681740333",
+    "changed": "1681740333",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ANGOULEME vers BORDEAUX",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-0.4199 45.031)",
-    "radarInstallDate": "2013-11-12T16:24:22",
-    "radarPlace": "PEUJARD",
+    "radarInstallDate": "2013-11-12T16:05:34",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

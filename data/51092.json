@@ -1,14 +1,14 @@
 {
-    "nid": "20740",
-    "uuid": "a8088a3f-17a8-4edf-850e-b8c10a7418bb",
-    "vid": "20740",
+    "nid": "24664",
+    "uuid": "a6fdcead-f53a-4d10-80df-a478fee55e85",
+    "vid": "24664",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229138",
+    "revisionTimestamp": "1681740501",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51092",
-    "created": "1637229138",
-    "changed": "1675869704",
+    "created": "1681740501",
+    "changed": "1681740501",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LE TEILLEUL vers DOMFRONT EN POIRAIE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.708854 48.563478)",
-    "radarInstallDate": "2019-09-27T16:21:48",
-    "radarPlace": "ST MARS D EGRENNE",
+    "radarInstallDate": "2019-09-27T16:08:25",
+    "radarPlace": [],
     "radarRoad": "RD976",
     "radarTronconKm": [],
     "radarType": [

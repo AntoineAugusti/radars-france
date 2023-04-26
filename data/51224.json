@@ -1,14 +1,14 @@
 {
-    "nid": "20868",
-    "uuid": "c7fa3d60-2317-47bd-8c1f-a8d4391d39f0",
-    "vid": "20868",
+    "nid": "24793",
+    "uuid": "2cca65cf-1512-4779-ad34-000d249ada2f",
+    "vid": "24793",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229141",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51224",
-    "created": "1637229141",
-    "changed": "1675869724",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PEZARCHES vers VILLENEUVE LE COMTE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.864322 48.794388)",
-    "radarInstallDate": "2019-11-15T16:22:08",
-    "radarPlace": "VILLENEUVE LE COMTE",
+    "radarInstallDate": "2019-11-15T16:08:47",
+    "radarPlace": [],
     "radarRoad": "RD231",
     "radarTronconKm": [],
     "radarType": [

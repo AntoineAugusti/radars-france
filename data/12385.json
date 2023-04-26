@@ -1,14 +1,14 @@
 {
-    "nid": "21664",
-    "uuid": "747f1550-7000-471c-83eb-b2cf4ad43a1b",
-    "vid": "21664",
+    "nid": "23332",
+    "uuid": "95f90094-4f09-4184-adce-6568c4c895b3",
+    "vid": "23332",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229167",
+    "revisionTimestamp": "1681740341",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12385",
-    "created": "1637229167",
-    "changed": "1675869884",
+    "created": "1681740341",
+    "changed": "1681740341",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LOGNES vers BRIE COMTE ROBERT",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.61274 48.76852)",
-    "radarInstallDate": "2016-09-26T16:24:50",
-    "radarPlace": "PONTAULT COMBAULT",
+    "radarInstallDate": "2016-09-26T16:05:42",
+    "radarPlace": [],
     "radarRoad": "RN104",
     "radarTronconKm": [],
     "radarType": [

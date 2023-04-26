@@ -1,14 +1,14 @@
 {
-    "nid": "22759",
-    "uuid": "edd54886-3f5f-4346-b3b3-3f13ffc65cdc",
-    "vid": "22759",
+    "nid": "26292",
+    "uuid": "557a9e8d-a667-4a1a-b9df-856f7dced4a6",
+    "vid": "26292",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229219",
+    "revisionTimestamp": "1681741044",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_32_003",
-    "created": "1637229219",
-    "changed": "1637229219",
+    "created": "1681741044",
+    "changed": "1681741044",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "32 - Gers",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "-",
-    "radarEquipment": "-",
-    "radarGeolocalisation": "POINT (43.830721 0.921512)",
-    "radarInstallDate": "2017-10-09T10:53:40",
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (1.169541 45.471021)",
+    "radarInstallDate": "2017-10-05T16:17:25",
     "radarPlace": "-",
     "radarRoad": "D165, D151, D113, D556, D928",
-    "radarTronconKm": "10.65",
+    "radarTronconKm": "10,7",
     "radarType": [
         {
             "tid": "19",

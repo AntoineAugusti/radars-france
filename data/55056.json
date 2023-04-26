@@ -1,14 +1,14 @@
 {
-    "nid": "21093",
-    "uuid": "61a6359f-cd69-4d2a-be72-a0f7fac8879a",
-    "vid": "21093",
+    "nid": "25106",
+    "uuid": "4d6fa1f2-6b08-4b5f-aee0-fc74dbd714f9",
+    "vid": "25106",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55056",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "GIGEAN vers SETE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.700058 43.423819)",
-    "radarInstallDate": "2019-08-07T16:22:49",
-    "radarPlace": "BALARUC LES BAINS",
+    "radarInstallDate": "2019-08-07T16:09:47",
+    "radarPlace": [],
     "radarRoad": "RD2",
     "radarTronconKm": [],
     "radarType": [

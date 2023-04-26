@@ -1,14 +1,14 @@
 {
-    "nid": "22393",
-    "uuid": "0900d23d-fae1-42e6-97b2-d7386ffe5b8c",
-    "vid": "22393",
+    "nid": "25918",
+    "uuid": "9f59eec6-a953-4b62-b5c6-1d0ff1f357e3",
+    "vid": "25918",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229195",
+    "revisionTimestamp": "1681740779",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE317002",
-    "created": "1637229195",
-    "changed": "1675870059",
+    "created": "1681740779",
+    "changed": "1681740779",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Av. de la Grandi\u00e8re vers Bd de la R\u00e9publique",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-1.02376 45.62432)",
-    "radarInstallDate": "2011-02-11T16:27:47",
-    "radarPlace": "ROYAN",
+    "radarInstallDate": "2011-02-11T16:13:07",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21352",
-    "uuid": "e4702374-90e6-4c53-befc-d26f8ab28d7b",
-    "vid": "21352",
+    "nid": "25366",
+    "uuid": "9ed48500-a0f6-4d9b-8365-a18a707b3fea",
+    "vid": "25366",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55324",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "SEYSSES vers TOULOUSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.41288 43.567908)",
-    "radarInstallDate": "2020-11-30T16:23:44",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2020-11-30T16:10:42",
+    "radarPlace": [],
     "radarRoad": "RD15",
     "radarTronconKm": [],
     "radarType": [

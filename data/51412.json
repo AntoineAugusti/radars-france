@@ -1,14 +1,14 @@
 {
-    "nid": "21025",
-    "uuid": "1c889b62-791d-436e-b45a-565aa00f9af9",
-    "vid": "21025",
+    "nid": "24971",
+    "uuid": "13f42521-e3dc-4d73-b06a-77251e9918e3",
+    "vid": "24971",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229146",
+    "revisionTimestamp": "1681740558",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51412",
-    "created": "1637229146",
-    "changed": "1675869754",
+    "created": "1681740558",
+    "changed": "1681740558",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "VANNES vers LOCMINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-2.81939 47.86337)",
-    "radarInstallDate": "2021-07-13T16:22:37",
-    "radarPlace": "MOUSTOIR AC",
+    "radarInstallDate": "2021-07-13T16:09:22",
+    "radarPlace": [],
     "radarRoad": "RD767",
     "radarTronconKm": [],
     "radarType": [

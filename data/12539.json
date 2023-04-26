@@ -1,14 +1,14 @@
 {
-    "nid": "21794",
-    "uuid": "9fea7aa0-2515-442b-a38f-066a97b0c1ed",
-    "vid": "21794",
+    "nid": "23464",
+    "uuid": "4bc81cf5-f4be-430d-99f0-0f8f17e1f2bb",
+    "vid": "23464",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229171",
+    "revisionTimestamp": "1681740351",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12539",
-    "created": "1637229171",
-    "changed": "1675869912",
+    "created": "1681740351",
+    "changed": "1681740351",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "EPINAL vers NANCY",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (6.234787 48.452403)",
-    "radarInstallDate": "2020-07-20T16:25:18",
-    "radarPlace": "VAUDEVILLE",
+    "radarInstallDate": "2020-07-20T16:05:53",
+    "radarPlace": [],
     "radarRoad": "RN57",
     "radarTronconKm": [],
     "radarType": [

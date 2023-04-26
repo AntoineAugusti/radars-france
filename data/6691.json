@@ -1,14 +1,14 @@
 {
-    "nid": "20179",
-    "uuid": "fdff617e-2575-48aa-bffc-5c55fe0078de",
-    "vid": "20179",
+    "nid": "24056",
+    "uuid": "31b67287-d48b-4c1a-b331-f0df91cac85e",
+    "vid": "24056",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6691",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LESMONT vers TROYES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.36824 48.39674)",
-    "radarInstallDate": "2007-04-06T16:20:34",
-    "radarPlace": "VAL D AUZON",
+    "radarInstallDate": "2007-04-06T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD960",
     "radarTronconKm": [],
     "radarType": [

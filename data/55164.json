@@ -1,14 +1,14 @@
 {
-    "nid": "21200",
-    "uuid": "52f0d9c1-bfe8-40ac-a1cd-7a8798654fb6",
-    "vid": "21200",
+    "nid": "25211",
+    "uuid": "2348848f-d49e-4470-89ed-5af3eb4eef0e",
+    "vid": "25211",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229152",
+    "revisionTimestamp": "1681740601",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55164",
-    "created": "1637229152",
-    "changed": "1675869789",
+    "created": "1681740601",
+    "changed": "1681740601",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "NIMES vers QUISSAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.2457 43.856)",
-    "radarInstallDate": "2019-12-12T16:23:13",
-    "radarPlace": "NIMES",
+    "radarInstallDate": "2019-12-12T16:10:06",
+    "radarPlace": [],
     "radarRoad": "RD999",
     "radarTronconKm": [],
     "radarType": [

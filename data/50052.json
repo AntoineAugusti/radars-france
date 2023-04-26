@@ -1,14 +1,14 @@
 {
-    "nid": "20613",
-    "uuid": "ff26afda-0e6e-4721-9af2-411ce51a734d",
-    "vid": "20613",
+    "nid": "24529",
+    "uuid": "47480e3b-4372-41d1-bb93-8b9bd09aca3c",
+    "vid": "24529",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50052",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POINTE A PITRE vers LE GOSIER",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.5238 16.23313)",
-    "radarInstallDate": "2020-03-23T16:21:30",
-    "radarPlace": "LES ABYMES",
+    "radarInstallDate": "2020-03-23T16:08:00",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22308",
-    "uuid": "b7158566-cabe-4b8d-82e1-5347f3d75e29",
-    "vid": "22308",
+    "nid": "25867",
+    "uuid": "310cdf04-82cf-428c-8f95-8b985678c422",
+    "vid": "25867",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229191",
+    "revisionTimestamp": "1681740770",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE274003",
-    "created": "1637229191",
-    "changed": "1675870043",
+    "created": "1681740770",
+    "changed": "1681740770",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Thonon les Bains vers Gen\u00e8ve",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.24503 46.19269)",
-    "radarInstallDate": "2010-07-02T16:27:29",
-    "radarPlace": "ANNEMASSE",
+    "radarInstallDate": "2010-07-02T16:12:57",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

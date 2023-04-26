@@ -1,14 +1,14 @@
 {
-    "nid": "19844",
-    "uuid": "970f53f5-98a4-4d38-bf44-46ee504c306d",
-    "vid": "19844",
+    "nid": "23756",
+    "uuid": "b381dbd8-56f3-4f06-a11e-71a7f0058dd4",
+    "vid": "23756",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229110",
+    "revisionTimestamp": "1681740377",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "748",
-    "created": "1637229110",
-    "changed": "1675869597",
+    "created": "1681740377",
+    "changed": "1681740377",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "THIONVILLE vers METZ",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.18399 49.15)",
-    "radarInstallDate": "2005-01-19T16:19:59",
-    "radarPlace": "LA MAXE",
+    "radarInstallDate": "2005-01-19T16:06:20",
+    "radarPlace": [],
     "radarRoad": "A31",
     "radarTronconKm": [],
     "radarType": [

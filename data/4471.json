@@ -1,14 +1,14 @@
 {
-    "nid": "20016",
-    "uuid": "81f0324e-0a1b-454c-b398-fc27a605db4f",
-    "vid": "20016",
+    "nid": "23902",
+    "uuid": "150c7102-5eaf-4906-85d5-874308a8172e",
+    "vid": "23902",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4471",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHEMILLE EN ANJOU vers CHOLET",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.75342 47.16594)",
-    "radarInstallDate": "2009-03-05T16:20:17",
-    "radarPlace": "CHEMILLE EN ANJOU",
+    "radarInstallDate": "2009-03-05T16:06:36",
+    "radarPlace": [],
     "radarRoad": "RD160",
     "radarTronconKm": [],
     "radarType": [

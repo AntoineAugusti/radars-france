@@ -1,14 +1,14 @@
 {
-    "nid": "20404",
-    "uuid": "cb2bce6f-985b-4765-afb8-ecfdeb1c1443",
-    "vid": "20404",
+    "nid": "24253",
+    "uuid": "dc7b8ca3-6200-4662-be37-2bf7690e10bf",
+    "vid": "24253",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8737",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "JUVISY SUR ORGE vers VIGNEUX SUR SEINE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.395027 48.687701)",
-    "radarInstallDate": "2011-01-04T16:21:02",
-    "radarPlace": "DRAVEIL",
+    "radarInstallDate": "2011-01-04T16:07:19",
+    "radarPlace": [],
     "radarRoad": "RD931",
     "radarTronconKm": [],
     "radarType": [

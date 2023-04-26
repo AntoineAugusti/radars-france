@@ -1,14 +1,14 @@
 {
-    "nid": "22651",
-    "uuid": "cb69ac1b-14f2-4082-9424-9382be083a36",
-    "vid": "22651",
+    "nid": "26170",
+    "uuid": "a53a87b0-1deb-4b8f-9d51-6eca4e68ecce",
+    "vid": "26170",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741028",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20119",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741028",
+    "changed": "1681741028",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "ISSOIRE vers CLERMONT FERRAND",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.22375 45.59569)",
-    "radarInstallDate": "2013-12-09T10:53:36",
+    "radarInstallDate": "2013-12-09T16:17:09",
     "radarPlace": "SAUVAGNAT STE MARTHE",
     "radarRoad": "A75",
     "radarTronconKm": "3,1",

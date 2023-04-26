@@ -1,14 +1,14 @@
 {
-    "nid": "21508",
-    "uuid": "53860991-a9be-43c3-8276-5385e77b3345",
-    "vid": "21508",
+    "nid": "23181",
+    "uuid": "85d75ad0-efa8-404c-886c-dcc70653983d",
+    "vid": "23181",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12134",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers TOULOUSE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.2761 45.849)",
-    "radarInstallDate": "2012-06-29T16:24:16",
-    "radarPlace": "LIMOGES",
+    "radarInstallDate": "2012-06-29T16:05:32",
+    "radarPlace": [],
     "radarRoad": "A20",
     "radarTronconKm": [],
     "radarType": [

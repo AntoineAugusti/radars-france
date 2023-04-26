@@ -1,14 +1,14 @@
 {
-    "nid": "21247",
-    "uuid": "d56617a3-b6e6-4f5c-b043-9d3048a510cc",
-    "vid": "21247",
+    "nid": "25258",
+    "uuid": "097a3d31-8ddb-4b45-8fa8-50c03084b706",
+    "vid": "25258",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229153",
+    "revisionTimestamp": "1681740614",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55212",
-    "created": "1637229153",
-    "changed": "1675869795",
+    "created": "1681740614",
+    "changed": "1681740614",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MONT DE MARSAN vers LE HOUGA",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-0.41901 43.85506)",
-    "radarInstallDate": "2020-06-10T16:23:20",
-    "radarPlace": "LAGLORIEUSE",
+    "radarInstallDate": "2020-06-10T16:10:19",
+    "radarPlace": [],
     "radarRoad": "RD30",
     "radarTronconKm": [],
     "radarType": [

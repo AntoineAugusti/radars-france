@@ -1,14 +1,14 @@
 {
-    "nid": "20259",
-    "uuid": "54f30a1b-b4cc-4732-9db2-209aaf32d4da",
-    "vid": "20259",
+    "nid": "24127",
+    "uuid": "22ef9a96-648a-4338-b277-bd1ad1c8e36d",
+    "vid": "24127",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229122",
+    "revisionTimestamp": "1681740419",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7166",
-    "created": "1637229122",
-    "changed": "1675869639",
+    "created": "1681740419",
+    "changed": "1681740419",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST DENIS vers BOBIGNY",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.39371 48.92523)",
-    "radarInstallDate": "2009-12-15T16:20:41",
-    "radarPlace": "LA COURNEUVE",
+    "radarInstallDate": "2009-12-15T16:07:02",
+    "radarPlace": [],
     "radarRoad": "A86",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "20384",
-    "uuid": "a8a28be2-a91a-4cef-868a-f356373d2a83",
-    "vid": "20384",
+    "nid": "24235",
+    "uuid": "8a9db063-6dee-4910-8a79-ab3b15d7d3a9",
+    "vid": "24235",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229126",
+    "revisionTimestamp": "1681740435",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8674",
-    "created": "1637229126",
-    "changed": "1675869655",
+    "created": "1681740435",
+    "changed": "1681740435",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CAESTRE vers VIEUX BERQUIN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.6317 50.714)",
-    "radarInstallDate": "2010-09-23T16:20:58",
-    "radarPlace": "STRAZEELE",
+    "radarInstallDate": "2010-09-23T16:07:18",
+    "radarPlace": [],
     "radarRoad": "RD947",
     "radarTronconKm": [],
     "radarType": [

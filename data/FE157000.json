@@ -1,14 +1,14 @@
 {
-    "nid": "21972",
-    "uuid": "cef27a39-9112-4fc4-9a91-5891eb521a0c",
-    "vid": "21972",
+    "nid": "25609",
+    "uuid": "308eff75-6177-415f-ba88-d4fbea44ac66",
+    "vid": "25609",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE157000",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "METZ vers MAGNY",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (6.1802 49.10031)",
-    "radarInstallDate": "2010-01-15T16:26:01",
-    "radarPlace": "METZ",
+    "radarInstallDate": "2010-01-15T16:11:44",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

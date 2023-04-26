@@ -1,14 +1,14 @@
 {
-    "nid": "21478",
-    "uuid": "468732a7-3d83-44e0-8ff5-6ddcee80f401",
-    "vid": "21478",
+    "nid": "23151",
+    "uuid": "fc3de3cb-cacd-432c-bc00-843d8e854278",
+    "vid": "23151",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12079",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "TROYES vers DIJON",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.6167 48.142)",
-    "radarInstallDate": "2012-10-26T16:24:10",
-    "radarPlace": "CHAMPIGNOL LEZ MONDEVILLE",
+    "radarInstallDate": "2012-10-26T16:05:30",
+    "radarPlace": [],
     "radarRoad": "A5",
     "radarTronconKm": [],
     "radarType": [

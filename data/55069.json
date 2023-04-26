@@ -1,14 +1,14 @@
 {
-    "nid": "21106",
-    "uuid": "ebbc89a3-72fd-4f20-85f0-ea8e72ec2d21",
-    "vid": "21106",
+    "nid": "25119",
+    "uuid": "80640f35-d726-4fec-8895-6afa4feca6ee",
+    "vid": "25119",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55069",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ST GILLES vers BELLEGARDE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.450751 43.701228)",
-    "radarInstallDate": "2019-11-20T16:22:50",
-    "radarPlace": "ST GILLES",
+    "radarInstallDate": "2019-11-20T16:09:48",
+    "radarPlace": [],
     "radarRoad": "RD38",
     "radarTronconKm": [],
     "radarType": [

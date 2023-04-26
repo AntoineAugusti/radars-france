@@ -1,14 +1,14 @@
 {
-    "nid": "21389",
-    "uuid": "9f6daec5-a053-45c1-98aa-19f416bb58ac",
-    "vid": "21389",
+    "nid": "25404",
+    "uuid": "d2d03e9b-f14a-4176-ad17-d3883f647e66",
+    "vid": "25404",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740649",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55365",
-    "created": "1637229158",
-    "changed": "1675869826",
+    "created": "1681740649",
+    "changed": "1681740649",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON vers BOURG EN BRESSE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.080151 46.059685)",
-    "radarInstallDate": "2020-12-24T16:23:51",
-    "radarPlace": "MARLIEUX",
+    "radarInstallDate": "2020-12-24T16:10:55",
+    "radarPlace": [],
     "radarRoad": "RD1083",
     "radarTronconKm": [],
     "radarType": [

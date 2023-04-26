@@ -1,14 +1,14 @@
 {
-    "nid": "21102",
-    "uuid": "121c14cd-7a01-499d-8d59-2b03bcdbeabd",
-    "vid": "21102",
+    "nid": "25115",
+    "uuid": "ba9e8ef2-eee8-4854-b95d-be3d8640cf7d",
+    "vid": "25115",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229148",
+    "revisionTimestamp": "1681740582",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55065",
-    "created": "1637229148",
-    "changed": "1675869765",
+    "created": "1681740582",
+    "changed": "1681740582",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LES PENNES MIRABEAU vers GIGNAC LA NERTHE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.2829 43.405139)",
-    "radarInstallDate": "2019-12-12T16:22:50",
-    "radarPlace": "LES PENNES MIRABEAU",
+    "radarInstallDate": "2019-12-12T16:09:48",
+    "radarPlace": [],
     "radarRoad": "RD368",
     "radarTronconKm": [],
     "radarType": [

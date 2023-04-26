@@ -1,14 +1,14 @@
 {
-    "nid": "21487",
-    "uuid": "c20fe663-8802-49f6-8841-e15b4bb09010",
-    "vid": "21487",
+    "nid": "23160",
+    "uuid": "c34ee036-817e-4ae3-bd42-609e1704e27d",
+    "vid": "23160",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740329",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12093",
-    "created": "1637229162",
-    "changed": "1675869845",
+    "created": "1681740329",
+    "changed": "1681740329",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CHATEAUDUN vers CHARTRES",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (1.3748 48.18)",
-    "radarInstallDate": "2012-03-21T16:24:10",
-    "radarPlace": "BONNEVAL",
+    "radarInstallDate": "2012-03-21T16:05:30",
+    "radarPlace": [],
     "radarRoad": "RN10",
     "radarTronconKm": [],
     "radarType": [

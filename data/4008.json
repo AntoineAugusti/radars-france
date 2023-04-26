@@ -1,14 +1,14 @@
 {
-    "nid": "19923",
-    "uuid": "b22d9ca2-0e80-44fa-84ef-4e81a4c321e1",
-    "vid": "19923",
+    "nid": "23815",
+    "uuid": "c88f498d-5633-407c-ad9e-bd311f1f8861",
+    "vid": "23815",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229112",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4008",
-    "created": "1637229112",
-    "changed": "1675869606",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LANGRES vers VESOUL",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.65375 47.7759)",
-    "radarInstallDate": "2008-06-23T16:20:08",
-    "radarPlace": "FAYL BILLOT",
+    "radarInstallDate": "2008-06-23T16:06:26",
+    "radarPlace": [],
     "radarRoad": "RN19",
     "radarTronconKm": [],
     "radarType": [

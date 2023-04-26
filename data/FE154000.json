@@ -1,14 +1,14 @@
 {
-    "nid": "21956",
-    "uuid": "c5bae144-ceed-4b9d-9319-a30695d49b85",
-    "vid": "21956",
+    "nid": "25594",
+    "uuid": "efc81f90-bea7-4a4e-9fe5-430a4e33a539",
+    "vid": "25594",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE154000",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Nancy vers Laxou",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (6.16852 48.68357)",
-    "radarInstallDate": "2010-10-18T16:26:00",
-    "radarPlace": "NANCY",
+    "radarInstallDate": "2010-10-18T16:11:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "21341",
-    "uuid": "ae216893-32f6-40c3-8e93-ca21a435e04f",
-    "vid": "21341",
+    "nid": "25355",
+    "uuid": "7439fa4b-8006-46c2-9e37-e84bf8619a8d",
+    "vid": "25355",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740635",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55313",
-    "created": "1637229156",
-    "changed": "1675869813",
+    "created": "1681740635",
+    "changed": "1681740635",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PERPIGNAN vers CERBERE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (3.061327 42.526389)",
-    "radarInstallDate": "2020-10-28T16:23:38",
-    "radarPlace": "COLLIOURE",
+    "radarInstallDate": "2020-10-28T16:10:41",
+    "radarPlace": [],
     "radarRoad": "RD914",
     "radarTronconKm": [],
     "radarType": [

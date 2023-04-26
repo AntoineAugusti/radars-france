@@ -1,14 +1,14 @@
 {
-    "nid": "21367",
-    "uuid": "8d2b7dcc-4807-4827-8551-b21909726ec4",
-    "vid": "21367",
+    "nid": "25381",
+    "uuid": "41aa4cd2-f833-494f-b196-0e63087a2305",
+    "vid": "25381",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229158",
+    "revisionTimestamp": "1681740642",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55340",
-    "created": "1637229158",
-    "changed": "1675869819",
+    "created": "1681740642",
+    "changed": "1681740642",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOURGANEUF vers AUBUSSON",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.788304 45.969184)",
-    "radarInstallDate": "2021-04-21T16:23:44",
-    "radarPlace": "MANSAT LA COURRIERE",
+    "radarInstallDate": "2021-04-21T16:10:48",
+    "radarPlace": [],
     "radarRoad": "RD941",
     "radarTronconKm": [],
     "radarType": [

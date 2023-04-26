@@ -1,14 +1,14 @@
 {
-    "nid": "21514",
-    "uuid": "68bdc0bc-001c-4cdb-8962-529a3c551a3a",
-    "vid": "21514",
+    "nid": "23187",
+    "uuid": "5c5144d6-866a-407b-a65f-5382293063d3",
+    "vid": "23187",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229162",
+    "revisionTimestamp": "1681740331",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12142",
-    "created": "1637229162",
-    "changed": "1675869851",
+    "created": "1681740331",
+    "changed": "1681740331",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "BOUGUENAIS vers ST SEBASTIEN SUR LOIRE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (-1.5225 47.165)",
-    "radarInstallDate": "2013-02-11T16:24:16",
-    "radarPlace": "REZE",
+    "radarInstallDate": "2013-02-11T16:05:32",
+    "radarPlace": [],
     "radarRoad": "RN844",
     "radarTronconKm": [],
     "radarType": [

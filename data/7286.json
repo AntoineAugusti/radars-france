@@ -1,14 +1,14 @@
 {
-    "nid": "20292",
-    "uuid": "38d8753b-2bc6-46ed-a2a7-dd957de71bf2",
-    "vid": "20292",
+    "nid": "24156",
+    "uuid": "39c4f8ee-8f21-43f4-ac63-5028df9e3fc1",
+    "vid": "24156",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229124",
+    "revisionTimestamp": "1681740423",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "7286",
-    "created": "1637229124",
-    "changed": "1675869643",
+    "created": "1681740423",
+    "changed": "1681740423",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LIMOGES",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.33776 46.00455)",
-    "radarInstallDate": "2007-12-20T16:20:46",
-    "radarPlace": "ST SYLVESTRE",
+    "radarInstallDate": "2007-12-20T16:07:06",
+    "radarPlace": [],
     "radarRoad": "A20",
     "radarTronconKm": [],
     "radarType": [

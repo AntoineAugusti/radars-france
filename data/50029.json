@@ -1,14 +1,14 @@
 {
-    "nid": "20606",
-    "uuid": "19fe24a3-a175-4cbf-92f3-134b94ef7d20",
-    "vid": "20606",
+    "nid": "24522",
+    "uuid": "f525333a-ccdc-472e-b7a7-7865e3186d1e",
+    "vid": "24522",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229134",
+    "revisionTimestamp": "1681740475",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "50029",
-    "created": "1637229134",
-    "changed": "1675869687",
+    "created": "1681740475",
+    "changed": "1681740475",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "POINTE A PITRE PRINCIPAL vers SAINTE ANNE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (-61.48288 16.21689)",
-    "radarInstallDate": "2021-03-08T16:21:30",
-    "radarPlace": "LE GOSIER",
+    "radarInstallDate": "2021-03-08T16:07:59",
+    "radarPlace": [],
     "radarRoad": "RN4",
     "radarTronconKm": [],
     "radarType": [

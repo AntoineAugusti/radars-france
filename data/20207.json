@@ -1,14 +1,14 @@
 {
-    "nid": "22689",
-    "uuid": "8c08060c-cae7-4de5-86e0-dd08891faa3d",
-    "vid": "22689",
+    "nid": "26197",
+    "uuid": "bacdc58b-95f9-4c01-89ca-fe1e8c69c072",
+    "vid": "26197",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229217",
+    "revisionTimestamp": "1681741031",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20207",
-    "created": "1637229217",
-    "changed": "1637229217",
+    "created": "1681741031",
+    "changed": "1681741031",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "VITROLLES vers SALON DE PROVENCE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.14233 43.5835)",
-    "radarInstallDate": "2017-01-20T10:53:38",
+    "radarInstallDate": "2017-01-20T16:17:12",
     "radarPlace": "LANCON PROVENCE",
     "radarRoad": "RD113",
     "radarTronconKm": "4,4",

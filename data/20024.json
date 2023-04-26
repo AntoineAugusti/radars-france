@@ -1,14 +1,14 @@
 {
-    "nid": "22606",
-    "uuid": "dee8e865-a414-4acb-a174-7b095e6ea40d",
-    "vid": "22606",
+    "nid": "26131",
+    "uuid": "8b824477-edc6-4788-b5bd-da4d41105a42",
+    "vid": "26131",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229215",
+    "revisionTimestamp": "1681741024",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20024",
-    "created": "1637229215",
-    "changed": "1637229215",
+    "created": "1681741024",
+    "changed": "1681741024",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "PAMIERS vers TARASCON SUR ARIEGE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.6139 43.00674)",
-    "radarInstallDate": "2014-07-07T10:53:35",
+    "radarInstallDate": "2014-07-07T16:17:05",
     "radarPlace": "FOIX",
     "radarRoad": "RN20",
     "radarTronconKm": "7,2",

@@ -1,14 +1,14 @@
 {
-    "nid": "20186",
-    "uuid": "ba6831b0-f986-4812-9edf-4f6024282de6",
-    "vid": "20186",
+    "nid": "24062",
+    "uuid": "239a26f7-9890-4f95-92cd-e584533c4ddf",
+    "vid": "24062",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740411",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6731",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740411",
+    "changed": "1681740411",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LENS VERS ARRAS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (2.78397 50.30102)",
-    "radarInstallDate": "2007-02-02T16:20:35",
-    "radarPlace": "ST NICOLAS",
+    "radarInstallDate": "2007-02-02T16:06:54",
+    "radarPlace": [],
     "radarRoad": "RD917",
     "radarTronconKm": [],
     "radarType": [

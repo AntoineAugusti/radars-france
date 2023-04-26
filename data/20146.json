@@ -1,14 +1,14 @@
 {
-    "nid": "22661",
-    "uuid": "d72657fe-8cc8-42db-b0b2-e46019bc0160",
-    "vid": "22661",
+    "nid": "26178",
+    "uuid": "0a9b693f-2a3e-435b-afe6-041223b2e27b",
+    "vid": "26178",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229216",
+    "revisionTimestamp": "1681741029",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "20146",
-    "created": "1637229216",
-    "changed": "1637229216",
+    "created": "1681741029",
+    "changed": "1681741029",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,7 +39,7 @@
     "radarDirection": "ST VALERY EN CAUX vers DOUDEVILLE",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.77237 49.75755)",
-    "radarInstallDate": "2014-03-24T10:53:37",
+    "radarInstallDate": "2014-03-24T16:17:09",
     "radarPlace": "DOUDEVILLE",
     "radarRoad": "RD20",
     "radarTronconKm": "1,9",

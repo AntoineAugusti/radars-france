@@ -1,14 +1,14 @@
 {
-    "nid": "22885",
-    "uuid": "a8ac9e0f-f21f-45a9-8534-e397c9b481f6",
-    "vid": "22885",
+    "nid": "26443",
+    "uuid": "7df708be-cd02-4452-a5e8-7de05c8f325b",
+    "vid": "26443",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229228",
+    "revisionTimestamp": "1681741079",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "I_81_002",
-    "created": "1637229228",
-    "changed": "1637229228",
+    "created": "1681741079",
+    "changed": "1681741079",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,13 +36,13 @@
     "department": "81 - Tarn",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "1.655863, 43.771072",
-    "radarEquipment": "-",
+    "radarDirection": "49.380221, -1.744038",
+    "radarEquipment": "AXIMUM",
     "radarGeolocalisation": [],
-    "radarInstallDate": "2017-10-06T10:53:49",
+    "radarInstallDate": "2017-10-06T16:18:00",
     "radarPlace": "D988\"",
     "radarRoad": "\"300",
-    "radarTronconKm": "-",
+    "radarTronconKm": [],
     "radarType": [
         {
             "tid": "19",

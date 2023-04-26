@@ -1,14 +1,14 @@
 {
-    "nid": "20203",
-    "uuid": "ce33c8fb-3c15-4d39-b6d8-e529f581a3c8",
-    "vid": "20203",
+    "nid": "24077",
+    "uuid": "9f86df17-322c-427b-860a-1e2ffe86e965",
+    "vid": "24077",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229120",
+    "revisionTimestamp": "1681740415",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "6842",
-    "created": "1637229120",
-    "changed": "1675869633",
+    "created": "1681740415",
+    "changed": "1681740415",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "P\u00e9riph\u00e9rique vers Basso Cambo",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.39584 43.58045)",
-    "radarInstallDate": "2009-01-02T16:20:35",
-    "radarPlace": "TOULOUSE",
+    "radarInstallDate": "2009-01-02T16:06:57",
+    "radarPlace": [],
     "radarRoad": "Av Bazerque, face au n\u00b0222 de la route de St Simon",
     "radarTronconKm": [],
     "radarType": [

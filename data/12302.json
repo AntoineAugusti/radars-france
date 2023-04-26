@@ -1,14 +1,14 @@
 {
-    "nid": "21603",
-    "uuid": "fbb29fbd-ee7f-4899-b03d-8e42334afc11",
-    "vid": "21603",
+    "nid": "23272",
+    "uuid": "f2887169-5ea9-46e2-bb4b-b13606b4501e",
+    "vid": "23272",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229165",
+    "revisionTimestamp": "1681740337",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12302",
-    "created": "1637229165",
-    "changed": "1675869870",
+    "created": "1681740337",
+    "changed": "1681740337",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "PARIS vers LILLE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (2.7273 49.541)",
-    "radarInstallDate": "2014-04-07T16:24:36",
-    "radarPlace": "RESSONS SUR MATZ",
+    "radarInstallDate": "2014-04-07T16:05:38",
+    "radarPlace": [],
     "radarRoad": "A1",
     "radarTronconKm": [],
     "radarType": [

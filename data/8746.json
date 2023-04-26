@@ -1,14 +1,14 @@
 {
-    "nid": "20408",
-    "uuid": "92303dda-ec8a-4c0c-a11d-e4acc47beed1",
-    "vid": "20408",
+    "nid": "24257",
+    "uuid": "3553f7ba-c5fc-42fc-9445-9df7b65706b7",
+    "vid": "24257",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229128",
+    "revisionTimestamp": "1681740439",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "8746",
-    "created": "1637229128",
-    "changed": "1675869659",
+    "created": "1681740439",
+    "changed": "1681740439",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CLERMONT FERRAND vers BORDEAUX",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (1.89709 45.33581)",
-    "radarInstallDate": "2011-05-02T16:21:02",
-    "radarPlace": "ST PRIEST DE GIMEL",
+    "radarInstallDate": "2011-05-02T16:07:22",
+    "radarPlace": [],
     "radarRoad": "A89",
     "radarTronconKm": [],
     "radarType": [

@@ -1,14 +1,14 @@
 {
-    "nid": "22446",
-    "uuid": "14fe3111-8de8-4672-ba11-09e2575a82cd",
-    "vid": "22446",
+    "nid": "25962",
+    "uuid": "b2dfb521-a2d5-4d66-a6ad-06fdd4dcf927",
+    "vid": "25962",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229197",
+    "revisionTimestamp": "1681740797",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE333002",
-    "created": "1637229197",
-    "changed": "1675870075",
+    "created": "1681740797",
+    "changed": "1681740797",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Barri\u00e8re du M\u00e9doc vers la Barri\u00e8re St Gen\u00e8s",
     "radarEquipment": "AXIMUM",
     "radarGeolocalisation": "POINT (-0.59909 44.83694)",
-    "radarInstallDate": "2009-11-03T16:28:02",
-    "radarPlace": "BORDEAUX",
+    "radarInstallDate": "2009-11-03T16:13:24",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

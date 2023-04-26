@@ -1,14 +1,14 @@
 {
-    "nid": "21447",
-    "uuid": "c006ba0c-3a49-4b61-b0ea-4b33deb166a4",
-    "vid": "21447",
+    "nid": "23121",
+    "uuid": "dfe47fc6-79e7-4c95-99a1-55005d716090",
+    "vid": "23121",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229160",
+    "revisionTimestamp": "1681740327",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12033",
-    "created": "1637229160",
-    "changed": "1675869838",
+    "created": "1681740327",
+    "changed": "1681740327",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -38,9 +38,9 @@
     "itineraireSortie": [],
     "radarDirection": "MONTARGIS vers ORLEANS",
     "radarEquipment": "PARIFEX",
-    "radarGeolocalisation": "POINT (1.9303 47.934)",
-    "radarInstallDate": "2012-05-02T16:24:03",
-    "radarPlace": "FLEURY LES AUBRAIS",
+    "radarGeolocalisation": "POINT (1.930114 47.934802)",
+    "radarInstallDate": "2012-05-02T16:05:28",
+    "radarPlace": [],
     "radarRoad": "RD2060",
     "radarTronconKm": [],
     "radarType": [

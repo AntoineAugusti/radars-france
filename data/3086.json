@@ -1,14 +1,14 @@
 {
-    "nid": "19896",
-    "uuid": "01997284-6994-42c2-a8bc-7846f4b867a6",
-    "vid": "19896",
+    "nid": "23796",
+    "uuid": "5102cf79-6a79-4ca9-935f-7d5b1b914c6d",
+    "vid": "23796",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740383",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "3086",
-    "created": "1637229111",
-    "changed": "1675869603",
+    "created": "1681740383",
+    "changed": "1681740383",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "STRASBOURG VERS PARIS",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (6.81451 49.13881)",
-    "radarInstallDate": "2006-01-31T16:20:05",
-    "radarPlace": "BETTING",
+    "radarInstallDate": "2006-01-31T16:06:25",
+    "radarPlace": [],
     "radarRoad": "A4",
     "radarTronconKm": [],
     "radarType": [

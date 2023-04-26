@@ -1,14 +1,14 @@
 {
-    "nid": "19860",
-    "uuid": "84dea94f-7d81-4c6e-882b-1c22861e60d0",
-    "vid": "19860",
+    "nid": "23767",
+    "uuid": "61ddf780-104a-4080-8c41-df7b558cb5dc",
+    "vid": "23767",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229111",
+    "revisionTimestamp": "1681740380",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "837",
-    "created": "1637229111",
-    "changed": "1675869600",
+    "created": "1681740380",
+    "changed": "1681740380",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "MARCKOLSHEIM vers SELESTAT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (7.47378 48.24129)",
-    "radarInstallDate": "2005-08-23T16:20:01",
-    "radarPlace": "SELESTAT",
+    "radarInstallDate": "2005-08-23T16:06:22",
+    "radarPlace": [],
     "radarRoad": "RD424",
     "radarTronconKm": [],
     "radarType": [

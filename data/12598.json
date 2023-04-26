@@ -1,14 +1,14 @@
 {
-    "nid": "21834",
-    "uuid": "e739d78f-ccfe-4298-8b25-4bebd8387f1b",
-    "vid": "21834",
+    "nid": "23509",
+    "uuid": "2605fac8-1653-4445-a1ee-dfef85100068",
+    "vid": "23509",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229173",
+    "revisionTimestamp": "1681740354",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "12598",
-    "created": "1637229173",
-    "changed": "1675869926",
+    "created": "1681740354",
+    "changed": "1681740354",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "LYON vers SAINT ETIENNE",
     "radarEquipment": "PARIFEX",
     "radarGeolocalisation": "POINT (4.717588 45.574978)",
-    "radarInstallDate": "2020-11-09T16:25:31",
-    "radarPlace": "GIVORS",
+    "radarInstallDate": "2020-11-09T16:05:56",
+    "radarPlace": [],
     "radarRoad": "A47",
     "radarTronconKm": [],
     "radarType": [

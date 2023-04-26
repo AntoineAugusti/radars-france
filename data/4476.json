@@ -1,14 +1,14 @@
 {
-    "nid": "20018",
-    "uuid": "052184a2-d937-455b-8b96-74d283bf1b96",
-    "vid": "20018",
+    "nid": "23904",
+    "uuid": "eafcbf13-409a-4a1c-a863-9f8121de6f7f",
+    "vid": "23904",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229114",
+    "revisionTimestamp": "1681740393",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "4476",
-    "created": "1637229114",
-    "changed": "1675869615",
+    "created": "1681740393",
+    "changed": "1681740393",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "ARC EN BARROIS vers CHAUMONT",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (5.06607 48.05591)",
-    "radarInstallDate": "2009-05-29T16:20:17",
-    "radarPlace": "SEMOUTIERS MONTSAON",
+    "radarInstallDate": "2009-05-29T16:06:36",
+    "radarPlace": [],
     "radarRoad": "RN67",
     "radarTronconKm": [],
     "radarType": [

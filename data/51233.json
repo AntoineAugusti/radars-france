@@ -1,14 +1,14 @@
 {
-    "nid": "20875",
-    "uuid": "f336adab-401e-4250-999f-ad5aef94892f",
-    "vid": "20875",
+    "nid": "24802",
+    "uuid": "2cb3baff-541b-417e-ac19-c4084c24c2cc",
+    "vid": "24802",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229143",
+    "revisionTimestamp": "1681740523",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "51233",
-    "created": "1637229143",
-    "changed": "1675869729",
+    "created": "1681740523",
+    "changed": "1681740523",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -36,11 +36,11 @@
     "department": "08-ARDENNES",
     "itineraireEntree": [],
     "itineraireSortie": [],
-    "radarDirection": "NOVION PORCIEN vers RETHEL",
+    "radarDirection": "RETHEL vers NOVION PORCIEN",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (4.376005 49.534243)",
-    "radarInstallDate": "2020-07-27T16:22:12",
-    "radarPlace": "RETHEL",
+    "radarInstallDate": "2020-07-27T16:08:48",
+    "radarPlace": [],
     "radarRoad": "RD985",
     "radarTronconKm": [],
     "radarType": [

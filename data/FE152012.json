@@ -1,14 +1,14 @@
 {
-    "nid": "21953",
-    "uuid": "c3532def-9841-4c89-8f58-109fc5972b32",
-    "vid": "21953",
+    "nid": "25591",
+    "uuid": "88cf7cfe-daa9-47c5-8774-a982525e63a2",
+    "vid": "25591",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229178",
+    "revisionTimestamp": "1681740697",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "FE152012",
-    "created": "1637229178",
-    "changed": "1675869954",
+    "created": "1681740697",
+    "changed": "1681740697",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "Langres vers Chaumont centre",
     "radarEquipment": "FARECO",
     "radarGeolocalisation": "POINT (5.15407 48.0986)",
-    "radarInstallDate": "2011-05-20T16:26:00",
-    "radarPlace": "CHAUMONT",
+    "radarInstallDate": "2011-05-20T16:11:43",
+    "radarPlace": [],
     "radarRoad": "-",
     "radarTronconKm": [],
     "radarType": [

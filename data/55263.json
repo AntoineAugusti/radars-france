@@ -1,14 +1,14 @@
 {
-    "nid": "21295",
-    "uuid": "6364c46a-88e7-436f-977c-0cb8bb513ac2",
-    "vid": "21295",
+    "nid": "25307",
+    "uuid": "3afd2a73-4f26-4fc8-a6fc-12483f6eb4bf",
+    "vid": "25307",
     "langcode": "fr",
     "type": [
         {
             "target_id": "radar"
         }
     ],
-    "revisionTimestamp": "1637229156",
+    "revisionTimestamp": "1681740621",
     "revisionUid": [
         {
             "target_id": "1"
@@ -22,8 +22,8 @@
         }
     ],
     "title": "55263",
-    "created": "1637229156",
-    "changed": "1675869807",
+    "created": "1681740621",
+    "changed": "1681740621",
     "promote": "0",
     "sticky": "0",
     "defaultLangcode": "1",
@@ -39,8 +39,8 @@
     "radarDirection": "CONFOLENS vers BELLAC",
     "radarEquipment": "MORPHO",
     "radarGeolocalisation": "POINT (0.675529 46.065228)",
-    "radarInstallDate": "2021-01-19T16:23:31",
-    "radarPlace": "LESSAC",
+    "radarInstallDate": "2021-01-19T16:10:28",
+    "radarPlace": [],
     "radarRoad": "RD951",
     "radarTronconKm": [],
     "radarType": [
