@@ -22,8 +22,8 @@ def do_request(collector, session, url):
     proxy = collector.get_proxy()
     proxy_url = f"{proxy.type}://{proxy.host}:{proxy.port}"
     request = None
-    max_tries = 10
-    while max_tries > 0:
+
+    while not request:
         try:
             request = session.get(
                 url,
@@ -52,10 +52,7 @@ def do_request(collector, session, url):
         except Exception as e:
             print(f"Failed for {proxy_url}: {e}")
             collector.blacklist_proxy(proxy)
-            max_tries = max_tries - 1
 
-    if request is None:
-        raise ValueError("Fail :(")
     return request
 
 
