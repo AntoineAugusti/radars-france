@@ -68,7 +68,7 @@ for col in ['date_heure_dernier_changement', 'date_heure_creation']:
 df.sort_values(by=['id'], inplace=True)
 
 df.to_csv(
-    'data/radars.csv',
+    'radars.csv',
     index=False,
     encoding='utf-8',
     float_format='%.12g',
