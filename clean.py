@@ -6,6 +6,7 @@ from os.path import isfile, join
 
 BASE_PATH = 'data'
 
+
 def process_single_radar(id, lat, lng):
     radar_file = join(BASE_PATH, '{id}.json'.format(id=id))
 
@@ -14,8 +15,8 @@ def process_single_radar(id, lat, lng):
             raw_record = json.load(radar_fd)
 
             record = dict()
-            record['date_heure_dernier_changement'] = raw_record['changed']
-            record['date_heure_creation'] = raw_record['created']
+            record['date_heure_dernier_changement'] = int(raw_record['changed'])
+            record['date_heure_creation'] = int(raw_record['created'])
             record['departement'] = raw_record['department'].split('-')[0].strip()
             record['latitude'] = lat
             record['longitude'] = lng
@@ -24,7 +25,7 @@ def process_single_radar(id, lat, lng):
             record['equipement'] = raw_record['radarEquipment']
             record['date_installation'] = raw_record['radarInstallDate']
             record['type'] = raw_record['radarType'][0]['radarNameDetails']
-            record['emplacement'] = raw_record['radarPlace']
+            record['emplacement'] = "".join(raw_record['radarPlace'])
             record['route'] = raw_record['radarRoad']
 
             # Parse radarTronconKm
