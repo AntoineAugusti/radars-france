@@ -53,7 +53,7 @@ if __name__ == "__main__":
     for radar in tqdm(radars.json()):
         radar_id = radar['id']
 
-        r = do_request(endpoint(radar_id))
+        r = do_request(s, endpoint(radar_id))
         r.raise_for_status()
 
         path = 'data/{radar_id}.json'.format(radar_id=radar_id)
