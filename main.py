@@ -47,6 +47,7 @@ def do_request(collector, session, url):
                     'http': proxy_url,
                     'https': proxy_url,
                 },
+                timeout=5,
             )
             request.raise_for_status()
         except Exception as e:
