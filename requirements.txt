@@ -1,3 +1,4 @@
 requests
+requests-ip-rotator
 pandas
 tqdm

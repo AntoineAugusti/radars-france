@@ -5,14 +5,17 @@ import urllib3
 
 from tqdm import tqdm
 from requests.adapters import HTTPAdapter
+from requests_ip_rotator import ApiGateway
 
 # Disable InsecureRequestWarning: Unverified HTTPS request is being made to host
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+gateway = ApiGateway("https://radars.securite-routiere.gouv.fr")
+gateway.start()
 
 s = requests.Session()
 s.mount('https://', HTTPAdapter(max_retries=5))
-
+s.mount("https://", gateway)
 
 def endpoint(part):
     return 'https://{base}/{part}?_format=json'.format(
@@ -61,3 +64,5 @@ for radar in tqdm(radars.json()):
     path = 'data/{id}.json'.format(id=id)
     with open(path, 'w') as f:
         f.write(json.dumps(r.json(), indent=4))
+
+gateway.shutdown()
