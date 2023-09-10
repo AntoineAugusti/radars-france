@@ -1,1 +1,111 @@
-{"radarDirection": [], "uid": [{"target_id": "1"}], "vid": "16926", "radarRoad": "RD 928", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": {"lat": 50.700269, "lon": 2.223438}, "uuid": "3d840ad4-2e83-4621-89b2-b9145e1db51b", "title": "I_62_002", "itineraireEntree": [], "revisionTimestamp": "1536150563", "department": "62 - Pas-de-Calais", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "11.10.2017", "revisionUid": [{"target_id": "1"}], "radarTronconKm": "38,7", "radarEquipment": "-", "revisionTranslationAffected": "1", "nid": "16926", "radarPlace": [], "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": [], "rulesMesured": [], "created": "1536150563", "changed": "1536150563", "radarType": [{"parent": [], "csvValue": "Itin\u00e9raire", "changed": "1529311873", "description": "Sur toute la longueur de cet itin\u00e9raire, il peut y avoir de un \u00e0 plusieurs radars, de plusieurs types.\r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "itineraire", "weight": "0", "name": "Itin\u00e9raires", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/itineraire.png?itok=q35vSWWb", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/itineraire.png?itok=fbqDdyDI", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/itineraire.png?itok=FmHMtQc1", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "2173", "fileCreated": "1519114067", "fileName": "itineraire.png"}}], "tid": "19", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Itin\u00e9raire", "uuid": "6b6992f4-89c5-48e7-a623-8d9a0ce18836"}], "itineraireSortie": []}
+{
+    "nid": "26378",
+    "uuid": "a59167e8-3ec5-445c-936a-567e8310efcc",
+    "vid": "26378",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1681741062",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "I_62_002",
+    "created": "1681741062",
+    "changed": "1681741062",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "62 - Pas-de-Calais",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": [],
+    "radarEquipment": "AXIMUM",
+    "radarGeolocalisation": "POINT (5.155937 45.504476)",
+    "radarInstallDate": "2018-09-11T16:17:43",
+    "radarPlace": "-",
+    "radarRoad": "D157, D343, D133, D92, D341, D126, D130, D93, D193, D71, D154, D107, A26, D192, , D104, D190, D108E1, D158, D928, D130E2, D155",
+    "radarTronconKm": "38,7",
+    "radarType": [
+        {
+            "tid": "19",
+            "uuid": "6b6992f4-89c5-48e7-a623-8d9a0ce18836",
+            "revisionId": "19",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Itin\u00e9raires",
+            "description": "Sur toute la longueur de cet itin\u00e9raire, il peut y avoir de un \u00e0 plusieurs radars, de plusieurs types.\r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1529311873",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": "Itin\u00e9raire",
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/itineraire.png?itok=woYb4FC_",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/itineraire.png?itok=s-IjhxwS",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/itineraire.png?itok=becOCQye",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "itineraire.png",
+                        "fileCreated": "1519114067",
+                        "fileSize": "2173",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "itineraire",
+            "radarNameDetails": "Itin\u00e9raire"
+        }
+    ],
+    "rulesMesured": [],
+    "traceItineraire": []
+}

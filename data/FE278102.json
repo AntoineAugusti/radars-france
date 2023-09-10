@@ -1,0 +1,118 @@
+{
+    "nid": "22314",
+    "uuid": "da6f9aaa-c5bc-4271-b270-6048b27df865",
+    "vid": "22314",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1637229191",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "FE278102",
+    "created": "1637229191",
+    "changed": "1675870043",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "78-YVELINES",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "Meulan en Yvelines vers Les Mureaux",
+    "radarEquipment": "MORPHO",
+    "radarGeolocalisation": "POINT (1.90638 49.001753)",
+    "radarInstallDate": "2021-07-12T16:27:29",
+    "radarPlace": "MEULAN EN YVELINES",
+    "radarRoad": "-",
+    "radarTronconKm": [],
+    "radarType": [
+        {
+            "tid": "1",
+            "uuid": "2e8c9b81-b498-4fe9-99b2-24831fc63e0f",
+            "revisionId": "1",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Feux rouges",
+            "description": "Ils sont install\u00e9s en milieux urbains denses afin d'assurer la protection des usagers les plus vuln\u00e9rables \u00e0 proximit\u00e9. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1642158159",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": [
+                {
+                    "value": "ETFR"
+                },
+                {
+                    "value": "ETFR-Tourelle "
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/feu.png?itok=098NrQ2y",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/feu.png?itok=u1-obU0M",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/feu.png?itok=8k_8maYh",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "feu.png",
+                        "fileCreated": "1515594981",
+                        "fileSize": "7226",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "feux",
+            "radarNameDetails": "Radar feu rouge"
+        }
+    ],
+    "rulesMesured": [],
+    "traceItineraire": []
+}

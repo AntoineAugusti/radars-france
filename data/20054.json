@@ -1,1 +1,177 @@
-{"radarDirection": "FOIX vers TOULOUSE", "uid": [{"target_id": "1"}], "vid": "16792", "radarRoad": "A66", "langcode": "fr", "sticky": "0", "revisionLog": [], "defaultLangcode": "1", "traceItineraire": [], "uuid": "877fe340-52a2-4089-a0a8-27bd54256d71", "title": "20054", "itineraireEntree": [], "revisionTimestamp": "1536150403", "department": "31 - Haute-Garonne", "type": [{"target_id": "radar"}], "status": "1", "radarInstallDate": "14.03.2014", "revisionUid": [{"target_id": "1"}], "radarTronconKm": "12", "radarEquipment": "MORPHO", "revisionTranslationAffected": "1", "nid": "16792", "radarPlace": "MONTESQUIEU LAURAGAIS", "path": [{"langcode": "fr"}], "promote": "0", "radarGeolocalisation": {"lat": 43.38309, "lon": 1.6163}, "rulesMesured": [{"parent": [], "changed": "1515154608", "ruleLabel": "Vitesse", "description": [{"value": null, "format": null}], "vid": [{"target_id": "rules"}], "langcode": "fr", "macineName": "vitesse_vl_130", "weight": "0", "name": "Vitesse VL 130", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/regles/vitesse-130.png?itok=I-KkRRu6", "width": "70", "height": "70"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/regles/vitesse-130.png?itok=L1VlhUBJ", "width": "70", "height": "70"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-130.png?itok=7E5pI0oo", "width": "70", "height": "70"}}, "infos": {"fileExtension": "png", "fileSize": "3605", "fileCreated": "1515154601", "fileName": "vitesse-130.png"}}], "tid": "10", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "uuid": "8c1c7650-f3d8-4cd8-8fe8-ac5b102a82c0"}], "created": "1536150403", "changed": "1536150403", "radarType": [{"parent": [], "csvValue": "Equipement Terrain Vitesse Moyenne", "changed": "1516021917", "description": "Contr\u00f4le la vitesse moyenne pratiqu\u00e9e par les usagers sur une portion de route de plusieurs kilom\u00e8tres entre deux points. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>", "vid": [{"target_id": "radar_types"}], "langcode": "fr", "macineName": "troncons", "weight": "0", "name": "Vitesse Moyenne", "illustration": [{"styles": {"large": {"url": "/sites/default/files/styles/large/public/images/radars/troncons-details.png?itok=iLSrWHUl", "width": "89", "height": "129"}, "medium": {"url": "/sites/default/files/styles/medium/public/images/radars/troncons-details.png?itok=H_f97k6d", "width": "89", "height": "129"}, "thumbnail": {"url": "/sites/default/files/styles/thumbnail/public/images/radars/troncons-details.png?itok=--cbaIJm", "width": 69, "height": 100}}, "infos": {"fileExtension": "png", "fileSize": "3473", "fileCreated": "1516009500", "fileName": "troncons-details.png"}}], "tid": "18", "path": [{"langcode": "fr"}], "defaultLangcode": "1", "radarNameDetails": "Radar Vitesse Moyenne", "uuid": "498b4953-97e0-49db-a7f9-83b0a9f9a219"}], "itineraireSortie": []}
+{
+    "nid": "26141",
+    "uuid": "e29dcdae-febc-4feb-a1c2-90c9ef85a755",
+    "vid": "26141",
+    "langcode": "fr",
+    "type": [
+        {
+            "target_id": "radar"
+        }
+    ],
+    "revisionTimestamp": "1681741025",
+    "revisionUid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "revisionLog": [],
+    "status": "1",
+    "uid": [
+        {
+            "target_id": "1"
+        }
+    ],
+    "title": "20054",
+    "created": "1681741025",
+    "changed": "1681741025",
+    "promote": "0",
+    "sticky": "0",
+    "defaultLangcode": "1",
+    "revisionTranslationAffected": "1",
+    "path": [
+        {
+            "langcode": "fr"
+        }
+    ],
+    "department": "31-HAUTE-GARONNE",
+    "itineraireEntree": [],
+    "itineraireSortie": [],
+    "radarDirection": "FOIX vers TOULOUSE",
+    "radarEquipment": "MORPHO",
+    "radarGeolocalisation": "POINT (1.6163 43.38309)",
+    "radarInstallDate": "2014-03-14T16:17:06",
+    "radarPlace": "MONTESQUIEU LAURAGAIS",
+    "radarRoad": "A66",
+    "radarTronconKm": "12",
+    "radarType": [
+        {
+            "tid": "18",
+            "uuid": "498b4953-97e0-49db-a7f9-83b0a9f9a219",
+            "revisionId": "18",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "radar_types"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse Moyenne",
+            "description": "Contr\u00f4le la vitesse moyenne pratiqu\u00e9e par les usagers sur une portion de route de plusieurs kilom\u00e8tres entre deux points. \r\n<br>\r\n<br>\r\n<a href=\"http://www.securite-routiere.gouv.fr/dangers-de-la-route/vitesse\" target=\"_blank\">En savoir plus sur les dangers de la vitesse</a>",
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1516021917",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "csvValue": "Equipement Terrain Vitesse Moyenne",
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/radars/troncons-details.png?itok=DN3zSYIU",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/radars/troncons-details.png?itok=nMCPDTDd",
+                            "height": "129",
+                            "width": "89"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/radars/troncons-details.png?itok=EdCZayd4",
+                            "height": 100,
+                            "width": 69
+                        }
+                    },
+                    "infos": {
+                        "fileName": "troncons-details.png",
+                        "fileCreated": "1516009500",
+                        "fileSize": "3473",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "troncons",
+            "radarNameDetails": "Radar Vitesse Moyenne"
+        }
+    ],
+    "rulesMesured": [
+        {
+            "tid": "10",
+            "uuid": "8c1c7650-f3d8-4cd8-8fe8-ac5b102a82c0",
+            "revisionId": "10",
+            "langcode": "fr",
+            "vid": [
+                {
+                    "target_id": "rules"
+                }
+            ],
+            "revisionCreated": [],
+            "revisionUser": [],
+            "revisionLogMessage": [],
+            "status": "1",
+            "name": "Vitesse VL 130",
+            "description": [
+                {
+                    "value": null,
+                    "format": null
+                }
+            ],
+            "weight": "0",
+            "parent": [
+                {
+                    "target_id": "0"
+                }
+            ],
+            "changed": "1515154608",
+            "defaultLangcode": "1",
+            "revisionTranslationAffected": "1",
+            "path": [
+                {
+                    "langcode": "fr"
+                }
+            ],
+            "illustration": [
+                {
+                    "styles": {
+                        "large": {
+                            "url": "/sites/default/files/styles/large/public/images/regles/vitesse-130.png?itok=fqnZRgDT",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "medium": {
+                            "url": "/sites/default/files/styles/medium/public/images/regles/vitesse-130.png?itok=aFfPgVO-",
+                            "height": "70",
+                            "width": "70"
+                        },
+                        "thumbnail": {
+                            "url": "/sites/default/files/styles/thumbnail/public/images/regles/vitesse-130.png?itok=Ve_zAXg9",
+                            "height": "70",
+                            "width": "70"
+                        }
+                    },
+                    "infos": {
+                        "fileName": "vitesse-130.png",
+                        "fileCreated": "1515154601",
+                        "fileSize": "3605",
+                        "fileExtension": "png"
+                    }
+                }
+            ],
+            "macineName": "vitesse_vl_130",
+            "ruleLabel": "Vitesse"
+        }
+    ],
+    "traceItineraire": []
+}
